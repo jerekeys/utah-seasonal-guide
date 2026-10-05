@@ -3,7 +3,7 @@ name: Import official event images
 on:
   push:
     paths:
-      - 'assets/image-import-manifest.json'
+      - 'assets/image-import-manifest*.json'
   workflow_dispatch:
 
 permissions:
@@ -30,8 +30,12 @@ jobs:
           from PIL import Image, ImageOps
 
           UA = 'Mozilla/5.0 (compatible; UtahSeasonalGuide/1.0; editorial image import)'
-          manifest_path = pathlib.Path('assets/image-import-manifest.json')
-          items = json.loads(manifest_path.read_text(encoding='utf-8'))
+          manifest_paths = sorted(pathlib.Path('assets').glob('image-import-manifest*.json'))
+          items = []
+          for manifest_path in manifest_paths:
+              batch = json.loads(manifest_path.read_text(encoding='utf-8'))
+              items.extend(batch)
+              print(f"Loaded {len(batch)} entries from {manifest_path}")
           photos_dir = pathlib.Path('assets/photos')
           photos_dir.mkdir(parents=True, exist_ok=True)
 
