@@ -1,0 +1,105 @@
+name: Import official event images
+
+on:
+  push:
+    paths:
+      - '.github/workflows/import-event-images.yml'
+      - 'assets/image-import-manifest.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Pillow
+        run: python -m pip install --disable-pip-version-check pillow
+      - name: Download and optimize official images
+        run: |
+          python - <<'PY'
+          import io, json, pathlib, urllib.request
+          from PIL import Image, ImageOps
+
+          manifest_path = pathlib.Path('assets/image-import-manifest.json')
+          items = json.loads(manifest_path.read_text(encoding='utf-8'))
+          photos_dir = pathlib.Path('assets/photos')
+          photos_dir.mkdir(parents=True, exist_ok=True)
+
+          for item in items:
+              req = urllib.request.Request(
+                  item['downloadUrl'],
+                  headers={
+                      'User-Agent': 'Mozilla/5.0 (compatible; UtahSeasonalGuide/1.0; editorial image import)',
+                      'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+                  },
+              )
+              with urllib.request.urlopen(req, timeout=45) as response:
+                  raw = response.read()
+              image = Image.open(io.BytesIO(raw))
+              image = ImageOps.exif_transpose(image)
+              if image.mode not in ('RGB', 'RGBA'):
+                  image = image.convert('RGB')
+              if image.mode == 'RGBA':
+                  background = Image.new('RGB', image.size, (255,255,255))
+                  background.paste(image, mask=image.getchannel('A'))
+                  image = background
+              image.thumbnail((1800, 1200), Image.Resampling.LANCZOS)
+              destination = pathlib.Path(item['destination'])
+              destination.parent.mkdir(parents=True, exist_ok=True)
+              image.save(destination, 'WEBP', quality=84, method=6)
+              print(f"Imported {item['id']} -> {destination} ({image.width}x{image.height})")
+
+          data_path = pathlib.Path('assets/data.js')
+          raw_data = data_path.read_text(encoding='utf-8')
+          prefix = 'window.SITE_DATA = '
+          if not raw_data.startswith(prefix):
+              raise RuntimeError('Unexpected assets/data.js format')
+          payload = raw_data[len(prefix):].strip()
+          if payload.endswith(';'):
+              payload = payload[:-1]
+          data = json.loads(payload)
+          by_id = {event.get('id'): event for event in data.get('events', [])}
+          imported = 0
+          for item in items:
+              event = by_id.get(item['id'])
+              if not event:
+                  print(f"WARNING: event id not found: {item['id']}")
+                  continue
+              event['photo'] = {
+                  'src': item['destination'],
+                  'alt': item['alt'],
+                  'credit': item['credit'],
+                  'creditUrl': item['creditUrl'],
+                  'sourceUrl': item['sourceUrl'],
+                  'usageType': item['usageType'],
+                  'rightsNote': item['rightsNote'],
+              }
+              imported += 1
+
+          local_count = sum(1 for event in data.get('events', []) if event.get('photo') and str(event['photo'].get('src','')).startswith('assets/photos/'))
+          data.setdefault('meta', {})['localPhotoListings'] = local_count
+          data['meta']['realImageCount'] = local_count
+          data['meta']['imagePolicyUpdated'] = 'October 5, 2026'
+          data['meta']['imagePolicy'] = 'Official organizer, venue, attraction, tourism and promoter hero/promotional images may be downloaded and hosted locally with source/credit retained; category art remains the fallback.'
+          data_path.write_text(prefix + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';\n', encoding='utf-8')
+          print(f"Updated {imported} event records; {local_count} locally hosted photo listings total")
+          PY
+      - name: Commit imported images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/photos assets/data.js
+          if git diff --cached --quiet; then
+            echo "No image changes to commit."
+            exit 0
+          fi
+          git commit -m "Import official event hero images"
+          git push
