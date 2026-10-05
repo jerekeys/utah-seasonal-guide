@@ -1,12 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Arts, shows &amp; movies">
-<rect width="1200" height="675" fill="#211821"/>
-<circle cx="1015" cy="125" r="92" fill="#f5d39a" opacity=".95"/>
-<path d="M0 560 Q250 470 480 555 T930 530 T1200 560 V675 H0Z" fill="#151016"/>
-<g stroke="#fff8e9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
-<path d="M355 195h490v340H355z"/>
-<path d="M355 195q120 95 245 25 125 70 245-25"/>
-<path d="M355 535q120-100 245-25 125-75 245 25"/>
-<circle cx="600" cy="360" r="78"/><path d="M565 360l55-34v68z" fill="#fff8e9"/></g>
-<rect x="54" y="52" width="240" height="10" rx="5" fill="#e96d2d"/>
-<text x="54" y="105" fill="#fff8e9" font-family="Arial, sans-serif" font-size="34" font-weight="700">ARTS, SHOWS &amp; MOVIES</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Performances and theater">
+<rect width="1600" height="900" fill="#0b0b0b"/>
+<circle cx="800" cy="395" r="285" fill="#ff8514"/><path d="M0 0h390v900H0Z" fill="#e51b23"/><path d="M1210 0h390v900h-390Z" fill="#e51b23"/><path d="M0 0h1600v120l-120 110-160-110-160 110-160-110-160 110-160-110-160 110-160-110-160 110-160-110-120 110Z" fill="#e51b23"/><path d="M670 650q-60-210 80-285l50-100 50 100q140 75 80 285Z" fill="#0b0b0b"/><path d="M760 310 800 215l40 95 95 25-95 22-40 110-40-110-95-22Z" fill="#0b0b0b"/><path d="M690 460 560 370M910 460l130-90" stroke="#0b0b0b" stroke-width="52" stroke-linecap="round"/><g fill="#0b0b0b"><circle cx="510" cy="790" r="80"/><circle cx="690" cy="800" r="95"/><circle cx="910" cy="800" r="95"/><circle cx="1090" cy="790" r="80"/></g><g fill="#fff2d8"><path d="m560 280 18 38 38 18-38 18-18 38-18-38-38-18 38-18Z"/><path d="m1050 250 15 32 32 15-32 15-15 32-15-32-32-15 32-15Z"/></g>
 </svg>
