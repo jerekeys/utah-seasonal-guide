@@ -1,11 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Museums, zoos &amp; nature">
-<rect width="1200" height="675" fill="#211821"/>
-<circle cx="1015" cy="125" r="92" fill="#f5d39a" opacity=".95"/>
-<path d="M0 560 Q250 470 480 555 T930 530 T1200 560 V675 H0Z" fill="#151016"/>
-<g stroke="#fff8e9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
-<path d="M600 535V265M600 330q-95-105-175-20 70 100 175 75M600 380q105-105 190-15-75 100-190 75"/>
-<path d="M405 535q70-115 140 0M690 535q80-140 155 0"/>
-<circle cx="835" cy="230" r="40"/></g>
-<rect x="54" y="52" width="240" height="10" rx="5" fill="#e96d2d"/>
-<text x="54" y="105" fill="#fff8e9" font-family="Arial, sans-serif" font-size="34" font-weight="700">MUSEUMS, ZOOS &amp; NATURE</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Nature and outdoor scenery">
+<rect width="1600" height="900" fill="#0b0b0b"/>
+<circle cx="850" cy="380" r="250" fill="#ff8514"/><path d="M0 560q300-150 560-20 190 95 360-5 300-175 680 25v340H0Z" fill="#0b0b0b"/><path d="M0 620h1600v280H0Z" fill="#0b0b0b"/><path d="M500 680q350-120 700 0-350 125-700 0Z" fill="#ff8514"/><path d="M190 750V160h55v590Zm10-380-150-135 35-38 120 105Zm45 50 170-160 38 40-208 185Z" fill="#e51b23"/><g fill="#ff8514"><circle cx="120" cy="210" r="55"/><circle cx="260" cy="145" r="72"/><circle cx="360" cy="245" r="62"/><circle cx="170" cy="335" r="68"/></g><g fill="#e51b23"><path d="M510 260 560 330l-55 25 75 45-130 20 35-70-55-25Z"/><path d="M1220 180 1270 250l-55 25 75 45-130 20 35-70-55-25Z"/></g>
 </svg>
