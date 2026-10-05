@@ -1,12 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Fandom, games &amp; conventions">
-<rect width="1200" height="675" fill="#211821"/>
-<circle cx="1015" cy="125" r="92" fill="#f5d39a" opacity=".95"/>
-<path d="M0 560 Q250 470 480 555 T930 530 T1200 560 V675 H0Z" fill="#151016"/>
-<g stroke="#fff8e9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
-<path d="M455 280l145-80 145 80v170l-145 80-145-80z"/>
-<path d="M455 280l145 80 145-80M600 360v170"/>
-<circle cx="530" cy="310" r="12" fill="#fff8e9"/><circle cx="670" cy="310" r="12" fill="#fff8e9"/>
-<circle cx="600" cy="430" r="12" fill="#fff8e9"/></g>
-<rect x="54" y="52" width="240" height="10" rx="5" fill="#e96d2d"/>
-<text x="54" y="105" fill="#fff8e9" font-family="Arial, sans-serif" font-size="34" font-weight="700">FANDOM, GAMES &amp; CONVENTIONS</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Fandom and cosplay events">
+<rect width="1600" height="900" fill="#0b0b0b"/>
+<circle cx="800" cy="350" r="300" fill="#ff8514"/><g transform="translate(800 500)"><path d="M-300 60 0-250 300 60Z" fill="#0b0b0b"/><rect x="-230" y="60" width="460" height="80" rx="30" fill="#e51b23"/><path d="M-200 70q120-170 250-30 125-140 230 20-90 220-240 140-150 80-240-130Z" fill="#fff2d8"/><path d="M-145 75q60-70 110 0-55 25-110 0Zm180 0q60-70 110 0-55 25-110 0Z" fill="#0b0b0b"/><path d="M-330-40q-20-180 130-205" fill="none" stroke="#e51b23" stroke-width="45"/><path d="M330-40q20-180-130-205" fill="none" stroke="#e51b23" stroke-width="45"/><rect x="-390" y="-40" width="120" height="220" rx="40" fill="#e51b23"/><rect x="270" y="-40" width="120" height="220" rx="40" fill="#e51b23"/></g><g fill="#fff2d8"><path d="m370 270 20 45 45 20-45 20-20 45-20-45-45-20 45-20Z"/><path d="m1230 245 18 40 40 18-40 18-18 40-18-40-40-18 40-18Z"/></g><path d="M555 220q55-65 110 0 55-65 110 0-55-18-110 30-55-48-110-30Z" fill="#0b0b0b"/><path d="M920 195q38-45 76 0 38-45 76 0-38-12-76 20-38-32-76-20Z" fill="#0b0b0b"/>
 </svg>
