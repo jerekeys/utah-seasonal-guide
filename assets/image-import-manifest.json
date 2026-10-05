@@ -1,0 +1,101 @@
+[
+  {
+    "id": "asylum-49",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/65638cffaf061724a34b5207/b6e8e7b2-f74f-47a0-8adb-0ef17d35c016/Hospital%2B-1206235639.jpg",
+    "destination": "assets/photos/asylum-49.webp",
+    "alt": "A dim, distressed hospital corridor inside Asylum 49.",
+    "credit": "Asylum 49",
+    "creditUrl": "https://www.asylum49.com/",
+    "sourceUrl": "https://www.asylum49.com/",
+    "usageType": "official_web_promo",
+    "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
+  },
+  {
+    "id": "fear-factory",
+    "downloadUrl": "https://fearfactoryslc.com/wp-content/uploads/2025/07/FF-SLC-web-customers-3-square.webp",
+    "destination": "assets/photos/fear-factory.webp",
+    "alt": "Guests reacting to a scare inside Fear Factory in Salt Lake City.",
+    "credit": "Fear Factory SLC",
+    "creditUrl": "https://fearfactoryslc.com/media-kit/",
+    "sourceUrl": "https://fearfactoryslc.com/media-kit/",
+    "usageType": "official_media_asset",
+    "rightsNote": "Published by Fear Factory in its official media kit as imagery for media use."
+  },
+  {
+    "id": "nightmare-on-13th",
+    "downloadUrl": "https://www.nightmareon13th.com/wp-content/uploads/2024/03/Web-banner-nightmare-main-show.png",
+    "destination": "assets/photos/nightmare-on-13th.webp",
+    "alt": "Official Nightmare on 13th haunted house promotional artwork.",
+    "credit": "Nightmare on 13th",
+    "creditUrl": "https://www.nightmareon13th.com/",
+    "sourceUrl": "https://www.nightmareon13th.com/",
+    "usageType": "official_web_promo",
+    "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
+  },
+  {
+    "id": "castle-of-chaos",
+    "downloadUrl": "https://www.castleofchaos.com/assets/web/castle-gate.jpg",
+    "destination": "assets/photos/castle-of-chaos.webp",
+    "alt": "The gargoyle-topped entrance to Castle of Chaos at night.",
+    "credit": "Castle of Chaos",
+    "creditUrl": "https://www.castleofchaos.com/",
+    "sourceUrl": "https://www.castleofchaos.com/",
+    "usageType": "official_web_promo",
+    "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
+  },
+  {
+    "id": "haunted-forest",
+    "downloadUrl": "https://hauntedforestutah.com/wp-content/uploads/2026/08/Haunted-Utah-Midway-Photo-online.jpeg",
+    "destination": "assets/photos/haunted-forest.webp",
+    "alt": "The illuminated Graveyard Midway at Haunted Forest Utah at night.",
+    "credit": "Haunted Forest Utah",
+    "creditUrl": "https://hauntedforestutah.com/",
+    "sourceUrl": "https://hauntedforestutah.com/",
+    "usageType": "official_web_promo",
+    "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
+  },
+  {
+    "id": "gardner-village-witchfest",
+    "downloadUrl": "https://www.gardnervillage.com/i/10033WF-WebPage_HEADER.jpg",
+    "destination": "assets/photos/gardner-village-witchfest.webp",
+    "alt": "Official WitchFest at Gardner Village promotional banner with witches and pumpkins.",
+    "credit": "Gardner Village",
+    "creditUrl": "https://www.gardnervillage.com/witch-fest",
+    "sourceUrl": "https://www.gardnervillage.com/witch-fest",
+    "usageType": "official_web_promo",
+    "rightsNote": "Downloaded from the official event website for editorial event-listing use; remove on request."
+  },
+  {
+    "id": "cross-e-ranch-fall-festival",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/64a7440a1da17d55ca456a93/9b22edbf-fd36-449c-a4be-88bea2dea0e6/AdobeStock_122033704.jpg",
+    "destination": "assets/photos/cross-e-ranch-fall-festival.webp",
+    "alt": "Pumpkins in warm autumn light, used by Cross E Ranch for its Fall Festival page.",
+    "credit": "Cross E Ranch",
+    "creditUrl": "https://www.crosseranch.com/fall-festival",
+    "sourceUrl": "https://www.crosseranch.com/fall-festival",
+    "usageType": "official_web_promo",
+    "rightsNote": "Source-hosted promotional image used on the official Fall Festival page; locally bundled for editorial listing use."
+  },
+  {
+    "id": "hogle-halloween-a-boo-lights-experience",
+    "downloadUrl": "https://www.hoglezoo.org/wp-content/uploads/2026/09/Hogle-Hallowen-light-display-at-Utahs-Hogle-Zoo-e1788970435161.jpg",
+    "destination": "assets/photos/hogle-halloween.webp",
+    "alt": "A glowing scarecrow light display at Hogle Halloween at Utah's Hogle Zoo.",
+    "credit": "Utah's Hogle Zoo",
+    "creditUrl": "https://www.hoglezoo.org/hogle-halloween/",
+    "sourceUrl": "https://www.hoglezoo.org/hogle-halloween/",
+    "usageType": "official_web_promo",
+    "rightsNote": "Downloaded from the official event page for editorial event-listing use; remove on request."
+  },
+  {
+    "id": "halloween-lift-rides-sundance",
+    "downloadUrl": "https://www.sundanceresort.com/site/assets/files/35008/halloween_lift_rides_2025_sierra_002.2976x1600.webp",
+    "destination": "assets/photos/sundance-halloween-lift-rides.webp",
+    "alt": "Halloween decorations and a costumed skeleton at the Outlaw Express lift at Sundance Mountain Resort.",
+    "credit": "Sundance Mountain Resort",
+    "creditUrl": "https://www.sundanceresort.com/events/halloween-lift-rides/",
+    "sourceUrl": "https://www.sundanceresort.com/events/halloween-lift-rides/",
+    "usageType": "official_web_promo",
+    "rightsNote": "Downloaded from the official event page for editorial event-listing use; remove on request."
+  }
+]
