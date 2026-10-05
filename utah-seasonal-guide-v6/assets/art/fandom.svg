@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Fandom, games &amp; conventions">
+<rect width="1200" height="675" fill="#211821"/>
+<circle cx="1015" cy="125" r="92" fill="#f5d39a" opacity=".95"/>
+<path d="M0 560 Q250 470 480 555 T930 530 T1200 560 V675 H0Z" fill="#151016"/>
+<g stroke="#fff8e9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M455 280l145-80 145 80v170l-145 80-145-80z"/>
+<path d="M455 280l145 80 145-80M600 360v170"/>
+<circle cx="530" cy="310" r="12" fill="#fff8e9"/><circle cx="670" cy="310" r="12" fill="#fff8e9"/>
+<circle cx="600" cy="430" r="12" fill="#fff8e9"/></g>
+<rect x="54" y="52" width="240" height="10" rx="5" fill="#e96d2d"/>
+<text x="54" y="105" fill="#fff8e9" font-family="Arial, sans-serif" font-size="34" font-weight="700">FANDOM, GAMES &amp; CONVENTIONS</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Ghosts, history &amp; paranormal">
+<rect width="1200" height="675" fill="#211821"/>
+<circle cx="1015" cy="125" r="92" fill="#f5d39a" opacity=".95"/>
+<path d="M0 560 Q250 470 480 555 T930 530 T1200 560 V675 H0Z" fill="#151016"/>
+<g stroke="#fff8e9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M475 535V350q0-120 125-120t125 120v185"/>
+<path d="M515 535v-75M685 535v-75"/>
+<circle cx="565" cy="345" r="12" fill="#fff8e9"/><circle cx="635" cy="345" r="12" fill="#fff8e9"/>
+<path d="M430 240l-75-65M770 240l75-65M600 165v-80"/></g>
+<rect x="54" y="52" width="240" height="10" rx="5" fill="#e96d2d"/>
+<text x="54" y="105" fill="#fff8e9" font-family="Arial, sans-serif" font-size="34" font-weight="700">GHOSTS, HISTORY &amp; PARANORMAL</text>
+</svg>
