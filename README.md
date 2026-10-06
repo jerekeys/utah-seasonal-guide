@@ -2,6 +2,12 @@
 
 A multi-page, static public website generated from the Google Sheet **Utah Halloween & Fall 2026 — Complete Ideas Guide**.
 
+## Development workflow
+- `main` is production and should only receive reviewed release batches.
+- `development` is the working branch used for the persistent Netlify branch preview.
+- Routine design/content/code changes should be committed to `development` first.
+- After review, merge a batch to `main` to trigger a single production deploy.
+
 ## Pages
 - `index.html` — Explore directory
 - `weekend.html` — Weekend planner
