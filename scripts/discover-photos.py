@@ -1,4 +1,4 @@
-import concurrent.futures,datetime,json,pathlib,urllib.request,urllib.parse
+import concurrent.futures,datetime,json,pathlib,urllib.request,urllib.parse,re
 from html.parser import HTMLParser
 D=json.loads(pathlib.Path('assets/data.js').read_text()[19:].rstrip(';\n'))
 class Images(HTMLParser):
@@ -6,7 +6,10 @@ class Images(HTMLParser):
  def handle_starttag(self,tag,attrs):
   a=dict(attrs);url=None
   if tag=='meta' and (a.get('property') or a.get('name') or '').lower() in ['og:image','og:image:secure_url','twitter:image']:url=a.get('content')
-  if tag=='img':url=a.get('src') or a.get('data-src')
+  if tag=='img':
+   url=a.get('src') or a.get('data-src')
+   srcset=a.get('srcset') or a.get('data-srcset')
+   if srcset:url=srcset.split(',')[-1].strip().split()[0]
   if url and not any(x in url.lower() for x in ['logo','icon','favicon','avatar','spinner','data:']):self.images.append({'url':url,'alt':a.get('alt','')})
 def inspect(url):
  try:
@@ -18,7 +21,7 @@ def inspect(url):
   for a in p.images:
    a['url']=urllib.parse.urljoin(base,a['url'])
    if a['url'].startswith('https://') and a['url'] not in [x['url'] for x in out]:out.append(a)
-  return {'status':'Candidates need visual and rights review' if out else 'No usable candidate identified','candidates':out[:8]}
+  return {'status':'Candidates need visual and rights review' if out else 'No usable candidate identified','candidates':out[:40]}
  except Exception as x:return {'status':'Source unavailable: '+type(x).__name__,'candidates':[]}
 urls=list(dict.fromkeys(e['Website'] for e in D['events'] if e.get('Website','').startswith('https://')))
 with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:pages=dict(zip(urls,pool.map(inspect,urls)))
