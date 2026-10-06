@@ -23,13 +23,16 @@ permissions:
 jobs:
   browser-review:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
       - run: npm install --no-save playwright axe-core
-      - run: npx playwright install --with-deps chromium webkit
+      - name: Install browser dependencies
+        timeout-minutes: 3
+        run: npx playwright install --with-deps chromium webkit
       - name: Review viewport layouts and interactions
         id: review
         continue-on-error: true
