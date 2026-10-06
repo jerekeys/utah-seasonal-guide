@@ -1,0 +1,41 @@
+[
+  {
+    "sourceCommit": "d22cdc80977976ff66611f30c0043de11f7f582e",
+    "platform": "Android Chrome engine",
+    "deviceEmulation": true,
+    "physicalInstallationVerified": false,
+    "offlineMethod": "Browser offline emulation",
+    "installability": {
+      "installabilityErrors": []
+    },
+    "manifest": true,
+    "savedPersistence": true,
+    "exportImport": true,
+    "offlineSearch": true,
+    "visitedPageOffline": true,
+    "offlineFallback": true,
+    "failedFormPreservesInput": true,
+    "offlineFormDoesNotSend": true,
+    "publicIdentityRemoved": true,
+    "accessibility": "no automated violations on tested pages",
+    "errors": []
+  },
+  {
+    "sourceCommit": "d22cdc80977976ff66611f30c0043de11f7f582e",
+    "platform": "iPhone Safari engine",
+    "deviceEmulation": true,
+    "physicalInstallationVerified": false,
+    "offlineMethod": "Unavailable loopback origin with no-worker negative control; Playwright #42775",
+    "manifest": true,
+    "savedPersistence": true,
+    "exportImport": true,
+    "offlineSearch": true,
+    "visitedPageOffline": true,
+    "offlineFallback": true,
+    "failedFormPreservesInput": true,
+    "offlineFormDoesNotSend": true,
+    "publicIdentityRemoved": true,
+    "accessibility": "no automated violations on tested pages",
+    "errors": []
+  }
+]
