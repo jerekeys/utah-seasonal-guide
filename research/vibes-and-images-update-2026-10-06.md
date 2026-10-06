@@ -1,6 +1,6 @@
 # Vibes and image update — October 6, 2026
 
-Expanded Find your vibe from 15 broad links to 27 explained collections. Replaced Meet your community with Local traditions and cultural celebrations. Restored date night, dogs, live animals, witchy outings, books/stories, unusual traditions, short stops, residential displays and destination outings. Each collection has its own durable URL, applies alongside existing filters, shows upcoming example event links, and can be cleared. The main search controls are unchanged.
+Expanded Find your vibe from 15 broad links to 27 explained collections. Replaced Meet your community with Local traditions and cultural celebrations. Restored date night, dogs, live animals, witchy outings, books/stories, unusual traditions, short stops, residential displays and destination outings. Each collection has its own durable URL, applies alongside existing filters, shows example event links preferring the next 45 days, and can be cleared. The main search controls are unchanged.
 
 Notable events receive default priority only when a confirmed next occurrence is between today and 45 days ahead, inclusive. Past, unknown-date, watchlist and distant future notable listings receive no notable boost. Single-day and alphabetical tiers remain; explicit name/date/cost sorts override priority. Boundary checks cover days 45 and 46.
 
