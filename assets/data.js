@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   "meta": {
-    "title": "Utah Seasonal Guide · Fall & Winter 2026–27",
+    "title": "Utah Seasonal Guide · 2026–27",
     "updated": "October 6, 2026",
     "eventCount": 530,
     "confirmedCount": 522,
@@ -25,7 +25,7 @@ window.SITE_DATA = {
     "localPhotoListings": 42,
     "zeroHotlinks": true,
     "ccCandidates": 7,
-    "siteVersion": "v8-app"
+    "siteVersion": "v9-year-round"
   },
   "events": [
     {
@@ -66,9 +66,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-28",
       "endDate": "2026-10-28",
       "travelTier": "Core / easy day trip",
@@ -176,9 +176,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -252,9 +252,10 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall",
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-02",
       "endDate": "2026-10-31",
       "travelTier": "Extended day trip",
@@ -333,9 +334,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -413,9 +414,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -493,9 +494,9 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
       },
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-18",
       "endDate": "2026-11-14",
       "travelTier": "Core / easy day trip",
@@ -615,9 +616,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-02",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -727,9 +728,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -789,9 +790,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -852,9 +853,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -924,9 +925,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -992,9 +993,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-25",
       "travelTier": "Core / easy day trip",
@@ -1058,9 +1059,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-01",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -1129,9 +1130,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -1210,9 +1211,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-01",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -1302,9 +1303,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-03",
       "endDate": "2026-10-03",
       "travelTier": "Core / easy day trip",
@@ -1373,9 +1374,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-11",
       "endDate": "2026-10-11",
       "travelTier": "Core / easy day trip",
@@ -1447,9 +1448,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-28",
       "endDate": "2026-10-28",
       "travelTier": "Core / easy day trip",
@@ -1519,9 +1520,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-01",
       "endDate": "2026-10-31",
       "travelTier": "Extended day trip",
@@ -1604,9 +1605,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -1684,9 +1685,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-11",
       "endDate": "2026-09-11",
       "travelTier": "Core / easy day trip",
@@ -1750,9 +1751,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-03",
       "endDate": "2026-10-03",
       "travelTier": "Extended day trip",
@@ -1815,9 +1816,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -1879,9 +1880,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-19",
       "endDate": "2026-10-19",
       "travelTier": "Core / easy day trip",
@@ -1943,9 +1944,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-29",
       "endDate": "2026-10-29",
       "travelTier": "Overnight / destination",
@@ -2006,9 +2007,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-05",
       "endDate": "2026-10-05",
       "travelTier": "Core / easy day trip",
@@ -2090,9 +2091,9 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official attraction page for editorial event-listing use; remove on request."
       },
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-21",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -2200,9 +2201,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -2278,9 +2279,10 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall",
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-18",
       "endDate": "2026-09-18",
       "travelTier": "Core / easy day trip",
@@ -2354,9 +2356,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -2432,9 +2434,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -2498,9 +2500,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
       "travelTier": "Core / easy day trip",
@@ -2561,9 +2563,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -2634,9 +2636,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-02",
       "travelTier": "Core / easy day trip",
@@ -2699,9 +2701,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -2778,9 +2780,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-18",
       "endDate": "2026-09-18",
       "travelTier": "Core / easy day trip",
@@ -2841,9 +2843,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-20",
       "endDate": "2026-10-27",
       "travelTier": "Core / easy day trip",
@@ -2907,9 +2909,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-30",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -2972,9 +2974,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-30",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -3042,9 +3044,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -3108,9 +3110,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-06",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -3179,9 +3181,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-10",
       "endDate": "2026-10-31",
       "travelTier": "Overnight / destination",
@@ -3448,9 +3450,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -3512,9 +3514,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-15",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -3589,9 +3591,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -3660,9 +3662,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-26",
       "endDate": "2026-10-26",
       "travelTier": "Core / easy day trip",
@@ -3729,9 +3731,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-23",
       "endDate": "2026-10-23",
       "travelTier": "Core / easy day trip",
@@ -3795,9 +3797,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -3856,9 +3858,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -3919,9 +3921,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -3988,9 +3990,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -4054,9 +4056,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -4118,9 +4120,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-11",
       "endDate": "2026-10-11",
       "travelTier": "Core / easy day trip",
@@ -4183,9 +4185,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-02",
       "endDate": "2026-10-03",
       "travelTier": "Core / easy day trip",
@@ -4248,9 +4250,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-16",
       "endDate": "2026-10-16",
       "travelTier": "Core / easy day trip",
@@ -4324,9 +4326,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -4417,9 +4419,9 @@ window.SITE_DATA = {
         "rightsNote": "Published by Fear Factory in its official media kit as imagery for media use."
       },
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -4487,9 +4489,10 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall",
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-25",
       "endDate": "2026-09-25",
       "travelTier": "Core / easy day trip",
@@ -4579,9 +4582,9 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
       },
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-01",
       "endDate": "2026-10-31",
       "travelTier": "Overnight / destination",
@@ -4690,9 +4693,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-01",
       "endDate": "2026-10-31",
       "travelTier": "Overnight / destination",
@@ -4767,9 +4770,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Overnight / destination",
@@ -4833,9 +4836,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-11",
       "endDate": "2026-10-11",
       "travelTier": "Core / easy day trip",
@@ -4901,9 +4904,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -4970,9 +4973,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-02",
       "travelTier": "Core / easy day trip",
@@ -5059,9 +5062,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -5158,9 +5161,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-11",
       "endDate": "2026-11-08",
       "travelTier": "Core / easy day trip",
@@ -5320,9 +5323,9 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official event page for editorial event-listing use; remove on request."
       },
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-15",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -5444,9 +5447,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-18",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -5592,9 +5595,10 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall",
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -5665,9 +5669,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-23",
       "endDate": "2026-10-25",
       "travelTier": "Core / easy day trip",
@@ -5744,9 +5748,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-03",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -5822,9 +5826,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -5884,9 +5888,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -5957,9 +5961,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-01",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -6029,9 +6033,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-03",
       "endDate": "2026-10-25",
       "travelTier": "Overnight / destination",
@@ -6098,9 +6102,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-11-02",
       "travelTier": "Core / easy day trip",
@@ -6166,9 +6170,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-01",
       "endDate": "2026-10-25",
       "travelTier": "Core / easy day trip",
@@ -6244,9 +6248,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -6310,9 +6314,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-03",
       "endDate": "2026-10-03",
       "travelTier": "Extended day trip",
@@ -6379,9 +6383,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -6446,9 +6450,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-29",
       "endDate": "2026-10-29",
       "travelTier": "Core / easy day trip",
@@ -6512,9 +6516,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-02",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -6584,9 +6588,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-26",
       "endDate": "2026-10-26",
       "travelTier": "Core / easy day trip",
@@ -6650,9 +6654,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-16",
       "endDate": "2026-10-16",
       "travelTier": "Core / easy day trip",
@@ -6723,9 +6727,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -6792,9 +6796,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -6856,9 +6860,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-23",
       "endDate": "2026-10-23",
       "travelTier": "Core / easy day trip",
@@ -6940,9 +6944,9 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official event page for editorial event-listing use; remove on request."
       },
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-15",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -7037,9 +7041,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-05",
       "endDate": "2026-10-05",
       "travelTier": "Core / easy day trip",
@@ -7108,9 +7112,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-29",
       "endDate": "2026-10-29",
       "travelTier": "Core / easy day trip",
@@ -7180,9 +7184,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-28",
       "endDate": "2026-10-26",
       "travelTier": "Core / easy day trip",
@@ -7281,9 +7285,9 @@ window.SITE_DATA = {
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
       },
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -7358,9 +7362,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -7424,9 +7428,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -7485,9 +7489,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -7550,9 +7554,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -7626,9 +7630,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -7695,9 +7699,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-11",
       "endDate": "2026-09-11",
       "travelTier": "Core / easy day trip",
@@ -7759,9 +7763,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-30",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -7824,9 +7828,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-16",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -7897,9 +7901,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -7962,9 +7966,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Overnight / destination",
@@ -8030,9 +8034,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -8093,9 +8097,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-07",
       "endDate": "2026-10-22",
       "travelTier": "Core / easy day trip",
@@ -8161,9 +8165,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-30",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -8234,9 +8238,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -8295,9 +8299,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -8358,9 +8362,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-14",
       "endDate": "2026-10-14",
       "travelTier": "Core / easy day trip",
@@ -8423,9 +8427,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-29",
       "endDate": "2026-10-29",
       "travelTier": "Core / easy day trip",
@@ -8486,9 +8490,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-09",
       "endDate": "2026-10-30",
       "travelTier": "Extended day trip",
@@ -8561,9 +8565,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-14",
       "endDate": "2026-10-14",
       "travelTier": "Core / easy day trip",
@@ -8673,9 +8677,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-24",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -8798,9 +8802,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-08",
       "endDate": "2026-10-08",
       "travelTier": "Core / easy day trip",
@@ -8875,9 +8879,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -8942,9 +8946,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-17",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -9017,9 +9021,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -9079,9 +9083,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-18",
       "endDate": "2026-10-18",
       "travelTier": "Core / easy day trip",
@@ -9147,9 +9151,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -9212,9 +9216,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Overnight / destination",
@@ -9279,9 +9283,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-02",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -9374,9 +9378,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-02",
       "endDate": "2026-10-30",
       "travelTier": "Overnight / destination",
@@ -9459,9 +9463,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -9523,9 +9527,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-01",
       "endDate": "2026-10-25",
       "travelTier": "Core / easy day trip",
@@ -9590,9 +9594,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -9676,9 +9680,10 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
       },
       "holidays": [
-        "Halloween & Fall"
+        "Fall",
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -9753,9 +9758,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -9817,9 +9822,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-16",
       "endDate": "2026-10-16",
       "travelTier": "Core / easy day trip",
@@ -9882,9 +9887,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-29",
       "endDate": "2026-10-29",
       "travelTier": "Core / easy day trip",
@@ -9956,9 +9961,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Extended day trip",
@@ -10027,9 +10032,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-09",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -10091,9 +10096,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-23",
       "endDate": "2026-10-26",
       "travelTier": "Core / easy day trip",
@@ -10156,9 +10161,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-30",
       "endDate": "2026-10-30",
       "travelTier": "Extended day trip",
@@ -10220,9 +10225,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-29",
       "endDate": "2026-10-29",
       "travelTier": "Core / easy day trip",
@@ -10294,9 +10299,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-02",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -10391,9 +10396,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -10454,9 +10459,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-28",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -10522,9 +10527,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-21",
       "travelTier": "Core / easy day trip",
@@ -10598,9 +10603,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-23",
       "endDate": "2026-10-23",
       "travelTier": "Core / easy day trip",
@@ -10672,9 +10677,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -10754,9 +10759,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -10816,9 +10821,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -10884,9 +10889,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-25",
       "endDate": "2026-10-25",
       "travelTier": "Core / easy day trip",
@@ -10948,9 +10953,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-01",
       "endDate": "2026-10-17",
       "travelTier": "Extended day trip",
@@ -11014,9 +11019,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -11079,9 +11084,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -11145,9 +11150,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -11223,9 +11228,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -11361,9 +11366,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -11444,9 +11449,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-09",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -11510,9 +11515,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -11575,9 +11580,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-03",
       "endDate": "2026-10-03",
       "travelTier": "Core / easy day trip",
@@ -11649,9 +11654,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -11714,9 +11719,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -11787,9 +11792,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-02",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -11887,9 +11892,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -11953,9 +11958,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -12014,9 +12019,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-09",
       "endDate": "2026-10-09",
       "travelTier": "Core / easy day trip",
@@ -12079,9 +12084,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -12147,9 +12152,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -12212,9 +12217,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -12299,9 +12304,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-03",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -12366,9 +12371,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -12434,9 +12439,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -12503,9 +12508,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -12574,9 +12579,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -12637,9 +12642,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-02",
       "endDate": "2026-10-28",
       "travelTier": "Overnight / destination",
@@ -12729,9 +12734,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -12792,9 +12797,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -12857,9 +12862,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -12922,9 +12927,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-01",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -13021,9 +13026,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-02",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -13092,9 +13097,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -13162,9 +13167,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -13225,9 +13230,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-02",
       "endDate": "2026-10-02",
       "travelTier": "Core / easy day trip",
@@ -13289,9 +13294,10 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall",
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-07",
       "endDate": "2026-10-07",
       "travelTier": "Overnight / destination",
@@ -13354,9 +13360,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -13423,9 +13429,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-02",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -13489,9 +13495,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-28",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -13558,9 +13564,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-29",
       "endDate": "2026-10-29",
       "travelTier": "Core / easy day trip",
@@ -13621,9 +13627,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-03",
       "endDate": "2026-10-03",
       "travelTier": "Core / easy day trip",
@@ -13684,9 +13690,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -13748,9 +13754,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -13818,9 +13824,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -13886,9 +13892,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-03",
       "travelTier": "Overnight / destination",
@@ -13963,9 +13969,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-16",
       "endDate": "2026-10-16",
       "travelTier": "Core / easy day trip",
@@ -14037,9 +14043,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -14107,9 +14113,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-07",
       "endDate": "2026-10-21",
       "travelTier": "Core / easy day trip",
@@ -14177,9 +14183,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -14264,9 +14270,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -14339,9 +14345,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-30",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -14404,9 +14410,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-03",
       "endDate": "2026-10-03",
       "travelTier": "Core / easy day trip",
@@ -14467,9 +14473,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -14528,9 +14534,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -14598,9 +14604,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-07",
       "endDate": "2026-10-28",
       "travelTier": "Core / easy day trip",
@@ -14674,9 +14680,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -14743,9 +14749,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-03",
       "endDate": "2026-10-03",
       "travelTier": "Core / easy day trip",
@@ -14808,9 +14814,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-22",
       "endDate": "2026-10-22",
       "travelTier": "Core / easy day trip",
@@ -14881,9 +14887,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Overnight / destination",
@@ -14942,9 +14948,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-25",
       "endDate": "2026-10-25",
       "travelTier": "Core / easy day trip",
@@ -15015,9 +15021,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-23",
       "endDate": "2026-10-23",
       "travelTier": "Core / easy day trip",
@@ -15078,9 +15084,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-19",
       "endDate": "2026-09-19",
       "travelTier": "Core / easy day trip",
@@ -15152,9 +15158,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-23",
       "endDate": "2026-10-23",
       "travelTier": "Core / easy day trip",
@@ -15240,9 +15246,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -15311,9 +15317,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-16",
       "endDate": "2026-10-16",
       "travelTier": "Core / easy day trip",
@@ -15384,9 +15390,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -15448,9 +15454,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -15511,9 +15517,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -15577,9 +15583,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-01",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -15654,9 +15660,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-22",
       "endDate": "2026-10-22",
       "travelTier": "Core / easy day trip",
@@ -15719,9 +15725,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -15800,9 +15806,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -15866,9 +15872,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -15927,9 +15933,10 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall",
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-21",
       "endDate": "2026-09-21",
       "travelTier": "Core / easy day trip",
@@ -15998,9 +16005,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-16",
       "endDate": "2026-10-16",
       "travelTier": "Core / easy day trip",
@@ -16070,9 +16077,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -16148,9 +16155,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-30",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -16219,9 +16226,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -16292,9 +16299,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-25",
       "travelTier": "Core / easy day trip",
@@ -16360,9 +16367,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -16428,9 +16435,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-30",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -16491,9 +16498,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-13",
       "endDate": "2026-10-13",
       "travelTier": "Core / easy day trip",
@@ -16557,9 +16564,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-30",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -16631,9 +16638,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -16692,9 +16699,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -16765,9 +16772,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
       "travelTier": "Core / easy day trip",
@@ -16833,9 +16840,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-28",
       "endDate": "2026-10-28",
       "travelTier": "Core / easy day trip",
@@ -16896,9 +16903,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-11",
       "endDate": "2026-10-11",
       "travelTier": "Core / easy day trip",
@@ -16967,9 +16974,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Samhain"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Samhain",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -17043,9 +17050,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -17128,9 +17135,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -17196,9 +17203,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -17268,9 +17275,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -17335,9 +17342,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-03",
       "endDate": "2026-10-05",
       "travelTier": "Core / easy day trip",
@@ -17405,9 +17412,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-23",
       "endDate": "2026-10-23",
       "travelTier": "Core / easy day trip",
@@ -17475,9 +17482,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -17540,9 +17547,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-03",
       "endDate": "2026-10-03",
       "travelTier": "Core / easy day trip",
@@ -17605,9 +17612,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-27",
       "endDate": "2026-10-27",
       "travelTier": "Core / easy day trip",
@@ -17671,9 +17678,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-15",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -17736,9 +17743,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "travelTier": "Core / easy day trip",
@@ -17800,9 +17807,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Extended day trip",
@@ -17873,9 +17880,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
       "travelTier": "Core / easy day trip",
@@ -17942,9 +17949,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-02",
       "endDate": "2026-10-02",
       "travelTier": "Core / easy day trip",
@@ -18026,9 +18033,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-03",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -18116,9 +18123,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-01",
       "endDate": "2026-10-30",
       "travelTier": "Core / easy day trip",
@@ -18201,9 +18208,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-05",
       "endDate": "2026-10-26",
       "travelTier": "Core / easy day trip",
@@ -18277,9 +18284,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-09",
       "endDate": "2026-10-22",
       "travelTier": "Core / easy day trip",
@@ -18378,9 +18385,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-10-14",
       "endDate": "2026-10-14",
       "travelTier": "Core / easy day trip",
@@ -32838,9 +32845,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Utah County",
       "sourceRegion": "Utah County",
       "publicRegion": "Utah County",
@@ -32896,9 +32903,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Utah County",
       "sourceRegion": "Utah County",
       "publicRegion": "Utah County",
@@ -32954,9 +32961,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Utah County",
       "sourceRegion": "Utah County",
       "publicRegion": "Utah County",
@@ -33013,9 +33020,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Utah County",
       "sourceRegion": "Utah County",
       "publicRegion": "Utah County",
@@ -33071,9 +33078,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Utah County",
       "sourceRegion": "Utah County",
       "publicRegion": "Utah County",
@@ -33131,9 +33138,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33191,9 +33198,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Eastern Utah",
       "sourceRegion": "Eastern Utah",
       "publicRegion": "Eastern Utah",
@@ -33249,9 +33256,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33309,9 +33316,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33366,9 +33373,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33425,9 +33432,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33484,9 +33491,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Utah County",
       "sourceRegion": "Utah County",
       "publicRegion": "Utah County",
@@ -33545,9 +33552,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33605,9 +33612,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33665,9 +33672,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33724,9 +33731,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33784,9 +33791,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33843,9 +33850,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33903,9 +33910,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -33965,9 +33972,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -34024,9 +34031,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -34088,9 +34095,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -34150,9 +34157,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -34212,9 +34219,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -34273,9 +34280,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake City",
@@ -34333,9 +34340,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Cache Valley",
       "sourceRegion": "Cache Valley",
       "publicRegion": "Cache / Box Elder",
@@ -34455,9 +34462,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Ogden / Weber",
       "sourceRegion": "Ogden / Weber",
       "publicRegion": "Ogden, Weber & Morgan",
@@ -34517,9 +34524,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Utah County",
       "sourceRegion": "Utah County",
       "publicRegion": "Utah County",
@@ -34577,9 +34584,9 @@ window.SITE_DATA = {
       "photo": null,
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "Region": "Ogden / Weber",
       "sourceRegion": "Ogden / Weber",
       "publicRegion": "Ogden, Weber & Morgan",
@@ -34634,9 +34641,9 @@ window.SITE_DATA = {
       "id": "eve-rooftop-afterlive",
       "Event / attraction": "EVE Rooftop Afterlive",
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "First date": "2026-10-31",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
@@ -34688,9 +34695,9 @@ window.SITE_DATA = {
       "id": "eve-halloween-crawl",
       "Event / attraction": "EVE Halloween Crawl",
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "First date": "2026-10-29",
       "startDate": "2026-10-29",
       "endDate": "2026-10-29",
@@ -34962,9 +34969,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Halloween"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Halloween",
       "startDate": "2026-09-25",
       "endDate": "2026-11-01",
       "travelTier": "Core / easy day trip",
@@ -35079,9 +35086,10 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween & Fall"
+        "Fall",
+        "Oktoberfest"
       ],
-      "primaryHoliday": "Halloween & Fall",
+      "primaryHoliday": "Fall",
       "startDate": "2026-08-29",
       "endDate": "2026-10-18",
       "travelTier": "Core / easy day trip",
@@ -37002,21 +37010,181 @@ window.SITE_DATA = {
   "site": {
     "name": "Utah Seasonal Guide",
     "tagline": "Seasonal celebrations that show off Utah’s culture and creativity.",
-    "currentGuide": "Fall & winter 2026–27",
+    "currentGuide": "October 2026–October 2027",
     "scope": "Holiday and seasonal events, traditions, performances, markets, displays and limited-time experiences across Utah.",
     "sponsoredPlacements": []
   },
   "holidays": [
-    "Halloween & Fall",
-    "Día de los Muertos",
-    "Veterans Day",
-    "Thanksgiving",
-    "Diwali",
-    "Christmas",
-    "Hanukkah",
-    "Kwanzaa",
-    "Yule & Solstice",
+    "Fall",
     "Winter",
-    "New Year"
-  ]
+    "Spring",
+    "Summer",
+    "Halloween",
+    "Día de los Muertos",
+    "Thanksgiving",
+    "Christmas",
+    "New Year",
+    "Valentine’s Day",
+    "St. Patrick’s Day",
+    "Easter",
+    "Mother’s Day",
+    "Father’s Day",
+    "Juneteenth",
+    "Independence Day",
+    "Pioneer Day",
+    "Memorial Day",
+    "Labor Day",
+    "Veterans Day",
+    "Indigenous Peoples’ Day",
+    "Lunar New Year",
+    "Oktoberfest",
+    "Samhain",
+    "Yule & Solstice",
+    "Imbolc",
+    "Ostara",
+    "Beltane",
+    "Litha",
+    "Lughnasadh",
+    "Mabon",
+    "Rosh Hashanah",
+    "Yom Kippur",
+    "Sukkot",
+    "Shemini Atzeret & Simchat Torah",
+    "Hanukkah",
+    "Tu BiShvat",
+    "Purim",
+    "Passover",
+    "Shavuot",
+    "Ramadan",
+    "Eid al-Fitr",
+    "Eid al-Adha",
+    "Islamic New Year",
+    "Ashura",
+    "Mawlid",
+    "Diwali",
+    "Navratri & Dussehra",
+    "Holi",
+    "Vaisakhi",
+    "Guru Nanak Gurpurab",
+    "Vesak",
+    "Naw-Rúz",
+    "Ridván",
+    "Bahá’í Twin Holy Birthdays",
+    "Advent",
+    "Epiphany",
+    "Lent & Holy Week",
+    "Orthodox Christmas",
+    "Orthodox Easter",
+    "Pride",
+    "Black History Month",
+    "Women’s History Month",
+    "Irish American Heritage Month",
+    "Arab American Heritage Month",
+    "Asian American & Pacific Islander Heritage Month",
+    "Jewish American Heritage Month",
+    "Caribbean American Heritage Month",
+    "Disability Pride Month",
+    "Hispanic Heritage Month",
+    "LGBTQ+ History Month",
+    "Filipino American History Month",
+    "Italian American Heritage Month",
+    "Native American Heritage Month",
+    "Kwanzaa",
+    "Autism Acceptance Month",
+    "Transgender Day of Visibility",
+    "Transgender Day of Remembrance"
+  ],
+  "holidayGroups": {
+    "Seasons": [
+      "Fall",
+      "Winter",
+      "Spring",
+      "Summer"
+    ],
+    "Holidays & traditions": [
+      "Halloween",
+      "Día de los Muertos",
+      "Thanksgiving",
+      "Christmas",
+      "New Year",
+      "Valentine’s Day",
+      "St. Patrick’s Day",
+      "Easter",
+      "Mother’s Day",
+      "Father’s Day",
+      "Juneteenth",
+      "Independence Day",
+      "Pioneer Day",
+      "Memorial Day",
+      "Labor Day",
+      "Veterans Day",
+      "Indigenous Peoples’ Day",
+      "Lunar New Year",
+      "Oktoberfest"
+    ],
+    "Religious & spiritual observances": [
+      "Samhain",
+      "Yule & Solstice",
+      "Imbolc",
+      "Ostara",
+      "Beltane",
+      "Litha",
+      "Lughnasadh",
+      "Mabon",
+      "Rosh Hashanah",
+      "Yom Kippur",
+      "Sukkot",
+      "Shemini Atzeret & Simchat Torah",
+      "Hanukkah",
+      "Tu BiShvat",
+      "Purim",
+      "Passover",
+      "Shavuot",
+      "Ramadan",
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Islamic New Year",
+      "Ashura",
+      "Mawlid",
+      "Diwali",
+      "Navratri & Dussehra",
+      "Holi",
+      "Vaisakhi",
+      "Guru Nanak Gurpurab",
+      "Vesak",
+      "Naw-Rúz",
+      "Ridván",
+      "Bahá’í Twin Holy Birthdays",
+      "Advent",
+      "Epiphany",
+      "Lent & Holy Week",
+      "Orthodox Christmas",
+      "Orthodox Easter"
+    ],
+    "Heritage, culture & community": [
+      "Pride",
+      "Black History Month",
+      "Women’s History Month",
+      "Irish American Heritage Month",
+      "Arab American Heritage Month",
+      "Asian American & Pacific Islander Heritage Month",
+      "Jewish American Heritage Month",
+      "Caribbean American Heritage Month",
+      "Disability Pride Month",
+      "Hispanic Heritage Month",
+      "LGBTQ+ History Month",
+      "Filipino American History Month",
+      "Italian American Heritage Month",
+      "Native American Heritage Month",
+      "Kwanzaa",
+      "Autism Acceptance Month",
+      "Transgender Day of Visibility",
+      "Transgender Day of Remembrance"
+    ]
+  },
+  "planningHorizon": {
+    "from": "2026-10-06",
+    "through": "2027-10-31",
+    "note": "Holiday dates are distinct from organizer-announced event dates. Religious observance dates can vary by tradition, sunset and local moon sighting."
+  }
 };

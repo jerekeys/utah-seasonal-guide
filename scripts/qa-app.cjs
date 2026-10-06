@@ -15,6 +15,7 @@ async function audit(page, label) {
     const browser = await engine.launch({ headless: true, ...(engine === chromium ? { args: ['--no-sandbox'] } : {}) });
     const context = await browser.newContext(device);
     const page = await context.newPage();
+    page.setDefaultTimeout(20000);
     const errors = [];
     page.on('pageerror', error => errors.push(error.message));
     await page.goto(root + '/');
@@ -60,7 +61,7 @@ async function audit(page, label) {
     await page.waitForSelector('#savedEvents .card');
     await page.goto(root + '/?holiday=Christmas');
     await page.waitForSelector('.card');
-    assert.equal(await page.locator('.season-button[aria-pressed=true]').textContent().then(s => s.includes('Christmas')), true);
+    assert.equal(await page.locator('#holidayFilter').inputValue(), 'Christmas');
     assert(await page.locator('.connection-notice').isVisible());
     await page.goto(root + '/events/not-previously-opened/');
     assert(await page.getByRole('heading', { name: 'You’re offline.' }).isVisible());
