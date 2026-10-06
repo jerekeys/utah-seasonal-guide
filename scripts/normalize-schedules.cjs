@@ -1,0 +1,3 @@
+const fs=require('fs'),vm=require('vm');global.window={};vm.runInThisContext(fs.readFileSync('assets/data.js','utf8'));vm.runInThisContext(fs.readFileSync('assets/schedule-overrides.js','utf8'));vm.runInThisContext(fs.readFileSync('assets/date-tools.js','utf8'));let n=0;
+for(const e of window.SITE_DATA.events){if(e.isWatch)continue;if(e.holidays.includes('Halloween & Fall')&&(!e.occurrenceDates?.length)&&!e.scheduleNote?.includes('differ')){const x=window.DATE_TOOLS.parseSchedule(e);if(x.confidence!=='partial'&&x.dates.length){e.occurrenceDates=x.dates;e.scheduleConfidence='verified-dates';e.scheduleNote='';n++}}}
+fs.writeFileSync('assets/data.js','window.SITE_DATA = '+JSON.stringify(window.SITE_DATA)+';\n');console.log('Normalized',n,'existing Halloween schedules');
