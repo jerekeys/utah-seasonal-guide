@@ -54,9 +54,18 @@ function monthRange(e){
  const y=yearHint(e),mo=monthIndex(m[1]),last=new Date(y,mo+1,0,12).getDate();
  return{start:`${y}-${pad(mo+1)}-01`,end:`${y}-${pad(mo+1)}-${pad(last)}`}
 }
+function textDates(e){
+ const src=`${e['2026 schedule']||''}; ${e.Times||''}`.replace(/[–—]/g,'-'),out=new Set(),range=dateRange(e),baseYear=yearHint(e);
+ const rangeStart=range?localDate(range.start):null,rangeEnd=range?localDate(range.end):null;
+ const yearForMonth=mo=>rangeStart&&rangeEnd&&rangeEnd.getFullYear()>rangeStart.getFullYear()&&mo<rangeStart.getMonth()?rangeEnd.getFullYear():baseYear;
+ for(const m of src.matchAll(/\b(20\d{2})-(\d{2})-(\d{2})\b/g))out.add(`${m[1]}-${m[2]}-${m[3]}`);
+ for(const m of src.matchAll(new RegExp(`\\b(${monthToken})\\.?\\s+(\\d{1,2})(?:st|nd|rd|th)?\\b`,'ig'))){const mo=monthIndex(m[1]);out.add(`${yearForMonth(mo)}-${pad(mo+1)}-${pad(+m[2])}`)}
+ for(const m of src.matchAll(new RegExp(`\\b(${monthToken})\\.?\\s+((?:\\d{1,2}(?:st|nd|rd|th)?\\s*(?:,|&|and)\\s*)+\\d{1,2}(?:st|nd|rd|th)?)`,'ig'))){const mo=monthIndex(m[1]),y=yearForMonth(mo);for(const n of m[2].match(/\d{1,2}/g)||[])out.add(`${y}-${pad(mo+1)}-${pad(+n)}`)}
+ return[...out].filter(d=>localDate(d)).sort()
+}
 function inferredDates(e){
  if(e.isWatch)return[];
- const explicit=[...(e.occurrenceDates||[])].filter(d=>/^\d{4}-\d{2}-\d{2}$/.test(d));
+ const explicit=[...new Set([...(e.occurrenceDates||[]),...textDates(e)])].filter(d=>/^\d{4}-\d{2}-\d{2}$/.test(d));
  const src=`${e['2026 schedule']||''}; ${e.Times||''}`,days=weekdays(src);
  let range=dateRange(e);if(!range&&days.length)range=monthRange(e);
  if(!range)return[...new Set(explicit)].sort();
@@ -67,7 +76,8 @@ function inferredDates(e){
  const span=Math.round((b-a)/86400000)+1;
  if(!activeDays.length){
    const daily=/\b(?:daily|nightly|every\s+day|everyday|open\s+daily|open\s+every\s+day)\b/i.test(src);
-   const continuous=/\b(?:display|lights?|open)\b/i.test(e.Times||'')&&/Lights & Displays|Farms & Harvest/.test((e.publicTypes||[]).join('|'));
+   const typeText=(e.publicTypes||[]).join('|'),timeText=String(e.Times||''),blocked=/\b(?:select(?:ed)?\s+(?:dates?|nights?)|listed nights|date-specific|specific dates|multiple performances)\b/i.test(src);
+   const continuous=!blocked&&(/\b(?:display|lights?|self-guided|anytime)\b/i.test(timeText)||(/Lights & Displays/.test(typeText)&&!!parseTime(timeText)));
    if((daily||(!select&&!vague&&(span<=7||continuous))))activeDays=[0,1,2,3,4,5,6];
  }
  if(!activeDays.length||(select&&!days.length&&!/\b(?:daily|nightly|every\s+day|everyday)\b/i.test(src)))return[...new Set(explicit)].sort();
