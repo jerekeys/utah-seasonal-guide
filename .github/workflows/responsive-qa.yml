@@ -18,6 +18,9 @@ on:
       - 'scripts/qa-browser.cjs'
       - 'scripts/qa-app.cjs'
       - '.github/workflows/responsive-qa.yml'
+concurrency:
+  group: seasonal-guide-browser-${{ github.ref }}
+  cancel-in-progress: true
 permissions:
   contents: write
 jobs:

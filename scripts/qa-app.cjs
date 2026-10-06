@@ -98,7 +98,8 @@ async function audit(page, label) {
     }
     await page.screenshot({ path: `research/qa/install-${engine === chromium ? 'android' : 'iphone'}.png`, fullPage: true });
     assert.deepEqual(errors, []);
-    results.push({ platform: name, deviceEmulation: true, physicalInstallationVerified: false, installability, manifest: true, savedPersistence: true, exportImport: true, offlineSearch: true, visitedPageOffline: true, offlineFallback: true, failedFormPreservesInput: true, offlineFormDoesNotSend: true, publicIdentityRemoved: true, accessibility: 'no automated violations on tested pages', errors });
+    assert.deepEqual(errors, [], name + ' JavaScript runtime errors');
+    results.push({ sourceCommit: process.env.GITHUB_SHA || 'local', platform: name, deviceEmulation: true, physicalInstallationVerified: false, installability, manifest: true, savedPersistence: true, exportImport: true, offlineSearch: true, visitedPageOffline: true, offlineFallback: true, failedFormPreservesInput: true, offlineFormDoesNotSend: true, publicIdentityRemoved: true, accessibility: 'no automated violations on tested pages', errors });
     await browser.close();
   }
   // Exercise a real paid-slot fixture without publishing a pretend sponsor.
