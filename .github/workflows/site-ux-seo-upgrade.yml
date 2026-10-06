@@ -1,0 +1,86 @@
+name: Build date UX and event pages
+
+on:
+  push:
+    paths:
+      - '.github/workflows/site-ux-seo-upgrade.yml'
+      - 'assets/date-tools.js'
+      - 'assets/date-tools.css'
+      - 'assets/event-enhancements.js'
+      - 'assets/data.js'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Patch pages and generate event URLs
+        run: |
+          python - <<'PY'
+          import json, pathlib, re, html, shutil
+
+          root=pathlib.Path('.')
+          idx=root/'index.html'; txt=idx.read_text()
+          if 'assets/date-tools.css' not in txt:
+              txt=txt.replace('<link rel="stylesheet" href="assets/styles.css">','<link rel="stylesheet" href="assets/styles.css"><link rel="stylesheet" href="assets/date-tools.css">')
+          if 'assets/date-tools.js' not in txt:
+              txt=txt.replace('<script src="assets/data.js"></script><script src="assets/site.js"></script>','<script src="assets/data.js"></script><script src="assets/date-tools.js"></script><script src="assets/site.js"></script><script src="assets/event-enhancements.js"></script>')
+          txt=txt.replace('Search by name or city, then narrow by a simple region, activity type, audience, price and scare intensity.','Search by name or city, then narrow by date, region, activity type, audience, price and scare intensity.')
+          idx.write_text(txt)
+
+          ev=root/'event.html'; et=ev.read_text()
+          if 'assets/date-tools.css' not in et:
+              et=et.replace('<link rel="stylesheet" href="assets/styles.css">','<link rel="stylesheet" href="assets/styles.css"><link rel="stylesheet" href="assets/date-tools.css">')
+          if 'assets/date-tools.js' not in et:
+              et=et.replace('<script src="assets/data.js"></script><script src="assets/site.js"></script>','<script src="assets/data.js"></script><script src="assets/date-tools.js"></script><script src="assets/site.js"></script><script src="assets/event-enhancements.js"></script>')
+          ev.write_text(et)
+
+          site=root/'assets/site.js'; st=site.read_text()
+          st=st.replace("function eventURL(id){return `event.html?id=${encodeURIComponent(id)}`}","function eventURL(id){return `/events/${encodeURIComponent(id)}/`}")
+          st=st.replace("const id=new URLSearchParams(location.search).get('id');", "const id=window.EVENT_ID||new URLSearchParams(location.search).get('id')||((location.pathname.match(/\\/events\\/([^/]+)\\/?$/)||[])[1]||null);")
+          site.write_text(st)
+
+          raw=(root/'assets/data.js').read_text(); prefix='window.SITE_DATA = '; payload=raw[len(prefix):].strip();
+          if payload.endswith(';'): payload=payload[:-1]
+          data=json.loads(payload)
+          out=root/'events'
+          if out.exists(): shutil.rmtree(out)
+          out.mkdir()
+          template=et.replace('<head>','<head><base href="/">',1)
+          def desc(e):
+              s=(e.get('Why / thoughts') or e.get('Extra notes') or 'Utah seasonal event details.').strip()
+              return s[:155].rsplit(' ',1)[0] if len(s)>155 else s
+          for e in data.get('events',[]):
+              slug=e['id']; d=out/slug; d.mkdir(parents=True,exist_ok=True)
+              title=f"{e.get('Event / attraction','Event')} | Utah Seasonal Guide"
+              description=desc(e)
+              page=template
+              page=re.sub(r'<title>.*?</title>',f'<title>{html.escape(title)}</title>',page,count=1,flags=re.S)
+              page=re.sub(r'<meta name="description" content="[^"]*">',f'<meta name="description" content="{html.escape(description,quote=True)}">',page,count=1)
+              canonical=f'/events/{slug}/'
+              extra=(f'<link rel="canonical" href="{canonical}"><meta property="og:type" content="website"><meta property="og:title" content="{html.escape(title,quote=True)}"><meta property="og:description" content="{html.escape(description,quote=True)}"><meta property="og:url" content="{canonical}">')
+              page=page.replace('</head>',extra+'</head>',1)
+              page=page.replace('<script src="assets/data.js"></script>',f'<script>window.EVENT_ID={json.dumps(slug)};</script><script src="assets/data.js"></script>',1)
+              (d/'index.html').write_text(page)
+
+          (root/'_redirects').write_text('/event.html id=:id /events/:id/ 301\n')
+          (root/'robots.txt').write_text('User-agent: *\nAllow: /\n')
+          print(f"Generated {len(data.get('events',[]))} event pages")
+          PY
+      - name: Commit generated site upgrade
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html event.html assets/site.js events _redirects robots.txt
+          if git diff --cached --quiet; then echo "No generated changes."; exit 0; fi
+          git commit -m "Add date filters, friendly event URLs and calendar support"
+          git push
