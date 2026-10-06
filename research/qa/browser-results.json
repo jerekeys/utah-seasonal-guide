@@ -1,6 +1,6 @@
 [
   {
-    "sourceCommit": "688bd22e57ea8fa4005d4d7833c09f8e6880cc73",
+    "sourceCommit": "87299d28d316da7b900bfa3539576e2f8c238550",
     "fallHasSnowwiesn": true,
     "halloweenExcludesSnowwiesn": true,
     "emptyHolidayWorks": true,
@@ -15,7 +15,7 @@
     "overflow": false,
     "eventOverflow": false,
     "christmas": "185",
-    "freeCards": 6,
+    "freeCards": 7,
     "saved": 1,
     "calendar": 1,
     "formLabels": true,
@@ -24,7 +24,7 @@
     "correctRecipient": true
   },
   {
-    "sourceCommit": "688bd22e57ea8fa4005d4d7833c09f8e6880cc73",
+    "sourceCommit": "87299d28d316da7b900bfa3539576e2f8c238550",
     "fallHasSnowwiesn": true,
     "halloweenExcludesSnowwiesn": true,
     "emptyHolidayWorks": true,
@@ -39,7 +39,7 @@
     "overflow": false,
     "eventOverflow": false,
     "christmas": "185",
-    "freeCards": 6,
+    "freeCards": 7,
     "saved": 1,
     "calendar": 1,
     "formLabels": true,
@@ -48,7 +48,7 @@
     "correctRecipient": true
   },
   {
-    "sourceCommit": "688bd22e57ea8fa4005d4d7833c09f8e6880cc73",
+    "sourceCommit": "87299d28d316da7b900bfa3539576e2f8c238550",
     "fallHasSnowwiesn": true,
     "halloweenExcludesSnowwiesn": true,
     "emptyHolidayWorks": true,
@@ -63,7 +63,7 @@
     "overflow": false,
     "eventOverflow": false,
     "christmas": "185",
-    "freeCards": 6,
+    "freeCards": 7,
     "saved": 1,
     "calendar": 1,
     "formLabels": true,
