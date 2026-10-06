@@ -2,8 +2,8 @@ window.SITE_DATA = {
   "meta": {
     "title": "Utah Seasonal Guide · 2026–27",
     "updated": "October 6, 2026",
-    "eventCount": 530,
-    "confirmedCount": 522,
+    "eventCount": 531,
+    "confirmedCount": 523,
     "watchCount": 8,
     "publicRegionCount": 13,
     "publicTypeCount": 12,
@@ -35136,6 +35136,73 @@ window.SITE_DATA = {
         "discovery": "https://utahsbestkeptsecrets.com/2024/12/12/fun-fall-activities-in-utah/ and publicly indexed social fall roundup",
         "official": "https://www.snowbasin.com/events/snowwiesn-oktoberfest/",
         "method": "Organizer details and current calendar confirm weekend dates, hours, admission and dog/entry policies. Linked ticket shop returned HTTP 403; all-in charges and age variants remain unverified."
+      }
+    },
+    {
+      "Event / attraction": "Pride in Progress 2027",
+      "Region": "Utah County",
+      "Category": "Community & Culture",
+      "First date": "2027-04-10",
+      "2026 schedule": "April 10, 2027 · save the date",
+      "Times": "Event hours will be announced by the organizer",
+      "Price": "Admission details forthcoming",
+      "Cost": "",
+      "Age": "Check organizer age guidance",
+      "Intensity": "",
+      "Location": "Provo, Utah · 2027 venue to be announced",
+      "Status": "Announced 2027 date",
+      "Why / thoughts": "Cougar Pride Center has announced April 10 for its 2027 Pride in Progress celebration. Venue, schedule and admission details are still forthcoming.",
+      "Website": "https://www.cougarpridecenter.org/pride",
+      "Social profile": "",
+      "Extra notes": "The organizer lists 2026 venues and performers as past-year information; those details are not a 2027 program.",
+      "id": "pride-in-progress-2027",
+      "categories": [
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "sourceCategories": [
+        "Community & Culture"
+      ],
+      "publicTypes": [
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Pride",
+        "Spring"
+      ],
+      "primaryHoliday": "Pride",
+      "startDate": "2027-04-10",
+      "endDate": "2027-04-10",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-06",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 598,
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-04-10"
+      ],
+      "scheduleConfidence": "save-the-date",
+      "scheduleNote": "Date announced; hours, venue and admission not yet announced.",
+      "communities": [
+        "LGBTQ+"
+      ],
+      "theme": "diwali",
+      "placeholder": "assets/art/seasonal/diwali-community.svg",
+      "ticketUrl": "",
+      "researchEvidence": {
+        "official": "https://www.cougarpridecenter.org/pride",
+        "method": "Read current organizer save-the-date separately from clearly labeled past-year narratives."
       }
     }
   ],

@@ -20,7 +20,7 @@ async function audit(page, label) {
     page.on('pageerror', error => errors.push(error.message));
     await page.goto(root + '/');
     await page.waitForSelector('.card');
-    await page.evaluate(() => navigator.serviceWorker.ready);
+    await page.evaluate(() => Promise.race([navigator.serviceWorker.ready,new Promise((_,reject)=>setTimeout(()=>reject(new Error('Service worker setup timed out')),20000))]));
     await page.waitForFunction(() => !!navigator.serviceWorker.controller);
     const manifest = await page.evaluate(async () => await (await fetch(document.querySelector('link[rel=manifest]').href)).json());
     assert.equal(manifest.display, 'standalone'); assert.equal(manifest.start_url, '/');
@@ -114,4 +114,4 @@ async function audit(page, label) {
   await browser.close();
   fs.writeFileSync('research/qa/app-results.json', JSON.stringify(results, null, 2));
   console.log(JSON.stringify(results, null, 2));
-})().catch(error => { console.error(error); process.exitCode = 1; });
+})().catch(error => { console.error(error); process.exit(1); });
