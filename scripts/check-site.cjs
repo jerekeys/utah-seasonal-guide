@@ -5,3 +5,18 @@ ctx.document={readyState:"loading",addEventListener(){}};ctx.TextEncoder=TextEnc
 // End-result checks run across the entire published list, including migration edge cases.
 for(const e of d.events){if(e.startDate)assert(/^\d{4}-\d{2}-\d{2}$/.test(e.startDate),e.id+" start");if(e.endDate)assert(/^\d{4}-\d{2}-\d{2}$/.test(e.endDate),e.id+" end");assert(e.flags.includes("Free admission")===!!e.isFree,e.id+" free flag");if(/d[ií]a.*muertos|day of the dead/i.test(e['Event / attraction'])){assert(e.holidays.includes('Día de los Muertos'),e.id+" holiday");assert(!/scare/i.test(e.rating?.type||''),e.id+" cultural scare rating")}if(e.scheduleConfidence==='date-conflict')assert(!e.occurrenceDates.length,e.id+" uncertain calendar");}
 const choir=d.events.find(e=>e.id==='salt-lake-men-s-choir-somewhere-in-my-memory');assert.equal(choir.occurrenceDates.length,3);assert.equal(t.startForDate(choir,'2026-12-13'),960);assert(t.matchesWhen(choir,'tonight',new Date('2026-12-11T20:00Z')));assert(!t.matchesWhen(choir,'tonight',new Date('2026-12-13T20:00Z')));assert.equal(cal.times(choir,'2026-12-11').start,'20261212T023000Z');assert(cal.times(choir,'2026-12-11').reminder);console.log('Whole-list holiday, cost, date endpoints and published performance-start checks passed');
+
+// Ordering and archive behavior are separate from date filtering.
+const fixture=(id,name,dates,notable=false)=>({id,'Event / attraction':name,occurrenceDates:dates,endDate:dates.at(-1),notable_event:notable,Times:'Hours forthcoming'});
+const recurring=fixture('a','A recurring',['2026-10-10','2026-10-11']);
+const single=fixture('z','Z single',['2026-10-10']);
+const notable=fixture('n','N notable',['2027-09-10','2027-09-11'],true);
+assert(t.compareEvents(notable,single)<0);assert(t.compareEvents(single,recurring)<0);
+assert(t.compareEvents(single,recurring,'name')>0);assert(t.compareEvents(recurring,notable,'date','2026-10-06')<0);
+assert(t.isPast(fixture('past','Past',['2026-09-19']),'2026-10-06'));
+assert(!t.isPast(recurring,'2026-10-06'));assert(!t.isPast({isWatch:true,occurrenceDates:['2025-09-19']},'2026-10-06'));
+assert(!t.isPast({occurrenceDates:['2026-09-19'],endDate:'2026-10-31'},'2026-10-06'));
+assert(!t.isPast({occurrenceDates:[]},'2026-10-06'));
+assert(t.matchesWhen(fixture('past','Past',['2026-09-19']),'2026-09-19'));
+for(const e of d.events){assert(typeof e.notable_event==='boolean',e.id+' notable flag');assert(d.regions.includes(e.publicRegion),e.id+' public region');assert(!/gap|bundle filler|fresh.*addition|taxonomy|primary.*capture|producer sweep|child event|separately.*filtering|known by name.*j209|this captures|original.list omission/i.test(e['Why / thoughts']),e.id+' internal copy');}
+console.log('Notable ordering, explicit sorts, historical filters and public editorial checks passed');

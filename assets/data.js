@@ -2,8 +2,8 @@ window.SITE_DATA = {
   "meta": {
     "title": "Utah Seasonal Guide · 2026–27",
     "updated": "October 6, 2026",
-    "eventCount": 531,
-    "confirmedCount": 523,
+    "eventCount": 539,
+    "confirmedCount": 531,
     "watchCount": 8,
     "publicRegionCount": 12,
     "publicTypeCount": 12,
@@ -41,7 +41,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Roy Community Farmers Market, 4059 S 1900 W, Roy",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Candy collecting, local vendors, live music, food and a costume contest with prizes. Non-religious community/farmers-market event.",
+      "Why / thoughts": "A community trick-or-treat with local vendors, live music, food and a costume contest.",
       "Website": "https://www.nowplayingutah.com/event/2026-roy-community-trick-or-treat/",
       "Social profile": "",
       "Extra notes": "",
@@ -92,7 +92,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Agave After Dark — Bats & Tequila",
@@ -107,7 +108,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Tracy Aviary Nature Center at Pia Okwai, 3310 S 1000 W, South Salt Lake, South Salt Lake",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "A BOOzy night focused on bats, conservation and tequila with Tracy Aviary, UDWR, NHMU and Cocktail Collective.",
+      "Why / thoughts": "Learn about bats and conservation over tequila cocktails with Tracy Aviary, wildlife specialists and Cocktail Collective.",
       "Website": "https://tracyaviary.org/nature-center/special-events/",
       "Social profile": "https://www.instagram.com/tracyaviary/",
       "Extra notes": "",
@@ -202,7 +203,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "American West Heritage Center Fall Harvest Festival + Haunted Hollow",
@@ -217,7 +219,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "American West Heritage Center, Wellsville, Wellsville",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Old-fashioned harvest activities, corn maze, rides and a separate nighttime haunted river hollow. Strong Cache Valley day-to-night anchor.",
+      "Why / thoughts": "Old-fashioned harvest activities, a corn maze and rides by day, with a separate haunted river hollow after dark.",
       "Website": "https://www.awhc.org/fall-festival/",
       "Social profile": "",
       "Extra notes": "",
@@ -286,7 +288,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Annual Creepy Doll Class",
@@ -301,7 +304,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Local Artisan Collective, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Niche but memorable; fun for crafty families with older kids. Class size may be limited.",
+      "Why / thoughts": "Turn a doll into a Halloween decoration in a hands-on craft class.",
       "Website": "https://www.visitogden.com/events/annual-creepy-doll-class-11/",
       "Social profile": "https://www.instagram.com/localartisancollective/",
       "Extra notes": "",
@@ -356,7 +359,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Antelope Island Bison Roundup",
@@ -371,7 +375,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Antelope Island State Park, White Rock Bay, Davis County",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Watch hundreds of riders move nearly 800 bison, with food, educational booths, games and a festival viewing area. Not Halloween-specific, but an extraordinary late-October Utah spectacle.",
+      "Why / thoughts": "Watch riders move the island’s bison herd from a festival viewing area, with food, educational booths and games.",
       "Website": "https://stateparks.utah.gov/parks/antelope-island/bison-roundup/",
       "Social profile": "",
       "Extra notes": "",
@@ -438,7 +442,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Asylum 49",
@@ -453,7 +458,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻👻👻",
       "Location": "Tooele, Tooele",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Real hospital setting; highly immersive and much more intense than family events. Clearly label as older-teen/adult, not family-friendly for little kids.",
+      "Why / thoughts": "A haunted attraction in a former hospital with actor contact and intense scares. Choose your contact level when booking.",
       "Website": "https://www.asylum49.com/events",
       "Social profile": "https://www.instagram.com/asylum49/",
       "Extra notes": "",
@@ -577,7 +582,8 @@ window.SITE_DATA = {
       "scheduleVerifiedOn": "2026-10-06",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Autumn Apparitions 2026 — JKR Gallery",
@@ -592,7 +598,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "1675 N Freedom Blvd, Provo, Provo",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Free spooky-art stop featuring Halloween, death, spirits, goblins and other autumn/apparition themes; useful as a short date-night add-on. Opening reception encourages costumes.",
+      "Why / thoughts": "An art exhibition exploring Halloween, spirits, goblins and autumn apparitions. Costumes are encouraged at the opening reception.",
       "Website": "https://jkr-gallery.myshopify.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -658,7 +664,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Ballet West: Dracula",
@@ -673,7 +680,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Janet Quinney Lawson Capitol Theatre, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Full-scale Gothic ballet with Ballet West Orchestra, theatrical effects and Dracula spectacle. Recommended for ages 8+; one of the strongest major-performing-arts Halloween entries.",
+      "Why / thoughts": "A Gothic ballet with live orchestra, theatrical effects and Dracula’s story on stage. Recommended for ages 8 and older.",
       "Website": "https://www.balletwest.org/events/detail/dracula",
       "Social profile": "https://www.instagram.com/balletwest/",
       "Extra notes": "",
@@ -750,7 +757,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Bates Haunt — 2026 watch",
@@ -765,7 +773,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "1233 Morning Oaks Dr, Taylorsville, Taylorsville",
       "Status": "2026 watch",
-      "Why / thoughts": "Press-covered residential projection-mapping haunt with giant singing pumpkins, flying ghosts and dancing skeletons; featured by local TV and Good Morning America. Watch only: the official site still displays its 2025 schedule as of Sep. 30, 2026. Do not treat those dates as current.",
+      "Why / thoughts": "A residential projection show with singing pumpkins, flying ghosts and dancing skeletons. This season’s operating dates are awaiting confirmation.",
       "Website": "https://bateshaunt.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -812,7 +820,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Beams and Screams — McAuliffe Space Center",
@@ -827,7 +836,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "95 N 400 E, Pleasant Grove, Pleasant Grove",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Halloween laser show with projected ghosts and a playlist spanning Haunted Mansion, Beetlejuice, Thriller, Ghostbusters and more. At the Christa McAuliffe Space Center; a distinctly different laser-show option from Clark Planetarium.",
+      "Why / thoughts": "A Halloween laser show with projected ghosts and music from Haunted Mansion, Beetlejuice, Thriller and Ghostbusters.",
       "Website": "https://www.utahvalley.com/blog/post/holiday-events/",
       "Social profile": "",
       "Extra notes": "",
@@ -886,7 +895,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Beetlejuice House Daybreak",
@@ -901,7 +911,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "10832 Fern Ridge Dr, South Jordan, South Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One of Daybreak's heavily publicized themed homes; elaborate Beetlejuice display and an easy stop on a Daybreak house tour. Media-covered by Axios/Fox13 in prior seasons and present in current 2026 haunt listings.",
+      "Why / thoughts": "An elaborate Beetlejuice-themed display at a private home in Daybreak. View from permitted public areas and respect neighboring homes.",
       "Website": "https://frightmaps.com/metro/salt-lake-city",
       "Social profile": "",
       "Extra notes": "",
@@ -949,7 +959,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "BeMySecret Anime Con Utah 2026",
@@ -964,7 +975,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Zions Bank Stadium, 14787 Academy Pkwy, Herriman, Herriman",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Anime convention + itasha/custom-car show with cosplay, voice actors, vendors, live music and contests. Distinctive hybrid of anime convention and custom-car culture.",
+      "Why / thoughts": "An anime convention and custom-car show with cosplay, voice actors, vendors, live music and contests.",
       "Website": "https://bemysecret.net/pages/utah",
       "Social profile": "https://www.instagram.com/bemysecretevents/",
       "Extra notes": "",
@@ -1019,7 +1030,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/fandom.svg"
+      "placeholder": "assets/art/fandom.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Benson Grist Mill Fall Festival",
@@ -1034,7 +1046,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Benson Grist Mill Historic Site, Tooele, Tooele",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Historic-site fall festival with crafts, food trucks, vendors and free children’s activities. Useful non-haunt Tooele option.",
+      "Why / thoughts": "A fall festival at the historic grist mill, with crafts, food trucks, vendors and free children’s activities.",
       "Website": "https://tooelecountyparksandrec.org/fall-festival-october-18-19/",
       "Social profile": "",
       "Extra notes": "",
@@ -1085,7 +1097,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Big Jack's World — Outlets at Traverse Mountain",
@@ -1212,7 +1225,8 @@ window.SITE_DATA = {
       "scheduleNote": "2026 season range verified from the official Outlets at Traverse Mountain event page.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Black Island Farms / Nightmare Acres",
@@ -1227,7 +1241,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "2075 S 4000 W, Syracuse, Syracuse",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Four-acre haunted corn maze plus Zombie Apocalypse Laser Tag on a long-running family farm with an eight-acre corn maze and pumpkin patch. Nightmare Acres is recommended for roughly ages 12+; daytime farm activities are much gentler.",
+      "Why / thoughts": "A haunted corn maze and zombie laser tag after dark, alongside daytime farm activities and pumpkin picking.",
       "Website": "https://www.blackislandfarms.com/",
       "Social profile": "https://www.instagram.com/blackislandfarms/",
       "Extra notes": "",
@@ -1313,7 +1327,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "BLADE RAVE",
@@ -1387,7 +1402,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Boo-tiful Bussin’ Drag Brunch at The Mercantile on 25th",
@@ -1402,7 +1418,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "The Mercantile on 25th, 2501 Grant Ave, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Halloween-season drag brunch with food, coffee, cocktails and performances in the converted historic Ogden bus depot. Other = guests under 18 are allowed only with a parent or legal guardian; Eventbrite does not impose an adults-only floor.",
+      "Why / thoughts": "Drag performances, brunch, coffee and cocktails in Ogden’s converted historic bus depot. Guests under 18 need a parent or legal guardian.",
       "Website": "https://www.eventbrite.com/e/boo-tiful-bussin-drag-brunch-at-the-mercantile-on-25th-tickets-1990304024916",
       "Social profile": "https://www.instagram.com/themercantile_on25th/",
       "Extra notes": "",
@@ -1458,7 +1474,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Book or Treat — Provo Library",
@@ -1530,7 +1547,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Cache Valley Straw Maze",
@@ -1618,7 +1636,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Canyon Road Haunt",
@@ -1633,7 +1652,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Pleasant Grove / Canyon Road, Pleasant Grove",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Residential drive-through haunt with its own FM soundtrack, designed to be accessible for people who have difficulty walking through conventional displays. Charity/food-drive component; official site also maintains Facebook, TikTok and YouTube.",
+      "Why / thoughts": "A drive-through residential haunt with an FM soundtrack and a food-drive component. Visitors can experience the display from their vehicle.",
       "Website": "https://canyonroadhaunt.com/",
       "Social profile": "https://www.instagram.com/CanyonRoadHaunt/",
       "Extra notes": "",
@@ -1687,7 +1706,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Castle of Chaos",
@@ -1702,7 +1722,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻👻👻",
       "Location": "Midvale, Midvale",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One of Utah's true extreme-haunt options because Level 5 is full-contact; lower tiers let mixed-tolerance groups choose their intensity. Five-ghost rating applies to Level 5 Ultimate Hands On: 18+ only, ID required; guests may be restrained, moved, bagged, kidnapped and separated. Lower-contact Levels 1–4 remain available.",
+      "Why / thoughts": "Choose from five scare levels, from lower-contact experiences to the adults-only full-contact Level 5. At Level 5, actors may restrain, move or separate guests; ID is required.",
       "Website": "https://castleofchaos.com/official-haunted-house/home-page/",
       "Social profile": "https://www.instagram.com/castleofchaos/",
       "Extra notes": "",
@@ -1799,7 +1819,8 @@ window.SITE_DATA = {
       "scheduleNote": "Current October/November dates cross-checked against official/current event calendars.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Center Street Giant Pumpkin Festival",
@@ -1814,7 +1835,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Historic Center Street, Logan, Logan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Official giant-pumpkin weigh-off with a $5,000 first prize, plus a large vendor/festival footprint. Great Pumpkin 5K / Haul-a-Pumpkin 5K starts earlier nearby with separate registration.",
+      "Why / thoughts": "Watch giant pumpkins weighed for prizes at a festival with local vendors. A separately registered pumpkin-carrying 5K takes place nearby.",
       "Website": "https://utahpumpkingrowers.com/events.html",
       "Social profile": "",
       "Extra notes": "",
@@ -1865,7 +1886,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Clearfield Family Fall Festival",
@@ -1880,7 +1902,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "980 S University Park Blvd, Clearfield, Clearfield",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
+      "Why / thoughts": "A family fall gathering in Clearfield.",
       "Website": "https://discoverdavis.com/holiday-haunts-autumn-jaunts/",
       "Social profile": "",
       "Extra notes": "",
@@ -1928,7 +1950,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Clearfield Pumpkin Float",
@@ -1992,7 +2015,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Climb Moab Halloween Party & Costume Contest",
@@ -2056,7 +2080,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Clinton Halloween Walk",
@@ -2121,7 +2146,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Cornbelly's Corn Maze & Pumpkin Fest — Lehi",
@@ -2136,7 +2162,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "3003 N Thanksgiving Way, Lehi, Lehi",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One of Utah's biggest fall destinations: corn maze, pumpkin fest, rides, games, food and nightly light/fireworks programming; Frightbelly's remains a separate haunt row. 60+ attractions; ages 3+ ticketed, 2 and under free.",
+      "Why / thoughts": "A corn maze, pumpkin festival, rides, games, food and evening lights at Thanksgiving Point. Frightbelly’s haunted attractions have separate admission options.",
       "Website": "https://cornbellys.com/products/lehi",
       "Social profile": "",
       "Extra notes": "",
@@ -2240,7 +2266,8 @@ window.SITE_DATA = {
       "scheduleVerifiedOn": "2026-10-06",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Cornbelly's Pumpkin Fest — Spanish Fork",
@@ -2255,7 +2282,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "3687 W 5600 S, Spanish Fork, Spanish Fork",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Less-crowded Cornbelly's location with 30+ attractions, corn maze, train and u-pick pumpkin patch. Separate location from Lehi; generally positioned as the smaller/lower-price option.",
+      "Why / thoughts": "A corn maze, train, u-pick pumpkin patch and more than 30 fall attractions at Cornbelly’s Spanish Fork location.",
       "Website": "https://cornbellys.com/products/spanish-fork",
       "Social profile": "",
       "Extra notes": "",
@@ -2319,7 +2346,8 @@ window.SITE_DATA = {
           "method": "Loaded weekday/weekend ticket variants; no purchase",
           "checked": "2026-10-06"
         }
-      }
+      },
+      "notable_event": false
     },
     {
       "Event / attraction": "Crazy Corn Maze / Nightfall Halloween Park",
@@ -2334,7 +2362,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "8800 S 4000 W, West Jordan, West Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "The long-running Crazy Corn Maze is now the centerpiece of Nightfall Halloween Park, with Fright Lights, games, treats and optional Night Stalkers. Night Stalkers already has its own scare-focused row; this captures the non-haunt/family side.",
+      "Why / thoughts": "A corn maze, Halloween lights, games and treats at Nightfall Halloween Park. Night Stalkers is the park’s separate scare-focused experience.",
       "Website": "https://www.thecrazycornmaze.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -2392,7 +2420,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Creator's Collective Lindon Halloween Market",
@@ -2470,7 +2499,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Creator's Collective SLC Halloween Market",
@@ -2548,7 +2578,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Creature Crawl — Bear River Migratory Bird Refuge",
@@ -2612,7 +2643,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Creatures of the Night",
@@ -2627,7 +2659,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Ogden Nature Center, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Trails after dark, activities, live animal encounters, treats and costumes; very family-friendly. Possibly the best genuinely local Ogden family event.",
+      "Why / thoughts": "Explore trails after dark with live animal encounters, activities, treats and costumes at Ogden Nature Center.",
       "Website": "https://www.visitogden.com/events/creatures-of-the-night/",
       "Social profile": "",
       "Extra notes": "",
@@ -2675,7 +2707,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Creepy Doll Head Necklace Drop-In Bar",
@@ -2750,7 +2783,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "CRIMEWAVE — Goth / Post-Punk / Darkwave Party",
@@ -2765,7 +2799,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "The Urban Lounge, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Very thematic Halloween-weekend option without requiring a formal costume-ball budget. Goth, darkwave, new wave, post-punk and industrial music.",
+      "Why / thoughts": "A dance party with goth, darkwave, new wave, post-punk and industrial music.",
       "Website": "https://www.24tix.com/events/86178334450",
       "Social profile": "",
       "Extra notes": "",
@@ -2815,7 +2849,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Cross E Ranch Fall Festival",
@@ -2830,7 +2865,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "North Salt Lake, Davis County",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Classic patch/maze/cider-donut atmosphere without Utah County drive. Strong north-of-SLC general fall option.",
+      "Why / thoughts": "A pumpkin patch, corn maze and cider-donut outing at a working ranch north of Salt Lake City.",
       "Website": "https://www.crosseranch.com/fall-festival-info",
       "Social profile": "https://www.instagram.com/crosseranch/",
       "Extra notes": "",
@@ -2892,7 +2927,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Cryptids and Their Folklore — U of U Lifelong Learning",
@@ -2958,7 +2994,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Daft Disko — French House & Disco Halloween",
@@ -2973,7 +3010,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "The Urban Lounge, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Daft Punk / Justice / French-house-inspired costume party; relatively affordable adult option. Advance tier ends Oct. 24.",
+      "Why / thoughts": "A costume party with French house and disco inspired by Daft Punk and Justice.",
       "Website": "https://www.24tix.com/event/vwpmbbvxwvgc7okp5i7dmn6ldi",
       "Social profile": "",
       "Extra notes": "",
@@ -3023,7 +3060,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Daj Dolla Halloween Party @ Liquid Joe's",
@@ -3038,7 +3076,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Liquid Joe's, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Live hip-hop plus DJ/costume-party energy; cheaper than many large Halloween events. Early-bird inventory is limited. VIP dinner tables are also available: 4 guests $218 all-in or 6 guests $324 all-in, including Ortega's dinner and cheesecake for each guest.",
+      "Why / thoughts": "Live hip-hop and DJs at a Halloween costume party. VIP tables include a dinner package.",
       "Website": "https://www.ticketfairy.com/event/daj-dolla-salt-lake-city-halloween-party-2026",
       "Social profile": "",
       "Extra notes": "",
@@ -3088,7 +3126,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Dave & Boo-ster's Moonlight Mixer",
@@ -3103,7 +3142,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Dave & Buster's, 140 S Rio Grande St, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Adult Halloween package with banquet food, costume contest, Monster Mash music, activities and 180 minutes of unlimited game play. Advertised as adults-only, but the listing does not state an explicit 18+ or 21+ admission floor; valid ID is required for alcohol service.",
+      "Why / thoughts": "An adults-oriented Halloween evening with banquet food, a costume contest, music and three hours of game play. Ask the organizer about the minimum admission age; alcohol service requires valid ID.",
       "Website": "https://feverup.com/m/753993",
       "Social profile": "https://www.instagram.com/daveandbusters/",
       "Extra notes": "",
@@ -3159,7 +3198,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/food.svg"
+      "placeholder": "assets/art/food.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Davis County Library — October Spooktacular Series",
@@ -3229,7 +3269,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Dead Horse Point — Halloween Night Programs",
@@ -3244,7 +3285,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Dead Horse Point State Park, Moab, Moab",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "A cluster of genuinely Halloween-specific ranger programs: haunted stars, bat detecting, werewolf hike, Monster Mash hike and telescope trick-or-treating. Highlights: Curse of Algol Oct. 10; Bat Bananza Oct. 16; Werewolf Walk Oct. 24; Monster Mash Shrub Shuffle + Halloween Star Party Oct. 31.",
+      "Why / thoughts": "Ranger-led Halloween hikes, bat programs, constellation stories and telescope viewing at Dead Horse Point. Activities vary by date.",
       "Website": "https://stateparks.utah.gov/parks/dead-horse/events/",
       "Social profile": "",
       "Extra notes": "",
@@ -3296,7 +3337,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Día de los Muertos — Kearns Library",
@@ -3311,7 +3353,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Kearns Library, Salt Lake Valley",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Ofrenda, live performances, crafts and snack. Separate from the larger UCCC event.",
+      "Why / thoughts": "Celebrate Día de los Muertos with an ofrenda, live performances, crafts and a snack at Kearns Library.",
       "Website": "https://slcls.libnet.info/event/17495611",
       "Social profile": "https://www.instagram.com/thecountylibrary/",
       "Extra notes": "",
@@ -3368,7 +3410,8 @@ window.SITE_DATA = {
         "Mexican / Latino"
       ],
       "theme": "dayofdead",
-      "placeholder": "assets/art/seasonal/dayofdead-community.svg"
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Día de los Muertos — Shops at Riverwoods",
@@ -3383,7 +3426,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "The Shops at Riverwoods, Provo, Provo",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Music, cultural performances, children’s activities, food, artisan vendors, giveaways and Catrina/Catrin costume contest. Strong Utah County cultural option.",
+      "Why / thoughts": "Music, cultural performances, children’s activities, food, artisan vendors and a Catrina/Catrin costume contest at Riverwoods.",
       "Website": "https://www.playeasy.com/events/01a0ae2c-5d73-7f06-a934-1b0d7e22fe4c",
       "Social profile": "https://www.instagram.com/shopsatriverwoods/",
       "Extra notes": "",
@@ -3437,7 +3480,8 @@ window.SITE_DATA = {
         "Mexican / Latino"
       ],
       "theme": "dayofdead",
-      "placeholder": "assets/art/seasonal/dayofdead-community.svg"
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Día de los Muertos — Utah Cultural Celebration Center",
@@ -3452,7 +3496,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Utah Cultural Celebration Center, West Valley City, West Valley City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Traditional dance/music, food, drinks, art and hands-on activities. One of the stronger non-Ogden Día events.",
+      "Why / thoughts": "Celebrate Día de los Muertos through traditional dance, music, art, food and hands-on activities.",
       "Website": "https://www.culturalcelebration.org/dayofthedead",
       "Social profile": "",
       "Extra notes": "",
@@ -3498,7 +3542,8 @@ window.SITE_DATA = {
         "Mexican / Latino"
       ],
       "theme": "dayofdead",
-      "placeholder": "assets/art/seasonal/dayofdead-community.svg"
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Dibble Farms Fall Festival",
@@ -3562,7 +3607,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Dinos in the Dark",
@@ -3577,7 +3623,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "George S. Eccles Dinosaur Park, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Excellent family option because the scare level can be calibrated. One of the strongest Ogden-specific family Halloween picks.",
+      "Why / thoughts": "An after-dark Dinosaur Park outing with Halloween decorations and different scare levels for visitors to choose from.",
       "Website": "https://dinosaurpark.org/dinos-dark/",
       "Social profile": "https://www.youtube.com/@ogdendinosaurparkofficial",
       "Extra notes": "",
@@ -3631,7 +3677,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Disney's Hocus Pocus in Concert",
@@ -3646,7 +3693,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Browning Center (Ogden) + Abravanel Hall (Salt Lake City), Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Utah Symphony performs the film score live with Hocus Pocus; costumes encouraged and Salt Lake performances add witch meet-and-greets/trivia. One of the clearest touring/concert-style Halloween events in Utah this year.",
+      "Why / thoughts": "Watch Hocus Pocus while Utah Symphony performs its score live. Costumes are encouraged; Salt Lake performances also offer witch meet-and-greets and trivia.",
       "Website": "https://utahsymphony.org/event/id/38957/",
       "Social profile": "https://www.instagram.com/utahsymphony/",
       "Extra notes": "",
@@ -3706,7 +3753,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Dog Daze in the Maze — Wheeler Historic Farm",
@@ -3721,7 +3769,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Wheeler Historic Farm, Murray, Murray",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Maze, dog trick-or-treating, off-leash area and wagon ride. Costumes encouraged; no formal contest. Registration opens Sept. 28 at 9 AM.",
+      "Why / thoughts": "Bring a dog for maze exploring, canine trick-or-treating, an off-leash area and a wagon ride. Costumes are encouraged; registration is required.",
       "Website": "https://www.saltlakecounty.gov/wheeler-farm/events--program/",
       "Social profile": "https://www.instagram.com/wheelerhistoricfarm/",
       "Extra notes": "",
@@ -3774,7 +3822,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Doomsday Disco — UMOCA Annual Halloween Bash",
@@ -3789,7 +3838,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Utah Museum of Contemporary Art, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Exactly the kind of less-obvious Halloween programming that makes the list feel thorough: contemporary-art museum Halloween bash. Other = adult-oriented museum Halloween event; the current listing does not state a specific 18+ or 21+ minimum.",
+      "Why / thoughts": "A Halloween party at the Utah Museum of Contemporary Art. The event is oriented toward adults; ask the organizer about admission ages.",
       "Website": "https://utahmoca.org/whats-on/",
       "Social profile": "https://www.instagram.com/utahmoca/",
       "Extra notes": "",
@@ -3846,7 +3895,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Dracula vs. the Mummy — Off Broadway Theatre",
@@ -3907,7 +3957,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Dreamwalk Park — Halloween 2026",
@@ -3922,7 +3973,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Orem, Orem",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Half-mile immersive park with robots, characters, quests, light shows and games. Best as the paid anchor of the one Utah County day.",
+      "Why / thoughts": "A half-mile interactive park with robots, characters, quests, light shows and games.",
       "Website": "https://dreamwalk.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -3970,7 +4021,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/scenic.svg"
+      "placeholder": "assets/art/scenic.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Eagle Mountain Halloween Town",
@@ -3985,7 +4037,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Cory Wride Memorial Park, 5806 N Pony Express Pkwy, Eagle Mountain, Utah County",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Popular city Halloween gathering with food trucks, trick-or-treating, activities and vendors.",
+      "Why / thoughts": "A city Halloween gathering with food trucks, trick-or-treating, activities and vendors.",
       "Website": "https://www.utahvalley.com/event/eagle-mountains-halloween-town-2026/37156/",
       "Social profile": "",
       "Extra notes": "",
@@ -4033,7 +4085,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Element 11 / Utah Regional Decompression — 2026 watch",
@@ -4048,7 +4101,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "TBD; historical Salt Lake-area venues, Salt Lake City / Utah",
       "Status": "Historical lead",
-      "Why / thoughts": "Element 11's Utah burner community historically held fall Decompression events; the 2010 Halloween-weekend edition had multiple DJ stages, art cars, fire/aerial/drum performance and 800+ attendees. Historical lead only. The archive confirms October Decompression events, but no 2026 Halloween revival was found.",
+      "Why / thoughts": "A gathering rooted in Utah’s burner community, historically combining DJs, participatory art and performance. A current-season edition has not been announced.",
       "Website": "https://www.element11.org/history/timeline/",
       "Social profile": "https://www.instagram.com/element11utah/",
       "Extra notes": "",
@@ -4100,7 +4153,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Evans Family Farm Pumpkin Patch",
@@ -4115,7 +4169,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "2600 W Main St, Lehi, Lehi",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Long-running, lower-key Lehi patch with lots of pumpkin varieties, small animals, corn play area and photo spots; no admission fee. Current statewide 2026 event coverage confirms the patch; hours can vary with harvest/weather.",
+      "Why / thoughts": "Pick from a range of pumpkin varieties and explore small-animal, corn-play and photo areas at this Lehi farm. Admission is free; hours depend on harvest and weather.",
       "Website": "https://www.facebook.com/EvansFamilyFarmLehi",
       "Social profile": "",
       "Extra notes": "",
@@ -4168,7 +4222,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Fabio Frizzi — FRIZZI2FULCI",
@@ -4183,7 +4238,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "The Urban Lounge, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Italian horror composer Fabio Frizzi performs his Lucio Fulci-oriented FRIZZI2FULCI concert program. A genuine touring horror-score concert rather than an ordinary October gig.",
+      "Why / thoughts": "Italian horror composer Fabio Frizzi performs music associated with filmmaker Lucio Fulci in his FRIZZI2FULCI concert program.",
       "Website": "https://snspresents.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -4234,7 +4289,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Fall Market @ Country Gardens",
@@ -4249,7 +4305,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Country Gardens & Nursery, Heber City, Heber City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Local vendors, food, bounce house, pumpkin painting and petting zoo; Hallmark-fall vibe. Good early-October bundle filler.",
+      "Why / thoughts": "A fall market with local vendors, food, a bounce house, pumpkin painting and a petting zoo.",
       "Website": "https://www.gohebervalley.com/country-gardens-mountain-market/",
       "Social profile": "",
       "Extra notes": "",
@@ -4298,7 +4354,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Farmers Market Lehi — Halloween Night Market",
@@ -4313,7 +4370,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Vets Park, 1020 W Main, Lehi, Lehi",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Simple but useful farm-market option: local produce, crafts, honey and Halloween-night-market atmosphere. Official site specifically labels Oct. 16 as Halloween Market.",
+      "Why / thoughts": "A Halloween night market with local produce, crafts and honey at Lehi Farmers Market.",
       "Website": "https://farmersmarketlehi.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -4362,7 +4419,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Fear & Lust — Utah Horror x Romance Day",
@@ -4438,7 +4496,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Fear Factory",
@@ -4453,7 +4512,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻👻",
       "Location": "666 W 800 S, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Six-building, multi-story industrial haunt with underground passages and major production value; Touch of Fear adds actor contact but is not an extreme full-contact tier. 2026 season opens Sep. 18 and runs select nights through Nov. 1.",
+      "Why / thoughts": "An industrial haunted attraction spanning six buildings, multiple floors and underground passages. The optional Touch of Fear ticket adds actor contact.",
       "Website": "https://fearfactoryslc.com/",
       "Social profile": "https://www.instagram.com/fearfactoryslc/",
       "Extra notes": "",
@@ -4551,7 +4610,8 @@ window.SITE_DATA = {
       "scheduleNote": "Current 2026 dates cross-checked against event calendar; official site confirms select-night season.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Field of Fright — Glen Ray's Corn Maze",
@@ -4626,7 +4686,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Field of Screams — Staheli Family Farm",
@@ -4641,7 +4702,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻👻",
       "Location": "3400 S Washington Fields Rd, Washington, Southern Utah",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Southern Utah's major outdoor scare attraction with cinematic sets, effects and live actors. Not recommended for children under 12; separate ticket from general farm admission.",
+      "Why / thoughts": "An outdoor haunted attraction with staged sets, effects and live actors. Not recommended for children under 12; admission is separate from the farm’s daytime activities.",
       "Website": "https://stahelifamilyfarm.com/field-of-screams/",
       "Social profile": "",
       "Extra notes": "",
@@ -4736,7 +4797,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Field of Screams Lights on Tour — Staheli Family Farm",
@@ -4751,7 +4813,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "3400 S Washington Fields Rd, Washington, Southern Utah",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Daylight/low-scare tour through the Field of Screams sets without scare actors or nighttime effects. Good behind-the-scenes alternative for people who want the sets without the full haunt.",
+      "Why / thoughts": "Tour the Field of Screams sets in daylight without scare actors or nighttime effects.",
       "Website": "https://stahelifamilyfarm.com/events/",
       "Social profile": "",
       "Extra notes": "",
@@ -4841,7 +4903,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Fiesta Fright Haunted House",
@@ -4856,7 +4919,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻👻",
       "Location": "171 E 1160 S, St. George, St. George",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Two-story indoor haunted house in the former Fiesta Fun building; useful weather-independent Southern Utah haunt. Recommended 13+; ages 7 and under not permitted; 8–12 must be accompanied by an adult.",
+      "Why / thoughts": "A two-story indoor haunt in the former Fiesta Fun building. Recommended for ages 13 and older; children 7 and under are not admitted, and ages 8–12 need an adult.",
       "Website": "https://fiestafuncenter.com/fiesta-fright/",
       "Social profile": "",
       "Extra notes": "",
@@ -4902,7 +4965,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Franck's Autumn Harvest Dinner",
@@ -4917,7 +4981,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Franck's, 6263 S Holladay Blvd, Holladay, Holladay",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Not Halloween-specific, but a polished fall tasting experience close to Cottonwood Heights and useful for the broader fall guide. One-night seasonal dinner built around fall flavors.",
+      "Why / thoughts": "A one-night tasting dinner built around autumn ingredients and flavors.",
       "Website": "https://www.opentable.com/francks",
       "Social profile": "https://www.instagram.com/francks__restaurant/",
       "Extra notes": "",
@@ -4970,7 +5034,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/food.svg"
+      "placeholder": "assets/art/food.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Franck's Trick or Treat Tasting Menu 2026",
@@ -4985,7 +5050,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Franck's, 6263 S Holladay Blvd, Holladay, Holladay",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Strong close-to-home Halloween date-night option: five-course themed menu, take-home trick-or-treat bag and costume incentives. Costumes heavily encouraged; best costume wins a future gift card and guests are entered for additional gift-card drawings.",
+      "Why / thoughts": "A five-course Halloween tasting menu with a take-home treat bag and costume incentives, including gift-card prizes.",
       "Website": "https://www.opentable.com/francks",
       "Social profile": "https://www.instagram.com/francks__restaurant/",
       "Extra notes": "",
@@ -5038,7 +5103,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/food.svg"
+      "placeholder": "assets/art/food.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Fright Night Flick + Ghost Tours — Lindsey Gardens",
@@ -5053,7 +5119,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Lindsey Gardens, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Hocus Pocus plus two short ghost tours; surprisingly strong free city event. Bring a flashlight for the hill during ghost-tour segments.",
+      "Why / thoughts": "Watch Hocus Pocus and join short ghost tours at Lindsey Gardens. Bring a flashlight for the hillside walks.",
       "Website": "https://www.slc.gov/events/2026/04/02/fright-night-flick-2/",
       "Social profile": "https://www.facebook.com/SLCPublicLands",
       "Extra notes": "",
@@ -5109,7 +5175,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Frightbelly's @ Cornbelly's Lehi",
@@ -5124,7 +5191,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Lehi, Lehi",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Strong mixed-age option because non-haunt fall activities are on site too. Good if a family wants both fall-festival and scary components.",
+      "Why / thoughts": "Haunted attractions at Cornbelly’s Lehi location, with daytime fall activities available on the same site. Check which attractions your ticket includes.",
       "Website": "https://cornbellys.com/products/lehi",
       "Social profile": "https://www.instagram.com/cornbellys/",
       "Extra notes": "",
@@ -5194,7 +5261,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Frightmares at Lagoon",
@@ -5209,7 +5277,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Farmington, Farmington",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Rides + Halloween atmosphere + haunted attractions makes admission feel like a full experience. Best for a full day; check haunt age/intensity individually.",
+      "Why / thoughts": "Lagoon rides, Halloween decorations and haunted attractions in one park visit. Individual haunts have different age and intensity guidance.",
       "Website": "https://www.lagoonpark.com/park-info/schedule-hours/",
       "Social profile": "https://www.instagram.com/lagoonpark/",
       "Extra notes": "",
@@ -5354,7 +5422,8 @@ window.SITE_DATA = {
       "scheduleVerifiedOn": "2026-10-06",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Garden After Dark: Adventures in Neverland",
@@ -5369,7 +5438,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Red Butte Garden, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Excellent value; glowing storybook environments and interactive storytelling. Weeknight is best value.",
+      "Why / thoughts": "Glowing storybook environments and interactive storytelling inspired by Neverland at Red Butte Garden.",
       "Website": "https://redbuttegarden.org/events/garden-after-dark/",
       "Social profile": "https://www.instagram.com/redbuttegarden/",
       "Extra notes": "",
@@ -5492,7 +5561,8 @@ window.SITE_DATA = {
       "scheduleVerifiedOn": "2026-10-06",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Gardner Village WitchFest",
@@ -5507,7 +5577,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "West Jordan, West Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Best festive-shopping atmosphere; easy to tailor to time/budget. Weekdays reduce kid/crowd intensity.",
+      "Why / thoughts": "Witch displays, seasonal shopping and Halloween activities throughout Gardner Village. Choose individual activities to fit your visit and budget.",
       "Website": "https://www.gardnervillage.com/witch-fest",
       "Social profile": "https://www.instagram.com/gardnervillage/",
       "Extra notes": "",
@@ -5660,7 +5730,8 @@ window.SITE_DATA = {
       "scheduleVerifiedOn": "2026-10-06",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Gateway Giant Pumpkinpalooza + Zombie Walk",
@@ -5730,7 +5801,8 @@ window.SITE_DATA = {
       "scheduleNote": "The organizer’s posted dates differ. Check the event page before making plans.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Get Freaky: Neon Nightmare",
@@ -5745,7 +5817,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "The Great Saltair, alta",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Big-scale Halloween nightlife that genuinely runs late; expensive compared with smaller parties. Parking is separately ticketed; check current festival tier before purchase.",
+      "Why / thoughts": "A Halloween electronic-music festival with late-night performances and costumes. Parking requires a separate ticket.",
       "Website": "https://getfreakyslc.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -5814,7 +5886,8 @@ window.SITE_DATA = {
       "scheduleVerifiedOn": "2026-10-06",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Ghosts of Camp Floyd",
@@ -5829,7 +5902,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Camp Floyd State Park Museum, Utah County / Cedar Valley",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Cheap real historic-site paranormal investigation; only 40 participants per session. Bring flashlights/cameras/recorders if desired.",
+      "Why / thoughts": "Investigate paranormal stories at a historic military site in a group limited to 40 participants. Bring a flashlight; cameras and recorders are optional.",
       "Website": "https://stateparks.utah.gov/parks/camp-floyd/events/",
       "Social profile": "https://www.instagram.com/utahstateparks/",
       "Extra notes": "",
@@ -5888,7 +5961,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Gibson's Green Acres Fall Festival",
@@ -5958,7 +6032,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Ginormous Pumpkin Regatta",
@@ -5973,7 +6048,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Daybreak, South Jordan, South Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Giant pumpkins are hollowed into boats and raced across the lake — exactly the kind of oddball fall spectacle this guide should capture. Confirm exact viewing/parking instructions before heading out.",
+      "Why / thoughts": "Watch racers paddle across the lake in boats carved from giant pumpkins.",
       "Website": "https://utahpumpkingrowers.com/events.html",
       "Social profile": "",
       "Extra notes": "",
@@ -6022,7 +6097,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Glen Ray's Corn Maze & Pumpkin Patch",
@@ -6037,7 +6113,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "1750 W 8000 S, Spanish Fork, Spanish Fork",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Seventh-generation farm with a large corn maze, 60+ pumpkin varieties, animals and 20+ daytime activities. Field of Fright remains separately listed; this captures the substantial daytime/general-admission experience.",
+      "Why / thoughts": "A working-farm outing with a corn maze, dozens of pumpkin varieties, animals and daytime activities. Field of Fright is the separate nighttime haunt.",
       "Website": "https://glenrayscornmaze.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -6103,7 +6179,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Goblin Valley — Spooky Dark-Sky & Wildlife Programs",
@@ -6172,7 +6249,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Golden Braid’s Annual Spookytown Party",
@@ -6241,7 +6319,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Gordon's Family Farm Fall Festival",
@@ -6319,7 +6398,8 @@ window.SITE_DATA = {
           "method": "General admission variant on purchase choices page, no purchase",
           "checked": "2026-10-06"
         }
-      }
+      },
+      "notable_event": false
     },
     {
       "Event / attraction": "Granville Graveyard",
@@ -6334,7 +6414,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "9179 Granville Cir, Sandy, Sandy",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Long-running animated graveyard display synchronized to music; one of the Sandy home displays singled out by local media. Historically uses 99.9 FM for synchronized music; media-covered destination rather than a random neighborhood pin.",
+      "Why / thoughts": "An animated residential graveyard display with synchronized music. Respect neighbors and follow posted viewing guidance.",
       "Website": "https://frightmaps.com/houses/utah/granville-graveyard",
       "Social profile": "",
       "Extra notes": "",
@@ -6384,7 +6464,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Great Pumpkin 5K — Haul a Pumpkin",
@@ -6448,7 +6529,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Grow Ogden Fall Farm Festival",
@@ -6463,7 +6545,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Pumpkin patch, bounce house, games, pizza, bake sale and farm activities. Cheap, local, easy recommendation.",
+      "Why / thoughts": "A community farm festival with pumpkins, a bounce house, games, pizza and a bake sale.",
       "Website": "https://www.visitogden.com/events/grow-ogden-fall-farm-festival-bake-sale/",
       "Social profile": "https://www.instagram.com/visitogden/",
       "Extra notes": "",
@@ -6519,7 +6601,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Cocktails — Bitters Lab x U of U",
@@ -6534,7 +6617,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Bitters Lab Studio, 850 S 400 W #117, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Hands-on mixology class making two Halloween cocktails; costumes encouraged. Lifelong Learning classes are 18+; only one seat remained when checked Sep. 30.",
+      "Why / thoughts": "Make two Halloween cocktails in a hands-on mixology class. Costumes are encouraged; check registration availability.",
       "Website": "https://continue.utah.edu/lifelong/class/llfw_227_halloween_cocktails",
       "Social profile": "",
       "Extra notes": "",
@@ -6586,7 +6669,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Cruise — CLAS Ropes Course",
@@ -6601,7 +6685,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "3606 W Center St, Provo, Provo",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "20–25 minute Provo River boat ride with 100+ carved pumpkins, pirate/spooky interactions and a family Halloween movie. Distinctive, low-scare Halloween date/family option; boats seat up to 35.",
+      "Why / thoughts": "A 20–25 minute Provo River boat ride past carved pumpkins, with pirate and spooky encounters and a family Halloween movie.",
       "Website": "https://www.utahvalley.com/event/halloween-cruise/36717/",
       "Social profile": "",
       "Extra notes": "",
@@ -6657,7 +6741,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/scenic.svg"
+      "placeholder": "assets/art/scenic.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Family Night — Bean Life Science Museum",
@@ -6724,7 +6809,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Family Night — Brigham City Museum",
@@ -6788,7 +6874,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Festival & Spook Alley — Sandy Library",
@@ -6803,7 +6890,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Sandy Library, Sandy",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Spook alley, games and trick-or-treating. Free all-ages library option.",
+      "Why / thoughts": "An all-ages library Halloween gathering with a spook alley, games and trick-or-treating.",
       "Website": "https://slcls.libnet.info/event/17286483",
       "Social profile": "https://www.instagram.com/thecountylibrary/",
       "Extra notes": "",
@@ -6861,7 +6948,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Havoc Demolition Derby",
@@ -6876,7 +6964,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Golden Spike Event Center area, Ogden / Weber",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Not a haunt, but a strong Halloween-adjacent spectacle for motorsports families. Bring hearing protection for kids.",
+      "Why / thoughts": "A Halloween-themed demolition derby with crashing vehicles and loud engines. Hearing protection is useful, especially for children.",
       "Website": "https://www.visitogden.com/events/halloween-havoc-demolition-derby-3/",
       "Social profile": "https://www.instagram.com/visitogden/",
       "Extra notes": "",
@@ -6930,7 +7018,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/active.svg"
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Ice Skating — Cottonwood Heights",
@@ -6994,7 +7083,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/active.svg"
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Lift Rides — Sundance",
@@ -7009,7 +7099,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "8841 N Alpine Loop Rd, Sundance, Sundance",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "30–45 minute nighttime chairlift ride with light spooky theming, treats and hot chocolate; strong date-night option. Family-friendly but Sundance recommends kids 10+; dress warmly. Halloween ZipTour also runs Oct 16–17.",
+      "Why / thoughts": "A 30–45 minute nighttime chairlift ride with light Halloween theming, treats and hot chocolate. Sundance recommends ages 10 and older; dress for cold mountain weather.",
       "Website": "https://www.sundanceresort.com/events/halloween-lift-rides/",
       "Social profile": "",
       "Extra notes": "",
@@ -7107,7 +7197,8 @@ window.SITE_DATA = {
       "scheduleVerifiedOn": "2026-10-06",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/active.svg"
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Makers Market — Downtown Daybreak",
@@ -7122,7 +7213,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Downtown Daybreak / America First Square, South Jordan, South Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "30+ vendors with Halloween decor, gifts, treats, clothing, books, jewelry and other local goods. Good suburban-market option that isn't just a pumpkin patch.",
+      "Why / thoughts": "Browse local vendors selling Halloween decor, gifts, treats, clothing, books and jewelry.",
       "Website": "https://www.americafirstsquare.com/events-activities/dtdb-5214",
       "Social profile": "https://www.instagram.com/downtowndaybreak/",
       "Extra notes": "",
@@ -7177,7 +7268,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Storytelling Spooktacular",
@@ -7192,7 +7284,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Peery's Egyptian Theatre, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Family-accessible spooky storytelling with a built-in intensity ramp. Excellent free option; encore Oct. 30 at WSU Davis with new stories.",
+      "Why / thoughts": "Spooky storytelling that builds in intensity, with gentler stories earlier in the program. The WSU Davis encore features a different set of stories.",
       "Website": "https://www.visitogden.com/events/halloween-storytelling-spooktacular/",
       "Social profile": "https://www.instagram.com/visitogden/",
       "Extra notes": "",
@@ -7248,7 +7340,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Town | A Nightmare Before Christmas Pop-Up Bar",
@@ -7263,7 +7356,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "The Rabbit Hole at Lake Effect, 155 W 200 S, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "A genuinely immersive Halloween dining/cocktail pop-up with custom décor, themed menu and cocktails; much more distinctive than a generic costume party. 21+ only. Reservation ticket does not include food or drinks; no refunds or transfers. Basement venue is stairs-only.",
+      "Why / thoughts": "A themed Halloween cocktail and dining pop-up in a basement venue. Ages 21 and older; stairs are required. Reservation tickets exclude food and drinks and are nonrefundable.",
       "Website": "https://www.lakeeffectslc.com/nightmare-before-christmas-popup",
       "Social profile": "https://www.instagram.com/lakeeffectslc/",
       "Extra notes": "",
@@ -7324,7 +7417,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Halloween Train @ Heber Valley Railroad",
@@ -7339,7 +7433,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Heber Valley Railroad Depot, Heber / Wasatch Back",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "90-minute themed ride with costumed characters; great destination-style family option. Likely worth advance booking.",
+      "Why / thoughts": "A 90-minute Halloween train ride with costumed characters aboard Heber Valley Railroad.",
       "Website": "https://www.gohebervalley.com/halloween-train/",
       "Social profile": "",
       "Extra notes": "",
@@ -7432,7 +7526,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/scenic.svg"
+      "placeholder": "assets/art/scenic.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Hansel & Gretel Storytelling Walk — Layton",
@@ -7498,7 +7593,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Happy Pumpkin Corn Maze",
@@ -7513,7 +7609,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "3462 W 2900 S, West Haven, Ogden / Weber",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Large corn maze and family fall activities with a separate Field of Fear option after dark. Strong Weber County farm option.",
+      "Why / thoughts": "A corn maze and family farm activities by day, with the separate Field of Fear haunt after dark.",
       "Website": "https://www.happypumpkinmaze.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -7560,7 +7656,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Harris Halloween House",
@@ -7575,7 +7672,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "5360 S 3400 W, Roy, Roy",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Well-known Roy front-yard haunt with multiple themed rooms; has drawn regional media coverage and visitors for years. Media-covered home haunt; free public attraction.",
+      "Why / thoughts": "A free front-yard haunt with multiple themed rooms at a private home in Roy. Follow posted viewing guidance and respect neighbors.",
       "Website": "https://frightmaps.com/haunted-houses/utah/roy",
       "Social profile": "",
       "Extra notes": "",
@@ -7625,7 +7722,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Haunt on Aster",
@@ -7640,7 +7738,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "9941 S Aster Ln, Sandy, Sandy",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Large Sandy home haunt with multiple themed zones including witches, clowns and farm/Hell areas; singled out by Axios. Included because it meets the media-publicized residential-destination standard.",
+      "Why / thoughts": "A residential haunt with witches, clowns and other themed zones at a private home in Sandy. Follow posted visitor guidance.",
       "Website": "https://frightmaps.com/metro/salt-lake-city",
       "Social profile": "",
       "Extra notes": "",
@@ -7688,7 +7786,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Haunted Forest",
@@ -7703,7 +7802,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻👻",
       "Location": "American Fork, American Fork",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Destination-style wooded trail with midway/bonfire atmosphere. Outdoor/weather considerations.",
+      "Why / thoughts": "An outdoor haunted trail through the woods, with a midway and bonfire atmosphere. Dress for the weather and uneven ground.",
       "Website": "https://hauntedforestutah.com/",
       "Social profile": "https://www.instagram.com/hauntedforestaf/",
       "Extra notes": "",
@@ -7789,7 +7888,8 @@ window.SITE_DATA = {
       "scheduleNote": "Current dates cross-checked against 2026 event calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Haunted Hollow",
@@ -7804,7 +7904,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻👻",
       "Location": "West Haven / Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "13 wooded acres; best true scary-haunt option in the Ogden area. Good northern recommendation for scare-seekers.",
+      "Why / thoughts": "An outdoor haunted attraction across 13 wooded acres, with scares intended for visitors who want an intense experience.",
       "Website": "https://hauntedhollowutah.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -7877,7 +7977,8 @@ window.SITE_DATA = {
       "scheduleNote": "2026 operating days verified against official schedule.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "HAUNTED Provo — Night 5K + Half/5K/Kids Run",
@@ -7942,7 +8043,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/active.svg"
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "HAUNTED Salt Lake City — Night 5K + Half/5K/Kids Run",
@@ -8007,7 +8109,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/active.svg"
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Haunted Story Room — Provo Library",
@@ -8022,7 +8125,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Provo City Library, Provo",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Ghostly craft, haunted I Spy, spooky snack and bravery test. Library-specific seasonal programming.",
+      "Why / thoughts": "A library Halloween activity with crafts, haunted I Spy, a spooky snack and a bravery challenge.",
       "Website": "https://www.provolibrary.gov/childrenscorner",
       "Social profile": "https://www.instagram.com/provolibrary/",
       "Extra notes": "",
@@ -8081,7 +8184,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Haunted Wood Cove",
@@ -8096,7 +8200,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "1993 Gubler Dr, Santa Clara, Southern Utah",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Full-size pirate ship, firing cannons, singing skeletons and a walkthrough; grew from a front-yard display into a major Southern Utah Halloween tradition. Current 2026 local-media feature confirms operation; donations help sustain the display and support animal rescues.",
+      "Why / thoughts": "An outdoor walkthrough with a full-size pirate ship, cannon effects and singing skeletons. Donations support the display and animal rescues.",
       "Website": "https://www.hauntedwoodcove.com/home",
       "Social profile": "",
       "Extra notes": "",
@@ -8144,7 +8248,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "HawkWatch — Birds in the Lab!",
@@ -8212,7 +8317,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Heber City Historic Ghost Tours",
@@ -8227,7 +8333,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Timpanogos Valley Theatre, 90 N 100 W, Heber City, Heber City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One-hour walking tour of downtown Heber's ghost stories and history; a notable gap in the prior ghost-tour coverage. Family-friendly but not recommended for very small children; outdoor walking and some stairs.",
+      "Why / thoughts": "A one-hour walking tour combining downtown Heber history with ghost stories. The route includes outdoor walking and some stairs and is not recommended for very young children.",
       "Website": "https://timpvalleytheatre.com/upcoming-events/heber-city-historic-ghost-tours",
       "Social profile": "",
       "Extra notes": "",
@@ -8280,7 +8386,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Heber Halloween Fest",
@@ -8295,7 +8402,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Heber Main Street Park, Heber / Wasatch Back",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Very complete family event: trick-or-treating, carnival, food trucks, entertainment, mad scientist demo. Strong Wasatch Back family recommendation.",
+      "Why / thoughts": "Trick-or-treating, carnival activities, food trucks, entertainment and a mad-scientist demonstration at a city Halloween festival.",
       "Website": "https://www.gohebervalley.com/heber-halloween-fest/52/",
       "Social profile": "",
       "Extra notes": "",
@@ -8343,7 +8450,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Hee Haw Farms Fall Festival",
@@ -8358,7 +8466,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "150 S 2000 W, Pleasant Grove, Pleasant Grove",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Full fall farm experience: pumpkin patch, hayrides, petting farm, slides, corn pit and games. Giant Pumpkin Drop already has its own row; Halloween Festival is Oct 31, 4–8 PM.",
+      "Why / thoughts": "A pumpkin patch, hayrides, petting farm, slides, corn pit and games at Hee Haw Farms.",
       "Website": "https://heehawfarms.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -8414,7 +8522,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Hee Haw Farms Giant Pumpkin Drop",
@@ -8429,7 +8538,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Hee Haw Farms, Pleasant Grove, Pleasant Grove",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Giant pumpkins are dropped from height for a charity event — visual, destructive and very Halloween-season appropriate. Check Hee Haw Farms for farm-admission details closer to the event.",
+      "Why / thoughts": "Watch giant pumpkins dropped from a height at a farm charity event. Check the admission options for access to other farm activities.",
       "Website": "https://utahpumpkingrowers.com/events.html",
       "Social profile": "",
       "Extra notes": "",
@@ -8477,7 +8586,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Hines Mansion Halloween Tour",
@@ -8542,7 +8652,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Historic 25th Street Roaring 20s Halloween Dinner & Tour",
@@ -8557,7 +8668,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Stellas on 25th, 225 Historic 25th Street, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Dinner, a photo booth, scavenger hunt and historic walking tour explore Ogden’s Roaring 20s and Junction City history. Costumes are required. Listed for adults; ask the organizer about the minimum age.",
+      "Why / thoughts": "Dinner, a photo booth, scavenger hunt and a historic walk explore Ogden’s Roaring 20s and Junction City history. Costumes are required; ask about the minimum age.",
       "Website": "https://tourogden.com/halloween-event/",
       "Social profile": "",
       "Extra notes": "",
@@ -8605,7 +8716,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/food.svg"
+      "placeholder": "assets/art/food.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Historic Downtown Ghost Tour — Logan",
@@ -8620,7 +8732,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Thatcher-Young Mansion, 35 W 100 S, Logan, Logan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Guided walking tour through downtown Logan’s ghost stories and haunted-history sites. Family-friendly on paper, but not recommended for small children.",
+      "Why / thoughts": "A guided walking tour through downtown Logan’s ghost stories and haunted-history sites. Not recommended for young children.",
       "Website": "https://www.logandowntown.org/ghost-tour.html",
       "Social profile": "",
       "Extra notes": "",
@@ -8674,7 +8786,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Hocus Pocus Spooktacular — The Ballpark",
@@ -8689,7 +8802,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "The Ballpark at America First Square, South Jordan, South Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Hocus Pocus screening plus costume parade, trick-or-treat stations, photo ops and spooky pre-show entertainment. A genuine parade entry, not just a costume contest.",
+      "Why / thoughts": "A Hocus Pocus screening with a costume parade, trick-or-treat stations, photo areas and pre-show entertainment.",
       "Website": "https://www.downtowndaybreak.com/events/ballpark-hocus-pocus-spooktacular",
       "Social profile": "https://www.instagram.com/downtowndaybreak/",
       "Extra notes": "",
@@ -8743,7 +8856,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Hogle Halloween: A Boo Lights Experience",
@@ -8758,7 +8872,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Utah's Hogle Zoo, 2600 Sunnyside Ave, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Strong family-friendly Halloween light experience with immersive displays, interactive play and live entertainment; much gentler than a haunt. Officially branded Hogle Halloween: A Boo Lights Experience. Most animal habitats are dark/closed after hours; allow about 90 minutes. Eccles Express and carousel are $3.50 per ride. Costumes encouraged with zoo safety restrictions.",
+      "Why / thoughts": "An after-hours zoo walk with Halloween lights, interactive activities and live entertainment. Allow about 90 minutes; most animal habitats are closed or dark, and rides cost extra.",
       "Website": "https://www.hoglezoo.org/hogle-halloween/",
       "Social profile": "https://www.instagram.com/hoglezoo/",
       "Extra notes": "",
@@ -8908,7 +9022,8 @@ window.SITE_DATA = {
       "scheduleVerifiedOn": "2026-10-06",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Holladay Halloween Bash — County Library",
@@ -8923,7 +9038,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Holladay Library, Holladay",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Games, crafts, treats and an all-ages costume parade. Costume parade makes it stand out.",
+      "Why / thoughts": "An all-ages library Halloween party with games, crafts, treats and a costume parade.",
       "Website": "https://slcls.libnet.info/event/17326926",
       "Social profile": "https://www.instagram.com/thecountylibrary/",
       "Extra notes": "",
@@ -8980,7 +9095,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Horror Icons VI feat. Priyanka",
@@ -8995,7 +9111,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Metro Music Hall, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Strong costume-night option: horror-character performances, drag/burlesque, DJ and party atmosphere. GA includes all three performance sets.",
+      "Why / thoughts": "Horror-character performances, drag, burlesque and a DJ at a costume-night party. General admission includes all three performance sets.",
       "Website": "https://www.24tix.com/events/44184831946",
       "Social profile": "https://www.instagram.com/jrcslc/",
       "Extra notes": "",
@@ -9061,7 +9177,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Horror Writing Bootcamp — U of U Lifelong Learning",
@@ -9076,7 +9193,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "University Continuing Education, 540 Arapeen Dr, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Three-session horror-writing lecture/workshop focused on creating fear, dread and disgust on the page. Currently full with a waiting list; adult themes/language/content.",
+      "Why / thoughts": "A three-session workshop exploring fear, dread and disgust in horror writing. Adult themes and language may be discussed; check registration or waiting-list availability.",
       "Website": "https://continue.utah.edu/lifelong/class/llwrc_862_horror_writing_bootcamp",
       "Social profile": "",
       "Extra notes": "",
@@ -9128,7 +9245,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Hotel Vernal Haunt",
@@ -9143,7 +9261,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Downtown Vernal, Vernal",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Large volunteer-run charity haunt with proceeds benefiting local nonprofit organizations. 2026 site currently says weekends in October without publishing specific dates; tickets are sold at the door by cash, Venmo or card.",
+      "Why / thoughts": "A volunteer-run haunted attraction benefiting local nonprofits. Tickets are sold at the door by cash, Venmo or card.",
       "Website": "https://www.hotelvernalhaunt.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -9208,7 +9326,8 @@ window.SITE_DATA = {
       "scheduleNote": "Exact 2026 dates verified from the current Hotel Vernal Haunt listing.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Hounds & Haunts",
@@ -9223,7 +9342,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Rotary Glen Park, 2850 Emigration Canyon Rd, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One of the most explicitly Halloween-dog events: costume contest, pet vendors, food trucks, raffles, giveaways and photo ops. Raffle proceeds support a local dog rescue.",
+      "Why / thoughts": "A dog-friendly Halloween gathering with a costume contest, pet vendors, food trucks, raffles and photos. Raffle proceeds support a local dog rescue.",
       "Website": "https://www.eventbrite.com/e/hounds-haunts-tickets-1999945899021",
       "Social profile": "",
       "Extra notes": "",
@@ -9272,7 +9391,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Howl-O-Ween on Historic Main Street",
@@ -9287,7 +9407,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Historic Main Street, Park City, Park City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Major Park City Halloween anchor; lots of costumes and dogs. Use free transit if possible; Main Street closes to traffic at 2 PM.",
+      "Why / thoughts": "A Halloween gathering on Park City’s Main Street with costumed people and dogs. Main Street closes to traffic at 2 PM; transit can simplify arrival.",
       "Website": "https://www.visitparkcity.com/blog/stories/post/tips-for-attending-howl-o-ween/",
       "Social profile": "https://www.instagram.com/visitparkcity/",
       "Extra notes": "",
@@ -9342,7 +9462,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Hurricane City Fall Festival",
@@ -9407,7 +9528,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Jaker's Jack-O-Lanterns",
@@ -9422,7 +9544,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "950 W 400 S, Springville, Springville",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Affordable Utah County staple with hayride, pumpkin patch, petting zoo, corn/straw mazes, corn pit, slides and a kid-friendly haunted cave. Closed Sundays; pumpkins and concessions sold separately.",
+      "Why / thoughts": "A farm outing with hayrides, pumpkins, animals, mazes, slides and a kid-friendly haunted cave. Closed Sundays; pumpkins and concessions cost extra.",
       "Website": "https://harwardfarms.com/jakers/",
       "Social profile": "",
       "Extra notes": "",
@@ -9503,7 +9625,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Kanarra Scare — Frisby Farms",
@@ -9518,7 +9641,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "2148 S Old Hwy 91, Kanarraville, Southern Utah",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Pumpkin patch plus seasonal farm attractions that turn into a horror-focused haunted maze after sunset. Regional media and Visit Cedar City both list it for 2026.",
+      "Why / thoughts": "A pumpkin patch and farm activities by day, with a haunted maze after sunset.",
       "Website": "https://435locals.com/calendar/",
       "Social profile": "",
       "Extra notes": "",
@@ -9589,7 +9712,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Kinlands Pumpkin Patch",
@@ -9604,7 +9728,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "11887 S 4000 W, Riverton, Riverton",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Free-admission pumpkin patch with seasonal shop, wagon rides, slides/swings, bean pool and farm animals. A strong low-cost fall stop that was conspicuously absent from the original farm coverage.",
+      "Why / thoughts": "A free-admission pumpkin patch with a seasonal shop, wagon rides, slides, a bean pool and farm animals.",
       "Website": "https://thekinlands.com/pages/pumpkin-patch-riverton-utah",
       "Social profile": "",
       "Extra notes": "",
@@ -9652,7 +9776,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Kohler Creamery Fall Festival",
@@ -9667,7 +9792,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "920 River Road, Midway, Midway / Wasatch Back",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Hay maze, slides, bounce houses, jump pad, corn pits, games and pumpkins. Ideal daytime half of a Midway bundle.",
+      "Why / thoughts": "A daytime farm festival with a hay maze, slides, bounce houses, jump pad, corn pits, games and pumpkins.",
       "Website": "https://www.gohebervalley.com/kohler-creamery-fall-festival/",
       "Social profile": "",
       "Extra notes": "",
@@ -9720,7 +9845,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Kohler Creamery Haunted Hayrides",
@@ -9735,7 +9861,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "920 River Road, Midway, Midway / Wasatch Back",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One of the best true day-to-night bundle opportunities: dairy-farm fall festival becomes haunted after dark. Wear good walking shoes; weather exposure.",
+      "Why / thoughts": "A haunted hayride at a dairy farm after dark. Wear walking shoes and dress for outdoor weather.",
       "Website": "https://www.gohebervalley.com/kohler-creamery-haunted-hayrides/",
       "Social profile": "",
       "Extra notes": "",
@@ -9797,7 +9923,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Kuwahara's Pumpkin Patch & Thriller Park",
@@ -9812,7 +9939,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "12153 S 700 W, Draper, Draper",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Major Draper Halloween complex: large pumpkin patch plus corn maze, Cornfield of Terror, Halloween Main Street, bounce/foam/ball-pit attractions, food vendors and live programming. Some Thriller Park attractions are family-friendly; specific late-night/party components can be 18+. This was a major original-list omission.",
+      "Why / thoughts": "A pumpkin patch and Halloween park with a corn maze, haunted cornfield, themed Main Street, play areas, food vendors and live programming. Admission ages vary for late-night events.",
       "Website": "https://thrillerparkutah.com/pumpkin-patch",
       "Social profile": "",
       "Extra notes": "",
@@ -9870,7 +9997,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Laser Halloween — Clark Planetarium",
@@ -9885,7 +10013,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Clark Planetarium, The Gateway, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Laser show set to Halloween music including Thriller, Ghostbusters and classical spooky standards. Good inexpensive museum/planetarium add-on; confirm that the ticket store is live before relying on a specific date.",
+      "Why / thoughts": "A planetarium laser show set to Thriller, Ghostbusters and other Halloween music.",
       "Website": "https://tickets.clarkplanetarium.org/WebStore/Shop/ViewItems.aspx?C=373&CG=11",
       "Social profile": "https://www.instagram.com/clarkplanetarium/",
       "Extra notes": "",
@@ -9947,7 +10075,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Layton Halloween Bash",
@@ -10013,7 +10142,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Life Afterlife: Travis Holp Live",
@@ -10028,7 +10158,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Wiseguys at The Gateway — Showroom, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Touring psychic-medium show combining live audience readings of 'the other side' with humor. Not standard stand-up, but a strong spooky-comedy/unconventional fit; 21+.",
+      "Why / thoughts": "A psychic-medium stage show combining audience readings with humor. Ages 21 and older.",
       "Website": "https://www.wiseguyscomedy.com/utah/salt-lake-city/calendar",
       "Social profile": "https://linktr.ee/travisholp",
       "Extra notes": "",
@@ -10078,7 +10208,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Little Bear Bottoms Corn Maze & Pumpkin Patch",
@@ -10093,7 +10224,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Approx. 5100 S US Hwy 89/91, Wellsville, Wellsville",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Substantial Cache Valley fall destination with corn maze, courtyard, pumpkin patch, Haunted River Trail, Redneck River Ride and Spooky Barn Ride. Haunted attractions run Fridays and Saturdays; Halloween includes daytime not-so-scary Haunted River Trail.",
+      "Why / thoughts": "A corn maze, pumpkin patch and farm rides in Cache Valley, with separate haunted attractions on Friday and Saturday nights.",
       "Website": "https://littlebearbottoms.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -10148,7 +10279,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Little Haunts — This Is The Place",
@@ -10163,7 +10295,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "2601 E Sunnyside Ave, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Daytime, deliberately not-scary Halloween at the heritage village: trick-or-treating, costume parade, Story Telling Witch, creepy crawlies and Candy Cannon. Creature Encounters Saturdays only; good option for kids or a low-fright historical Halloween outing.",
+      "Why / thoughts": "Daytime Halloween activities at a heritage village, including trick-or-treating, a costume parade, storytelling and the Candy Cannon. Creature Encounters take place on Saturdays.",
       "Website": "https://www.thisistheplace.org/todays-fun/little-haunts/",
       "Social profile": "",
       "Extra notes": "",
@@ -10222,7 +10354,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Little Shop of Horrors — Murray Theater",
@@ -10237,7 +10370,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Murray Theater, 4961 S State St, Murray",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Very affordable live Halloween-season theater in a restored historic venue. Not an independent film screening, but worth including because Murray Theater is doing strong seasonal programming.",
+      "Why / thoughts": "A live production of Little Shop of Horrors in Murray’s restored historic theater, combining musical comedy with a carnivorous-plant story.",
       "Website": "https://www.murray.utah.gov/213/Cultural-Arts",
       "Social profile": "",
       "Extra notes": "",
@@ -10287,7 +10420,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Logan Halloween Treat Walk",
@@ -10302,7 +10436,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Downtown Logan, Logan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Daytime downtown trick-or-treating at 60+ participating businesses. 21st annual event; easy for families with younger children.",
+      "Why / thoughts": "Daytime downtown trick-or-treating at more than 60 participating Logan businesses.",
       "Website": "https://www.logandowntown.org/halloween-treat-walk.html",
       "Social profile": "",
       "Extra notes": "",
@@ -10350,7 +10484,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Low Light Market",
@@ -10417,7 +10552,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Mabey Farms Pumpkin Patch",
@@ -10432,7 +10568,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "10090 S 1000 W, South Jordan, South Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "16-acre Century Farm patch with 45+ pumpkin varieties and photo backdrops; a simple, genuinely local pumpkin-picking option. Closed Sundays.",
+      "Why / thoughts": "Pick pumpkins from a 16-acre farm with more than 45 varieties and photo backdrops. Closed Sundays.",
       "Website": "https://www.mabeyfarms.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -10522,7 +10658,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Monster Dash 5K + Kids Trick-or-Treat Mile",
@@ -10585,7 +10722,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/active.svg"
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Murder at the Juice Joint — 1920s Murder Mystery Dinner",
@@ -10600,7 +10738,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Stellas on 25th, 225 25th Street, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "An interactive 1920s speakeasy murder mystery where guests play characters in the story. Ages 18+; 1920s attire encouraged. Paid parking and vegetarian/gluten-free options are addressed in the event FAQ. October 30 and 31 were added after October 28 sold out; check remaining availability.",
+      "Why / thoughts": "An interactive 1920s speakeasy murder mystery where guests play characters in the story. Ages 18 and older; period attire is encouraged. Ask about vegetarian and gluten-free meals when booking.",
       "Website": "https://www.eventbrite.com/e/murder-at-the-juice-joint-a-1920s-murder-mystery-dinner-tickets-1998890663784",
       "Social profile": "",
       "Extra notes": "",
@@ -10653,7 +10791,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/food.svg"
+      "placeholder": "assets/art/food.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Murray Haunted Woods",
@@ -10668,7 +10807,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Murray Park, north lot by Parks & Recreation Office, Murray",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Community haunted woods with gentler early hours and a scarier evening trail; proceeds support child-abuse/domestic-violence prevention. Good value and unusually clear charity purpose.",
+      "Why / thoughts": "A community haunted trail with gentler early sessions and scarier evening sessions. Proceeds support child-abuse and domestic-violence prevention.",
       "Website": "https://www.murrayhauntedwoods.com/general-5",
       "Social profile": "",
       "Extra notes": "",
@@ -10719,7 +10858,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Night of Fright & Market — University Place",
@@ -10734,7 +10874,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "The Orchard at University Place, Orem, Orem",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Halloween market, villain photos/trick-or-treat, mechanical bull, bounce house, balloon animals and fire pits. Strengthens the existing University Place bundle.",
+      "Why / thoughts": "A Halloween market with villain photos, trick-or-treating, a mechanical bull, bounce house, balloon animals and fire pits.",
       "Website": "https://universityplaceorem.com/events/2026-night-of-fright/",
       "Social profile": "https://www.instagram.com/universityplaceorem/",
       "Extra notes": "",
@@ -10794,7 +10934,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Night Stalkers Haunted Trail",
@@ -10809,7 +10950,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻👻",
       "Location": "West Jordan, West Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Good value because the corn maze is included; weather is the main downside. Weather-dependent.",
+      "Why / thoughts": "An outdoor haunted trail with corn-maze admission included. Dress for the weather.",
       "Website": "https://www.nightstalkershaunt.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -10901,7 +11042,8 @@ window.SITE_DATA = {
       "scheduleNote": "2026 dates and closed-Sunday rule verified against official schedule.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Nightmare on 13th",
@@ -10916,7 +11058,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻👻",
       "Location": "Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Polished multi-attraction haunt; strong choice for older teens who actively want scares. Not a little-kid recommendation.",
+      "Why / thoughts": "A multi-attraction haunted house with intense scares aimed at visitors who enjoy horror. Not recommended for young children.",
       "Website": "https://www.nightmareon13th.com/dates-and-times-nightmare-on-13th/",
       "Social profile": "https://www.instagram.com/nightmareon13th/",
       "Extra notes": "",
@@ -11005,7 +11147,8 @@ window.SITE_DATA = {
       "scheduleNote": "October dates cross-checked against current 2026 event calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Nightmare on Clown Street — 2026 watch",
@@ -11020,7 +11163,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "6186 W Brud Dr, West Valley City, West Valley City",
       "Status": "2026 watch",
-      "Why / thoughts": "Hundreds of haunted clowns and dolls across neighboring yards; longstanding media-covered destination that has collected large Utah Food Bank donations. Keep as a watch item until a fresh 2026 operating post appears.",
+      "Why / thoughts": "A residential Halloween display with haunted clowns and dolls across neighboring yards. Current-season operating dates are awaiting confirmation.",
       "Website": "https://www.fox13now.com/community/halloween/west-valley-city-neighbors-scare-up-halloween-fun-for-good-time-and-good-cause",
       "Social profile": "",
       "Extra notes": "",
@@ -11069,7 +11212,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Nocturne Film Society — Mystery Horror Screening",
@@ -11084,7 +11228,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Murray Theater, 4961 S State St, Murray",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Blind-box horror/thriller/cult screening; excellent art-house style addition because the movie title stays secret. Members Voice Pick on Oct. 25; screening title is intentionally not announced.",
+      "Why / thoughts": "A mystery horror, thriller or cult-film screening where the title stays secret until the event.",
       "Website": "https://www.nocturneslc.com/",
       "Social profile": "https://www.instagram.com/nocturneslc/",
       "Extra notes": "",
@@ -11137,7 +11281,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "North Logan Pumpkin Walk",
@@ -11204,7 +11349,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "North Ogden's Trunk or Treat",
@@ -11219,7 +11365,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "North Shore Aquatic Center, 2480 N 200 E, Ogden / Weber",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Straightforward non-religious city/community trunk-or-treat with local businesses. Bring a candy bag; costumes optional.",
+      "Why / thoughts": "A community trunk-or-treat with local businesses. Bring a candy bag; costumes are optional.",
       "Website": "https://www.ksl.com/events/details/599442",
       "Social profile": "",
       "Extra notes": "",
@@ -11269,7 +11415,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "North Salt Lake Zombie Chase + Spooktacular",
@@ -11334,7 +11481,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Odd Lake City Halloween Festival",
@@ -11400,7 +11548,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Odyssey Dance Theatre: Thriller",
@@ -11415,7 +11564,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Multiple Utah venues, Statewide / Multiple",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Statewide two-hour Halloween dance spectacle featuring Frankenstein, skeletons, mummies and other horror characters. Fear Factory and Thriller have run a cross-promotion; check current ticket terms before relying on a discount.",
+      "Why / thoughts": "A two-hour Halloween dance production featuring Frankenstein, skeletons, mummies and other horror characters, with performances around Utah.",
       "Website": "https://odysseydance.com/thriller/",
       "Social profile": "https://www.instagram.com/odysseydancetheatre/",
       "Extra notes": "",
@@ -11474,7 +11623,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Ogden Día de los Muertos",
@@ -11546,7 +11696,8 @@ window.SITE_DATA = {
           "method": "Organizer page",
           "checked": "2026-10-06"
         }
-      }
+      },
+      "notable_event": false
     },
     {
       "Event / attraction": "Ogden Halloween Bar Crawl 2026",
@@ -11561,7 +11712,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Starts at KoKoMo Club, 216 25th St, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "The clearest 21+ Ogden Halloween nightlife option: multiple bars, costume crowd, drink/food specials, photographers and after-party. 21+ with government-issued ID. Participating venues can change; rideshare strongly recommended.",
+      "Why / thoughts": "A multi-venue Halloween bar crawl with costumes, drink and food specials, photos and an after-party. Ages 21 and older with government-issued ID; participating venues may change.",
       "Website": "https://www.eventbrite.com/e/ogden-halloween-bar-crawl-2026-tickets-1583325281539",
       "Social profile": "https://www.facebook.com/events/880715864457411",
       "Extra notes": "",
@@ -11616,7 +11767,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Ogden Historic 25th Street Ghost Walk / City Ghost Tour",
@@ -11631,7 +11783,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Historic 25th Street / Ogden city routes, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One of the clearest Ogden-specific spooky-history options. Private October tours require 10+ guests.",
+      "Why / thoughts": "Explore Historic 25th Street’s ghost stories on a guided walk through downtown Ogden. Private October tours require at least 10 guests.",
       "Website": "https://www.storytours-ut.com/ogden",
       "Social profile": "",
       "Extra notes": "",
@@ -11700,7 +11852,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Ogden Prep Academy Fall Festival",
@@ -11763,7 +11916,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Ogden Valley Harvest Festival",
@@ -11778,7 +11932,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Cool Creek Ranch, 3300 N Hwy 162, Eden, Ogden Valley / Weber",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Strong northern farm addition: live western music, agriculture demos, animals, local farms/makers and farm-sourced food. Argyle Acres lists 3–7 PM; Visit Ogden's displayed time appears inconsistent. Community listings identify the event as free.",
+      "Why / thoughts": "A farm festival with western music, agriculture demonstrations, animals, local makers and farm-sourced food.",
       "Website": "https://www.visitogden.com/events/ogden-valley-harvest-festival/",
       "Social profile": "",
       "Extra notes": "",
@@ -11830,7 +11984,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Orem City Truck-or-Treat — University Place",
@@ -11845,7 +12000,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "The Orchard at University Place, Orem, Orem",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "City trucks, DJ, face painting, straw-bale slide, photo ops and costumes. Non-religious municipal event.",
+      "Why / thoughts": "Explore city trucks alongside a DJ, face painting, a straw-bale slide, photo areas and costumes.",
       "Website": "https://www.universityplaceorem.com/events/2026-orem-city-truck-or-treat/",
       "Social profile": "https://www.instagram.com/universityplaceorem/",
       "Extra notes": "",
@@ -11904,7 +12059,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "OTHERWORLD Presents: DON'T BLINK",
@@ -11919,7 +12075,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "EVE SLC, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One of the later-running Halloween-night options; tech-house / techno focus and big costume energy. Price/end time currently supported by local event listings; verify primary ticket page before purchase.",
+      "Why / thoughts": "A late-night Halloween dance event focused on tech-house and techno.",
       "Website": "https://slcpix.com/upcoming-events/",
       "Social profile": "",
       "Extra notes": "",
@@ -11969,7 +12125,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Pack Farms Pumpkin Patch",
@@ -12072,7 +12229,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Park City Ghost Tours",
@@ -12087,7 +12245,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Historic Main Street, Park City, Park City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Best evening anchor for a Park City bundle; history-heavy rather than jump-scare haunt. Good fit for older children who enjoy stories/history.",
+      "Why / thoughts": "A guided evening walk through Park City history and ghost stories, with an emphasis on storytelling rather than staged jump scares.",
       "Website": "https://www.visitparkcity.com/listing/park-city-ghost-tours/16523/",
       "Social profile": "https://www.instagram.com/visitparkcity/",
       "Extra notes": "",
@@ -12138,7 +12296,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Park City Mining History Route / Museum",
@@ -12153,7 +12312,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Historic Park City, Park City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "About 7 miles linking ~20 mining structures; free way to add substance to a Park City day. Could cherry-pick a shorter section rather than walk all 7 miles.",
+      "Why / thoughts": "A self-guided route linking mining structures around Park City. The full route is about seven miles; visitors can choose a shorter section.",
       "Website": "https://www.visitparkcity.com/blog/stories/post/what-to-do-in-park-city-this-october/",
       "Social profile": "https://www.instagram.com/parkcitymuseum/",
       "Extra notes": "",
@@ -12236,7 +12395,8 @@ window.SITE_DATA = {
       "scheduleNote": "Official Park City sources describe the new mining-history route as a free self-guided/open-air experience; this guide treats it as available daily during its October listing window.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Provo Pioneer Village Harvest Festival",
@@ -12301,7 +12461,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Puck's Magical Market",
@@ -12316,7 +12477,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "The Conjuring Tree, 7074 S Redwood Rd, West Jordan, West Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "A pagan community market with artisans, makers, jewelry, food, musicians and explicitly magical/pagan community framing. Official event page describes it as a pagan community vendor show.",
+      "Why / thoughts": "A pagan community market with artisans, jewelry, food and musicians.",
       "Website": "https://www.theconjuringtree.com/event-details/pucks-magical-market-october-17",
       "Social profile": "",
       "Extra notes": "",
@@ -12368,7 +12529,8 @@ window.SITE_DATA = {
         "Pagan / alternative"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Pumpkin Paint & Sip — Copper Nickel",
@@ -12383,7 +12545,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Copper Nickel Events, 2450 Grant Ave, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Pumpkin painting with Halloween mocktails, snacks, permanent jewelry and hair-tinsel booths. Low-scare adult date-night option.",
+      "Why / thoughts": "Paint a pumpkin while enjoying Halloween mocktails and snacks, with permanent-jewelry and hair-tinsel booths onsite.",
       "Website": "https://www.eventbrite.com/e/pumpkin-paint-sip-tickets-1998553324794",
       "Social profile": "",
       "Extra notes": "",
@@ -12434,7 +12596,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Pumpkin Patch @ Jordanelle Ridge",
@@ -12449,7 +12612,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Jordanelle Ridge Barn & Cafe, Heber City, Heber City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Pumpkin bowling, ring toss, pumpkin painting, face painting, cider, pretzels and soup tasting. Good Oct. 24 daytime add-on.",
+      "Why / thoughts": "A pumpkin-patch gathering with games, painting, face painting, cider, pretzels and soup tasting.",
       "Website": "https://www.gohebervalley.com/jordanelle-ridge-pumpkin-patch/52/",
       "Social profile": "",
       "Extra notes": "",
@@ -12497,7 +12660,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Pumpkin Train @ Heber Valley Railroad",
@@ -12512,7 +12676,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Heber Valley Railroad Depot, Heber / Wasatch Back",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Short train ride + pumpkin cookie + pumpkin to take home; very kid-focused. A cleaner fit for little kids than the evening Halloween Train.",
+      "Why / thoughts": "A short train ride with a pumpkin cookie and a pumpkin to take home, designed for families with young children.",
       "Website": "https://www.gohebervalley.com/pumpkin-train/",
       "Social profile": "",
       "Extra notes": "",
@@ -12587,7 +12751,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Pumpkins in the Park — Woods Cross",
@@ -12602,7 +12767,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Mills Park, 1850 S 1200 W, Woods Cross, Davis County",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Established Woods Cross fall event with games and seasonal activities; city calendar confirms the 2026 date.",
+      "Why / thoughts": "A community fall gathering in Woods Cross with games and seasonal activities.",
       "Website": "https://www.woodscross.gov/Calendar.aspx",
       "Social profile": "",
       "Extra notes": "",
@@ -12651,7 +12816,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Purple Paw Parade — Weber State",
@@ -12666,7 +12832,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Ogden Municipal Gardens → Weber State Downtown, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Not explicitly Halloween-themed, but an October dog parade through downtown Ogden with pet activities and photo ops. Finish-line treats, shopping and activities.",
+      "Why / thoughts": "A dog parade through downtown Ogden, followed by pet activities, photos, treats and shopping.",
       "Website": "https://www.alumni.weber.edu/s/953/bp23/interior.aspx?calcid=4875&calpgid=61&cid=6213&crid=0&ecid=6213&gid=1001&pgid=2926&sid=953",
       "Social profile": "https://www.instagram.com/weberstatealumni/",
       "Extra notes": "",
@@ -12719,7 +12885,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Raven Manor",
@@ -12734,7 +12901,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "10995 S Savannah Hill Rd (3210 W), South Jordan, South Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Long-running homemade residential haunt/display with cemetery, mausoleum, flying ghosts and enough scale to function as a destination. Family-friendly rather than terrifying; 2026 is its 28th consecutive year.",
+      "Why / thoughts": "A homemade residential display with a cemetery, mausoleum and flying ghosts. The atmosphere is family-oriented rather than intensely frightening.",
       "Website": "https://www.ravenmanor.com/info/",
       "Social profile": "https://www.facebook.com/RavenManorUT/",
       "Extra notes": "",
@@ -12791,7 +12958,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Reading with Raptors at Discovery Gateway",
@@ -12859,7 +13027,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Robinson Family Pumpkin Patch",
@@ -12874,7 +13043,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "1680 W Industrial Rd, Cedar City, Cedar City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Affordable Cedar City patch with pumpkins, hay rides, petting zoo, hay maze, corn pit, animal feeding and horse rides. Open until pumpkins are gone.",
+      "Why / thoughts": "A pumpkin patch with hayrides, animals, a hay maze, corn pit and horse rides. Operation continues while pumpkins are available.",
       "Website": "https://visitcedarcity.com/event/robinson-family-pumpkin-patch/367/",
       "Social profile": "",
       "Extra notes": "",
@@ -12950,7 +13119,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Rocktober @ Ogden Dinosaur Park",
@@ -13014,7 +13184,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Rocky Horror Picture Show — Peery's Egyptian",
@@ -13029,7 +13200,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Peery's Egyptian Theatre, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One of the strongest Ogden adult/older-teen Halloween-night-out options; much more of an event than a normal screening. Food and bar at pre-party; costume contest included.",
+      "Why / thoughts": "An interactive Rocky Horror screening with a pre-party, food, a bar and a costume contest.",
       "Website": "https://www.visitogden.com/events/the-rocky-horror-picture-show-2/",
       "Social profile": "",
       "Extra notes": "",
@@ -13079,7 +13250,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Rooftop Halloween Display — 2026 watch",
@@ -13142,7 +13314,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Rowley's Red Barn Fall Festival",
@@ -13157,7 +13330,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "901 S 300 W, Santaquin, Utah County",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Full Back 40 festival with wagon ride, 9-acre corn maze, jump pads, apple cannons, cable rides, mini golf, petting zoo and cider donuts. Note: separate apple Harvest Festival/u-pick was cancelled for 2026 due to frost; the Fall Festival is operating.",
+      "Why / thoughts": "A wagon ride, corn maze, jump pads, apple cannons, mini golf, animals and cider donuts at the Back 40 fall festival. The separate apple-picking harvest event did not operate in 2026.",
       "Website": "https://rowleysredbarn.com/pages/fall-festival",
       "Social profile": "",
       "Extra notes": "",
@@ -13243,7 +13416,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Salt Lake City Cemetery Ghost Walk / SLC Ghost Tour",
@@ -13258,7 +13432,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Salt Lake City Cemetery / downtown, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Clearly published 2026 dates and prices. Private October tours require 10+ guests.",
+      "Why / thoughts": "A guided cemetery walk exploring Salt Lake City’s ghost stories. Private October tours require at least 10 guests.",
       "Website": "https://www.storytours-ut.com/slc",
       "Social profile": "",
       "Extra notes": "",
@@ -13314,7 +13488,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Salt Lake City Halloween Singles Mixer",
@@ -13379,7 +13554,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Salt Lake Film Society: Tower of Terror",
@@ -13394,7 +13570,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Broadway Centre Cinemas, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Seven-week repertory horror series, culminating in Rocky Horror screenings/performances with live shadow-cast energy. Film ratings/age suitability vary by title; First date left blank because the public program page does not expose a single confirmed 2026 opening date.",
+      "Why / thoughts": "A repertory horror-film series culminating in Rocky Horror screenings with a live shadow cast. Film ratings and age suitability vary by title.",
       "Website": "https://slfs.org/about-us/programs/",
       "Social profile": "https://www.facebook.com/SaltLakeFilmSociety/",
       "Extra notes": "",
@@ -13447,7 +13623,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Saratoga Springs Fall Festival",
@@ -13510,7 +13687,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Scarecrow Walk & Haunted Canyon — Red Hills Desert Garden",
@@ -13525,7 +13703,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "375 E Red Hills Pkwy, St. George, St. George",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One of Southern Utah's popular fall traditions: community-built scarecrows plus a slot canyon decorated with skeletons and spiders.",
+      "Why / thoughts": "Walk past community-built scarecrows and a slot canyon decorated with skeletons and spiders.",
       "Website": "https://www.wcwcd.gov/swhc/",
       "Social profile": "",
       "Extra notes": "",
@@ -13577,7 +13755,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Scary Hill @ Cherry Hill",
@@ -13592,7 +13771,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Cherry Hill, Kaysville, Kaysville",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Excellent northern family add: haunted mini golf, Bone Yard tractor ride, spooky maze and fun-center attractions.",
+      "Why / thoughts": "Haunted mini golf, a Bone Yard tractor ride, a spooky maze and other Halloween activities at Cherry Hill.",
       "Website": "https://cherry-hill.com/scary-hill/",
       "Social profile": "",
       "Extra notes": "",
@@ -13645,7 +13824,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Scarycuse Pumpkin Walk",
@@ -13712,7 +13892,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Schmidt's Farm Pumpkin Patch",
@@ -13727,7 +13908,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "2247 W 9000 S, West Jordan, West Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Century-old local farm with u-pick pumpkins, straw maze/play area, hay rides, photo ops and fresh donuts. No admission charge; a useful low-cost alternative to the big commercial festivals.",
+      "Why / thoughts": "A u-pick pumpkin patch with a straw maze, play area, hayrides, photos and fresh donuts. There is no admission charge.",
       "Website": "https://www.schmidtsfarmandgreenhouse.com/patch-info",
       "Social profile": "",
       "Extra notes": "",
@@ -13776,7 +13957,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Skalloween",
@@ -13791,7 +13973,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "FOR THE LOVE OF Studios, Newgate Mall, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Cheap, local and playful: four ska bands, costumes encouraged and an actual discount for showing up dressed. Organizer promotes a family/party-pack option and does not publish an age restriction.",
+      "Why / thoughts": "Four ska bands perform at a costume-friendly Halloween concert. Costume discounts and group ticket options are available; check admission ages before bringing children.",
       "Website": "https://www.ogdenepic.com/event-details/skalloween",
       "Social profile": "https://www.instagram.com/4theloveof_studios/",
       "Extra notes": "",
@@ -13844,7 +14026,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Skull Paint & Pour Candle Workshop — The Wick Lab",
@@ -13907,7 +14090,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "SLC Guitar Halloween Showcase",
@@ -13970,7 +14154,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "SoJo Halloween Fun Run 5K / Ruck / Kids Run",
@@ -13985,7 +14170,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Bingham Creek Regional Park, South Jordan, South Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Low-cost city race with standard 5K, weighted ruck division and kids run; all entries include a custom medal. Good inexpensive fitness option for people who want Halloween atmosphere without a major race-production price.",
+      "Why / thoughts": "A city race with a standard 5K, weighted ruck division and kids run. Entries include a custom medal.",
       "Website": "https://www.sjc.utah.gov/1693/SoJo-Halloween-Fun-Run-5K",
       "Social profile": "",
       "Extra notes": "",
@@ -14034,7 +14219,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/active.svg"
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Something Wicked — Halloween Pop-Up at Studio",
@@ -14104,7 +14290,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "SoUAnime Convention",
@@ -14119,7 +14306,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Courtyard St. George, 185 S 1470 E, St. George, St. George",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Anime, manga, cosplay, gaming and art convention with a strong local-community focus. Useful non-haunt convention entry for the statewide guide.",
+      "Why / thoughts": "An anime, manga, cosplay, gaming and art convention with local community programming.",
       "Website": "https://www.souanime.com/",
       "Social profile": "https://www.instagram.com/souanime/",
       "Extra notes": "",
@@ -14173,7 +14360,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/fandom.svg"
+      "placeholder": "assets/art/fandom.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "South Salt Lake Spooktacular Trunk-or-Treat",
@@ -14251,7 +14439,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Special Exhibit: America's Haunted History — Syracuse Museum",
@@ -14266,7 +14455,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Syracuse Regional Museum, 1891 W 1700 S, Syracuse, Syracuse",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Month-long exhibit on the history of Halloween, costumes, decorations, trick-or-treating and American celebrations. Pairs naturally with the already-listed Oct 23 Night at the Museum event.",
+      "Why / thoughts": "A museum exhibit exploring the history of Halloween costumes, decorations, trick-or-treating and American celebrations.",
       "Website": "https://www.syracuseut.gov/448/Museum-Events",
       "Social profile": "",
       "Extra notes": "",
@@ -14321,7 +14510,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Spell Jar Workshops — The Local Artisan Collective",
@@ -14395,7 +14585,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Spooktacufur 2026",
@@ -14465,7 +14656,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/fandom.svg"
+      "placeholder": "assets/art/fandom.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Spooktober @ Thanksgiving Point",
@@ -14480,7 +14672,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Thanksgiving Point, Lehi, Lehi",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Much more substantial than a single event: costume-friendly STEM activities, scavenger hunts, dance parties and themed programming across multiple museums. Specific highlights include Dinos After Dark, Creatures of the Night at Butterfly Biosphere and Barnyard Boo.",
+      "Why / thoughts": "Costume-friendly STEM activities, scavenger hunts, dance parties and Halloween programming across Thanksgiving Point’s museums. The program varies by venue and date.",
       "Website": "https://thanksgivingpoint.org/event/spooktober/",
       "Social profile": "https://www.instagram.com/thankspoint/",
       "Extra notes": "",
@@ -14548,7 +14740,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Spooky City Hall — South Salt Lake",
@@ -14563,7 +14756,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "South Salt Lake City Hall, 220 E Morris Ave, South Salt Lake",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "City Hall offices become themed trick-or-treat rooms; a quirky civic-building Halloween walkthrough aimed at children.",
+      "Why / thoughts": "City Hall offices become themed trick-or-treat rooms for children to explore.",
       "Website": "https://www.sslc.gov/551/Halloween-Events",
       "Social profile": "",
       "Extra notes": "",
@@ -14627,7 +14820,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/scenic.svg"
+      "placeholder": "assets/art/scenic.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Spooky Game Day — Utah’s Cardboard Cabal",
@@ -14690,7 +14884,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/fandom.svg"
+      "placeholder": "assets/art/fandom.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Spooky Light Show — South Jordan",
@@ -14705,7 +14900,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "USU Bastian Agricultural Center, 2100 W 11400 S, South Jordan, South Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Drive-through synchronized Halloween light show heard through the car radio; easy weather-proof-ish evening option for a whole carload. Ticket covers one vehicle with unlimited passengers subject to traffic laws.",
+      "Why / thoughts": "A drive-through Halloween light show synchronized to music on the car radio. Admission covers one vehicle; passenger limits follow traffic laws.",
       "Website": "https://www.spookylightshow.com",
       "Social profile": "",
       "Extra notes": "",
@@ -14751,7 +14946,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/scenic.svg"
+      "placeholder": "assets/art/scenic.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Spooky Night Trivia at Tea Bar SLC",
@@ -14816,7 +15012,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/fandom.svg"
+      "placeholder": "assets/art/fandom.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Spooky Science Nights — Natural History Museum of Utah",
@@ -14831,7 +15028,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Natural History Museum of Utah, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Hands-on spooky STEM, Halloween scavenger hunt, crafts and Ghost Moth Ball dance party. One of the better museum-specific Halloween programs for families.",
+      "Why / thoughts": "Hands-on Halloween science, a scavenger hunt, crafts and a Ghost Moth Ball dance party at the natural history museum.",
       "Website": "https://nhmu.utah.edu/events/spooky-science-night-107",
       "Social profile": "https://www.facebook.com/naturalhistorymuseumofutah",
       "Extra notes": "",
@@ -14887,7 +15084,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Spooky Week at the BOOtanical Center",
@@ -14965,7 +15163,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "SpookyFest! at Crone's Hollow",
@@ -15029,7 +15228,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/paranormal.svg"
+      "placeholder": "assets/art/paranormal.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Springville Museum of Art Halloween Party",
@@ -15094,7 +15294,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Staheli Family Farm Fall Festival",
@@ -15109,7 +15310,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "3400 S Washington Fields Rd, Washington, Southern Utah",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Major Southern Utah fall destination with farmland activities, corn maze, pumpkin patch, hayrides, food and seasonal special events. Field of Screams is separately ticketed and listed separately.",
+      "Why / thoughts": "A farm festival with a corn maze, pumpkins, hayrides, food and seasonal activities. Field of Screams requires a separate ticket.",
       "Website": "https://stahelifamilyfarm.com/fall/",
       "Social profile": "",
       "Extra notes": "",
@@ -15165,7 +15366,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Swift Pumpkins Dog Daze in the Maze",
@@ -15180,7 +15382,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Swift Pumpkins and Produce, Davis / Northern Utah",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Last day of the maze is specifically designated Dog Daze; useful second dog/farm option beyond Wheeler. Also has Night Maze dates Oct. 10 & 17, 6:30–10:30 PM.",
+      "Why / thoughts": "Bring a dog for the maze’s designated Dog Daze session. Separate evening Night Maze sessions are also offered.",
       "Website": "https://www.swiftpumpkins.com/corn-maze-play-zone-dates-and-times",
       "Social profile": "",
       "Extra notes": "",
@@ -15228,7 +15430,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Syracuse Night at the Museum",
@@ -15301,7 +15504,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Taylorsville Fall Festival",
@@ -15366,7 +15570,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Teen Halloween — Viridian Event Center",
@@ -15381,7 +15586,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Library's Viridian Event Center, West Jordan, West Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Games, music, movies, contests and spooky photo ops. Other = ages 12-18 only; registration required.",
+      "Why / thoughts": "A Halloween gathering for ages 12–18 with games, music, movies, contests and photo areas. Registration is required.",
       "Website": "https://slcls.libnet.info/event/17452368",
       "Social profile": "https://www.instagram.com/thecountylibrary/",
       "Extra notes": "",
@@ -15440,7 +15645,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Thanksgiving Point Scarecrow Festival",
@@ -15455,7 +15661,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Ashton Gardens, Thanksgiving Point, Utah County",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "50 acres of fall color with imaginative scarecrows and carved pumpkins; strong daytime visual event. Scarecrow 5K follows Oct. 17.",
+      "Why / thoughts": "Walk through fall gardens filled with imaginative scarecrows and carved pumpkins.",
       "Website": "https://thanksgivingpoint.org/special-events/",
       "Social profile": "https://www.instagram.com/thankspoint/",
       "Extra notes": "",
@@ -15524,7 +15730,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Freakshow — A Haunted Cabaret",
@@ -15539,7 +15746,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Metro Music Hall, 615 W 100 S, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Haunted variety/cabaret production with burlesque, drag and circus-style performance from House of Temptaxxxions. 21+; strong answer to the guide's burlesque/cabaret gap.",
+      "Why / thoughts": "A Halloween cabaret with burlesque, drag and circus-style acts from House of Temptaxxxions. Ages 21 and older.",
       "Website": "https://www.24tix.com/events/30061179985",
       "Social profile": "",
       "Extra notes": "",
@@ -15601,7 +15808,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Fright Club at Varley",
@@ -15616,7 +15824,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Ivy & Varley, 55 W 100 S, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "A full-season candlelit Halloween pop-up with themed décor, curious cocktails and dinner; more immersive than a one-night costume party. 21+ only. Runs Sept. 11–Nov. 1; reservations are required and limited to 90 minutes.",
+      "Why / thoughts": "A candlelit Halloween cocktail and dining pop-up with themed decor. Ages 21 and older; reservations are required and visits are limited to 90 minutes.",
       "Website": "https://www.sevenrooms.com/experiences/ivyvarley/the-fright-club-5142995965132800",
       "Social profile": "https://www.instagram.com/varleyslc/",
       "Extra notes": "",
@@ -15671,7 +15879,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Group Project: Dance, Witches!",
@@ -15734,7 +15943,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Modern Ball: Masquerade Ball",
@@ -15799,7 +16009,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Morgan Maze",
@@ -15877,7 +16088,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Park Center Trunk or Treat — Murray",
@@ -15940,7 +16152,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Pirate Yard — Spanish Fork",
@@ -15955,7 +16168,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "2208 E 1480 S, Spanish Fork, Spanish Fork",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Family-friendly outdoor private-yard walkthrough with custom pirate scenery, lighting, special effects and interactive treasure hunt. Current tourism listing; part of the Parade of Haunted Homes and explicitly non-frightening for children.",
+      "Why / thoughts": "A family-friendly private-yard walkthrough with pirate scenery, lighting, effects and an interactive treasure hunt.",
       "Website": "https://www.playeasy.com/events/01a02320-74d0-7192-89a0-7ba8de55a1df",
       "Social profile": "",
       "Extra notes": "",
@@ -16009,7 +16222,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Princess in Black and the Trick-or-Treating Trouble",
@@ -16024,7 +16238,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "The King’s English Bookshop, 1511 S 1500 E, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Halloween storytime/photo-op with Utah authors Shannon and Dean Hale; costumes encouraged. Free but high-interest; RSVP required. Books are pre-signed, with photo-op format.",
+      "Why / thoughts": "Halloween storytime with authors Shannon and Dean Hale, followed by photos. Costumes are encouraged; RSVP is required and books are pre-signed.",
       "Website": "https://www.eventbrite.com/e/the-princess-in-black-and-the-trick-or-treating-trouble-tickets-1990829993101",
       "Social profile": "https://www.instagram.com/kingsenglishbookshop/",
       "Extra notes": "",
@@ -16088,7 +16302,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Pumpkin House / Pumpkin Palace",
@@ -16150,7 +16365,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/residential.svg"
+      "placeholder": "assets/art/residential.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Pumpkin Patch — Orem + Free Halloween Hayrides",
@@ -16165,7 +16381,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "1541 Sandhill Rd, Orem, Orem",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Exceptionally good-value patch: free farm activities plus a free 10–15 minute family-friendly haunted hayride through the farm, cornfield and creepy corral. No reservation or ticket required for hayrides; donations encouraged.",
+      "Why / thoughts": "A pumpkin patch with free farm activities and a 10–15 minute family-friendly haunted hayride. Hayrides need no ticket or reservation; donations are welcome.",
       "Website": "https://www.thepumpkinpatch.biz/halloween-hayrides",
       "Social profile": "",
       "Extra notes": "",
@@ -16216,7 +16432,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "The Rocky Horror Picture Show — Why Kiki / Haus of Monroe",
@@ -16231,7 +16448,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Why Kiki Bar, 69 W 100 S, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Haus of Monroe + Why Kiki presentation with a full listed cast; a queer/nightlife Rocky Horror option distinct from the repertory-film and Ogden productions. Social announcement posted Sept 30; 21+. Ticket packages are sold by table: $35/2, $45/3, $60/4, $90/6. Cast listed in promo; tickets linked through Why Kiki.",
+      "Why / thoughts": "Haus of Monroe performs Rocky Horror at Why Kiki. Ages 21 and older; tickets are sold by table.",
       "Website": "https://www.whykikibar.com/tickets",
       "Social profile": "https://www.instagram.com/whykikibar/",
       "Extra notes": "",
@@ -16289,7 +16506,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Thrillers Ball — Icons of the Night",
@@ -16359,7 +16577,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Tinker Day — Spooky Circuits",
@@ -16435,7 +16654,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Tommy's Express Tunnel of Terror — Layton",
@@ -16450,7 +16670,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "2150 W Antelope Dr, Layton, Layton",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Exactly the fun micro-activity: slow-speed haunted car wash with jump scares, costumed staff and spooky music; about 3 minutes once the gate opens, and the car gets washed. Tommy's cautions it may not suit young children or people who scare easily. Presale tickets available onsite.",
+      "Why / thoughts": "A roughly three-minute haunted car wash with jump scares, costumed staff and spooky music. The organizer cautions that it may not suit young children or easily frightened visitors.",
       "Website": "https://tommys-express.com/locations/ut414/",
       "Social profile": "",
       "Extra notes": "",
@@ -16508,7 +16728,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Tommy's Express Tunnel of Terror — Saratoga Springs",
@@ -16523,7 +16744,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "309 E Crossroads Blvd, Saratoga Springs, Utah County",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Three-minute haunted wash with jump scares, costumed staff and spooky music; an easy add-on rather than a whole evening commitment. Tommy's cautions it may not suit young children or people who scare easily.",
+      "Why / thoughts": "A roughly three-minute haunted car wash with jump scares, costumed staff and spooky music. The organizer cautions that it may not suit young children or easily frightened visitors.",
       "Website": "https://tommys-express.com/locations/ut426/",
       "Social profile": "",
       "Extra notes": "",
@@ -16583,7 +16804,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/haunt.svg"
+      "placeholder": "assets/art/haunt.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Trailing of the Sheep — Mantua to Brigham City",
@@ -16598,7 +16820,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "US-89 from Mantua toward Brigham City / Bear River City, Box Elder County",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "An 80+ year tradition: more than 2,000 sheep are herded down Sardine Canyon toward winter range. Treat as a fall spectacle rather than a formal festival.",
+      "Why / thoughts": "Watch a longstanding seasonal sheep drive as the herd travels through Sardine Canyon toward winter range. This is a working livestock movement rather than a staged festival.",
       "Website": "https://bearriverheritage.com/events/",
       "Social profile": "",
       "Extra notes": "",
@@ -16647,7 +16869,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Triple Money Halloween Rave",
@@ -16662,7 +16885,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "FOR THE LOVE OF Studios, Newgate Mall, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Affordable local electronic Halloween party with costume pricing; useful alternative to Salt Lake club events. Organizer does not publish an age restriction and markets the party-pack as family-friendly; verify if bringing minors.",
+      "Why / thoughts": "An electronic-music Halloween party with costume pricing and group ticket options. Ask the organizer about admission ages before bringing children.",
       "Website": "https://www.ogdenepic.com/event-details/triple-money",
       "Social profile": "https://www.instagram.com/4theloveof_studios/",
       "Extra notes": "",
@@ -16715,7 +16938,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Trivia Craft — A Witchcraft Trivia Night",
@@ -16780,7 +17004,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Trunk or Treat in the Arboretum",
@@ -16795,7 +17020,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Kaysville, Kaysville",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Decorated trees, community partners, trick-or-treating; leashed pets welcome. Strong little-kid option.",
+      "Why / thoughts": "Trick-or-treat among decorated trees and community booths in the arboretum. Leashed pets are welcome.",
       "Website": "https://www.kaysville.gov/calendar.aspx?CID=0&month=10&view=list&year=2026",
       "Social profile": "",
       "Extra notes": "",
@@ -16846,7 +17071,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "University Place / The Orchard Halloween Display",
@@ -16861,7 +17087,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Orem, Orem",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Easy free add-on that makes the Utah County drive feel worthwhile. Especially useful after Dreamwalk when the lights are on.",
+      "Why / thoughts": "A free Halloween display at University Place’s outdoor Orchard area.",
       "Website": "https://universityplaceorem.com/events/2026-orchard-halloween-display/",
       "Social profile": "https://www.instagram.com/universityplaceorem/",
       "Extra notes": "",
@@ -16916,7 +17142,8 @@ window.SITE_DATA = {
       "scheduleNote": "Choose a date on the organizer’s calendar.",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Unleash Your Inner Monster — SFX Makeup Workshop",
@@ -16979,7 +17206,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "USU Botanical Center Scarecrow Walk",
@@ -17052,7 +17280,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Utah Metropolitan Ballet Masquerade Ball",
@@ -17120,7 +17349,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Utah Olympic Park Autumn Scenic Chairlift",
@@ -17185,7 +17415,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/scenic.svg"
+      "placeholder": "assets/art/scenic.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Utah Pagan Market Samhain Festival — 2026 watch",
@@ -17200,7 +17431,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Utah State Fairpark, Salt Lake City (2025 location), Salt Lake City",
       "Status": "2026 watch",
-      "Why / thoughts": "Worth keeping on the radar because the 2025 Samhain Festival was a substantial Fairpark event with 30+ vendors, trick-or-treating, costume/ritual-wear contests, classes and rituals. The 2025 festival was Oct. 19 at Utah State Fairpark. Current searches found no 2026 Samhain/Fairpark event page, so do not treat this as confirmed.",
+      "Why / thoughts": "A pagan-community Samhain gathering with a history of vendors, classes and rituals. A current-season festival has not been announced.",
       "Website": "https://unitedpaganmarket.com/",
       "Social profile": "https://www.facebook.com/utahpaganmarket",
       "Extra notes": "",
@@ -17254,7 +17485,8 @@ window.SITE_DATA = {
         "Pagan / alternative"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Utah Pride HalloQueen Ball",
@@ -17269,7 +17501,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Salt Lake Masonic Temple, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Large multi-floor Halloween party with DJs, drag-hosted bingo, food, drinks and major costume contest. VIP includes 4 drink tickets, lounge, hors d'oeuvres and priority entry.",
+      "Why / thoughts": "A multi-floor Halloween party with DJs, drag-hosted bingo, food, drinks and a costume contest. VIP tickets include drinks, lounge access and priority entry.",
       "Website": "https://www.utahpride.org/events/halloqueen-ball",
       "Social profile": "https://www.instagram.com/utahpridecenter/",
       "Extra notes": "",
@@ -17334,7 +17566,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Utah Symphony: Halloween Hijinks",
@@ -17349,7 +17582,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Abravanel Hall, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Short spooky family concerts with pre-concert activities and one of Utah's largest costume contests. Add this under both concerts and costume-contest ideas.",
+      "Why / thoughts": "A short family concert of spooky music, with pre-concert activities and a costume contest.",
       "Website": "https://utahsymphony.org/event/id/38949/",
       "Social profile": "https://www.instagram.com/utahsymphony/",
       "Extra notes": "",
@@ -17415,7 +17648,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Villains & Heroes Halloween Carnival",
@@ -17483,7 +17717,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "VIVA LA DIVA: TRICKORTREAT DIVA!",
@@ -17559,7 +17794,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Wandering Wizards — Halloween Vendor Market",
@@ -17628,7 +17864,8 @@ window.SITE_DATA = {
         "Pagan / alternative"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Weber Basin Water Garden Spooktacular",
@@ -17643,7 +17880,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Layton, Layton",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Decorated skeleton scenes, entertainment, balloon artist and costumes. Very easy free Davis County recommendation.",
+      "Why / thoughts": "Decorated skeleton scenes, entertainment, a balloon artist and costumes at the water garden.",
       "Website": "https://www.kaysville.gov/Calendar.aspx?EID=2904&calType=0&day=23&month=10&year=2026",
       "Social profile": "",
       "Extra notes": "",
@@ -17694,7 +17931,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nature.svg"
+      "placeholder": "assets/art/nature.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Weeb Streets 3rd Annual Halloween Cosplay Party",
@@ -17709,7 +17947,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "The Garden Event Center, 1420 Major St, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Six-hour alcohol-free anime/J-pop/Vocaloid/EDM dance party with six DJs and cosplay photography. 18+ but alcohol-free; useful for adults who want a dance party without a bar.",
+      "Why / thoughts": "An alcohol-free anime, J-pop, Vocaloid and electronic-music dance party with DJs and cosplay photography. Ages 18 and older.",
       "Website": "https://weebstreets.com/",
       "Social profile": "https://www.instagram.com/weebstreets/",
       "Extra notes": "",
@@ -17764,7 +18002,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Whale Fest Costume Contest + Parade",
@@ -17779,7 +18018,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "9th & 9th roundabout, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Not Halloween-branded, but October costume contest + parade + vendors/crafts makes it relevant to a thorough seasonal guide. Contest check-in 1:30–2:15 PM; space limited.",
+      "Why / thoughts": "A neighborhood celebration with a costume contest, parade, vendors and crafts. Contest participation is limited and requires check-in.",
       "Website": "https://publicart.slc.gov/whale-fest-2026/",
       "Social profile": "",
       "Extra notes": "",
@@ -17829,7 +18068,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "What’s Your Favorite SCREAM? All-Scream Trivia",
@@ -17894,7 +18134,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Wheeler Farm Pumpkin Days",
@@ -17909,7 +18150,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Murray, Murray",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Cheap, close, flexible; good low-pressure fall outing. Also includes the free Pumpkin Boo-tique on Oct 15 at the Activity Barn, plus rotating food trucks and other seasonal programming.",
+      "Why / thoughts": "A farm outing with pumpkins and seasonal activities, plus rotating food trucks. The free Pumpkin Boo-tique takes place in the Activity Barn.",
       "Website": "https://www.saltlakecounty.gov/wheeler-farm/events--program/",
       "Social profile": "",
       "Extra notes": "",
@@ -17959,7 +18200,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/farm.svg"
+      "placeholder": "assets/art/farm.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Whispers in the Dark — Layton Scary Storytelling Festival",
@@ -18023,7 +18265,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Wicked Way 5K + Halloween Party",
@@ -18087,7 +18330,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/active.svg"
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Witch Run — Gardner Village",
@@ -18102,7 +18346,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Gardner Village, 1100 W 7800 S, West Jordan, West Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "5K, 10K and half marathon inside WitchFest, with witch attire, themed medals and race swag. Held Sep. 26, 2026; included as a completed 2026 reference and strong recurring-season lead.",
+      "Why / thoughts": "A costume-friendly 5K, 10K and half marathon at Gardner Village’s WitchFest, with themed medals and race items.",
       "Website": "https://www.witchrun.com/",
       "Social profile": "",
       "Extra notes": "",
@@ -18160,7 +18404,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/active.svg"
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Witches Night Out — Jungle Room",
@@ -18175,7 +18420,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "2232 Washington Blvd, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Botanical broom-making, henna, aura photography, readers, treats and vendors. More witchy-market than haunt; strong downtown add-on.",
+      "Why / thoughts": "A witch-themed gathering with botanical broom-making, henna, aura photography, readers, treats and vendors.",
       "Website": "https://www.visitogden.com/events/witches-night-out-5/",
       "Social profile": "https://www.instagram.com/jungleroomplantco/",
       "Extra notes": "",
@@ -18231,7 +18476,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Witches Night Out @ Gardner Village",
@@ -18246,7 +18492,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "West Jordan, West Jordan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "More event energy than daytime WitchFest: costumes, music, parade, shopping. Useful if someone wants a witchy evening without a haunt.",
+      "Why / thoughts": "An evening of witch costumes, music, a parade and shopping at Gardner Village.",
       "Website": "https://www.gardnervillage.com/activity/witchfest",
       "Social profile": "https://www.instagram.com/gardnervillage/",
       "Extra notes": "",
@@ -18316,7 +18562,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/market.svg"
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Witches Night Out Train @ Heber Valley Railroad",
@@ -18331,7 +18578,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Heber Valley Railroad Depot, Heber / Wasatch Back",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "More themed/tea-service focused than the standard Halloween Train; fun for witchy groups. Includes tea service, scones, desserts and drink choice.",
+      "Why / thoughts": "A witch-themed train ride with tea service, scones, desserts and a choice of drink.",
       "Website": "https://www.gohebervalley.com/witches-night-train/",
       "Social profile": "",
       "Extra notes": "",
@@ -18416,7 +18663,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/scenic.svg"
+      "placeholder": "assets/art/scenic.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Witchy Watercolor Painting Series",
@@ -18491,7 +18739,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/workshop.svg"
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "Witchy Woman — Halloween Special",
@@ -18569,7 +18818,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "Event / attraction": "ZooBrew — October",
@@ -18584,7 +18834,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Hogle Zoo, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Adults-only zoo night with local craft beverages, food and wildlife; easy date-night format. Valid physical ID required; drink purchases limited by Utah law.",
+      "Why / thoughts": "An adults-only zoo evening with wildlife, food and local craft beverages. Bring valid physical ID; drink purchases follow Utah law.",
       "Website": "https://www.hoglezoo.org/zoobrew/",
       "Social profile": "https://www.instagram.com/hoglezoo/",
       "Extra notes": "",
@@ -18667,7 +18917,8 @@ window.SITE_DATA = {
       "scheduleNote": "",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "west-jordan-veterans-day-ceremony",
@@ -18724,7 +18975,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "veterans",
-      "placeholder": "assets/art/seasonal/veterans-community.svg"
+      "placeholder": "assets/art/seasonal/veterans-community.svg",
+      "notable_event": false
     },
     {
       "id": "veterans-day-concert-america-250",
@@ -18780,7 +19032,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "veterans",
-      "placeholder": "assets/art/seasonal/veterans-performance.svg"
+      "placeholder": "assets/art/seasonal/veterans-performance.svg",
+      "notable_event": false
     },
     {
       "id": "runtastic-thankful",
@@ -18814,7 +19067,7 @@ window.SITE_DATA = {
       "Location": "Thanksgiving Point, Lehi",
       "Status": "Confirmed",
       "Website": "https://runtasticevents.com/races/thankful/",
-      "Why / thoughts": "Half marathon, 10K, 5K and kids run.",
+      "Why / thoughts": "A Thanksgiving-season race with half-marathon, 10K, 5K and kids-run options.",
       "Extra notes": "Outdoor; multiple distances",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -18839,7 +19092,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-active.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-active.svg",
+      "notable_event": false
     },
     {
       "id": "north-ogden-turkey-trot",
@@ -18898,7 +19152,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-active.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-active.svg",
+      "notable_event": false
     },
     {
       "id": "south-davis-thanksgiving-day-races",
@@ -18932,7 +19187,7 @@ window.SITE_DATA = {
       "Location": "South Davis Recreation Center / Bountiful Jr High area, Bountiful",
       "Status": "Confirmed",
       "Website": "https://www.southdavisraces.com/thanksgiving-day/",
-      "Why / thoughts": "Turkey 10K, Family 5K, Gobbler 1K.",
+      "Why / thoughts": "Thanksgiving Day races with a Turkey 10K, Family 5K and Gobbler 1K.",
       "Extra notes": "Outdoor; packet pickup available day before",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -18957,7 +19212,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-active.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-active.svg",
+      "notable_event": false
     },
     {
       "id": "utah-human-race",
@@ -18992,7 +19248,7 @@ window.SITE_DATA = {
       "Location": "Sandy Promenade, Sandy",
       "Status": "Confirmed",
       "Website": "https://www.utahfoodbank.org/events/utah-human-race/",
-      "Why / thoughts": "Benefits Utah Food Bank; close to 6,000 supporters expected.",
+      "Why / thoughts": "A Thanksgiving-season run benefiting Utah Food Bank.",
       "Extra notes": "Outdoor; charity fundraiser",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -19017,7 +19273,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-active.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-active.svg",
+      "notable_event": false
     },
     {
       "id": "thanksgiving-brunch",
@@ -19051,7 +19308,7 @@ window.SITE_DATA = {
       "Location": "Sundance Mountain Resort, Sundance",
       "Status": "Confirmed",
       "Website": "https://www.sundanceresort.com/events/thanksgiving-brunch/",
-      "Why / thoughts": "Thanksgiving Day resort brunch.",
+      "Why / thoughts": "A Thanksgiving Day brunch at a mountain resort.",
       "Extra notes": "Reservations required",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -19074,7 +19331,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-community.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-community.svg",
+      "notable_event": false
     },
     {
       "id": "luminaria",
@@ -19108,8 +19366,8 @@ window.SITE_DATA = {
       "Location": "Ashton Gardens, Thanksgiving Point, Lehi",
       "Status": "Confirmed",
       "Website": "https://thanksgivingpoint.org/calendar/2026/november/",
-      "Why / thoughts": "50 acres; 10 million lights; includes shows, dance party, Tree of Life area.",
-      "Extra notes": "Large outdoor walking experience; verify mobility details",
+      "Why / thoughts": "Walk through illuminated gardens with light shows, a dance-party area and the Tree of Life display.",
+      "Extra notes": "A large outdoor walking route; ask about step-free paths and mobility support.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "ADA/PRACTICAL RECHECK;",
@@ -19179,7 +19437,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "2026-salt-lake-family-christmas-gift-show",
@@ -19213,7 +19472,7 @@ window.SITE_DATA = {
       "Location": "Mountain America Expo Center, Sandy",
       "Status": "Confirmed on venue calendar",
       "Website": "https://www.visitsaltlake.com/mountain-america-expo-center/attend/facility-events-calendar/",
-      "Why / thoughts": "Venue estimates 25,000 attendance.",
+      "Why / thoughts": "A holiday gift show with exhibitors and shopping at the Mountain America Expo Center.",
       "Extra notes": "Indoor expo venue",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -19232,7 +19491,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "annual-crazy-daisy-holiday-boutique",
@@ -19266,7 +19526,7 @@ window.SITE_DATA = {
       "Location": "Mountain America Expo Center, Sandy",
       "Status": "Confirmed on venue calendar",
       "Website": "https://www.visitsaltlake.com/mountain-america-expo-center/attend/facility-events-calendar/",
-      "Why / thoughts": "Venue estimates 5,000 attendance.",
+      "Why / thoughts": "A holiday boutique with vendors selling gifts and seasonal goods.",
       "Extra notes": "Indoor expo venue",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -19285,7 +19545,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-in-the-village",
@@ -19339,7 +19600,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-village",
@@ -19374,7 +19636,7 @@ window.SITE_DATA = {
       "Location": "Municipal Gardens, Ogden",
       "Status": "Confirmed",
       "Website": "https://www.visitogden.com/events/christmas-village1-64/",
-      "Why / thoughts": "Santa Mon–Fri 6–9 PM and Sat 5–9 PM through Dec 23; bring own camera.",
+      "Why / thoughts": "Explore Ogden’s illuminated Christmas cottages and visit Santa during scheduled sessions. Bring your own camera for photos.",
       "Extra notes": "Outdoor; Santa schedule separately posted",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -19395,7 +19657,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "messiah-sing-in",
@@ -19454,7 +19717,8 @@ window.SITE_DATA = {
         "Christian"
       ],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-performance.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-performance.svg",
+      "notable_event": false
     },
     {
       "id": "the-nutcracker-ballet-west",
@@ -19488,8 +19752,8 @@ window.SITE_DATA = {
       "Location": "Browning Center (Ogden) and Capitol Theatre (SLC), Ogden / Salt Lake City",
       "Status": "Confirmed",
       "Website": "https://www.balletwest.org/events/detail/the-nutcracker-1",
-      "Why / thoughts": "Ogden Nov 27–29; Salt Lake City Dec 4–26.",
-      "Extra notes": "Wheelchair seating shown in ticket inventory; verify full accessibility copy",
+      "Why / thoughts": "Ballet West presents The Nutcracker in Ogden and Salt Lake City. Choose the city and performance when booking.",
+      "Extra notes": "Wheelchair seating appears in ticket options; contact the venue for other accommodation needs.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "ADA/PRACTICAL RECHECK;",
@@ -19507,7 +19771,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "christkindlmarkt-slc",
@@ -19582,7 +19847,8 @@ window.SITE_DATA = {
         "summary": "Wheelchair- and stroller-accessible market; bring your own mobility equipment. Service animals welcome.",
         "url": "https://www.christkindlmarkt-slc.com/parking-faq",
         "tone": "positive"
-      }
+      },
+      "notable_event": false
     },
     {
       "id": "primary-childrens-festival-of-trees",
@@ -19636,7 +19902,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "candlelight-christmas",
@@ -19671,8 +19938,8 @@ window.SITE_DATA = {
       "Location": "This Is The Place Heritage Park, Salt Lake City",
       "Status": "Confirmed event; schedule needs recheck",
       "Website": "https://www.thisistheplace.org/events/",
-      "Why / thoughts": "Official event index says Dec 8–23; a detail page currently shows a narrower date range.",
-      "Extra notes": "Outdoor historic village; verify mobility/accessibility specifics",
+      "Why / thoughts": "A Christmas outing at a historic village. Check the available dates when reserving your visit.",
+      "Extra notes": "An outdoor historic village; ask about terrain and step-free routes.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "DETAILS RECHECK; ADA/PRACTICAL RECHECK;",
@@ -19690,7 +19957,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "the-holiday-in-concert",
@@ -19745,7 +20013,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-cody-fry-christmas",
@@ -19800,7 +20069,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "holiday-pops-extravaganza-in-ogden",
@@ -19855,7 +20125,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "the-tabernacle-choir-christmas-concert",
@@ -19889,7 +20160,7 @@ window.SITE_DATA = {
       "Location": "Conference Center, Temple Square, Salt Lake City",
       "Status": "Confirmed",
       "Website": "https://www.thetabernaclechoir.org/christmas-concert?lang=eng",
-      "Why / thoughts": "Guest artists not yet announced; standby line available.",
+      "Why / thoughts": "A Christmas concert by the Tabernacle Choir with guest artists. A standby line is available for visitors without tickets.",
       "Extra notes": "Large indoor venue; Ask the organizer about specific access needs",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -19916,7 +20187,8 @@ window.SITE_DATA = {
         "Christian"
       ],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "holiday-pops-extravaganza",
@@ -19973,7 +20245,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "here-comes-santa-claus",
@@ -20029,7 +20302,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "disneys-the-muppet-christmas-carol-in-concert",
@@ -20085,7 +20359,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "north-pole-express-2026",
@@ -20138,7 +20413,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "new-years-eve-torchlight-parade-fireworks-show",
@@ -20172,7 +20448,7 @@ window.SITE_DATA = {
       "Location": "Solitude Mountain Resort, Solitude",
       "Status": "Confirmed",
       "Website": "https://www.solitudemountain.com/things-to-do/events-and-activities/torchlight-parade-and-firework-celebration_december-31",
-      "Why / thoughts": "Also includes alphorn concert, steel show, magic show, avalanche dog demo and karaoke.",
+      "Why / thoughts": "A New Year’s Eve torchlight parade and fireworks, with music, demonstrations, magic and karaoke in the accompanying program.",
       "Extra notes": "Outdoor winter conditions; free resort shuttle noted",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -20199,7 +20475,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "newyear",
-      "placeholder": "assets/art/seasonal/newyear-active.svg"
+      "placeholder": "assets/art/seasonal/newyear-active.svg",
+      "notable_event": false
     },
     {
       "id": "lindon-turkey-trot-2026",
@@ -20233,7 +20510,7 @@ window.SITE_DATA = {
       "Location": "City Center Park, Lindon",
       "Status": "Confirmed",
       "Website": "https://lindon.gov/315/Community-Events",
-      "Why / thoughts": "Fresh Halloween producer sweep led directly to this Thanksgiving event.",
+      "Why / thoughts": "A Thanksgiving-season community run in Lindon.",
       "Extra notes": "Outdoor; packet pickup available Nov 20",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -20258,7 +20535,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-active.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-active.svg",
+      "notable_event": false
     },
     {
       "id": "yule-fairs-at-crone-s-hollow",
@@ -20317,7 +20595,8 @@ window.SITE_DATA = {
         "Pagan / alternative"
       ],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "ascent-chorus-temple-square-christmas-concert",
@@ -20372,7 +20651,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "simple-treasures-heber-valley-holiday-boutique",
@@ -20426,7 +20706,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "cottages-for-the-children-gingerbread-house-auction",
@@ -20461,7 +20742,7 @@ window.SITE_DATA = {
       "Location": "Wasatch County Event Complex, Heber City",
       "Status": "Confirmed occurrence; dedicated hours recheck",
       "Website": "https://www.gohebervalley.com/simple-treasures-boutique-market/",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
+      "Why / thoughts": "View and bid on gingerbread cottages at a charity auction held alongside the Heber Valley holiday boutique.",
       "Extra notes": "Charity event benefiting Wasatch County Children's Justice Center",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -20480,7 +20761,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "a-kurt-bestor-christmas-salt-lake-city",
@@ -20514,7 +20796,7 @@ window.SITE_DATA = {
       "Location": "Eccles Theater, Salt Lake City",
       "Status": "Confirmed",
       "Website": "https://www.saltlakecountyarts.org/events/kurt-bestor-christmas/",
-      "Why / thoughts": "Multiple performances; Dec 4–5 VIP reception options.",
+      "Why / thoughts": "Kurt Bestor performs Christmas music in Salt Lake City. Selected performances offer a VIP reception.",
       "Extra notes": "Indoor seated performance",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -20533,7 +20815,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-drag-queen-christmas",
@@ -20592,7 +20875,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "caleb-chapman-s-cool-yule",
@@ -20647,7 +20931,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "live-nativity-christmas-celebration",
@@ -20706,7 +20991,8 @@ window.SITE_DATA = {
         "Christian"
       ],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "dinos-in-the-snow",
@@ -20741,7 +21027,7 @@ window.SITE_DATA = {
       "Location": "George S. Eccles Dinosaur Park, Ogden",
       "Status": "Confirmed",
       "Website": "https://dinosaurpark.org/dinos-in-the-snow/",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
+      "Why / thoughts": "A winter outing at Ogden’s Dinosaur Park.",
       "Extra notes": "Grinch photos, crafts, slime, hot chocolate",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -20760,7 +21046,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "o-come-all-ye-faithful-salt-lake-choral-artists",
@@ -20794,8 +21081,8 @@ window.SITE_DATA = {
       "Location": "St. Ambrose Catholic Church + Salt Lake Tabernacle, Salt Lake City",
       "Status": "Confirmed",
       "Website": "https://saltlakechoralartists.org/holiday/",
-      "Why / thoughts": "Four-night Christmas choral run: Dec 11, 12, 13, 14.",
-      "Extra notes": "Multiple venues; verify each venue's accessibility details",
+      "Why / thoughts": "Salt Lake Choral Artists performs a Christmas concert across multiple venues and dates.",
+      "Extra notes": "Performances use multiple venues; ask the venue for your selected date about accommodations.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "ADA/PRACTICAL RECHECK;",
@@ -20813,7 +21100,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "sterling-singers-2026-christmas-concert",
@@ -20866,7 +21154,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-magical-cirque-christmas",
@@ -20919,7 +21208,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "centerville-tree-lighting",
@@ -20954,7 +21244,7 @@ window.SITE_DATA = {
       "Location": "Smith Park, Centerville",
       "Status": "Confirmed",
       "Website": "https://www.centervilleutah.gov/recreation-culture/events/tree-lighting/",
-      "Why / thoughts": "Santa arrival, hot chocolate/donuts, mayor lights park.",
+      "Why / thoughts": "A community tree lighting with Santa, hot chocolate and donuts in Centerville’s park.",
       "Extra notes": "Outdoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -20977,7 +21267,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "pioneer-christmas-at-whitaker-museum",
@@ -21034,7 +21325,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "syracuse-city-christmas-concert",
@@ -21090,7 +21382,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "lights-before-christmas-kickoff",
@@ -21126,7 +21419,7 @@ window.SITE_DATA = {
       "Location": "Layton Commons Park, Layton",
       "Status": "Confirmed current city listing",
       "Website": "https://www.laytoncityutah.gov/LC/CommunityCalendar",
-      "Why / thoughts": "School choirs/community band; kicks off nightly lights display.",
+      "Why / thoughts": "School choirs and a community band perform at the opening of Layton’s nightly holiday lights.",
       "Extra notes": "Outdoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -21149,7 +21442,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "lights-before-christmas-display",
@@ -21238,7 +21532,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "layton-holiday-hayrides",
@@ -21273,7 +21568,7 @@ window.SITE_DATA = {
       "Location": "Layton Commons Park, Layton",
       "Status": "Confirmed current city listing",
       "Website": "https://www.laytoncityutah.gov/LC/CommunityCalendar",
-      "Why / thoughts": "Hayrides through lights plus Santa.",
+      "Why / thoughts": "Ride through Layton’s holiday lights on a hayride and visit Santa.",
       "Extra notes": "Outdoor winter conditions",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -21296,7 +21591,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "lighting-of-riverwoods-2026",
@@ -21331,7 +21627,7 @@ window.SITE_DATA = {
       "Location": "The Shops at Riverwoods, Provo",
       "Status": "Confirmed",
       "Website": "https://shopsatriverwoods.com/event/lighting-of-riverwoods-2026/",
-      "Why / thoughts": "1.5 million lights, entertainment, photo ops, fireworks.",
+      "Why / thoughts": "A holiday lighting celebration at Riverwoods with entertainment, photos and fireworks.",
       "Extra notes": "Outdoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -21354,7 +21650,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "imagine-ballet-theatre-the-nutcracker",
@@ -21388,7 +21685,7 @@ window.SITE_DATA = {
       "Location": "Peery's Egyptian Theater, Ogden",
       "Status": "Confirmed current listing",
       "Website": "https://www.ogdenpet.com/",
-      "Why / thoughts": "Ogden Nutcracker production; Check the performance schedule when choosing your tickets.",
+      "Why / thoughts": "Imagine Ballet Theatre presents The Nutcracker in Ogden.",
       "Extra notes": "Indoor seated performance",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -21407,7 +21704,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "library-hall-presents-the-nutcracker",
@@ -21441,7 +21739,7 @@ window.SITE_DATA = {
       "Location": "Orem Library Hall, Orem",
       "Status": "Confirmed current listing",
       "Website": "https://libhall.orem.org/",
-      "Why / thoughts": "Four performances.",
+      "Why / thoughts": "A production of The Nutcracker at Library Hall.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -21460,7 +21758,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "cache-valley-civic-ballet-the-nutcracker",
@@ -21494,7 +21793,7 @@ window.SITE_DATA = {
       "Location": "Ellen Eccles Theatre, Logan",
       "Status": "Confirmed current listing",
       "Website": "https://cachearts.org/",
-      "Why / thoughts": "Best-of Logan holiday performing arts option.",
+      "Why / thoughts": "Cache Valley Civic Ballet presents The Nutcracker in Logan.",
       "Extra notes": "Indoor",
       "travelTier": "Extended day trip",
       "lastVerified": "2026-10-06",
@@ -21513,7 +21812,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "byu-theatre-ballet-the-nutcracker",
@@ -21568,7 +21868,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "snow-day-a-holiday-family-concert",
@@ -21624,7 +21925,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-performance.svg"
+      "placeholder": "assets/art/seasonal/winter-performance.svg",
+      "notable_event": false
     },
     {
       "id": "the-pigeon-gets-a-big-time-holiday-extravaganza",
@@ -21677,7 +21979,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-performance.svg"
+      "placeholder": "assets/art/seasonal/winter-performance.svg",
+      "notable_event": false
     },
     {
       "id": "uvu-sounds-of-the-season",
@@ -21711,7 +22014,7 @@ window.SITE_DATA = {
       "Location": "The Noorda, Orem",
       "Status": "Confirmed current venue listing",
       "Website": "https://www.uvu.edu/thenoorda/",
-      "Why / thoughts": "UVU holiday performance.",
+      "Why / thoughts": "UVU performers present a holiday music program.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -21730,7 +22033,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-christmas-story-the-musical",
@@ -21764,7 +22068,7 @@ window.SITE_DATA = {
       "Location": "SCERA Center for the Arts, Orem",
       "Status": "Confirmed",
       "Website": "https://scera.org/event-category/scera-center-for-the-arts/",
-      "Why / thoughts": "Holiday musical based on the film.",
+      "Why / thoughts": "A stage musical based on A Christmas Story, following Ralphie’s Christmas wish and family mishaps.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -21783,7 +22087,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "caleb-chapman-s-crescent-christmas-cool-yule-orem",
@@ -21817,7 +22122,7 @@ window.SITE_DATA = {
       "Location": "SCERA Center for the Arts, Orem",
       "Status": "Confirmed",
       "Website": "https://scera.org/event-category/scera-center-for-the-arts/",
-      "Why / thoughts": "Distinct from Dec 8 Ogden Cool Yule.",
+      "Why / thoughts": "A holiday jazz and big-band program from Caleb Chapman’s Soundhouse in Orem.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -21836,7 +22141,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "grand-america-holiday-tea",
@@ -21878,7 +22184,7 @@ window.SITE_DATA = {
       "Location": "The Grand America Hotel, Salt Lake City",
       "Status": "Confirmed",
       "Website": "https://grandamerica.com/events/holiday-tea",
-      "Why / thoughts": "Daily afternoon holiday tea.",
+      "Why / thoughts": "Afternoon holiday tea at Grand America, with reservations for individual sittings.",
       "Extra notes": "Reservations required",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -21960,7 +22266,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "umfa-holiday-market-2026",
@@ -21994,7 +22301,7 @@ window.SITE_DATA = {
       "Location": "Utah Museum of Fine Arts, Salt Lake City",
       "Status": "Confirmed",
       "Website": "https://umfa.utah.edu/event/holiday-market-2026/2026-12-05/",
-      "Why / thoughts": "Local artists, live music, museum/cafe add-on.",
+      "Why / thoughts": "Browse works from local artists and hear live music at the Utah Museum of Fine Arts holiday market.",
       "Extra notes": "Indoor; free parking",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22013,7 +22320,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-market.svg"
+      "placeholder": "assets/art/seasonal/winter-market.svg",
+      "notable_event": false
     },
     {
       "id": "a-krampus-karol",
@@ -22068,7 +22376,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "the-darkest-night",
@@ -22127,7 +22436,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "yule",
-      "placeholder": "assets/art/seasonal/yule-nightlife.svg"
+      "placeholder": "assets/art/seasonal/yule-nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "sojo-santa-sprint",
@@ -22161,7 +22471,7 @@ window.SITE_DATA = {
       "Location": "Mulligans Golf, South Jordan",
       "Status": "Confirmed",
       "Website": "https://www.sjc.utah.gov/239/SoJo-Race-Series",
-      "Why / thoughts": "5K, ruck and kids run.",
+      "Why / thoughts": "A Santa-themed race with a 5K, weighted ruck division and kids run.",
       "Extra notes": "Outdoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22186,7 +22496,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-active.svg"
+      "placeholder": "assets/art/seasonal/christmas-active.svg",
+      "notable_event": false
     },
     {
       "id": "winter-celebrations",
@@ -22244,7 +22555,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "a-visit-with-santa-mrs-claus",
@@ -22302,7 +22614,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "carpenters-platinum-christmas-tribute",
@@ -22336,7 +22649,7 @@ window.SITE_DATA = {
       "Location": "Covey Center, Provo",
       "Status": "Confirmed",
       "Website": "https://www.provo.gov/1457/Coming-Events",
-      "Why / thoughts": "Carpenters holiday tribute.",
+      "Why / thoughts": "A Christmas concert paying tribute to the Carpenters’ music.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22357,7 +22670,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "peter-breinholt-christmas-concert",
@@ -22391,7 +22705,7 @@ window.SITE_DATA = {
       "Location": "Covey Center, Provo",
       "Status": "Confirmed",
       "Website": "https://www.provo.gov/1023/Covey-Presents",
-      "Why / thoughts": "Annual Christmas concert.",
+      "Why / thoughts": "Singer-songwriter Peter Breinholt performs an annual Christmas concert.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22412,7 +22726,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-thrill-of-hope-a-christmas-concert",
@@ -22446,7 +22761,7 @@ window.SITE_DATA = {
       "Location": "Covey Center, Provo",
       "Status": "Confirmed",
       "Website": "https://www.provo.gov/1023/Covey-Presents",
-      "Why / thoughts": "known by name (formerly j209).",
+      "Why / thoughts": "A Christmas concert by the group known by name.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22467,7 +22782,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-truman-brothers-christmas",
@@ -22501,7 +22817,7 @@ window.SITE_DATA = {
       "Location": "Covey Center, Provo",
       "Status": "Confirmed",
       "Website": "https://www.provo.gov/1023/Covey-Presents",
-      "Why / thoughts": "Full band and choir.",
+      "Why / thoughts": "The Truman Brothers perform Christmas music with a full band and choir.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22522,7 +22838,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "shaun-johnson-an-improvised-christmas",
@@ -22556,7 +22873,7 @@ window.SITE_DATA = {
       "Location": "Covey Center, Provo",
       "Status": "Confirmed",
       "Website": "https://www.provo.gov/1023/Covey-Presents",
-      "Why / thoughts": "Christmas improv comedy.",
+      "Why / thoughts": "Shaun Johnson presents improvised comedy with a Christmas theme.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22575,7 +22892,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "messiah-sing-along-provo",
@@ -22634,7 +22952,8 @@ window.SITE_DATA = {
         "Christian"
       ],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "magical-lantern-nights",
@@ -22669,7 +22988,7 @@ window.SITE_DATA = {
       "Location": "Utah State Fairgrounds, Salt Lake City",
       "Status": "Confirmed",
       "Website": "https://magicallanternnights.com/event-details",
-      "Why / thoughts": "Chinese lantern-art traditions; winter lights without requiring Christmas framing.",
+      "Why / thoughts": "A winter light outing featuring Chinese lantern-art traditions.",
       "Extra notes": "Accessible parking; TRAX nearby",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22688,7 +23007,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "always-queer-market-holiday-market",
@@ -22722,7 +23042,7 @@ window.SITE_DATA = {
       "Location": "Under the Umbrella Bookstore and Cafe, Salt Lake City",
       "Status": "Confirmed",
       "Website": "https://www.eventbrite.com/e/always-queer-market-tickets-1146339495289",
-      "Why / thoughts": "All-local, all-queer vendors; explicit Holiday Market edition.",
+      "Why / thoughts": "Shop holiday gifts from local queer vendors.",
       "Extra notes": "Wheelchair accessible; masks required per organizer",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22747,7 +23067,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-market.svg"
+      "placeholder": "assets/art/seasonal/winter-market.svg",
+      "notable_event": false
     },
     {
       "id": "always-queer-market-winter-market",
@@ -22781,7 +23102,7 @@ window.SITE_DATA = {
       "Location": "Under the Umbrella Bookstore and Cafe, Salt Lake City",
       "Status": "Confirmed",
       "Website": "https://www.eventbrite.com/e/always-queer-market-tickets-1146339495289",
-      "Why / thoughts": "Winter edition intentionally useful beyond Christmas taxonomy.",
+      "Why / thoughts": "A winter market featuring local queer vendors.",
       "Extra notes": "Wheelchair accessible; masks required per organizer",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22806,7 +23127,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-market.svg"
+      "placeholder": "assets/art/seasonal/winter-market.svg",
+      "notable_event": false
     },
     {
       "id": "2026-latin-jingle-dance-party",
@@ -22840,8 +23162,8 @@ window.SITE_DATA = {
       "Location": "Utah Salsa, 3030 S Main St, Salt Lake City",
       "Status": "Confirmed current listing",
       "Website": "https://utahsalsa.com/grinch-latin-jingle/",
-      "Why / thoughts": "Latin dance social with holiday/Grinch show.",
-      "Extra notes": "No accessibility information currently published",
+      "Why / thoughts": "A Latin dance social with a holiday and Grinch-themed performance.",
+      "Extra notes": "Ask the organizer about the accommodations you need.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "",
@@ -22861,7 +23183,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-nightlife.svg"
+      "placeholder": "assets/art/seasonal/christmas-nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "carol-of-drums-festival",
@@ -22895,7 +23218,7 @@ window.SITE_DATA = {
       "Location": "Browning Center, Allred Theatre, Ogden",
       "Status": "Confirmed",
       "Website": "https://www.weber.edu/artscalendar",
-      "Why / thoughts": "WSU percussion, marimba, steel pan, drumline and community guests.",
+      "Why / thoughts": "Weber State musicians and community guests perform percussion, marimba, steel pan and drumline music.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22916,7 +23239,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "wsu-symphonic-band-songs-of-the-season",
@@ -22951,7 +23275,7 @@ window.SITE_DATA = {
       "Location": "Browning Center, Austad Auditorium, Ogden",
       "Status": "Confirmed",
       "Website": "https://www.weber.edu/artscalendar",
-      "Why / thoughts": "Explicitly mixes sacred and secular holiday melodies.",
+      "Why / thoughts": "Weber State’s Symphonic Band performs sacred and secular holiday music.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -22972,7 +23296,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "tidings-of-joy-41st-annual-holiday-choir-concert",
@@ -23006,7 +23331,7 @@ window.SITE_DATA = {
       "Location": "Weber State University; venue TBD, Ogden",
       "Status": "Confirmed",
       "Website": "https://www.weber.edu/artscalendar",
-      "Why / thoughts": "WSU Choir + Symphony Orchestra.",
+      "Why / thoughts": "Weber State’s choir and symphony orchestra perform holiday music together.",
       "Extra notes": "Indoor; venue TBD",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23027,7 +23352,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "utah-santa-5k-10k-half-marathon-gardner-village",
@@ -23061,7 +23387,7 @@ window.SITE_DATA = {
       "Location": "Gardner Village, West Jordan",
       "Status": "Confirmed",
       "Website": "https://www.gardnervillage.com/events/detail/Gardner-Village-Events/santa-5k-run",
-      "Why / thoughts": "5K, 10K and half marathon.",
+      "Why / thoughts": "A Santa-themed 5K, 10K and half marathon at Gardner Village.",
       "Extra notes": "Outdoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23086,7 +23412,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-active.svg"
+      "placeholder": "assets/art/seasonal/christmas-active.svg",
+      "notable_event": false
     },
     {
       "id": "breakfast-with-santa-gardner-village",
@@ -23140,7 +23467,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "ogden-santa-run",
@@ -23174,7 +23502,7 @@ window.SITE_DATA = {
       "Location": "Washington Boulevard / Downtown Ogden, Ogden",
       "Status": "Confirmed via Christmas Village opening schedule",
       "Website": "https://www.visitogden.com/events/signature/christmas-village/",
-      "Why / thoughts": "Opening-day race before parade/lights.",
+      "Why / thoughts": "A Santa-themed run through Ogden before the holiday parade and lighting ceremony.",
       "Extra notes": "Outdoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23199,7 +23527,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-active.svg"
+      "placeholder": "assets/art/seasonal/christmas-active.svg",
+      "notable_event": false
     },
     {
       "id": "ogden-holiday-electric-light-parade",
@@ -23234,7 +23563,7 @@ window.SITE_DATA = {
       "Location": "Washington Boulevard, 22nd–27th streets, Ogden",
       "Status": "Confirmed via Christmas Village opening schedule",
       "Website": "https://www.visitogden.com/events/signature/christmas-village/",
-      "Why / thoughts": "Santa arrives on final float.",
+      "Why / thoughts": "Watch illuminated floats travel through downtown Ogden, with Santa arriving on the final float.",
       "Extra notes": "Outdoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23257,7 +23586,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "ogden-christmas-village-opening-ceremony-fireworks",
@@ -23292,7 +23622,7 @@ window.SITE_DATA = {
       "Location": "Ogden Amphitheater / Municipal Gardens, Ogden",
       "Status": "Confirmed via Christmas Village opening schedule",
       "Website": "https://www.visitogden.com/events/signature/christmas-village/",
-      "Why / thoughts": "Ceremony, fireworks and village lights-on.",
+      "Why / thoughts": "A community ceremony, fireworks and the first lighting of Ogden’s Christmas Village.",
       "Extra notes": "Outdoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23315,7 +23645,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "holiday-ceramics-taylorsville-library",
@@ -23349,7 +23680,7 @@ window.SITE_DATA = {
       "Location": "Taylorsville Library, Taylorsville",
       "Status": "Confirmed current library listing",
       "Website": "https://slcls.libnet.info/",
-      "Why / thoughts": "Low-cost/free micro-event category.",
+      "Why / thoughts": "Make a holiday ceramics project at Taylorsville Library.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23372,7 +23703,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "family-fun-night-faux-stained-glass-art",
@@ -23407,7 +23739,7 @@ window.SITE_DATA = {
       "Location": "Bingham Creek Library, West Jordan",
       "Status": "Confirmed current library listing",
       "Website": "https://slcls.libnet.info/",
-      "Why / thoughts": "Holiday-themed art night.",
+      "Why / thoughts": "Make holiday-themed faux stained-glass art at a family craft night.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23430,7 +23762,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "cottonwood-presbyterian-church-bell-choir-at-whitmore",
@@ -23464,7 +23797,7 @@ window.SITE_DATA = {
       "Location": "Whitmore Library, Cottonwood Heights",
       "Status": "Confirmed current library listing",
       "Website": "https://slcls.libnet.info/",
-      "Why / thoughts": "Hyperlocal free concert near SLC east side.",
+      "Why / thoughts": "Hear Cottonwood Presbyterian Church’s bell choir perform at Whitmore Library.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23487,7 +23820,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "teen-scene-holiday-party",
@@ -23521,7 +23855,7 @@ window.SITE_DATA = {
       "Location": "Sandy Library, Sandy",
       "Status": "Confirmed current library listing",
       "Website": "https://slcls.libnet.info/",
-      "Why / thoughts": "Teen-specific holiday social.",
+      "Why / thoughts": "A holiday social for teens.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23544,7 +23878,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "nutcracker-suite-holiday-celebration-holladay-library",
@@ -23601,7 +23936,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "noon-year-celebration-tyler-library",
@@ -23635,7 +23971,7 @@ window.SITE_DATA = {
       "Location": "Tyler Library, Midvale",
       "Status": "Confirmed current library listing",
       "Website": "https://slcls.libnet.info/",
-      "Why / thoughts": "Refreshments, activities and piñatas.",
+      "Why / thoughts": "Celebrate the new year before bedtime with activities, refreshments and piñatas at Tyler Library.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23658,7 +23994,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "newyear",
-      "placeholder": "assets/art/seasonal/newyear-community.svg"
+      "placeholder": "assets/art/seasonal/newyear-community.svg",
+      "notable_event": false
     },
     {
       "id": "noon-year-s-eve-daybreak-library",
@@ -23692,7 +24029,7 @@ window.SITE_DATA = {
       "Location": "Daybreak Library, South Jordan",
       "Status": "Confirmed",
       "Website": "https://slcls.libnet.info/event/17494818",
-      "Why / thoughts": "Crafts and balloon drop at noon.",
+      "Why / thoughts": "A daytime New Year’s Eve gathering with crafts and a balloon drop at noon.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23715,7 +24052,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "newyear",
-      "placeholder": "assets/art/seasonal/newyear-community.svg"
+      "placeholder": "assets/art/seasonal/newyear-community.svg",
+      "notable_event": false
     },
     {
       "id": "orem-holiday-performance-utah-baroque-ensemble",
@@ -23749,7 +24087,7 @@ window.SITE_DATA = {
       "Location": "Orem Library Hall, Orem",
       "Status": "Confirmed current listing",
       "Website": "https://libhall.orem.org/",
-      "Why / thoughts": "Holiday sing-along.",
+      "Why / thoughts": "Join a holiday sing-along with the Utah Baroque Ensemble.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23772,7 +24110,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "orem-holiday-performance-cantorum-chamber-choir",
@@ -23829,7 +24168,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "orem-holiday-performance-celtic-holiday-night",
@@ -23863,7 +24203,7 @@ window.SITE_DATA = {
       "Location": "Orem Library Hall, Orem",
       "Status": "Confirmed current listing",
       "Website": "https://libhall.orem.org/",
-      "Why / thoughts": "An Rogaire Dubh + Thomas Cordner Memorial Pipe Band.",
+      "Why / thoughts": "Hear Celtic holiday music from An Rogaire Dubh and the Thomas Cordner Memorial Pipe Band.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23886,7 +24226,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "orem-holiday-performance-mapleton-chorale",
@@ -23920,7 +24261,7 @@ window.SITE_DATA = {
       "Location": "Orem Library Hall, Orem",
       "Status": "Confirmed current listing",
       "Website": "https://libhall.orem.org/",
-      "Why / thoughts": "Christmas music.",
+      "Why / thoughts": "Mapleton Chorale performs Christmas music in Orem.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -23943,7 +24284,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "orem-holiday-performance-chauntenettes-women-s-chorus",
@@ -23977,7 +24319,7 @@ window.SITE_DATA = {
       "Location": "Orem Library Hall, Orem",
       "Status": "Confirmed current listing",
       "Website": "https://libhall.orem.org/",
-      "Why / thoughts": "Women's chorus Christmas concert.",
+      "Why / thoughts": "The Chauntenettes Women’s Chorus performs a Christmas concert in Orem.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24000,7 +24342,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "orem-holiday-performance-a-christmas-carol",
@@ -24034,7 +24377,7 @@ window.SITE_DATA = {
       "Location": "Orem Library Hall, Orem",
       "Status": "Confirmed current listing",
       "Website": "https://libhall.orem.org/",
-      "Why / thoughts": "One-man show with Bryan Johnson.",
+      "Why / thoughts": "Bryan Johnson presents A Christmas Carol as a one-person show.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24057,7 +24400,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "breakfast-with-santa-grand-america",
@@ -24114,7 +24458,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "breakfast-with-santa-little-america",
@@ -24172,7 +24517,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "holiday-at-university-place-2026",
@@ -24206,7 +24552,7 @@ window.SITE_DATA = {
       "Location": "University Place, Orem",
       "Status": "Confirmed current organizer/vendor listing",
       "Website": "https://www.eventeny.com/events/holiday-at-university-place-2026-34269/",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
+      "Why / thoughts": "Holiday activities at University Place. Check the calendar for individual programs.",
       "Extra notes": "Indoor retail space",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24225,7 +24571,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-market.svg"
+      "placeholder": "assets/art/seasonal/winter-market.svg",
+      "notable_event": false
     },
     {
       "id": "scera-christmas-maker-s-market",
@@ -24280,7 +24627,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "a-christmas-with-nathan-pacheco",
@@ -24314,7 +24662,7 @@ window.SITE_DATA = {
       "Location": "Abravanel Hall, Salt Lake City",
       "Status": "Confirmed",
       "Website": "https://www.saltlakecountyarts.org/events/",
-      "Why / thoughts": "International tenor holiday concert.",
+      "Why / thoughts": "Tenor Nathan Pacheco performs a Christmas concert.",
       "Extra notes": "Indoor; county arts accessibility resources",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24335,7 +24683,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "university-of-utah-holiday-art-sale",
@@ -24369,7 +24718,7 @@ window.SITE_DATA = {
       "Location": "Gittins Gallery, University of Utah, Salt Lake City",
       "Status": "Confirmed current university listing",
       "Website": "https://art.utah.edu/",
-      "Why / thoughts": "Department of Art & Art History sale.",
+      "Why / thoughts": "Shop artwork at the University of Utah Department of Art and Art History’s holiday sale.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24390,7 +24739,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-market.svg"
+      "placeholder": "assets/art/seasonal/winter-market.svg",
+      "notable_event": false
     },
     {
       "id": "a-christmas-carol-hale-centre-theatre",
@@ -24424,7 +24774,7 @@ window.SITE_DATA = {
       "Location": "Hale Centre Theatre, Jewel Box Stage, Sandy",
       "Status": "Confirmed",
       "Website": "https://hct.org/Online/default.asp?BOparam::WScontent::loadArticle::permalink=CC2026",
-      "Why / thoughts": "Major Wasatch Front professional holiday theatre.",
+      "Why / thoughts": "Hale Centre Theatre presents Dickens’s A Christmas Carol in Sandy.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24443,7 +24793,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-christmas-carol-ogden-musical-theatre",
@@ -24477,7 +24828,7 @@ window.SITE_DATA = {
       "Location": "Peery's Egyptian Theater, Ogden",
       "Status": "Confirmed current listing",
       "Website": "https://www.ogdenpet.com/",
-      "Why / thoughts": "Local musical-theatre holiday production.",
+      "Why / thoughts": "Ogden Musical Theatre presents A Christmas Carol on stage.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24496,7 +24847,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-mariachi-christmas-mariachi-herencia-de-mexico",
@@ -24531,7 +24883,7 @@ window.SITE_DATA = {
       "Location": "The Noorda, Orem",
       "Status": "Confirmed",
       "Website": "https://www.uvu.edu/thenoorda/signature-series/mariachi.html",
-      "Why / thoughts": "Mexican holiday tradition and music.",
+      "Why / thoughts": "Mariachi Herencia de México performs music celebrating Mexican Christmas traditions.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24552,7 +24904,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "humbug-the-musical",
@@ -24586,7 +24939,7 @@ window.SITE_DATA = {
       "Location": "The Noorda, Orem",
       "Status": "Confirmed current venue listing",
       "Website": "https://www.uvu.edu/thenoorda/signature-series/",
-      "Why / thoughts": "Holiday musical in Noorda Signature Series.",
+      "Why / thoughts": "A performance of HUMBUG! The Musical in the Noorda Signature Series.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24605,7 +24958,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "byu-vocal-point-noteworthy-a-new-christmas-tradition",
@@ -24639,7 +24993,7 @@ window.SITE_DATA = {
       "Location": "Browning Center, Weber State University, Ogden",
       "Status": "Confirmed",
       "Website": "https://onstageogden.org/",
-      "Why / thoughts": "BYU a cappella ensembles perform in Ogden.",
+      "Why / thoughts": "BYU’s Vocal Point and Noteworthy perform Christmas a cappella music in Ogden.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24660,7 +25014,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "byu-celebration-of-christmas",
@@ -24694,7 +25049,7 @@ window.SITE_DATA = {
       "Location": "BYU campus, Provo",
       "Status": "Confirmed partial schedule",
       "Website": "https://pam.byu.edu/",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
+      "Why / thoughts": "A Christmas music program at BYU.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24715,7 +25070,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-kurt-bestor-christmas-logan",
@@ -24749,7 +25105,7 @@ window.SITE_DATA = {
       "Location": "Ellen Eccles Theatre, Logan",
       "Status": "Confirmed current listing",
       "Website": "https://cachearts.org/",
-      "Why / thoughts": "Logan performance distinct from Salt Lake run.",
+      "Why / thoughts": "Kurt Bestor performs Christmas music in Logan.",
       "Extra notes": "Indoor",
       "travelTier": "Extended day trip",
       "lastVerified": "2026-10-06",
@@ -24770,7 +25126,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-in-the-canyon-tuacahn",
@@ -24805,7 +25162,7 @@ window.SITE_DATA = {
       "Location": "Tuacahn Center for the Arts, Ivins",
       "Status": "Confirmed",
       "Website": "https://www.tuacahn.org/concert/christmas-in-the-canyon/",
-      "Why / thoughts": "Overnight-tier Southern Utah destination.",
+      "Why / thoughts": "A Christmas outing in Tuacahn’s canyon setting.",
       "Extra notes": "Outdoor/indoor components",
       "travelTier": "Overnight / destination",
       "lastVerified": "2026-10-06",
@@ -24824,7 +25181,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "holiday-inn-tuacahn",
@@ -24858,7 +25216,7 @@ window.SITE_DATA = {
       "Location": "Hafen Theatre at Tuacahn, Ivins",
       "Status": "Confirmed",
       "Website": "https://www.tuacahn.org/show/holiday-inn/",
-      "Why / thoughts": "Southern Utah overnight-tier holiday theatre.",
+      "Why / thoughts": "A stage production of Holiday Inn at Tuacahn.",
       "Extra notes": "Indoor",
       "travelTier": "Overnight / destination",
       "lastVerified": "2026-10-06",
@@ -24877,7 +25235,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "diwali-family-celebration",
@@ -24912,7 +25271,7 @@ window.SITE_DATA = {
       "Location": "Whitmore Library, Cottonwood Heights",
       "Status": "Awaiting primary organizer confirmation",
       "Website": "https://slcls.libnet.info/event/16604683",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
+      "Why / thoughts": "A family Diwali celebration at the library.",
       "Extra notes": "Indoor library event",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24933,7 +25292,8 @@ window.SITE_DATA = {
         "South Asian"
       ],
       "theme": "diwali",
-      "placeholder": "assets/art/seasonal/diwali-community.svg"
+      "placeholder": "assets/art/seasonal/diwali-community.svg",
+      "notable_event": false
     },
     {
       "id": "a-utah-pre-chanukah-celebration",
@@ -24967,7 +25327,7 @@ window.SITE_DATA = {
       "Location": "Utah State Capitol, Salt Lake City",
       "Status": "Confirmed on official Capitol calendar",
       "Website": "https://utahstatecapitol.utah.gov/events/month/2026-12/",
-      "Why / thoughts": "Official calendar confirms title/date/time; public-facing detail page still sparse.",
+      "Why / thoughts": "A public gathering with the Utah Jewish community ahead of Hanukkah.",
       "Extra notes": "Public Capitol event",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -24990,7 +25350,8 @@ window.SITE_DATA = {
         "Jewish"
       ],
       "theme": "hanukkah",
-      "placeholder": "assets/art/seasonal/hanukkah-community.svg"
+      "placeholder": "assets/art/seasonal/hanukkah-community.svg",
+      "notable_event": false
     },
     {
       "id": "hanukkah-celebration-at-waldorf-astoria-park-city",
@@ -25050,7 +25411,8 @@ window.SITE_DATA = {
         "Jewish"
       ],
       "theme": "hanukkah",
-      "placeholder": "assets/art/seasonal/hanukkah-community.svg"
+      "placeholder": "assets/art/seasonal/hanukkah-community.svg",
+      "notable_event": false
     },
     {
       "id": "nhmu-family-seasonal-science-winter-solstice-dec-13",
@@ -25107,7 +25469,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "yule",
-      "placeholder": "assets/art/seasonal/yule-community.svg"
+      "placeholder": "assets/art/seasonal/yule-community.svg",
+      "notable_event": false
     },
     {
       "id": "nhmu-family-seasonal-science-winter-solstice-dec-19",
@@ -25143,7 +25506,7 @@ window.SITE_DATA = {
       "Location": "Natural History Museum of Utah — Naturalists' Lab, Salt Lake City",
       "Status": "Confirmed official listing",
       "Website": "https://nhmu.utah.edu/events/nhmu-family-seasonal-science-winter-solstice-0",
-      "Why / thoughts": "Separate current session; registration required.",
+      "Why / thoughts": "Make sun catchers and paper snowflakes and explore Insta-Snow at a winter-solstice science session. Registration is required.",
       "Extra notes": "Indoor museum",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -25164,7 +25527,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "yule",
-      "placeholder": "assets/art/seasonal/yule-community.svg"
+      "placeholder": "assets/art/seasonal/yule-community.svg",
+      "notable_event": false
     },
     {
       "id": "winter-solstice-sound-bath-alta",
@@ -25220,7 +25584,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "yule",
-      "placeholder": "assets/art/seasonal/yule-community.svg"
+      "placeholder": "assets/art/seasonal/yule-community.svg",
+      "notable_event": false
     },
     {
       "id": "winter-solstice-sound-bath-bow-sanctuary",
@@ -25255,7 +25620,7 @@ window.SITE_DATA = {
       "Location": "Bow Sanctuary, Salt Lake area",
       "Status": "Confirmed official organizer listing",
       "Website": "https://www.mysticheartbeats.com/events",
-      "Why / thoughts": "Mystic Heart event; solstice-focused, not labeled Christmas.",
+      "Why / thoughts": "A sound-bath gathering marking the winter solstice at Bow Sanctuary.",
       "Extra notes": "Pre-registration required",
       "travelTier": "Statewide / varies",
       "lastVerified": "2026-10-06",
@@ -25278,7 +25643,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "yule",
-      "placeholder": "assets/art/seasonal/yule-community.svg"
+      "placeholder": "assets/art/seasonal/yule-community.svg",
+      "notable_event": false
     },
     {
       "id": "our-lady-of-guadalupe-celebration-st-bede-s",
@@ -25312,7 +25678,7 @@ window.SITE_DATA = {
       "Location": "St. Bede's Episcopal Church, Salt Lake area",
       "Status": "Confirmed current church calendar",
       "Website": "https://stbedesepiscopal.org/",
-      "Why / thoughts": "Public cultural/religious celebration; not a Christmas tag unless organizer says so.",
+      "Why / thoughts": "A public religious and cultural celebration honoring Our Lady of Guadalupe at St. Bede’s.",
       "Extra notes": "Public church event",
       "travelTier": "Statewide / varies",
       "lastVerified": "2026-10-06",
@@ -25333,7 +25699,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "las-posadas-st-bede-s",
@@ -25367,7 +25734,7 @@ window.SITE_DATA = {
       "Location": "St. Bede's Episcopal Church, Salt Lake area",
       "Status": "Confirmed current church calendar",
       "Website": "https://stbedesepiscopal.org/",
-      "Why / thoughts": "Includes parish tree decorating; culturally distinct Christmas tradition.",
+      "Why / thoughts": "Join the Las Posadas tradition at St. Bede’s, with parish Christmas-tree decorating.",
       "Extra notes": "Bilingual public church event",
       "travelTier": "Statewide / varies",
       "lastVerified": "2026-10-06",
@@ -25388,7 +25755,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "mosaic-turkey-fixins-give-a-way",
@@ -25448,7 +25816,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-community.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-community.svg",
+      "notable_event": false
     },
     {
       "id": "paag-thanksgiving-dinner",
@@ -25504,7 +25873,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-community.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-community.svg",
+      "notable_event": false
     },
     {
       "id": "paag-christmas-dinner",
@@ -25539,7 +25909,7 @@ window.SITE_DATA = {
       "Location": "Weber Human Services, 237 26th St, Ogden, UT 84401",
       "Status": "Announced — date clarification needed",
       "Website": "https://www.paagutah.org/",
-      "Why / thoughts": "Welcoming shared holiday meal; valuable non-commercial listing.",
+      "Why / thoughts": "Share a Christmas meal and conversation with the PAAG community.",
       "Extra notes": "Indoor community meal",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -25560,7 +25930,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "sojo-turkey-run-5k-10k",
@@ -25594,7 +25965,7 @@ window.SITE_DATA = {
       "Location": "East Riverfront Park, South Jordan",
       "Status": "Confirmed official city listing",
       "Website": "https://www.sjc.utah.gov/1694/SoJo-Turkey-Run-5K10K",
-      "Why / thoughts": "5K, 10K, ruck and kids run.",
+      "Why / thoughts": "A Thanksgiving-season race with 5K, 10K, weighted ruck and kids-run options.",
       "Extra notes": "Outdoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -25619,7 +25990,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-active.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-active.svg",
+      "notable_event": false
     },
     {
       "id": "cowgirl-christmas",
@@ -25654,7 +26026,7 @@ window.SITE_DATA = {
       "Location": "Heat Nightclub, Salt Lake City",
       "Status": "Confirmed current Eventbrite listing",
       "Website": "https://www.eventbrite.com/e/cowgirl-christmas-tickets-2002302238897",
-      "Why / thoughts": "Dance party, vendors, drinks, holiday music; adult social coverage.",
+      "Why / thoughts": "A Christmas dance party with vendors, drinks and holiday music.",
       "Extra notes": "Paid parking; ID required",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -25677,7 +26049,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-nightlife.svg"
+      "placeholder": "assets/art/seasonal/christmas-nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "12-bars-of-christmas-bar-crawl-salt-lake-city",
@@ -25711,7 +26084,7 @@ window.SITE_DATA = {
       "Location": "Shades on State + participating bars, Salt Lake City",
       "Status": "Confirmed current organizer listing",
       "Website": "https://crawlwith.us/saltlakecity/christmas/",
-      "Why / thoughts": "9-bar crawl despite 12 Bars branding; drinks/vouchers and Sky SLC after-party.",
+      "Why / thoughts": "A holiday crawl through nine bars, with drink vouchers and an after-party at Sky SLC.",
       "Extra notes": "Walkable bar route; rideshare recommended",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -25734,7 +26107,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-nightlife.svg"
+      "placeholder": "assets/art/seasonal/christmas-nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "salt-lake-city-santacon-bar-crawl-2026",
@@ -25768,7 +26142,7 @@ window.SITE_DATA = {
       "Location": "Route disclosed to ticket holders, Salt Lake City",
       "Status": "Confirmed current organizer listing",
       "Website": "https://pubcrawls.com/city/salt-lake-city-ut/",
-      "Why / thoughts": "Distinct SantaCon event on same night as ugly-sweater crawl.",
+      "Why / thoughts": "A Santa-themed holiday bar crawl in Salt Lake City.",
       "Extra notes": "Walking between bars",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -25792,7 +26166,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-nightlife.svg"
+      "placeholder": "assets/art/seasonal/christmas-nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "salt-lake-city-ugly-sweater-bar-crawl-2026",
@@ -25849,7 +26224,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-nightlife.svg"
+      "placeholder": "assets/art/seasonal/christmas-nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "ugly-sweater-bingo",
@@ -25883,7 +26259,7 @@ window.SITE_DATA = {
       "Location": "Daybreak Library, South Jordan",
       "Status": "Confirmed official library listing",
       "Website": "https://slcls.libnet.info/event/17068194",
-      "Why / thoughts": "Adult-specific free holiday micro-event.",
+      "Why / thoughts": "A free holiday bingo session for adults; festive sweaters are encouraged.",
       "Extra notes": "Indoor; drop-in",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -25906,7 +26282,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "last-minute-gifting-dec-15",
@@ -25963,7 +26340,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "last-minute-gifting-dec-22",
@@ -25997,7 +26375,7 @@ window.SITE_DATA = {
       "Location": "Bingham Creek Library, West Jordan",
       "Status": "Confirmed official library listing",
       "Website": "https://slcls.libnet.info/event/16874312",
-      "Why / thoughts": "Second separately scheduled session.",
+      "Why / thoughts": "Make a last-minute gift, with wrapping paper and tags provided.",
       "Extra notes": "Indoor; supplies first-come",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -26020,7 +26398,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "draper-holiday-market",
@@ -26074,7 +26453,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "draper-candy-cane-hunt",
@@ -26136,7 +26516,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-active.svg"
+      "placeholder": "assets/art/seasonal/christmas-active.svg",
+      "notable_event": false
     },
     {
       "id": "draper-tree-lighting-ceremony",
@@ -26195,7 +26576,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "miracle-on-34th-street-the-musical",
@@ -26229,7 +26611,7 @@ window.SITE_DATA = {
       "Location": "Murray Theater, Murray",
       "Status": "Confirmed official city calendar",
       "Website": "https://murray.utah.gov/Calendar.aspx?EID=3259",
-      "Why / thoughts": "Murray City Cultural Arts production.",
+      "Why / thoughts": "Murray City Cultural Arts presents the holiday musical Miracle on 34th Street.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -26248,7 +26630,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "craft-lake-city-holiday-market",
@@ -26330,7 +26713,8 @@ window.SITE_DATA = {
           "url": "https://craftlakecity.com/HOLIDAY-MARKET-FAQ/",
           "method": "Visitor FAQ"
         }
-      }
+      },
+      "notable_event": false
     },
     {
       "id": "midvale-light-up-main-street",
@@ -26390,7 +26774,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "spirit-of-the-season-at-camp-floyd",
@@ -26446,7 +26831,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "hometown-christmas-tree-festival",
@@ -26501,7 +26887,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "saturday-with-santa-taylorsville",
@@ -26558,7 +26945,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "joy-to-the-world-a-sacred-celebration",
@@ -26613,7 +27001,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-around-the-world",
@@ -26666,7 +27055,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "tuba-christmas-byu",
@@ -26700,7 +27090,7 @@ window.SITE_DATA = {
       "Location": "BYU Music Building, Provo",
       "Status": "Confirmed current BYU listing",
       "Website": "https://onstage.byu.edu/",
-      "Why / thoughts": "Annual low-brass Christmas gathering.",
+      "Why / thoughts": "Hear Christmas music played by a gathering of low-brass musicians at BYU.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -26723,7 +27113,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-with-vocal-point-noteworthy-provo",
@@ -26757,7 +27148,7 @@ window.SITE_DATA = {
       "Location": "BYU campus, Provo",
       "Status": "Confirmed current BYU listing",
       "Website": "https://onstage.byu.edu/",
-      "Why / thoughts": "Separate from Dec 8 Ogden performance.",
+      "Why / thoughts": "BYU’s Vocal Point and Noteworthy perform Christmas a cappella music in Provo.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -26778,7 +27169,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "brassworks-christmas-brass",
@@ -26812,7 +27204,7 @@ window.SITE_DATA = {
       "Location": "BYU Music Building, Provo",
       "Status": "Confirmed current BYU listing",
       "Website": "https://onstage.byu.edu/",
-      "Why / thoughts": "Holiday brass program.",
+      "Why / thoughts": "Brassworks performs a program of Christmas brass music.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -26833,7 +27225,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "lens-and-light-film-series-white-christmas",
@@ -26867,7 +27260,7 @@ window.SITE_DATA = {
       "Location": "BYU Arts Building, Provo",
       "Status": "Confirmed current listing",
       "Website": "https://nowplayingutah.com/event/?page=29",
-      "Why / thoughts": "Public holiday film screening.",
+      "Why / thoughts": "Watch White Christmas at a public holiday-film screening.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -26888,7 +27281,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "ace-holiday-art-market-2026",
@@ -26922,7 +27316,7 @@ window.SITE_DATA = {
       "Location": "Our Lady of the Snows Center, Alta",
       "Status": "Confirmed official organizer listing",
       "Website": "https://altacommunity.org/events/holiday-art-market-2026",
-      "Why / thoughts": "Local artist holiday market.",
+      "Why / thoughts": "Shop work from local artists at Alta Community Enrichment’s holiday market.",
       "Extra notes": "Accessibility contact available",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -26947,7 +27341,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-market.svg"
+      "placeholder": "assets/art/seasonal/winter-market.svg",
+      "notable_event": false
     },
     {
       "id": "2026-daybreak-winter-market",
@@ -26981,7 +27376,7 @@ window.SITE_DATA = {
       "Location": "Daybreak Community Center, South Jordan",
       "Status": "Confirmed current organizer listing",
       "Website": "https://www.eventeny.com/events/2026-daybreak-winter-market-33357/",
-      "Why / thoughts": "80+ vendors.",
+      "Why / thoughts": "A winter market in Daybreak with more than 80 vendors.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27000,7 +27395,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-market.svg"
+      "placeholder": "assets/art/seasonal/winter-market.svg",
+      "notable_event": false
     },
     {
       "id": "psm-holiday-concert-capitol-rotunda",
@@ -27057,7 +27453,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-performance.svg"
+      "placeholder": "assets/art/seasonal/winter-performance.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-cruise-provo-river",
@@ -27111,7 +27508,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "the-lower-lights-christmas-concerts-2026",
@@ -27145,7 +27543,7 @@ window.SITE_DATA = {
       "Location": "Kingsbury Hall, Salt Lake City",
       "Status": "Confirmed current listing",
       "Website": "https://nowplayingutah.com/event/?page=30",
-      "Why / thoughts": "Three-night Christmas concert run.",
+      "Why / thoughts": "The Lower Lights perform Christmas concerts over three evenings.",
       "Extra notes": "Accessibility info available through UtahPresents",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27168,7 +27566,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-from-the-daines-concert-hall-with-gentri",
@@ -27221,7 +27620,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "odyssey-dance-theatre-christmas-spectacular-spectacular",
@@ -27276,7 +27676,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "white-christmas-sing-a-long-park-city",
@@ -27311,7 +27712,7 @@ window.SITE_DATA = {
       "Location": "Park City venue, Park City",
       "Status": "Confirmed on current Visit Park City calendar",
       "Website": "https://www.visitparkcity.com/",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
+      "Why / thoughts": "Watch White Christmas and sing along in Park City.",
       "Extra notes": "",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27332,7 +27733,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "around-the-world-holiday-market",
@@ -27367,7 +27769,7 @@ window.SITE_DATA = {
       "Location": "Historic Scott School, 3280 S 540 E, South Salt Lake",
       "Status": "Confirmed official city listing",
       "Website": "https://promise.sslc.gov/calendar/around-the-world-holiday-market",
-      "Why / thoughts": "International traditions, flavors and rhythms; intentionally multicultural.",
+      "Why / thoughts": "A holiday market featuring international traditions, food and music.",
       "Extra notes": "Community event",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27388,7 +27790,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-market.svg"
+      "placeholder": "assets/art/seasonal/winter-market.svg",
+      "notable_event": false
     },
     {
       "id": "quiet-time-with-mr-mrs-claus-dec-1",
@@ -27422,7 +27825,7 @@ window.SITE_DATA = {
       "Location": "South Salt Lake Community Center, 2531 S 400 E, South Salt Lake",
       "Status": "Confirmed official city listing",
       "Website": "https://promise.sslc.gov/calendar",
-      "Why / thoughts": "Separate occurrence for search/date filtering.",
+      "Why / thoughts": "A low-noise, low-crowd visit with Mr. and Mrs. Claus designed for families needing a quieter setting.",
       "Extra notes": "Low-noise, low-crowd Santa visit explicitly designed for special-needs families",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27443,7 +27846,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "quiet-time-with-mr-mrs-claus-dec-3",
@@ -27477,7 +27881,7 @@ window.SITE_DATA = {
       "Location": "South Salt Lake Community Center, 2531 S 400 E, South Salt Lake",
       "Status": "Confirmed official city listing",
       "Website": "https://promise.sslc.gov/calendar/quiet-time-with-mr-mrs-claus",
-      "Why / thoughts": "Separate occurrence for search/date filtering.",
+      "Why / thoughts": "A low-noise, low-crowd visit with Mr. and Mrs. Claus designed for families needing a quieter setting.",
       "Extra notes": "Low-noise, low-crowd Santa visit explicitly designed for special-needs families",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27498,7 +27902,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "breakfast-with-santa-south-salt-lake",
@@ -27555,7 +27960,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "sandy-city-light-up-the-cairns-2026",
@@ -27590,7 +27996,7 @@ window.SITE_DATA = {
       "Location": "Sandy City Hall & Promenade, Sandy",
       "Status": "Confirmed official city promotion",
       "Website": "https://sandy.utah.gov/light-up-the-cairns",
-      "Why / thoughts": "Holiday Shop & Stroll plus annual lighting; current city notice confirms Dec 3, 5–7:30 PM.",
+      "Why / thoughts": "Holiday shopping, a stroll and the annual lighting celebration at Sandy’s Cairns district.",
       "Extra notes": "",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27613,7 +28019,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "clearfield-community-choir-christmas-joy",
@@ -27669,7 +28076,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "clinton-blitzen-bash",
@@ -27728,7 +28136,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "west-jordan-first-friday-josh-wright-classical-piano-christmas",
@@ -27764,7 +28173,7 @@ window.SITE_DATA = {
       "Location": "Viridian Event Center, West Jordan",
       "Status": "Confirmed official city series",
       "Website": "https://www.westjordan.utah.gov/city-events/first-friday-concert-series/",
-      "Why / thoughts": "December performer Josh Wright; exact hours need final date-page capture.",
+      "Why / thoughts": "Classical pianist Josh Wright performs Christmas music at West Jordan’s First Friday concert.",
       "Extra notes": "Indoor concert; preshow includes s'mores, Santa photos, drone show and crafts",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27787,7 +28196,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-in-color-american-fork",
@@ -27821,7 +28231,7 @@ window.SITE_DATA = {
       "Location": "Art Dye, 550 E 1000 N, American Fork",
       "Status": "Confirmed official city calendar; early-Jan continuation shown",
       "Website": "https://www.americanfork.gov/calendar.aspx?CID=14&day=1&month=1&view=week&year=2026",
-      "Why / thoughts": "Millions of synchronized lights; city copy says opens Nov 14.",
+      "Why / thoughts": "A drive-through display of synchronized holiday lights in American Fork.",
       "Extra notes": "Drive-through; remain in vehicle",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27840,7 +28250,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "how-the-grouch-stole-christmas-live-at-the-complex",
@@ -27875,7 +28286,7 @@ window.SITE_DATA = {
       "Location": "The Complex, 536 W 100 S, Salt Lake City",
       "Status": "Confirmed current listing",
       "Website": "https://nowplayingutah.com/event/how-the-grouch-stole-christmas-live-at-the-complex/",
-      "Why / thoughts": "The Grouch with Brother Ali and Lyrics Born; useful nontraditional Christmas music option.",
+      "Why / thoughts": "The Grouch performs with Brother Ali and Lyrics Born at a holiday hip-hop concert.",
       "Extra notes": "",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27896,7 +28307,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-nightlife.svg"
+      "placeholder": "assets/art/seasonal/christmas-nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "odyssey-dance-christmas-spectacular-salt-lake-city",
@@ -27930,7 +28342,7 @@ window.SITE_DATA = {
       "Location": "SLCC Grand Theatre, 1575 S State St, Salt Lake City",
       "Status": "Confirmed current listing",
       "Website": "https://nowplayingutah.com/event/odyssey-dance-theatres-christmas-spectacular-spectacular-2026/",
-      "Why / thoughts": "Separate SLC run from Ogden Dec 12 performance.",
+      "Why / thoughts": "Odyssey Dance Theatre presents its Christmas variety show in Salt Lake City.",
       "Extra notes": "Indoor; discount/access info available via box office",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -27949,7 +28361,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "carpenters-platinum-christmas-salt-lake-city",
@@ -27983,7 +28396,7 @@ window.SITE_DATA = {
       "Location": "Rose Wagner Performing Arts Center, Salt Lake City",
       "Status": "Confirmed current listing",
       "Website": "https://nowplayingutah.com/event/carpenters-platinum-christmas-show-6/",
-      "Why / thoughts": "Separate from existing Provo-region Carpenters listing.",
+      "Why / thoughts": "A holiday concert paying tribute to the Carpenters in Salt Lake City.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -28004,7 +28417,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "off-white-christmas",
@@ -28038,7 +28452,7 @@ window.SITE_DATA = {
       "Location": "The Off Broadway Theatre Company, Salt Lake City",
       "Status": "Confirmed current listing",
       "Website": "https://nowplayingutah.com/event/?page=32&type=&view=list",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
+      "Why / thoughts": "A holiday performance of Off White Christmas.",
       "Extra notes": "Indoor",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -28057,7 +28471,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "gordon-s-family-farm-red-nose-ranch-2026",
@@ -28112,7 +28527,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "a-christmas-carol-2026-at-the-ruth",
@@ -28146,7 +28562,7 @@ window.SITE_DATA = {
       "Location": "The Ruth and Nathan Hale Theater, Pleasant Grove",
       "Status": "Confirmed official theatre season",
       "Website": "https://www.theruth.org/",
-      "Why / thoughts": "Distinct from Hale Centre Theatre Sandy and Ogden Musical Theatre productions.",
+      "Why / thoughts": "The Ruth presents Dickens’s A Christmas Carol on stage.",
       "Extra notes": "Indoor theatre",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -28165,7 +28581,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "ace-holiday-music",
@@ -28199,7 +28616,7 @@ window.SITE_DATA = {
       "Location": "Our Lady of the Snows, 10185 E Hwy 210, Alta",
       "Status": "Confirmed official organizer listing",
       "Website": "https://altacommunity.org/events/holiday-music",
-      "Why / thoughts": "Cellist Maren Askins, sing-along, snacks; secular holiday framing.",
+      "Why / thoughts": "Holiday music with cellist Maren Askins, a sing-along and snacks.",
       "Extra notes": "Organizer explicitly invites accessibility questions",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -28222,7 +28639,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-with-the-alley-cats",
@@ -28256,7 +28674,7 @@ window.SITE_DATA = {
       "Location": "Avon Theater, Heber City",
       "Status": "Confirmed current destination listing",
       "Website": "https://nowplayingutah.com/event/?page=31",
-      "Why / thoughts": "Primary Heber Valley Entertainment page still needs capture.",
+      "Why / thoughts": "The Alley Cats perform Christmas music in Heber Valley.",
       "Extra notes": "Indoor",
       "travelTier": "",
       "lastVerified": "2026-10-06",
@@ -28277,7 +28695,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "all-abilities-noon-year-s-eve-pajama-party",
@@ -28335,7 +28754,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "newyear",
-      "placeholder": "assets/art/seasonal/newyear-nightlife.svg"
+      "placeholder": "assets/art/seasonal/newyear-nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "zoolights-2026",
@@ -28376,7 +28796,7 @@ window.SITE_DATA = {
       "Location": "Utah's Hogle Zoo, Salt Lake City",
       "Status": "2026–27 season not yet announced",
       "Website": "https://www.hoglezoo.org/zoolights/",
-      "Why / thoughts": "An outdoor holiday light display at Hogle Zoo. Watch for the new season announcement.",
+      "Why / thoughts": "An outdoor holiday light display at Hogle Zoo. This season’s dates are awaiting confirmation.",
       "Extra notes": "",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -28400,7 +28820,8 @@ window.SITE_DATA = {
         "summary": "Wheelchairs and strollers available to rent; confirm availability for your visit",
         "url": "https://www.hoglezoo.org/zoolights/",
         "tone": "positive"
-      }
+      },
+      "notable_event": false
     },
     {
       "id": "zoolights-silent-night",
@@ -28440,7 +28861,7 @@ window.SITE_DATA = {
       "Location": "Utah's Hogle Zoo, Salt Lake City",
       "Status": "2026–27 season not yet announced",
       "Website": "https://www.hoglezoo.org/zoolights/",
-      "Why / thoughts": "An outdoor holiday light display at Hogle Zoo. Watch for the new season announcement.",
+      "Why / thoughts": "A quieter ZooLights session at Hogle Zoo. This season’s dates and accommodations are awaiting confirmation.",
       "Extra notes": "",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -28464,7 +28885,8 @@ window.SITE_DATA = {
         "summary": "Previous Silent Night program: lower sound, no flashing or strobe lights, reduced crowds; current-season date pending",
         "url": "https://www.hoglezoo.org/upcoming-events/zoolights-silent-night/",
         "tone": "positive"
-      }
+      },
+      "notable_event": false
     },
     {
       "id": "aquarium-lantern-festival",
@@ -28503,7 +28925,7 @@ window.SITE_DATA = {
       "Location": "Loveland Living Planet Aquarium, Draper",
       "Status": "Confirmed official 2026 schedule",
       "Website": "https://livingplanetaquarium.org/experiences/lantern-festival/",
-      "Why / thoughts": "Nature-inspired lanterns and after-hours access to nocturnal animals; deliberately not forced into Christmas taxonomy.",
+      "Why / thoughts": "Walk among nature-inspired lanterns and visit nocturnal animals after hours at the aquarium.",
       "Extra notes": "Outdoor lantern plaza plus indoor aquarium access until 9 PM",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -28527,7 +28949,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "red-butte-garden-holiday-open-house-art-fair",
@@ -28590,7 +29013,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-market.svg"
+      "placeholder": "assets/art/seasonal/winter-market.svg",
+      "notable_event": false
     },
     {
       "id": "around-the-world-winter-wonders-and-cultural-traditions-art-show",
@@ -28624,8 +29048,8 @@ window.SITE_DATA = {
       "Location": "Cottonwood Heights City Hall, Cottonwood Heights",
       "Status": "Confirmed in current city publication",
       "Website": "https://www.cottonwoodheights.utah.gov/home/showpublisheddocument/9237/638687262978370000",
-      "Why / thoughts": "Explicitly multicultural winter-traditions framing; strong All Holidays listing.",
-      "Extra notes": "Indoor civic venue; accessibility details to verify",
+      "Why / thoughts": "An art exhibition exploring winter celebrations and cultural traditions around the world.",
+      "Extra notes": "An indoor civic venue; contact the host about access needs.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "HOURS RECHECK; ADA/PRACTICAL RECHECK",
@@ -28647,7 +29071,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "cottonwood-heights-public-works-sock-drive",
@@ -28681,7 +29106,7 @@ window.SITE_DATA = {
       "Location": "Cottonwood Heights Public Works, Cottonwood Heights",
       "Status": "Confirmed in current city publication",
       "Website": "https://www.cottonwoodheights.utah.gov/home/showpublisheddocument/9237/638687262978370000",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
+      "Why / thoughts": "Donate socks through Cottonwood Heights Public Works’ community drive.",
       "Extra notes": "Weekday drop-off",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -28703,7 +29128,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "light-the-heights",
@@ -28738,8 +29164,8 @@ window.SITE_DATA = {
       "Location": "Cottonwood Heights City Hall, Cottonwood Heights",
       "Status": "Confirmed in current city publication",
       "Website": "https://www.cottonwoodheights.utah.gov/home/showpublisheddocument/9237/638687262978370000",
-      "Why / thoughts": "City holiday lighting event.",
-      "Extra notes": "Outdoor/indoor civic-event details to verify",
+      "Why / thoughts": "A community holiday lighting celebration in Cottonwood Heights.",
+      "Extra notes": "Contact the city about the location and accommodations for your visit.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "DETAILS RECHECK",
@@ -28767,7 +29193,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "eclipse-6-christmas-concert",
@@ -28801,8 +29228,8 @@ window.SITE_DATA = {
       "Location": "Cottonwood Heights; venue details to verify, Cottonwood Heights",
       "Status": "Confirmed in current city publication",
       "Website": "https://www.cottonwoodheights.utah.gov/home/showpublisheddocument/9237/638687262978370000",
-      "Why / thoughts": "Current city publication confirms date/time; capture dedicated ticket/venue page.",
-      "Extra notes": "Venue/accessibility details to verify",
+      "Why / thoughts": "Eclipse 6 performs a cappella Christmas music.",
+      "Extra notes": "Contact the venue about seating and access needs.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "VENUE/PRICE/ADA RECHECK",
@@ -28828,7 +29255,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "south-jordan-america250-light-the-night",
@@ -28863,7 +29291,7 @@ window.SITE_DATA = {
       "Location": "South Jordan City Hall, South Jordan",
       "Status": "Confirmed on current city calendar; details sparse",
       "Website": "https://www.sjc.utah.gov/Calendar.aspx",
-      "Why / thoughts": "Current city calendar lists America250: Light the Night on Dec 4; capture dedicated program page when posted.",
+      "Why / thoughts": "A city light celebration marking America’s 250th anniversary in South Jordan.",
       "Extra notes": "Civic venue; practical details TBD",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -28886,7 +29314,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "utah-metropolitan-ballet-the-nutcracker",
@@ -28925,7 +29354,7 @@ window.SITE_DATA = {
       "Location": "Covey Center for the Arts, Provo",
       "Status": "Confirmed current 2026 listing",
       "Website": "https://www.umballet.org/",
-      "Why / thoughts": "Major Utah County Nutcracker production; keep distinct from CUB/Chrysalis and BYU productions.",
+      "Why / thoughts": "Utah Metropolitan Ballet presents The Nutcracker in Utah County.",
       "Extra notes": "Separate autism-friendly performance Dec 14 at 4 PM",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -28952,7 +29381,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "utah-metropolitan-ballet-the-nutcracker-autism-performance",
@@ -29020,7 +29450,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "historic-park-city-holiday-lights-ceremony",
@@ -29060,7 +29491,7 @@ window.SITE_DATA = {
       "Location": "Historic Main Street, Park City",
       "Status": "Confirmed official 2026 downtown source",
       "Website": "https://historicparkcityutah.com/holiday-lights-ceremony-a-sparkling-start-to-the-season",
-      "Why / thoughts": "Main Street holiday-season kickoff.",
+      "Why / thoughts": "A holiday lighting ceremony on Park City’s Main Street.",
       "Extra notes": "Outdoor winter conditions",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -29090,7 +29521,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "historic-park-city-holiday-window-display-contest",
@@ -29154,7 +29586,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "historic-park-city-snow-globe-stroll",
@@ -29193,7 +29626,7 @@ window.SITE_DATA = {
       "Location": "Historic Main Street, Park City",
       "Status": "Confirmed official 2026 downtown source",
       "Website": "https://historicparkcityutah.com/holiday-lights-ceremony-a-sparkling-start-to-the-season",
-      "Why / thoughts": "Seven artist-created life-size winter scenes; primary 2026 page used over stale conflicting pages.",
+      "Why / thoughts": "Walk past seven artist-created, life-size winter scenes in Park City.",
       "Extra notes": "Outdoor walking; winter conditions",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -29218,7 +29651,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "historic-park-city-santa-pub-crawl",
@@ -29257,7 +29691,7 @@ window.SITE_DATA = {
       "Location": "Historic Main Street bars and pubs, Park City",
       "Status": "Confirmed official 2026 downtown source",
       "Website": "https://historicparkcityutah.com/holiday-lights-ceremony-a-sparkling-start-to-the-season",
-      "Why / thoughts": "Distinct adult-nightlife Park City holiday listing.",
+      "Why / thoughts": "An adults-oriented Santa-themed pub crawl in Park City.",
       "Extra notes": "Walkable nightlife route; winter conditions",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -29286,7 +29720,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-nightlife.svg"
+      "placeholder": "assets/art/seasonal/christmas-nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "santa-comes-down-the-town-lift",
@@ -29356,7 +29791,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "gentri-christmas-eccles-theater",
@@ -29395,7 +29831,7 @@ window.SITE_DATA = {
       "Location": "Eccles Theater, Delta Hall, Salt Lake City",
       "Status": "Confirmed official 2026 listing",
       "Website": "https://www.saltlakecountyarts.org/events/gentri-christmas/",
-      "Why / thoughts": "Current page header/ticket dates are 2026; descriptive paragraph contains a stray 2025 typo, so use dated event metadata.",
+      "Why / thoughts": "GENTRI performs Christmas music at the Eccles Theater.",
       "Extra notes": "Indoor seated performance; county arts accessibility resources",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -29423,7 +29859,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "mannheim-steamroller-christmas",
@@ -29485,7 +29922,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "derek-hough-dance-for-the-holidays",
@@ -29548,7 +29986,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "utah-food-bank-holiday-food-fund-drive",
@@ -29588,7 +30027,7 @@ window.SITE_DATA = {
       "Location": "Statewide Utah Food Bank network, Statewide",
       "Status": "Confirmed official 2026 campaign",
       "Website": "https://www.utahfoodbank.org/events/holiday-food-fund-drive/",
-      "Why / thoughts": "Annual statewide campaign supports 309 partner pantries; useful participation-oriented holiday listing.",
+      "Why / thoughts": "Participate in Utah Food Bank’s statewide holiday food and fundraising drive.",
       "Extra notes": "Multiple drop-off sites statewide",
       "travelTier": "Statewide / varies",
       "lastVerified": "2026-10-06",
@@ -29611,7 +30050,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "celebrate-in-saratoga-christmas-tree-lighting",
@@ -29679,7 +30119,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "celebrate-in-saratoga-silent-santa",
@@ -29713,7 +30154,7 @@ window.SITE_DATA = {
       "Location": "Saratoga Springs Public Safety Building, Saratoga Springs",
       "Status": "Confirmed official 2026 listing",
       "Website": "https://www.saratogasprings-ut.gov/608/Celebrate-in-Saratoga",
-      "Why / thoughts": "Important dedicated accessibility event; registration/process should be captured.",
+      "Why / thoughts": "A quieter Santa visit for families who need a lower-stimulation setting. Check the registration and accommodation details before attending.",
       "Extra notes": "Registration opens November 1. Saratoga Springs residents have priority through November 15, then remaining appointments open to everyone. Book one 10-minute appointment per family; no age limit.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -29751,7 +30192,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "celebrate-in-saratoga-holiday-orchestra-concert",
@@ -29786,7 +30228,7 @@ window.SITE_DATA = {
       "Location": "Vista Heights Middle School, Saratoga Springs",
       "Status": "Confirmed official 2026 listing",
       "Website": "https://www.saratogasprings-ut.gov/Calendar.aspx?EID=6735",
-      "Why / thoughts": "Part of city Celebrate in Saratoga holiday series.",
+      "Why / thoughts": "A holiday orchestra concert in Saratoga Springs.",
       "Extra notes": "Indoor school venue",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -29814,7 +30256,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "santa-s-snowpine-visit",
@@ -29876,7 +30319,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "snowpine-lodge-elf-on-the-shelf",
@@ -29911,7 +30355,7 @@ window.SITE_DATA = {
       "Status": "Confirmed official resort calendar",
       "Website": "https://www.snowpine.com/events/",
       "Why / thoughts": "Daily hidden-elf activity; first finder component described by lodge.",
-      "Extra notes": "Mountain resort; verify public participation rules",
+      "Extra notes": "Ask the lodge where public visitors can join the activity.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "PUBLIC ACCESS/PRICE RECHECK",
@@ -29948,7 +30392,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "ski-with-santa-at-alta",
@@ -30012,7 +30457,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-active.svg"
+      "placeholder": "assets/art/seasonal/christmas-active.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-eve-dinner-at-swen-s",
@@ -30075,7 +30521,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "reading-of-the-night-before-christmas-snowpine-lodge",
@@ -30109,8 +30556,8 @@ window.SITE_DATA = {
       "Location": "Snowpine Lodge D-Level Fireplace, Alta",
       "Status": "Confirmed official 2026 resort calendar",
       "Website": "https://www.snowpine.com/events/",
-      "Why / thoughts": "Cozy Christmas Eve story reading; useful micro-event.",
-      "Extra notes": "Indoor fireplace gathering; public-access details to confirm",
+      "Why / thoughts": "Gather for a reading of The Night Before Christmas at Snowpine Lodge on Christmas Eve.",
+      "Extra notes": "Ask the lodge about public access to the fireplace gathering.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "PUBLIC ACCESS RECHECK",
@@ -30138,7 +30585,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "christmas-dinner-at-swen-s",
@@ -30201,7 +30649,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "alta-nye-torchlight-parade-fireworks",
@@ -30241,7 +30690,7 @@ window.SITE_DATA = {
       "Location": "Alta Ski Area, Alta",
       "Status": "Confirmed official resort listing",
       "Website": "https://www.alta.com/events/torchlight-parade",
-      "Why / thoughts": "Distinct from Solitude NYE event; both spectator and participant value.",
+      "Why / thoughts": "A torchlight parade and fireworks at Alta on New Year’s Eve, with options for spectators and registered participants.",
       "Extra notes": "Participant route is intermediate terrain in low light; children participating must be with adult",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -30272,7 +30721,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-active.svg"
+      "placeholder": "assets/art/seasonal/winter-active.svg",
+      "notable_event": false
     },
     {
       "id": "sundance-tree-lighting-celebration",
@@ -30313,7 +30763,7 @@ window.SITE_DATA = {
       "Location": "Sundance Mountain Resort Village, Sundance",
       "Status": "Confirmed official 2026 listing",
       "Website": "https://www.sundanceresort.com/events/tree-lighting-ceremony/",
-      "Why / thoughts": "Free cookies, cocoa and Santa.",
+      "Why / thoughts": "A tree lighting at Sundance with Santa, cookies and hot chocolate.",
       "Extra notes": "Outdoor mountain conditions",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -30344,7 +30794,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "little-america-thanksgiving-buffet",
@@ -30378,7 +30829,7 @@ window.SITE_DATA = {
       "Location": "Little America Grand Ballroom, Salt Lake City",
       "Status": "Confirmed official 2026 listing",
       "Website": "https://saltlake.littleamerica.com/events/thanksgiving-buffet",
-      "Why / thoughts": "Adds a major SLC Thanksgiving dining option.",
+      "Why / thoughts": "A Thanksgiving buffet at Little America in Salt Lake City.",
       "Extra notes": "Reservations required; prepaid; no walk-ins",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -30407,7 +30858,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "thanksgiving",
-      "placeholder": "assets/art/seasonal/thanksgiving-community.svg"
+      "placeholder": "assets/art/seasonal/thanksgiving-community.svg",
+      "notable_event": false
     },
     {
       "id": "grand-america-holiday-brunch-at-laurel",
@@ -30474,7 +30926,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "grand-america-holiday-saturday-brunch",
@@ -30513,7 +30966,7 @@ window.SITE_DATA = {
       "Location": "Laurel Brasserie & Bar, Grand America, Salt Lake City",
       "Status": "Confirmed official 2026 schedule",
       "Website": "https://www.grandamerica.com/events/saturday-brunch-2026-11-28",
-      "Why / thoughts": "Five Saturday holiday brunch dates.",
+      "Why / thoughts": "Saturday holiday brunch at Grand America, with five dates to choose from.",
       "Extra notes": "Reservation required",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -30536,7 +30989,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "utopia-early-music-celtic-christmas",
@@ -30600,7 +31054,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-joshua-creek-christmas",
@@ -30635,7 +31090,7 @@ window.SITE_DATA = {
       "Status": "Confirmed official presenter listing",
       "Website": "https://timparts.com/events-archives/a-joshua-creek-christmas-hosted-by-timp-arts/",
       "Why / thoughts": "20th-year concert combining traditional/original songs, visuals and stories.",
-      "Extra notes": "Indoor theatre; accessibility not yet captured",
+      "Extra notes": "An indoor theater; contact the venue about accommodations.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "ADA RECHECK",
@@ -30664,7 +31119,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "the-best-christmas-pageant-ever-old-barn-community-theatre",
@@ -30699,7 +31155,7 @@ window.SITE_DATA = {
       "Location": "Old Barn Community Theatre, Collinston",
       "Status": "Confirmed official theatre season/ticketing",
       "Website": "https://www.onthestage.tickets/the-old-barn-community-theatre",
-      "Why / thoughts": "Northern Utah/Cache-adjacent community theatre holiday production.",
+      "Why / thoughts": "Old Barn Community Theatre presents The Best Christmas Pageant Ever.",
       "Extra notes": "Indoor theatre; Ask the organizer about specific access needs",
       "travelTier": "Extended day trip",
       "lastVerified": "2026-10-06",
@@ -30726,7 +31182,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "irving-berlin-s-white-christmas-four-seasons-theatre",
@@ -30760,7 +31217,7 @@ window.SITE_DATA = {
       "Location": "Sky View High School, Smithfield",
       "Status": "Confirmed official ticketing",
       "Website": "https://fourseasonstheatrecompany.thundertix.com/events/258993",
-      "Why / thoughts": "Cache Valley holiday musical.",
+      "Why / thoughts": "Four Seasons Theatre presents Irving Berlin’s White Christmas in Cache Valley.",
       "Extra notes": "Indoor school auditorium",
       "travelTier": "Extended day trip",
       "lastVerified": "2026-10-06",
@@ -30787,7 +31244,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "the-johnson-files-an-improvised-christmas-ogden",
@@ -30821,7 +31279,7 @@ window.SITE_DATA = {
       "Location": "Peery's Egyptian Theater, Ogden",
       "Status": "Confirmed official venue listing",
       "Website": "https://ogdenpet.com/event/the-johnson-files-an-improvised-christmas-2026/peerys-egyptian-theater/",
-      "Why / thoughts": "Family-friendly improvised Christmas comedy; distinct from Covey's Dec 4–5 run.",
+      "Why / thoughts": "Family-friendly improvised Christmas comedy from The Johnson Files in Ogden.",
       "Extra notes": "Wheelchair-accessible garage and ADA drop-off explicitly described",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -30851,7 +31309,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "a-christmas-story-the-musical-ziegfeld-theater",
@@ -30885,7 +31344,7 @@ window.SITE_DATA = {
       "Location": "The Ziegfeld Theater, Ogden",
       "Status": "Confirmed current 2026 listing",
       "Website": "https://nowplayingutah.com/event/a-christmas-story-the-musical-3/",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
+      "Why / thoughts": "The Ziegfeld Theater presents A Christmas Story: The Musical.",
       "Extra notes": "",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -30911,7 +31370,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "pickleville-on-tour-sheriff-kringle-farmington",
@@ -30945,7 +31405,7 @@ window.SITE_DATA = {
       "Location": "Farmington High School Auditorium, Farmington",
       "Status": "Confirmed official tour schedule",
       "Website": "https://www.picklevilleontour.com/about-the-show",
-      "Why / thoughts": "One of several Utah tour stops; Farmington is separately useful for date/geography filtering.",
+      "Why / thoughts": "Pickleville’s Sheriff Kringle holiday show visits Farmington.",
       "Extra notes": "Indoor school auditorium; Ask the organizer about specific access needs",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -30974,7 +31434,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "pickleville-on-tour-sheriff-kringle-roy",
@@ -31008,7 +31469,7 @@ window.SITE_DATA = {
       "Location": "Roy High School Auditorium, Roy",
       "Status": "Confirmed official tour schedule",
       "Website": "https://www.picklevilleontour.com/about-the-show",
-      "Why / thoughts": "Separate northern Wasatch Front tour stop.",
+      "Why / thoughts": "Pickleville’s Sheriff Kringle holiday show visits Roy.",
       "Extra notes": "Indoor school auditorium",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -31037,7 +31498,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "pickleville-on-tour-sheriff-kringle-salt-lake-city",
@@ -31071,7 +31533,7 @@ window.SITE_DATA = {
       "Location": "Jeanne Wagner Theatre, Rose Wagner Performing Arts Center, Salt Lake City",
       "Status": "Confirmed official tour schedule",
       "Website": "https://www.picklevilleontour.com/about-the-show",
-      "Why / thoughts": "SLC tour stop; distinct dates from Farmington/Roy/Logan.",
+      "Why / thoughts": "Pickleville’s Sheriff Kringle holiday show visits Salt Lake City.",
       "Extra notes": "Indoor theatre; county arts accessibility resources",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -31098,7 +31560,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "temple-square-christmas-opening-concert",
@@ -31132,7 +31595,7 @@ window.SITE_DATA = {
       "Location": "Salt Lake Tabernacle, Temple Square, Salt Lake City",
       "Status": "Confirmed official 2026 Temple Square calendar",
       "Website": "https://www.churchofjesuschrist.org/events/temple-square-concert-series?lang=eng",
-      "Why / thoughts": "Official calendar says this traditionally opens the Temple Square Christmas season.",
+      "Why / thoughts": "A concert opening the Christmas season at Temple Square.",
       "Extra notes": "Indoor historic venue; Ask the organizer about specific access needs",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -31162,7 +31625,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "temple-square-daily-christmas-performances",
@@ -31256,7 +31720,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "west-valley-city-winter-market",
@@ -31291,7 +31756,7 @@ window.SITE_DATA = {
       "Location": "West Valley City Family Fitness Center, West Valley City",
       "Status": "Confirmed official city calendar",
       "Website": "https://www.wvc-ut.gov/2131/City-Council-Calendar",
-      "Why / thoughts": "Two-day city winter market.",
+      "Why / thoughts": "A two-day winter market in West Valley City.",
       "Extra notes": "Indoor community facility",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -31313,7 +31778,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-market.svg"
+      "placeholder": "assets/art/seasonal/winter-market.svg",
+      "notable_event": false
     },
     {
       "id": "west-valley-city-holiday-games-tree-lighting",
@@ -31348,7 +31814,7 @@ window.SITE_DATA = {
       "Location": "West Valley City Family Fitness Center, West Valley City",
       "Status": "Confirmed official city calendar",
       "Website": "https://www.wvc-ut.gov/2131/City-Council-Calendar",
-      "Why / thoughts": "Current city calendar explicitly lists holiday games and tree lighting.",
+      "Why / thoughts": "Holiday games and a community tree lighting in West Valley City.",
       "Extra notes": "Details forthcoming",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -31377,7 +31843,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "santa-the-lights-bluffdale",
@@ -31445,7 +31912,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "miracle-on-34th-street-bluffdale-arts",
@@ -31480,7 +31948,7 @@ window.SITE_DATA = {
       "Location": "Bluffdale City Hall, Bluffdale",
       "Status": "Confirmed official 2026 production dates",
       "Website": "https://bluffdale.gov/577/Auditions",
-      "Why / thoughts": "Current audition page confirms performance dates for Bluffdale Arts production.",
+      "Why / thoughts": "Bluffdale Arts presents Miracle on 34th Street.",
       "Extra notes": "Indoor civic venue; Ask the organizer about specific access needs",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -31506,7 +31974,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "herriman-night-of-lights",
@@ -31575,7 +32044,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-active.svg"
+      "placeholder": "assets/art/seasonal/christmas-active.svg",
+      "notable_event": false
     },
     {
       "id": "herriman-jazz-project-christmas-concert",
@@ -31610,7 +32080,7 @@ window.SITE_DATA = {
       "Location": "Herriman City Hall, Herriman",
       "Status": "Confirmed current community listing",
       "Website": "https://www.friendsofherriman.org/event/herriman-jazz-project-christmas-concert/",
-      "Why / thoughts": "Free live Christmas jazz.",
+      "Why / thoughts": "Hear Christmas jazz performed live by the Herriman Jazz Project.",
       "Extra notes": "Indoor civic venue",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -31640,7 +32110,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "springville-holiday-festival-santa-village",
@@ -31706,7 +32177,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "springville-santa-village-free-santa-visits",
@@ -31769,7 +32241,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "santa-s-art-shop-springville-museum-of-art",
@@ -31834,7 +32307,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "utah-valley-bell-ringers-springville-museum-of-art",
@@ -31869,7 +32343,7 @@ window.SITE_DATA = {
       "Location": "Springville Museum of Art, Springville",
       "Status": "Confirmed official museum calendar",
       "Website": "https://www.smofa.org/event-calendar.php?l=list&t=all",
-      "Why / thoughts": "Two Sunday concert sets.",
+      "Why / thoughts": "Hear the Utah Valley Bell Ringers perform at Springville Museum of Art, with two Sunday sets.",
       "Extra notes": "Indoor museum",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -31898,7 +32372,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "tubular-christmas-springville-senior-center",
@@ -31962,7 +32437,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "chabad-southern-utah-public-menorah-lighting-cedar-city",
@@ -32020,7 +32496,8 @@ window.SITE_DATA = {
         "Jewish"
       ],
       "theme": "hanukkah",
-      "placeholder": "assets/art/seasonal/hanukkah-community.svg"
+      "placeholder": "assets/art/seasonal/hanukkah-community.svg",
+      "notable_event": false
     },
     {
       "id": "chabad-southern-utah-grand-menorah-lighting-st-george",
@@ -32079,7 +32556,8 @@ window.SITE_DATA = {
         "Jewish"
       ],
       "theme": "hanukkah",
-      "placeholder": "assets/art/seasonal/hanukkah-community.svg"
+      "placeholder": "assets/art/seasonal/hanukkah-community.svg",
+      "notable_event": false
     },
     {
       "id": "st-george-dickens-christmas-festival",
@@ -32148,7 +32626,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "holiday-lights-at-red-hills-desert-garden",
@@ -32183,7 +32662,7 @@ window.SITE_DATA = {
       "Location": "Red Hills Desert Garden, St. George",
       "Status": "Confirmed on current destination calendar",
       "Website": "https://www.stgeorge.us/events/2",
-      "Why / thoughts": "Southern Utah holiday-light display; exact nightly hours should be captured from primary local source.",
+      "Why / thoughts": "Walk through holiday lights at Red Hills Desert Garden.",
       "Extra notes": "Outdoor walking; desert winter conditions",
       "travelTier": "Overnight / destination",
       "lastVerified": "2026-10-06",
@@ -32210,7 +32689,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-active.svg"
+      "placeholder": "assets/art/seasonal/winter-active.svg",
+      "notable_event": false
     },
     {
       "id": "st-george-utah-temple-christmas-lights",
@@ -32312,7 +32792,8 @@ window.SITE_DATA = {
         "Christian"
       ],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "cedar-city-downtown-lighting-ceremony",
@@ -32348,7 +32829,7 @@ window.SITE_DATA = {
       "Location": "Downtown Cedar City, Cedar City",
       "Status": "Confirmed on current Visit Cedar City holiday guide",
       "Website": "https://visitcedarcity.com/blog/post/holiday-lights-in-cedar-city-parowan-and-brian-head/",
-      "Why / thoughts": "Current tourism guide lists 2026 Downtown Lighting Ceremony Nov 28.",
+      "Why / thoughts": "A community lighting ceremony in downtown Cedar City.",
       "Extra notes": "Outdoor winter conditions",
       "travelTier": "Extended day trip",
       "lastVerified": "2026-10-06",
@@ -32378,7 +32859,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "breakfast-with-santa-thanksgiving-point",
@@ -32452,7 +32934,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "candlelight-christmas-carols-on-strings-salt-lake-masonic-temple",
@@ -32516,7 +32999,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "candlelight-christmas-classics-clubhouse-on-south-temple",
@@ -32550,7 +33034,7 @@ window.SITE_DATA = {
       "Location": "Clubhouse on South Temple, Salt Lake City",
       "Status": "Confirmed current 2026 Fever listing",
       "Website": "https://feverup.com/en/salt-lake-city/candlelight-christmas-concerts",
-      "Why / thoughts": "Separate Christmas Classics program from the carols-on-strings programs.",
+      "Why / thoughts": "A string-quartet concert of Christmas classics in a candlelit setting.",
       "Extra notes": "Indoor candlelight concert",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -32579,7 +33063,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "candlelight-christmas-carols-on-strings-grand-america",
@@ -32613,7 +33098,7 @@ window.SITE_DATA = {
       "Location": "The Grand America Hotel, Salt Lake City",
       "Status": "Confirmed current 2026 Fever listing",
       "Website": "https://feverup.com/en/salt-lake-city/candlelight-christmas-concerts",
-      "Why / thoughts": "Distinct venue/date from Masonic Temple program.",
+      "Why / thoughts": "A string-quartet concert of Christmas carols in a candlelit setting at Grand America.",
       "Extra notes": "Indoor hotel concert",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -32642,7 +33127,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "candlelight-christmas-carols-on-strings-ogden",
@@ -32676,7 +33162,7 @@ window.SITE_DATA = {
       "Location": "The Monarch, Ogden",
       "Status": "Confirmed current 2026 Fever venue listing",
       "Website": "https://feverup.com/en/ogden/venue/the-monarch",
-      "Why / thoughts": "Northern Wasatch Front candlelight Christmas program.",
+      "Why / thoughts": "A candlelit Christmas string-quartet concert in Ogden.",
       "Extra notes": "Indoor historic arts venue",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -32705,7 +33191,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-performance.svg"
+      "placeholder": "assets/art/seasonal/christmas-performance.svg",
+      "notable_event": false
     },
     {
       "id": "oddlake-city-christmas-market",
@@ -32739,7 +33226,7 @@ window.SITE_DATA = {
       "Location": "Salt Lake Masonic Temple, Salt Lake City",
       "Status": "Confirmed on current venue calendar",
       "Website": "https://slcmasonictemple.com/events/shows-special-events/",
-      "Why / thoughts": "Christmas edition of Oddlake City-style maker/oddities market; dedicated organizer listing still needed.",
+      "Why / thoughts": "A Christmas maker market with gifts and oddities from local vendors.",
       "Extra notes": "Indoor multi-room market",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -32768,7 +33255,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "parowan-christmas-in-the-country",
@@ -32834,7 +33322,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "capitol-hill-christmas-market",
@@ -32869,8 +33358,8 @@ window.SITE_DATA = {
       "Location": "Utah State Capitol / White Memorial Chapel area, Salt Lake City",
       "Status": "Confirmed official Capitol calendar",
       "Website": "https://utahstatecapitol.utah.gov/venue/cpb_rm-cap-white-memorial-chapel-calendar-cpb_ca-public-events-non-profits-4/",
-      "Why / thoughts": "Two weekend runs on the official Capitol calendar.",
-      "Extra notes": "Official Capitol campus venue; accessibility specifics to verify",
+      "Why / thoughts": "A Christmas market on the Utah Capitol campus.",
+      "Extra notes": "Ask about accessible campus routes and parking.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "PRICE/ORGANIZER/ADA RECHECK",
@@ -32896,7 +33385,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-market.svg"
+      "placeholder": "assets/art/seasonal/christmas-market.svg",
+      "notable_event": false
     },
     {
       "id": "ogden-christmas-tree-hike-wasatch-mountain-club",
@@ -32931,7 +33421,7 @@ window.SITE_DATA = {
       "Location": "27th Street Trailhead / Bonneville Shoreline Trail, Ogden",
       "Status": "Confirmed official 2026 club calendar",
       "Website": "https://www.wasatchmountainclub.org/calendar/2026/December/7/evening-hike-ogden-christmas-tree-hike",
-      "Why / thoughts": "Active way to visit a long-running decorated-tree tradition; Leave No Trace guidance explicit.",
+      "Why / thoughts": "A guided hike to Ogden’s decorated Christmas tree. Follow Leave No Trace guidance and prepare for winter trail conditions.",
       "Extra notes": "0.8-mile out-and-back; may be icy/snowy; organizer requests RSVP by email",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -32961,7 +33451,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-active.svg"
+      "placeholder": "assets/art/seasonal/christmas-active.svg",
+      "notable_event": false
     },
     {
       "id": "brian-head-holiday-lighting-extravaganza",
@@ -33028,7 +33519,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "holiday-tree-jubilee-cedar-city",
@@ -33092,7 +33584,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "christmas",
-      "placeholder": "assets/art/seasonal/christmas-community.svg"
+      "placeholder": "assets/art/seasonal/christmas-community.svg",
+      "notable_event": false
     },
     {
       "id": "the-addams-family",
@@ -33126,8 +33619,8 @@ window.SITE_DATA = {
       "Location": "The Ruth, Pleasant Grove",
       "Status": "Confirmed 2026",
       "Website": "https://www.theruth.org/news/detail/the-ruth-theater-presents-an-immersive-production-of-the-addams-family",
-      "Why / thoughts": "Visit the event page for the program, tickets and the latest details.",
-      "Extra notes": "Indoor theatre; accessibility details to verify",
+      "Why / thoughts": "A stage production of The Addams Family musical, with the family’s familiar macabre humor.",
+      "Extra notes": "An indoor theater; contact the venue about accommodations.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "PRICE / AGE / ADA RECHECK",
@@ -33150,7 +33643,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "id": "paranormal-percussion",
@@ -33185,7 +33679,7 @@ window.SITE_DATA = {
       "Status": "Confirmed 2026",
       "Website": "https://www.provo.gov/m/newsflash/Home/Detail/358",
       "Why / thoughts": "A percussion-focused Halloween performance for a musical night out.",
-      "Extra notes": "Indoor; verify accessibility details",
+      "Extra notes": "An indoor performance; contact the venue about accommodations.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "PRICE / SHOWTIME / ADA RECHECK",
@@ -33208,7 +33702,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "id": "lindon-halloween-spooktacular",
@@ -33242,8 +33737,8 @@ window.SITE_DATA = {
       "Location": "City Center Park, Lindon",
       "Status": "Confirmed 2026",
       "Website": "https://www.lindon.gov/m/calendar/event/detail/712",
-      "Why / thoughts": "Fresh municipal-calendar addition.",
-      "Extra notes": "Outdoor; accessibility details to verify",
+      "Why / thoughts": "A city Halloween gathering in Lindon.",
+      "Extra notes": "An outdoor event; ask about terrain and step-free routes.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "ADA RECHECK",
@@ -33267,7 +33762,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "id": "provo-trick-or-treat-resource-fair",
@@ -33325,7 +33821,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "id": "lindon-spooky-movie-in-the-park",
@@ -33360,7 +33857,7 @@ window.SITE_DATA = {
       "Location": "City Center Park, Lindon",
       "Status": "Confirmed 2026; past",
       "Website": "https://www.lindon.gov/calendar.aspx?CID=0&month=10&view=list&year=2026",
-      "Why / thoughts": "Past for current season; retained for complete 2026 history and recurring-source evidence.",
+      "Why / thoughts": "An outdoor spooky-film screening in Lindon’s park.",
       "Extra notes": "Outdoor movie; weather exposure",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -33385,7 +33882,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "id": "salt-lake-spooky-speaks",
@@ -33420,7 +33918,7 @@ window.SITE_DATA = {
       "Status": "Confirmed 2026",
       "Website": "https://www.saltlakecountyarts.org/events/salt-lake-spooky-speaks/",
       "Why / thoughts": "Free multilingual spooky storytelling/community programming in the Eccles Theater lobby.",
-      "Extra notes": "Indoor; multilingual programming; verify venue accessibility details",
+      "Extra notes": "Multilingual programming indoors; contact the venue about accommodations.",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "ADA RECHECK",
@@ -33445,7 +33943,8 @@ window.SITE_DATA = {
       "artKey": "community",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "id": "stage-fright-halloween-dance-concert",
@@ -33479,8 +33978,8 @@ window.SITE_DATA = {
       "Location": "USU Eastern, Geary Event Center, Price",
       "Status": "Confirmed 2026",
       "Website": "https://huntsman.usu.edu/focusedfridays/calendar/?audience=5&id=104811",
-      "Why / thoughts": "Fresh university-departmental-calendar addition.",
-      "Extra notes": "Indoor; accessibility details to verify",
+      "Why / thoughts": "A Halloween dance concert from university performers.",
+      "Extra notes": "An indoor performance; contact the venue about accommodations.",
       "travelTier": "Extended day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "SHOWTIME / ADA RECHECK",
@@ -33503,7 +34002,8 @@ window.SITE_DATA = {
       "artKey": "performance",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "id": "casino-halloween-sky-slc",
@@ -33563,7 +34063,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "graveyard-shift-a-costume-party",
@@ -33620,7 +34121,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "sunfish-halloween",
@@ -33655,7 +34157,7 @@ window.SITE_DATA = {
       "Location": "Soundwell, Salt Lake City",
       "Status": "Confirmed official venue listing",
       "Website": "https://soundwellslc.com/events/",
-      "Why / thoughts": "Sunfish with Charlatan, Acacia Ridge and No Such Animal; explicitly Halloween-branded.",
+      "Why / thoughts": "A Halloween concert with Sunfish, Charlatan, Acacia Ridge and No Such Animal.",
       "Extra notes": "Indoor music venue",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -33679,7 +34181,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "halloween-night-famous-karamba",
@@ -33713,7 +34216,7 @@ window.SITE_DATA = {
       "Location": "Famous Karamba, Salt Lake City",
       "Status": "Confirmed official 2026 venue listing",
       "Website": "https://famouskaramba.com/upcoming-events/",
-      "Why / thoughts": "Official October calendar explicitly lists Halloween Night on Oct. 31.",
+      "Why / thoughts": "A Halloween nightclub evening at Famous Karamba.",
       "Extra notes": "Indoor nightclub",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -33738,7 +34241,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "hallows-eve-monster-bash",
@@ -33799,7 +34303,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "frightcrawl-salt-lake-city-halloween-bar-crawl",
@@ -33833,7 +34338,7 @@ window.SITE_DATA = {
       "Location": "Downtown Salt Lake City bars; check-in varies by date, Salt Lake City",
       "Status": "Confirmed official 2026 listing",
       "Website": "https://frightcrawl.com/salt-lake-city/",
-      "Why / thoughts": "Four bar-crawl sessions across Halloween weekend, from a separate producer to the October 31 Crawl With US event.",
+      "Why / thoughts": "A multi-session Halloween bar crawl in Salt Lake City. Choose the date and session that fit your plans.",
       "Extra notes": "Walking route; participating venues subject to change; photo ID required",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -33859,7 +34364,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "haunted-shrills-scare-oke-studio-at-soundwell",
@@ -33893,7 +34399,7 @@ window.SITE_DATA = {
       "Location": "Studio at Soundwell, Salt Lake City",
       "Status": "Confirmed current Studio schedule",
       "Website": "https://studiosaltlake.com/events/",
-      "Why / thoughts": "Child event of the Something Wicked umbrella pop-up; separately scheduled and useful for date search.",
+      "Why / thoughts": "Halloween karaoke at Studio at Soundwell’s Something Wicked pop-up.",
       "Extra notes": "Indoor bar/pop-up",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -33919,7 +34425,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "monster-mash-logik-studio-at-soundwell",
@@ -33978,7 +34485,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "creature-feature-dimitri-garzarelli-studio-at-soundwell",
@@ -34012,7 +34520,7 @@ window.SITE_DATA = {
       "Location": "Studio at Soundwell, Salt Lake City",
       "Status": "Confirmed current Studio schedule",
       "Website": "https://studiosaltlake.com/events/",
-      "Why / thoughts": "Creature Feature night with Dimitri Garzarelli and Joey Rotten caricatures; child event of Something Wicked.",
+      "Why / thoughts": "A Creature Feature evening with Dimitri Garzarelli and caricatures by Joey Rotten at Studio at Soundwell.",
       "Extra notes": "Indoor bar/pop-up",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -34038,7 +34546,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "monster-mash-iann-studio-at-soundwell",
@@ -34097,7 +34606,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "r-b-season-after-dark-halloween-edition",
@@ -34157,7 +34667,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "zeds-dead-halloween-at-granary-open-air",
@@ -34192,7 +34703,7 @@ window.SITE_DATA = {
       "Location": "Granary Open Air, 742 S 500 W, Salt Lake City",
       "Status": "Confirmed official artist + ticketing listing",
       "Website": "https://www.zedsdead.net/",
-      "Why / thoughts": "Artist tour and ticketing explicitly mark the Salt Lake show on Halloween; high-value Halloween-night rave/concert even though the act is not a novelty Halloween event.",
+      "Why / thoughts": "Zeds Dead performs an outdoor Halloween concert at Granary Open Air.",
       "Extra notes": "Outdoor/open-air concert; valid ID",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -34219,7 +34730,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "create-and-destroy-feat-craze-dieselboy",
@@ -34278,7 +34790,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "gracies-halloween-drag-brunch",
@@ -34342,7 +34855,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "the-haunting-of-hk-brewing",
@@ -34376,7 +34890,7 @@ window.SITE_DATA = {
       "Location": "HK Brewing Collective Taproom & Bar, 370 Aspen Ave, Salt Lake City",
       "Status": "Confirmed current organizer/venue ecosystem",
       "Website": "https://www.eventbrite.com/e/the-haunting-of-hk-brewing-tickets-1999337292663",
-      "Why / thoughts": "Fourth-year Halloween drag production hosted by Ivy Dior Stephens; multiple independently scheduled shows.",
+      "Why / thoughts": "A Halloween drag show at HK Brewing hosted by Ivy Dior Stephens.",
       "Extra notes": "Indoor taproom/bar; craft cocktails, mocktails and kombucha",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -34404,7 +34918,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/performance.svg"
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false
     },
     {
       "id": "slc-sapphic-night-out-spooky-season-at-why-kiki",
@@ -34438,7 +34953,7 @@ window.SITE_DATA = {
       "Location": "Why Kiki, 69 W 100 S, Salt Lake City",
       "Status": "Confirmed current organizer listing",
       "Website": "https://hunthalloween.com/event/slc-sapphic-night-out-at-why-kiki-eid4a7hbqv0l4",
-      "Why / thoughts": "Sapphic community night with karaoke, lip-sync battles and relationship-intent wristbands; explicitly spooky-season themed.",
+      "Why / thoughts": "A spooky-season sapphic community night with karaoke, lip-sync battles and relationship-intent wristbands.",
       "Extra notes": "Indoor queer nightlife venue",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -34466,7 +34981,8 @@ window.SITE_DATA = {
         "LGBTQ+"
       ],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "my-boo-halloween-throwback-night",
@@ -34527,7 +35043,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "dust-till-dawn-iv-project-mayhem-feat-ashez-kaipora",
@@ -34561,7 +35078,7 @@ window.SITE_DATA = {
       "Location": "609 S State St / EVE complex, Salt Lake City",
       "Status": "Confirmed current promoter listing",
       "Website": "https://linktr.ee/echelon.experience",
-      "Why / thoughts": "Echelon Experience current event list explicitly includes Oct. 30 Dust Till Dawn IV: Project Mayhem feat. ASHEZ with Kaipora.",
+      "Why / thoughts": "An electronic-music event featuring ASHEZ and Kaipora at Dust Till Dawn IV: Project Mayhem.",
       "Extra notes": "Late-night electronic event",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -34587,7 +35104,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "halloween-edm-at-cache-bar",
@@ -34646,7 +35164,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "day-of-the-dead-at-cache-bar",
@@ -34709,7 +35228,8 @@ window.SITE_DATA = {
       ],
       "theme": "dayofdead",
       "placeholder": "assets/art/seasonal/dayofdead-community.svg",
-      "ghostCount": 0
+      "ghostCount": 0,
+      "notable_event": false
     },
     {
       "id": "muskieween-3",
@@ -34771,7 +35291,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "provo-halloween-singles-mixer-2026",
@@ -34831,7 +35352,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "ogden-halloween-singles-mixer-2026",
@@ -34891,7 +35413,8 @@ window.SITE_DATA = {
       "artKey": "nightlife",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/nightlife.svg"
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false
     },
     {
       "id": "eve-rooftop-afterlive",
@@ -34907,7 +35430,7 @@ window.SITE_DATA = {
       "Times": "Doors 8:00 PM; closing time not announced",
       "Location": "EVE SLC, 609 S State St, Salt Lake City",
       "Website": "https://eveinslc.com/single-event/EVE164431400120261031/eve-rooftop-afterlive/",
-      "Why / thoughts": "Spend Halloween on EVE’s rooftop. The venue lists doors at 8 PM; confirm admission and entry requirements before booking.",
+      "Why / thoughts": "A Halloween rooftop party at EVE. Doors open at 8 PM; check admission and entry requirements before booking.",
       "Extra notes": "",
       "Age": "General audience",
       "Price": "Check current ticket options",
@@ -34945,7 +35468,8 @@ window.SITE_DATA = {
       "travelTier": "Core / easy day trip",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "id": "eve-halloween-crawl",
@@ -34961,7 +35485,7 @@ window.SITE_DATA = {
       "Times": "Doors 8:00 PM; closing time not announced",
       "Location": "EVE SLC, 609 S State St, Salt Lake City",
       "Website": "https://eveinslc.com/single-event/EVE164431400020261029/halloween-crawl/",
-      "Why / thoughts": "A Halloween crawl listed on EVE’s October calendar. Check the event page for tickets and the route.",
+      "Why / thoughts": "A Halloween bar crawl hosted by EVE. Check the ticket options and route before attending.",
       "Extra notes": "",
       "Age": "General audience",
       "Price": "Check current ticket options",
@@ -34996,7 +35520,8 @@ window.SITE_DATA = {
       "travelTier": "Core / easy day trip",
       "communities": [],
       "theme": "halloween",
-      "placeholder": "assets/art/community.svg"
+      "placeholder": "assets/art/community.svg",
+      "notable_event": false
     },
     {
       "id": "salt-lake-men-s-choir-somewhere-in-my-memory",
@@ -35073,7 +35598,8 @@ window.SITE_DATA = {
           "method": "All three ticket variants, required fees included",
           "checked": "2026-10-06"
         }
-      }
+      },
+      "notable_event": false
     },
     {
       "id": "winter-craftacular",
@@ -35127,7 +35653,8 @@ window.SITE_DATA = {
       "scheduleNote": "Craft materials are provided. For tweens, teens and adults.",
       "communities": [],
       "theme": "winter",
-      "placeholder": "assets/art/seasonal/winter-community.svg"
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false
     },
     {
       "id": "jane-austen-yule-ball-2026",
@@ -35186,7 +35713,8 @@ window.SITE_DATA = {
       "communities": [],
       "theme": "yule",
       "placeholder": "assets/art/seasonal/yule-performance.svg",
-      "scheduleNote": "General admission 6–10 PM; VIP entry from 3 PM."
+      "scheduleNote": "General admission 6–10 PM; VIP entry from 3 PM.",
+      "notable_event": false
     },
     {
       "Event / attraction": "Witches Tea — Grand America",
@@ -35294,7 +35822,8 @@ window.SITE_DATA = {
         "discovery": "https://utahsbestkeptsecrets.com/2024/12/12/fun-fall-activities-in-utah/",
         "official": "https://www.grandamerica.com/events/witches-tea-2026-10-07",
         "method": "Current dated event details; separate Oct 8 page corroborates hours, prices and season dates. General afternoon-tea page has different weekday hours and was not substituted. Hotel accessibility statement covers its website, not venue accommodation."
-      }
+      },
+      "notable_event": false
     },
     {
       "Event / attraction": "SnowWiesn Oktoberfest — Snowbasin",
@@ -35392,7 +35921,8 @@ window.SITE_DATA = {
         "discovery": "https://utahsbestkeptsecrets.com/2024/12/12/fun-fall-activities-in-utah/ and publicly indexed social fall roundup",
         "official": "https://www.snowbasin.com/events/snowwiesn-oktoberfest/",
         "method": "Organizer details and current calendar confirm weekend dates, hours, admission and dog/entry policies. Linked ticket shop returned HTTP 403; all-in charges and age variants remain unverified."
-      }
+      },
+      "notable_event": false
     },
     {
       "Event / attraction": "Pride in Progress 2027",
@@ -35459,7 +35989,640 @@ window.SITE_DATA = {
       "researchEvidence": {
         "official": "https://www.cougarpridecenter.org/pride",
         "method": "Read current organizer save-the-date separately from clearly labeled past-year narratives."
-      }
+      },
+      "notable_event": false
+    },
+    {
+      "id": "harvest-moon-celebration-2026",
+      "Event / attraction": "Harvest Moon Celebration 2026",
+      "Region": "Ogden, Weber & Morgan",
+      "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+      "First date": "2026-09-19",
+      "2026 schedule": "2026-09-19",
+      "Times": "10 AM–9 PM",
+      "Price": "Free admission; food, drinks and purchases extra",
+      "Cost": "",
+      "Age": "All ages / general audience",
+      "Intensity": "",
+      "Location": "Historic 25th Street and Municipal Gardens, Ogden",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "A downtown harvest festival with local music and dance, produce, artisan vendors, food and children’s activities. The street becomes a beer garden for adults.",
+      "Website": "https://ogdendowntown.com/harvestmoonogden/",
+      "Social profile": "",
+      "Extra notes": "Outdoor. Produce market ended at 2 PM; park activities ended at 6 PM. Free bike valet and nearby parking were available.",
+      "categories": [
+        "Community & Culture",
+        "Markets & Shopping",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Markets & Shopping",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sourceRegion": "Ogden, Weber & Morgan",
+      "publicRegion": "Ogden, Weber & Morgan",
+      "publicTypes": [
+        "Community & Culture",
+        "Markets & Shopping",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sponsored": false,
+      "holidays": [
+        "Fall"
+      ],
+      "primaryHoliday": "Fall",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-06",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Outdoor",
+        "Free admission"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-19"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "thanksgiving",
+      "placeholder": "assets/art/market.svg",
+      "notable_event": true,
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-06",
+        "sourceUrl": "https://ogdendowntown.com/harvestmoonogden/",
+        "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+      },
+      "hoursByDate": {
+        "2026-09-19": "10 AM–9 PM"
+      },
+      "sourceRow": 599
+    },
+    {
+      "id": "fanx-salt-lake-2026",
+      "Event / attraction": "FanX Salt Lake Comic Convention 2026",
+      "Region": "Salt Lake Metro",
+      "Category": "Community & Culture / Markets & Shopping",
+      "First date": "2026-09-24",
+      "2026 schedule": "2026-09-24, 2026-09-25, 2026-09-26",
+      "Times": "Vendor floor: Thu 12:45–8 PM; Fri 10:45 AM–8 PM; Sat 10:45 AM–7 PM",
+      "Price": "Advertised 2026 advance passes: MultiPass $79; Ruby $132; VIP $359. Fees and add-ons extra; sales ended",
+      "Cost": "",
+      "Age": "All ages / general audience",
+      "Intensity": "",
+      "Location": "Salt Palace Convention Center, 100 S West Temple, Salt Lake City",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "A pop-culture convention with celebrity panels, cosplay, artists, authors, gaming and a vendor floor. Autographs and celebrity photos require separate purchases.",
+      "Website": "https://fanxsaltlake.com/ticket-info/",
+      "Social profile": "",
+      "Extra notes": "Panel programming continued later than vendor hours; early-entry times depended on the pass. Medical wristbands did not grant admission or priority access.",
+      "categories": [
+        "Community & Culture",
+        "Markets & Shopping"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Markets & Shopping"
+      ],
+      "sourceRegion": "Salt Lake Metro",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Markets & Shopping"
+      ],
+      "ghostCount": 0,
+      "costCount": 4,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sponsored": false,
+      "holidays": [],
+      "primaryHoliday": "",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-26",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-06",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "winter",
+      "placeholder": "assets/art/market.svg",
+      "notable_event": true,
+      "accessibility": {
+        "summary": "Accessible registration, trained assistance staff and designated seating; check detailed policies",
+        "url": "https://fanxsaltlake.zendesk.com/hc/en-us/articles/360007590913-ADA-Accommodations",
+        "tone": "positive"
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-06",
+        "sourceUrl": "https://fanxsaltlake.com/ticket-info/",
+        "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+      },
+      "hoursByDate": {
+        "2026-09-24": "12:45 PM–8 PM",
+        "2026-09-25": "10:45 AM–8 PM",
+        "2026-09-26": "10:45 AM–7 PM"
+      },
+      "sourceRow": 600
+    },
+    {
+      "id": "salt-lake-city-greek-festival-2026",
+      "Event / attraction": "Salt Lake City Greek Festival 2026",
+      "Region": "Salt Lake Metro",
+      "Category": "Community & Culture / Food & Drink / Live Music & Performance",
+      "First date": "2026-09-11",
+      "2026 schedule": "2026-09-11, 2026-09-12, 2026-09-13",
+      "Times": "Fri–Sat 11 AM–10 PM; Sun 11 AM–8 PM",
+      "Price": "$5 admission; children 5 and under free. Food extra; 3% credit-card surcharge",
+      "Cost": "",
+      "Age": "All ages / general audience",
+      "Intensity": "",
+      "Location": "Holy Trinity Cathedral, 279 S 300 W, Salt Lake City",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "Greek food, live music and traditional dancing at Holy Trinity Cathedral, celebrating the local Greek community’s culture and history.",
+      "Website": "https://www.bigtickets.com/e/salt-lake-city-greek-festival/2026/",
+      "Social profile": "",
+      "Extra notes": "Service dogs only. Cash, credit and debit were accepted.",
+      "categories": [
+        "Community & Culture",
+        "Food & Drink",
+        "Live Music & Performance"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Food & Drink",
+        "Live Music & Performance"
+      ],
+      "sourceRegion": "Salt Lake Metro",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Food & Drink",
+        "Live Music & Performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sponsored": false,
+      "holidays": [],
+      "primaryHoliday": "",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-13",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-06",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Greek / Greek American"
+      ],
+      "theme": "winter",
+      "placeholder": "assets/art/market.svg",
+      "notable_event": true,
+      "accessibility": {
+        "summary": "Organizer lists wheelchair access and service-dog admission",
+        "url": "https://www.bigtickets.com/e/salt-lake-city-greek-festival/2026/",
+        "tone": "positive"
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-06",
+        "sourceUrl": "https://www.bigtickets.com/e/salt-lake-city-greek-festival/2026/",
+        "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+      },
+      "hoursByDate": {
+        "2026-09-11": "11 AM–10 PM",
+        "2026-09-12": "11 AM–10 PM",
+        "2026-09-13": "11 AM–8 PM"
+      },
+      "sourceRow": 601
+    },
+    {
+      "id": "festa-italiana-slc-2026",
+      "Event / attraction": "Festa Italiana SLC 2026",
+      "Region": "Salt Lake Metro",
+      "Category": "Community & Culture / Food & Drink / Live Music & Performance / Markets & Shopping",
+      "First date": "2026-09-19",
+      "2026 schedule": "2026-09-19, 2026-09-20",
+      "Times": "Sat noon–10 PM; Sun noon–7 PM",
+      "Price": "Free admission; food, drinks and purchases extra",
+      "Cost": "",
+      "Age": "All ages / general audience",
+      "Intensity": "",
+      "Location": "The Gateway, 18 N Rio Grande Street, Salt Lake City",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "An Italian street festival with regional food, live entertainment, cooking demonstrations, arts and crafts, historical displays, cars and children’s activities.",
+      "Website": "https://www.festaitalianaslc.com/about-festa",
+      "Social profile": "",
+      "Extra notes": "Outdoor. Food and alcohol purchases were separate from admission.",
+      "categories": [
+        "Community & Culture",
+        "Food & Drink",
+        "Live Music & Performance",
+        "Markets & Shopping"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Food & Drink",
+        "Live Music & Performance",
+        "Markets & Shopping"
+      ],
+      "sourceRegion": "Salt Lake Metro",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Food & Drink",
+        "Live Music & Performance",
+        "Markets & Shopping"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sponsored": false,
+      "holidays": [],
+      "primaryHoliday": "",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-06",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Outdoor",
+        "Free admission"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-19",
+        "2026-09-20"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Italian / Italian American"
+      ],
+      "theme": "winter",
+      "placeholder": "assets/art/market.svg",
+      "notable_event": true,
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-06",
+        "sourceUrl": "https://www.festaitalianaslc.com/about-festa",
+        "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+      },
+      "hoursByDate": {
+        "2026-09-19": "Noon–10 PM",
+        "2026-09-20": "Noon–7 PM"
+      },
+      "sourceRow": 602
+    },
+    {
+      "id": "dogden-festival-2026",
+      "Event / attraction": "Dogden Festival 2026",
+      "Region": "Ogden, Weber & Morgan",
+      "Category": "Community & Culture / Markets & Shopping",
+      "First date": "2026-09-12",
+      "2026 schedule": "2026-09-12",
+      "Times": "8 AM–1 PM",
+      "Price": "Free admission; purchases extra",
+      "Cost": "",
+      "Age": "All ages / general audience",
+      "Intensity": "",
+      "Location": "Farmers Market Ogden, Historic 25th Street, Ogden",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "A dog-focused morning at Farmers Market Ogden with a parade, agility demonstrations, games and vendors selling treats, toys and pet products.",
+      "Website": "https://ogdendowntown.com/dogden/",
+      "Social profile": "",
+      "Extra notes": "Outdoor. Dog parade began at 9 AM; games at 10 AM and awards at noon. Keep dogs under control and follow posted event guidance.",
+      "categories": [
+        "Community & Culture",
+        "Markets & Shopping"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Markets & Shopping"
+      ],
+      "sourceRegion": "Ogden, Weber & Morgan",
+      "publicRegion": "Ogden, Weber & Morgan",
+      "publicTypes": [
+        "Community & Culture",
+        "Markets & Shopping"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sponsored": false,
+      "holidays": [],
+      "primaryHoliday": "",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-12",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-06",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Outdoor",
+        "Free admission"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-12"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "winter",
+      "placeholder": "assets/art/market.svg",
+      "notable_event": true,
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-06",
+        "sourceUrl": "https://ogdendowntown.com/dogden/",
+        "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+      },
+      "hoursByDate": {
+        "2026-09-12": "8 AM–1 PM"
+      },
+      "sourceRow": 603
+    },
+    {
+      "id": "brigham-city-peach-days-2026",
+      "Event / attraction": "Brigham City Peach Days 2026",
+      "Region": "Cache / Box Elder",
+      "Category": "Community & Culture / Markets & Shopping / Live Music & Performance",
+      "First date": "2026-09-09",
+      "2026 schedule": "2026-09-09, 2026-09-10, 2026-09-11, 2026-09-12",
+      "Times": "Hours vary by program; Fri–Sat vendors 10 AM–10 PM",
+      "Price": "Free concerts and car-show viewing; carnival, food and some programs cost extra",
+      "Cost": "",
+      "Age": "All ages / general audience",
+      "Intensity": "",
+      "Location": "Downtown Main Street and participating venues, Brigham City",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "A harvest-time community celebration with parades, concerts, a car show, vendors and a carnival. Exhibits and performances take place at several downtown venues.",
+      "Website": "https://www.boxelderchamber.com/peach-days/",
+      "Social profile": "",
+      "Extra notes": "Outdoor and indoor venues. Friday parade began at 6 PM; Saturday parade at 10 AM. Separate venues and programs had their own hours.",
+      "categories": [
+        "Community & Culture",
+        "Markets & Shopping",
+        "Live Music & Performance"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Markets & Shopping",
+        "Live Music & Performance"
+      ],
+      "sourceRegion": "Cache / Box Elder",
+      "publicRegion": "Cache / Box Elder",
+      "publicTypes": [
+        "Community & Culture",
+        "Markets & Shopping",
+        "Live Music & Performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sponsored": false,
+      "holidays": [],
+      "primaryHoliday": "",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-12",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-06",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Outdoor"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "winter",
+      "placeholder": "assets/art/market.svg",
+      "notable_event": true,
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-06",
+        "sourceUrl": "https://www.boxelderchamber.com/peach-days/",
+        "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+      },
+      "hoursByDate": {
+        "2026-09-11": "10 AM–10 PM",
+        "2026-09-12": "10 AM–10 PM"
+      },
+      "sourceRow": 604
+    },
+    {
+      "id": "ogden-pride-festival-2026",
+      "Event / attraction": "Ogden Pride Festival 2026",
+      "Region": "Ogden, Weber & Morgan",
+      "Category": "Community & Culture / Live Music & Performance / Markets & Shopping",
+      "First date": "2026-10-04",
+      "2026 schedule": "2026-10-04",
+      "Times": "11 AM–6 PM",
+      "Price": "Free admission; food and purchases extra",
+      "Cost": "",
+      "Age": "All ages / general audience",
+      "Intensity": "",
+      "Location": "Ogden Amphitheater and 300 block of 25th Street, 343 E 25th St, Ogden",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "Drag, music, dance and spoken-word performances across two stages, with a vendor village, food and family activities in downtown Ogden. A quiet tent offers a lower-sensory place to pause.",
+      "Website": "https://www.visitogden.com/events/12th-annual-ogden-pride-festival/",
+      "Social profile": "",
+      "Extra notes": "Outdoor. This listing covers Sunday’s main festival; the weekend’s opening party was October 3.",
+      "categories": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Markets & Shopping"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Markets & Shopping"
+      ],
+      "sourceRegion": "Ogden, Weber & Morgan",
+      "publicRegion": "Ogden, Weber & Morgan",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Markets & Shopping"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sponsored": false,
+      "holidays": [
+        "Pride"
+      ],
+      "primaryHoliday": "Pride",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-04",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-06",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Outdoor",
+        "Free admission"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-04"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "LGBTQ+"
+      ],
+      "theme": "pride",
+      "placeholder": "assets/art/seasonal/pride-community.svg",
+      "notable_event": true,
+      "accessibility": {
+        "summary": "Quiet/chill tent and a street layout designed to improve ADA access",
+        "url": "https://www.visitogden.com/events/12th-annual-ogden-pride-festival/",
+        "tone": "positive"
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-06",
+        "sourceUrl": "https://www.visitogden.com/events/12th-annual-ogden-pride-festival/",
+        "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+      },
+      "hoursByDate": {
+        "2026-10-04": "11 AM–6 PM"
+      },
+      "sourceRow": 605
+    },
+    {
+      "id": "salt-lake-city-greek-festival-2027",
+      "Event / attraction": "Salt Lake City Greek Festival 2027",
+      "Region": "Salt Lake Metro",
+      "Category": "Community & Culture / Food & Drink",
+      "First date": "2027-09-10",
+      "2026 schedule": "2027-09-10, 2027-09-11, 2027-09-12",
+      "Times": "2027 hours forthcoming",
+      "Price": "2027 admission details forthcoming",
+      "Cost": "",
+      "Age": "All ages / general audience",
+      "Intensity": "",
+      "Location": "Holy Trinity Cathedral, 279 S 300 W, Salt Lake City",
+      "Status": "Announced 2027 dates",
+      "Why / thoughts": "The Greek community’s annual festival returns to Holy Trinity Cathedral. The 2027 program, admission and operating hours are still forthcoming.",
+      "Website": "https://www.saltlakecitygreekfestival.com/",
+      "Social profile": "",
+      "Extra notes": "Check the 2027 program for food, performers and accommodations; prior-year prices and policies may change.",
+      "categories": [
+        "Community & Culture",
+        "Food & Drink"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Food & Drink"
+      ],
+      "sourceRegion": "Salt Lake Metro",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Food & Drink"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sponsored": false,
+      "holidays": [],
+      "primaryHoliday": "",
+      "startDate": "2027-09-10",
+      "endDate": "2027-09-12",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-06",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-09-10",
+        "2027-09-11",
+        "2027-09-12"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Greek / Greek American"
+      ],
+      "theme": "winter",
+      "placeholder": "assets/art/market.svg",
+      "notable_event": true,
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-06",
+        "sourceUrl": "https://www.saltlakecitygreekfestival.com/",
+        "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+      },
+      "sourceRow": 606
     }
   ],
   "planner": [
@@ -37332,8 +38495,8 @@ window.SITE_DATA = {
   "site": {
     "name": "Utah Seasonal Guide",
     "tagline": "Seasonal celebrations that show off Utah’s culture and creativity.",
-    "currentGuide": "October 2026–October 2027",
-    "scope": "Holiday and seasonal events, traditions, performances, markets, displays and limited-time experiences across Utah.",
+    "currentGuide": "September 2026–October 2027",
+    "scope": "Seasonal celebrations, cultural festivals, local traditions, public markets, conventions, performances and limited-time experiences across Utah.",
     "sponsoredPlacements": []
   },
   "holidays": [

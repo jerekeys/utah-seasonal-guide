@@ -1,0 +1,634 @@
+[
+  {
+    "id": "harvest-moon-celebration-2026",
+    "Event / attraction": "Harvest Moon Celebration 2026",
+    "Region": "Ogden, Weber & Morgan",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-19",
+    "2026 schedule": "2026-09-19",
+    "Times": "10 AM–9 PM",
+    "Price": "Free admission; food, drinks and purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Historic 25th Street and Municipal Gardens, Ogden",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A downtown harvest festival with local music and dance, produce, artisan vendors, food and children’s activities. The street becomes a beer garden for adults.",
+    "Website": "https://ogdendowntown.com/harvestmoonogden/",
+    "Social profile": "",
+    "Extra notes": "Outdoor. Produce market ended at 2 PM; park activities ended at 6 PM. Free bike valet and nearby parking were available.",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Ogden, Weber & Morgan",
+    "publicRegion": "Ogden, Weber & Morgan",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "travelTier": "Core / easy day trip",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-19"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/market.svg",
+    "notable_event": true,
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://ogdendowntown.com/harvestmoonogden/",
+      "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+    },
+    "hoursByDate": {
+      "2026-09-19": "10 AM–9 PM"
+    },
+    "sourceRow": 599
+  },
+  {
+    "id": "fanx-salt-lake-2026",
+    "Event / attraction": "FanX Salt Lake Comic Convention 2026",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Markets & Shopping",
+    "First date": "2026-09-24",
+    "2026 schedule": "2026-09-24, 2026-09-25, 2026-09-26",
+    "Times": "Vendor floor: Thu 12:45–8 PM; Fri 10:45 AM–8 PM; Sat 10:45 AM–7 PM",
+    "Price": "Advertised 2026 advance passes: MultiPass $79; Ruby $132; VIP $359. Fees and add-ons extra; sales ended",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Salt Palace Convention Center, 100 S West Temple, Salt Lake City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A pop-culture convention with celebrity panels, cosplay, artists, authors, gaming and a vendor floor. Autographs and celebrity photos require separate purchases.",
+    "Website": "https://fanxsaltlake.com/ticket-info/",
+    "Social profile": "",
+    "Extra notes": "Panel programming continued later than vendor hours; early-entry times depended on the pass. Medical wristbands did not grant admission or priority access.",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping"
+    ],
+    "ghostCount": 0,
+    "costCount": 4,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [],
+    "primaryHoliday": "",
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-26",
+    "travelTier": "Core / easy day trip",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-24",
+      "2026-09-25",
+      "2026-09-26"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "winter",
+    "placeholder": "assets/art/market.svg",
+    "notable_event": true,
+    "accessibility": {
+      "summary": "Accessible registration, trained assistance staff and designated seating; check detailed policies",
+      "url": "https://fanxsaltlake.zendesk.com/hc/en-us/articles/360007590913-ADA-Accommodations",
+      "tone": "positive"
+    },
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://fanxsaltlake.com/ticket-info/",
+      "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+    },
+    "hoursByDate": {
+      "2026-09-24": "12:45 PM–8 PM",
+      "2026-09-25": "10:45 AM–8 PM",
+      "2026-09-26": "10:45 AM–7 PM"
+    },
+    "sourceRow": 600
+  },
+  {
+    "id": "salt-lake-city-greek-festival-2026",
+    "Event / attraction": "Salt Lake City Greek Festival 2026",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Food & Drink / Live Music & Performance",
+    "First date": "2026-09-11",
+    "2026 schedule": "2026-09-11, 2026-09-12, 2026-09-13",
+    "Times": "Fri–Sat 11 AM–10 PM; Sun 11 AM–8 PM",
+    "Price": "$5 admission; children 5 and under free. Food extra; 3% credit-card surcharge",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Holy Trinity Cathedral, 279 S 300 W, Salt Lake City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Greek food, live music and traditional dancing at Holy Trinity Cathedral, celebrating the local Greek community’s culture and history.",
+    "Website": "https://www.bigtickets.com/e/salt-lake-city-greek-festival/2026/",
+    "Social profile": "",
+    "Extra notes": "Service dogs only. Cash, credit and debit were accepted.",
+    "categories": [
+      "Community & Culture",
+      "Food & Drink",
+      "Live Music & Performance"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Food & Drink",
+      "Live Music & Performance"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Food & Drink",
+      "Live Music & Performance"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [],
+    "primaryHoliday": "",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-13",
+    "travelTier": "Core / easy day trip",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-11",
+      "2026-09-12",
+      "2026-09-13"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "Greek / Greek American"
+    ],
+    "theme": "winter",
+    "placeholder": "assets/art/market.svg",
+    "notable_event": true,
+    "accessibility": {
+      "summary": "Organizer lists wheelchair access and service-dog admission",
+      "url": "https://www.bigtickets.com/e/salt-lake-city-greek-festival/2026/",
+      "tone": "positive"
+    },
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.bigtickets.com/e/salt-lake-city-greek-festival/2026/",
+      "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+    },
+    "hoursByDate": {
+      "2026-09-11": "11 AM–10 PM",
+      "2026-09-12": "11 AM–10 PM",
+      "2026-09-13": "11 AM–8 PM"
+    },
+    "sourceRow": 601
+  },
+  {
+    "id": "festa-italiana-slc-2026",
+    "Event / attraction": "Festa Italiana SLC 2026",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Food & Drink / Live Music & Performance / Markets & Shopping",
+    "First date": "2026-09-19",
+    "2026 schedule": "2026-09-19, 2026-09-20",
+    "Times": "Sat noon–10 PM; Sun noon–7 PM",
+    "Price": "Free admission; food, drinks and purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "The Gateway, 18 N Rio Grande Street, Salt Lake City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "An Italian street festival with regional food, live entertainment, cooking demonstrations, arts and crafts, historical displays, cars and children’s activities.",
+    "Website": "https://www.festaitalianaslc.com/about-festa",
+    "Social profile": "",
+    "Extra notes": "Outdoor. Food and alcohol purchases were separate from admission.",
+    "categories": [
+      "Community & Culture",
+      "Food & Drink",
+      "Live Music & Performance",
+      "Markets & Shopping"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Food & Drink",
+      "Live Music & Performance",
+      "Markets & Shopping"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Food & Drink",
+      "Live Music & Performance",
+      "Markets & Shopping"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [],
+    "primaryHoliday": "",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20",
+    "travelTier": "Core / easy day trip",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-19",
+      "2026-09-20"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "Italian / Italian American"
+    ],
+    "theme": "winter",
+    "placeholder": "assets/art/market.svg",
+    "notable_event": true,
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.festaitalianaslc.com/about-festa",
+      "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+    },
+    "hoursByDate": {
+      "2026-09-19": "Noon–10 PM",
+      "2026-09-20": "Noon–7 PM"
+    },
+    "sourceRow": 602
+  },
+  {
+    "id": "dogden-festival-2026",
+    "Event / attraction": "Dogden Festival 2026",
+    "Region": "Ogden, Weber & Morgan",
+    "Category": "Community & Culture / Markets & Shopping",
+    "First date": "2026-09-12",
+    "2026 schedule": "2026-09-12",
+    "Times": "8 AM–1 PM",
+    "Price": "Free admission; purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Farmers Market Ogden, Historic 25th Street, Ogden",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A dog-focused morning at Farmers Market Ogden with a parade, agility demonstrations, games and vendors selling treats, toys and pet products.",
+    "Website": "https://ogdendowntown.com/dogden/",
+    "Social profile": "",
+    "Extra notes": "Outdoor. Dog parade began at 9 AM; games at 10 AM and awards at noon. Keep dogs under control and follow posted event guidance.",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping"
+    ],
+    "sourceRegion": "Ogden, Weber & Morgan",
+    "publicRegion": "Ogden, Weber & Morgan",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [],
+    "primaryHoliday": "",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "travelTier": "Core / easy day trip",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-12"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "winter",
+    "placeholder": "assets/art/market.svg",
+    "notable_event": true,
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://ogdendowntown.com/dogden/",
+      "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+    },
+    "hoursByDate": {
+      "2026-09-12": "8 AM–1 PM"
+    },
+    "sourceRow": 603
+  },
+  {
+    "id": "brigham-city-peach-days-2026",
+    "Event / attraction": "Brigham City Peach Days 2026",
+    "Region": "Cache / Box Elder",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance",
+    "First date": "2026-09-09",
+    "2026 schedule": "2026-09-09, 2026-09-10, 2026-09-11, 2026-09-12",
+    "Times": "Hours vary by program; Fri–Sat vendors 10 AM–10 PM",
+    "Price": "Free concerts and car-show viewing; carnival, food and some programs cost extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Downtown Main Street and participating venues, Brigham City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A harvest-time community celebration with parades, concerts, a car show, vendors and a carnival. Exhibits and performances take place at several downtown venues.",
+    "Website": "https://www.boxelderchamber.com/peach-days/",
+    "Social profile": "",
+    "Extra notes": "Outdoor and indoor venues. Friday parade began at 6 PM; Saturday parade at 10 AM. Separate venues and programs had their own hours.",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance"
+    ],
+    "sourceRegion": "Cache / Box Elder",
+    "publicRegion": "Cache / Box Elder",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [],
+    "primaryHoliday": "",
+    "startDate": "2026-09-09",
+    "endDate": "2026-09-12",
+    "travelTier": "Core / easy day trip",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-09",
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-12"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "winter",
+    "placeholder": "assets/art/market.svg",
+    "notable_event": true,
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.boxelderchamber.com/peach-days/",
+      "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+    },
+    "hoursByDate": {
+      "2026-09-11": "10 AM–10 PM",
+      "2026-09-12": "10 AM–10 PM"
+    },
+    "sourceRow": 604
+  },
+  {
+    "id": "ogden-pride-festival-2026",
+    "Event / attraction": "Ogden Pride Festival 2026",
+    "Region": "Ogden, Weber & Morgan",
+    "Category": "Community & Culture / Live Music & Performance / Markets & Shopping",
+    "First date": "2026-10-04",
+    "2026 schedule": "2026-10-04",
+    "Times": "11 AM–6 PM",
+    "Price": "Free admission; food and purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Ogden Amphitheater and 300 block of 25th Street, 343 E 25th St, Ogden",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Drag, music, dance and spoken-word performances across two stages, with a vendor village, food and family activities in downtown Ogden. A quiet tent offers a lower-sensory place to pause.",
+    "Website": "https://www.visitogden.com/events/12th-annual-ogden-pride-festival/",
+    "Social profile": "",
+    "Extra notes": "Outdoor. This listing covers Sunday’s main festival; the weekend’s opening party was October 3.",
+    "categories": [
+      "Community & Culture",
+      "Live Music & Performance",
+      "Markets & Shopping"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Live Music & Performance",
+      "Markets & Shopping"
+    ],
+    "sourceRegion": "Ogden, Weber & Morgan",
+    "publicRegion": "Ogden, Weber & Morgan",
+    "publicTypes": [
+      "Community & Culture",
+      "Live Music & Performance",
+      "Markets & Shopping"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Pride"
+    ],
+    "primaryHoliday": "Pride",
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "travelTier": "Core / easy day trip",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-10-04"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "LGBTQ+"
+    ],
+    "theme": "pride",
+    "placeholder": "assets/art/seasonal/pride-community.svg",
+    "notable_event": true,
+    "accessibility": {
+      "summary": "Quiet/chill tent and a street layout designed to improve ADA access",
+      "url": "https://www.visitogden.com/events/12th-annual-ogden-pride-festival/",
+      "tone": "positive"
+    },
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.visitogden.com/events/12th-annual-ogden-pride-festival/",
+      "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+    },
+    "hoursByDate": {
+      "2026-10-04": "11 AM–6 PM"
+    },
+    "sourceRow": 605
+  },
+  {
+    "id": "salt-lake-city-greek-festival-2027",
+    "Event / attraction": "Salt Lake City Greek Festival 2027",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Food & Drink",
+    "First date": "2027-09-10",
+    "2026 schedule": "2027-09-10, 2027-09-11, 2027-09-12",
+    "Times": "2027 hours forthcoming",
+    "Price": "2027 admission details forthcoming",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Holy Trinity Cathedral, 279 S 300 W, Salt Lake City",
+    "Status": "Announced 2027 dates",
+    "Why / thoughts": "The Greek community’s annual festival returns to Holy Trinity Cathedral. The 2027 program, admission and operating hours are still forthcoming.",
+    "Website": "https://www.saltlakecitygreekfestival.com/",
+    "Social profile": "",
+    "Extra notes": "Check the 2027 program for food, performers and accommodations; prior-year prices and policies may change.",
+    "categories": [
+      "Community & Culture",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [],
+    "primaryHoliday": "",
+    "startDate": "2027-09-10",
+    "endDate": "2027-09-12",
+    "travelTier": "Core / easy day trip",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2027-09-10",
+      "2027-09-11",
+      "2027-09-12"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "Greek / Greek American"
+    ],
+    "theme": "winter",
+    "placeholder": "assets/art/market.svg",
+    "notable_event": true,
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.saltlakecitygreekfestival.com/",
+      "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+    },
+    "sourceRow": 606
+  }
+]

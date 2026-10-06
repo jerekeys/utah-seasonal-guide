@@ -1,8 +1,12 @@
 """Publish website files only, excluding research, tooling and dependency files."""
 from pathlib import Path
-import shutil
+import shutil, os
 
 root = Path(__file__).resolve().parents[1]
+# Regenerate public URLs from SITE_URL at deploy time when a custom domain is configured.
+if os.environ.get('SITE_URL'):
+    import subprocess
+    subprocess.run(['python3', str(root / 'scripts/build-pages.py')], check=True)
 out = root / 'public'
 shutil.rmtree(out, ignore_errors=True)
 out.mkdir()
@@ -17,6 +21,9 @@ for path in (root / 'assets').rglob('*'):
         target = out / path.relative_to(root)
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(path, target)
+if os.environ.get('CONTEXT') in ['branch-deploy','deploy-preview']:
+    (out / 'robots.txt').write_text('User-agent: *\nDisallow: /\n')
+    (out / '_headers').write_text('/*\n  X-Robots-Tag: noindex, noarchive\n')
 for path in out.rglob('*'):
     if path.is_file() and path.suffix in ['.html', '.js', '.svg', '.webmanifest']:
         text = path.read_text()

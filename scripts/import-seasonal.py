@@ -8,12 +8,14 @@ def clean(s):
  if not s:return ''
  return ' '.join(t.strip() for t in re.split(r'(?<=[.!?])\s+',s) if not re.search(r'\b(QA|recheck|canonical|ingestion|do not publish|before publish|primary.*preferred|discovered because|research|surfaced|indexing|retain as|retain.*tag|website ingestion|current.*source used|deduplic|needs confirmation)\b',t,re.I))
 regions={'Ogden / Weber':'Ogden, Weber & Morgan','Salt Lake City':'Salt Lake City','Salt Lake Valley':'Salt Lake Valley','Davis County':'Davis County','Utah County':'Utah County','Park City / Summit':'Park City & Wasatch Back','Wasatch Back':'Park City & Wasatch Back','Salt Lake Mountains':'Salt Lake Valley','Cache Valley':'Cache & Northern Utah'}
-holidays=['Halloween & Fall','Día de los Muertos','Veterans Day','Thanksgiving','Diwali','Christmas','Hanukkah','Kwanzaa','Yule & Solstice','Winter','New Year']
+holidays=old['holidays']
 def tags(s):
- out=[];s=s.lower()
- for label,pattern in [('Halloween & Fall','halloween|fall|autumn'),('Día de los Muertos','muertos|day of the dead'),('Veterans Day','veterans'),('Thanksgiving','thanksgiving'),('Diwali','diwali'),('Christmas','christmas'),('Hanukkah','hanukkah|chanukah'),('Kwanzaa','kwanzaa'),('Yule & Solstice','yule|solstice|pagan'),('Winter','secular winter|winter|interfaith'),('New Year','new year|nye')]:
-  if re.search(pattern,s):out.append(label)
- return out or ['Winter']
+ # Use the canonical roster, including deliberately untagged notable events.
+ out=[]
+ for token in re.split(r'\s*[|]\s*',str(s or '')):
+  if token in holidays:out.append(token)
+  elif token=='Halloween & Fall':out.extend(['Halloween','Fall'])
+ return list(dict.fromkeys(out))
 def types(c):
  return [l for l,k in [('Lights & Displays','lights|display|lantern'),('Markets & Shopping','market|shopping|boutique|bazaar'),('Live Music & Performance','concert|theatre|theater|ballet|performance|film|choir|symphony|drag|cabaret|burlesque'),('Nightlife & Parties','nightlife|party|rave|bar crawl|club|singles'),('Active & Outdoors','race|fitness|skating|ski|outdoor|hike'),('Food & Drink','dining|food|brunch|breakfast|meal|beer'),('Workshops & Learning','craft|workshop|science|educational|museum'),('Community & Culture','community|culture|cultural|ceremony|civic|nativity|faith'),('Santa & Family','santa|family'),('Giving & Volunteering','charity|giveaway|volunteer|service|donation'),('Haunts & Scares','haunt|horror|paranormal|krampus'),('Farms & Harvest','farm|pumpkin|maze') ] if re.search(k,c,re.I)] or ['Community & Culture']
 events=old['events'];index={norm(e['Event / attraction']):e for e in events};research=[]
@@ -28,7 +30,10 @@ for n,row in enumerate(rows[1:],2):
   e=index.get(close[0]) if close else None
  if not e:
   e={'id':key,'Event / attraction':r['Event'],'socials':[],'photo':None,'sponsored':False};events.append(e);index[key]=e
- e.update({'holidays':holiday,'primaryHoliday':holiday[0],'Region':r['Region'] or r['City'],'sourceRegion':r['Region'],'publicRegion':regions.get(r['Region'],r['Region'] or 'Other Utah'),'categories':[r['Category']],'sourceCategories':[r['Category']],'publicTypes':types(r['Category']),'First date':start,'startDate':start,'endDate':end,'2026 schedule':(start if start==end else f'{start} – {end}') if start and re.fullmatch(r'20\d\d-\d\d-\d\d',str(end)) else end or 'Dates to be announced','Times':r['Time / schedule'],'Price':r['Price / admission'] or 'Price not announced','Age':r['Age / audience'] or 'Audience details on official page','Location':', '.join(x for x in [r['Venue'],r['City']] if x),'Status':status,'Website':r['Source URL'],'Why / thoughts':clean(r['Research notes']) or 'Visit the event page for the program, tickets and the latest details.','Extra notes':clean(r['Accessibility / practical flag']),'travelTier':r['Travel Tier'],'lastVerified':r['Last Verified'] or '2026-10-06','qaFlags':r['QA Flags'],'timezone':'America/Denver','sourceRow':n,'isWatch':bool(re.search(r'watch|historical|not.*confirmed',status,re.I)),'flags':[]})
+ e.update({'holidays':holiday,'primaryHoliday':holiday[0] if holiday else '','Region':r['Region'] or r['City'],'sourceRegion':r['Region'],'publicRegion':regions.get(r['Region'],r['Region'] or 'Other Utah'),'categories':[r['Category']],'sourceCategories':[r['Category']],'publicTypes':types(r['Category']),'First date':start,'startDate':start,'endDate':end,'2026 schedule':(start if start==end else f'{start} – {end}') if start and re.fullmatch(r'20\d\d-\d\d-\d\d',str(end)) else end or 'Dates to be announced','Times':r['Time / schedule'],'Price':r['Price / admission'] or 'Price not announced','Age':r['Age / audience'] or 'Audience details on official page','Location':', '.join(x for x in [r['Venue'],r['City']] if x),'Status':status,'Website':r['Source URL'],'Why / thoughts':clean(r['Research notes']) or 'Visit the event page for the program, tickets and the latest details.','Extra notes':clean(r['Accessibility / practical flag']),'travelTier':r['Travel Tier'],'lastVerified':r['Last Verified'] or '2026-10-06','qaFlags':r['QA Flags'],'timezone':'America/Denver','sourceRow':n,'isWatch':bool(re.search(r'watch|historical|not.*confirmed',status,re.I)),'flags':[]})
+ if 'Notable Event' in r:e['notable_event']=str(r['Notable Event']).strip().lower()=='true'
+ elif 'notable_event' in r:e['notable_event']=str(r['notable_event']).strip().lower()=='true'
+ else:e.setdefault('notable_event',False)
  e['isFree']=bool(re.match(r'^Free($| / public| admission|;)|^Complimentary',e['Price'],re.I)) and not re.search(r'free with|no price|not stated|no admission stated',e['Price'],re.I)
  prices=[float(x) for x in re.findall(r'\$(\d+(?:\.\d+)?)',e['Price'])];price=max(prices) if prices else None
  e['costCount']=1 if e['isFree'] else 2 if price!=None and price<=25 else 3 if price!=None and price<=50 else 4 if price!=None and price<=100 else 5 if price!=None else 0
@@ -62,7 +67,7 @@ for n,row in enumerate(rows[1:],2):
  # Icon artwork theme.
  e['artKey']=e.get('artKey') or ('nightlife' if 'Nightlife & Parties' in e['publicTypes'] else 'performance' if 'Live Music & Performance' in e['publicTypes'] else 'community')
 for e in events:
- e.setdefault('holidays',['Halloween & Fall']);e.setdefault('primaryHoliday',e['holidays'][0]);e.setdefault('flags',[]);e.setdefault('lastVerified','2026-10-04');e.setdefault('timezone','America/Denver');e.setdefault('rating',{'type':'Scare level','value':e.get('ghostCount'),'basis':'Editorial scare guidance.'} if e.get('ghostCount') else None)
+ e.setdefault('holidays',[]);e.setdefault('primaryHoliday',e['holidays'][0] if e['holidays'] else '');e.setdefault('notable_event',False);e.setdefault('flags',[]);e.setdefault('lastVerified','2026-10-04');e.setdefault('timezone','America/Denver');e.setdefault('rating',{'type':'Scare level','value':e.get('ghostCount'),'basis':'Editorial scare guidance.'} if e.get('ghostCount') else None)
  if not e.get('sourceRow'):e['Why / thoughts']=clean(e.get('Why / thoughts',''));e['Extra notes']=clean(e.get('Extra notes',''));e['isFree']=bool(re.match(r'^Free($| admission|;)',e.get('Price',''),re.I))
 # Deduplicate only exact stable identity. Record any conflicts for review.
 seen={};merged=[]
@@ -70,7 +75,7 @@ for e in events:
  if e['id'] in seen:continue
  seen[e['id']]=e;merged.append(e)
 old['events']=merged;old['holidays']=holidays;old['regions']=sorted(set(e['publicRegion'] for e in merged));old['categories']=sorted(set(t for e in merged for t in e['publicTypes']));old['ages']=sorted(set(e['Age'] for e in merged))
-old['meta'].update(title='Utah Seasonal Guide · Fall & Winter 2026–27',updated='October 6, 2026',eventCount=len(merged),confirmedCount=sum(not e['isWatch'] for e in merged),watchCount=sum(e['isWatch'] for e in merged),sourceUrl='https://docs.google.com/spreadsheets/d/1z0ET4m9X9KJr1j3shKvi6VRdi_my9wyKnJ4hfbiff1c/edit',siteVersion='v7',publicRegionCount=len(old['regions']))
+old['meta'].update(title='Utah Seasonal Guide · 2026–27',updated='October 6, 2026',eventCount=len(merged),confirmedCount=sum(not e['isWatch'] for e in merged),watchCount=sum(e['isWatch'] for e in merged),siteVersion='v10-editorial-archive',publicRegionCount=len(old['regions']))
 p.write_text('window.SITE_DATA = '+json.dumps(old,ensure_ascii=False,separators=(',',':'))+';\n')
 (root/'research/unpublished-leads.json').write_text(json.dumps(research,ensure_ascii=False,indent=2))
 print('Imported',len(merged),'events;',old['meta']['confirmedCount'],'confirmed;',len(research),'unpublished research leads')
