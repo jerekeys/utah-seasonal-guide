@@ -35197,8 +35197,8 @@ window.SITE_DATA = {
       "communities": [
         "LGBTQ+"
       ],
-      "theme": "diwali",
-      "placeholder": "assets/art/seasonal/diwali-community.svg",
+      "theme": "pride",
+      "placeholder": "assets/art/seasonal/pride-community.svg",
       "ticketUrl": "",
       "researchEvidence": {
         "official": "https://www.cougarpridecenter.org/pride",

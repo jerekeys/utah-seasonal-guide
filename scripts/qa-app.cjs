@@ -62,7 +62,7 @@ async function audit(page, label) {
     await page.goto(root + '/?holiday=Christmas');
     await page.waitForSelector('.card');
     assert.equal(await page.locator('#holidayFilter').inputValue(), 'Christmas');
-    assert(await page.locator('.connection-notice').isVisible());
+    await page.locator('.connection-notice').waitFor({state:'visible'});
     await page.goto(root + '/events/not-previously-opened/');
     assert(await page.getByRole('heading', { name: 'You’re offline.' }).isVisible());
     await context.setOffline(false);
