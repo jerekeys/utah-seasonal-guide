@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://chipper-froyo-598c2e.netlify.app/sitemap.xml
