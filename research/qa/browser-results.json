@@ -11,7 +11,9 @@
     "freeCards": 5,
     "saved": 1,
     "calendar": 1,
-    "formLabels": true
+    "formLabels": false,
+    "rejectsReversedDates": true,
+    "correctRecipient": true
   },
   {
     "width": 768,
@@ -25,7 +27,9 @@
     "freeCards": 5,
     "saved": 1,
     "calendar": 1,
-    "formLabels": true
+    "formLabels": false,
+    "rejectsReversedDates": true,
+    "correctRecipient": true
   },
   {
     "width": 1440,
@@ -39,6 +43,8 @@
     "freeCards": 5,
     "saved": 1,
     "calendar": 1,
-    "formLabels": true
+    "formLabels": false,
+    "rejectsReversedDates": true,
+    "correctRecipient": true
   }
 ]
