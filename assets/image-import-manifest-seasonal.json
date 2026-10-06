@@ -1,0 +1,30 @@
+[
+  {
+    "id": "christkindlmarkt-slc",
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/5916a21ad2b857e0cc045a8d/1568396750353-V066H0N3NJFIORWTE3XI/aerial%2Bshot%2Bat%2Bdusk.jpg",
+    "destination": "assets/photos/christkindlmarkt-slc.webp",
+    "pageUrl": "https://www.christkindlmarkt-slc.com/",
+    "alt": "Visitors among Christkindlmarkt\u2019s illuminated market stalls at dusk",
+    "credit": "Christkindlmarkt SLC",
+    "creditUrl": "https://www.christkindlmarkt-slc.com/",
+    "sourceUrl": "https://www.christkindlmarkt-slc.com/",
+    "usageType": "Official promotional image",
+    "rightsNote": "Organizer-published image; no open license is claimed. Visually reviewed October 6, 2026. Historical event/venue image, not a representation of the forthcoming season.",
+    "minWidth": 900,
+    "minHeight": 500
+  },
+  {
+    "id": "grand-america-holiday-tea",
+    "downloadUrl": "https://stgalawebprod.blob.core.windows.net/app-grand-strapi-prod-storage/uploads/GA_Holidays_18_1201x800_5b2df79_e3eaca8ee0.jpg",
+    "destination": "assets/photos/grand-america-holiday-tea.webp",
+    "pageUrl": "https://www.grandamerica.com/holiday-tea/",
+    "alt": "The Grand America tea lounge decorated for the holidays",
+    "credit": "The Grand America Hotel",
+    "creditUrl": "https://www.grandamerica.com/holiday-tea/",
+    "sourceUrl": "https://www.grandamerica.com/holiday-tea/",
+    "usageType": "Official promotional image",
+    "rightsNote": "Organizer-published image; no open license is claimed. Visually reviewed October 6, 2026. Historical event/venue image, not a representation of the forthcoming season.",
+    "minWidth": 900,
+    "minHeight": 500
+  }
+]

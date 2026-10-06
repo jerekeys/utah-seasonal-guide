@@ -16,3 +16,5 @@ a{color:var(--accent-dark)}.nav-wrap{padding:14px 20px}.nav{gap:5px}.nav a{min-h
 .detail-layout>*{min-width:0}.event-hero-media{min-width:0;max-width:100%}.fact{overflow-wrap:anywhere}.calendar-actions .button{white-space:normal}
 
 .detail-panel h1,.prose h2{text-transform:none}.fact{background:var(--paper)}
+
+body[data-theme=dayofdead]{--accent:#f7b64d;--accent-dark:#65356e;--season-red:#7c3658;--paper:#fbf1f8;--ink:#34213f}body[data-theme=veterans]{--accent:#f2dfb1;--accent-dark:#243f62;--season-red:#a13e42;--paper:#f5f5f0;--ink:#192e47}

@@ -15,6 +15,12 @@ def candles(theme):
   y=270 if theme=='hanukkah' and i==4 else 330;col='ACC' if theme=='hanukkah' else '#d84f50' if i<3 else '#0b0c0b' if i==3 else '#60af70';s+=f'<rect x="{x-10}" y="{y}" width="20" height="{520-y}" fill="{col}"/><path d="M{x} {y-15}q-22-30 0-58 22 28 0 58Z" fill="ACC"/><path d="M{x} 520Q{x} 560 800 560" stroke="ACC" stroke-width="12" fill="none"/>'
  return s
 icons['hanukkah']=candles('hanukkah');icons['kwanzaa']=candles('kwanzaa')
+
+palettes['dayofdead']=('#34213f','#f7b64d','#c44b82')
+palettes['veterans']=('#192e47','#f2dfb1','#a13e42')
+icons['dayofdead']='<path d="M640 440q0-220 160-220t160 220v100l-55 45v90H695v-90l-55-45Z" fill="ACC"/><g fill="INK"><ellipse cx="730" cy="430" rx="42" ry="48"/><ellipse cx="870" cy="430" rx="42" ry="48"/><path d="m800 480-30 55h60Z"/><path d="M725 600h150v22H725Z"/></g><g fill="RED"><circle cx="800" cy="320" r="35"/><circle cx="650" cy="470" r="25"/><circle cx="950" cy="470" r="25"/></g><g stroke="INK" stroke-width="10"><path d="M750 580v55m50-55v55m50-55v55"/></g>'
+icons['veterans']='<path d="m800 255 63 127 140 20-102 99 24 140-125-66-125 66 24-140-102-99 140-20Z" fill="ACC"/><g fill="none" stroke="RED" stroke-width="24" stroke-linecap="round"><path d="M650 690q-145-90-100-255m400 255q145-90 100-255"/><path d="m570 555-65-35m65 80-65-15m105 70-65 10m385-110 65-35m-65 80 65-15m-105 70 65 10"/></g>'
+
 activity={'community':'','performance':'<path d="M1080 490v170m0-170 90-20v170m-90-140 90-20" fill="none" stroke="ACC" stroke-width="20"/><ellipse cx="1058" cy="660" rx="28" ry="20" fill="ACC"/><ellipse cx="1148" cy="640" rx="28" ry="20" fill="ACC"/>','market':'<rect x="1040" y="540" width="125" height="130" rx="10" stroke="ACC" fill="INK" stroke-width="16"/><path d="M1070 540v-30q35-70 65 0v30" fill="none" stroke="ACC" stroke-width="16"/>','nightlife':'<path d="m1030 510 70 95 70-95Zm70 95v90m-45 0h90" fill="none" stroke="ACC" stroke-width="16"/>','active':'<circle cx="1100" cy="500" r="20" fill="ACC"/><path d="m1100 535-35 55 55 20 35 65m-55-115 60 10m-60 30-60 65" fill="none" stroke="ACC" stroke-width="18"/>'}
 out=pathlib.Path('assets/art/seasonal');out.mkdir(parents=True,exist_ok=True)
 for theme,(ink,acc,red) in palettes.items():
@@ -23,7 +29,7 @@ for theme,(ink,acc,red) in palettes.items():
   for a,b in [('INK',ink),('ACC',acc),('RED',red)]:s=s.replace(a,b)
   (out/f'{theme}-{kind}.svg').write_text(s)
 p=pathlib.Path('assets/data.js');d=json.loads(p.read_text().removeprefix('window.SITE_DATA = ').rstrip(';\n'))
-themes={'Halloween & Fall':'halloween','Día de los Muertos':'halloween','Christmas':'christmas','Hanukkah':'hanukkah','Diwali':'diwali','Kwanzaa':'kwanzaa','Yule & Solstice':'yule','New Year':'newyear','Thanksgiving':'thanksgiving'}
+themes={'Halloween & Fall':'halloween','Día de los Muertos':'dayofdead','Veterans Day':'veterans','Christmas':'christmas','Hanukkah':'hanukkah','Diwali':'diwali','Kwanzaa':'kwanzaa','Yule & Solstice':'yule','New Year':'newyear','Thanksgiving':'thanksgiving'}
 for e in d['events']:
  theme=themes.get(e['primaryHoliday'],'winter');e['theme']=theme;kind='nightlife' if 'Nightlife & Parties' in e['publicTypes'] else 'performance' if 'Live Music & Performance' in e['publicTypes'] else 'market' if 'Markets & Shopping' in e['publicTypes'] else 'active' if 'Active & Outdoors' in e['publicTypes'] else 'community'
  e['placeholder']=f'assets/art/seasonal/{theme}-{kind}.svg' if theme!='halloween' else f'assets/art/{e.get("artKey","default")}.svg'
