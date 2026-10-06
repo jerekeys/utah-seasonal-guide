@@ -18,7 +18,7 @@ This is a substantial development revision, not a completed production release. 
 
 Searches extended across organizer calendars, venues, libraries, nightlife, community meals, cultural observances, sensory accommodations, winter workshops and current-year ticketing. Old dates, out-of-state results and holiday dates without event confirmation were excluded. No claim of exhaustive Utah coverage is made.
 
-The source image inventory covers the earlier 527-event dataset and is being refreshed for all 528. Initial automated discovery found candidates on 430 listings; this is a candidate inventory, not 430 approved event photographs. Generic navigation imagery, stock, logos, wrong-event posters and low-resolution files still require rejection. The choir image inspected was a 2027 spring/summer collage, not the Christmas show, and was rejected. The inspected Luminaria image was too small for the intended use. Christkindlmarkt and Grand America holiday-tea photographs were reviewed and imported locally. Organizer provenance is recorded; no open image license is claimed.
+The source image inventory covers all 528 listings. Initial automated discovery found candidates on 430 listings; this is a candidate inventory, not 430 approved event photographs. Generic navigation imagery, stock, logos, wrong-event posters and low-resolution files still require rejection. The choir image inspected was a 2027 spring/summer collage, not the Christmas show, and was rejected. The inspected Luminaria image was too small for the intended use. Christkindlmarkt and Grand America holiday-tea photographs were reviewed and imported locally; 42 listings now have locally hosted images. Organizer provenance is recorded; no open image license is claimed.
 
 ## QA
 
