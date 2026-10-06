@@ -111,12 +111,17 @@ function isSingleDay(e){
  const dates=parseSchedule(e).dates;
  return dates.length===1&&(!e.endDate||e.endDate===dates[0])
 }
+function isCurrentNotable(e,from=today()){
+ if(e.notable_event!==true||e.isWatch)return false;
+ const next=nextOccurrence(e,from);
+ return !!next&&next>=from&&next<=iso(add(localDate(from),45))
+}
 function compareEvents(a,b,sort='recommended',from=today()){
  const name=()=>a['Event / attraction'].localeCompare(b['Event / attraction'])||a.id.localeCompare(b.id);
  if(sort==='name')return name();
  if(sort==='cost')return (a.costCount||9)-(b.costCount||9)||name();
  if(sort==='date')return (nextOccurrence(a,from)||'9999').localeCompare(nextOccurrence(b,from)||'9999')||name();
- return Number(b.notable_event===true)-Number(a.notable_event===true)||Number(isSingleDay(b))-Number(isSingleDay(a))||name()
+ return Number(isCurrentNotable(b,from))-Number(isCurrentNotable(a,from))||Number(isSingleDay(b))-Number(isSingleDay(a))||name()
 }
-window.DATE_TOOLS={iso,localDate,add,today,parseTime,startForDate,hoursForDate,parseSchedule,enrich,selectedWindow,matchesWhen,nextOccurrence,isPast,isSingleDay,compareEvents};
+window.DATE_TOOLS={iso,localDate,add,today,parseTime,startForDate,hoursForDate,parseSchedule,enrich,selectedWindow,matchesWhen,nextOccurrence,isPast,isSingleDay,isCurrentNotable,compareEvents};
 })();

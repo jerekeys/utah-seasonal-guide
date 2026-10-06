@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ogden-d-a-de-los-muertos",
+    "source": "https://ofoam.org/dia-de-los-muertos",
+    "asset": "https://ofoam.org/images/econa-article-images/564/full/1600/diadelosmuertos-2024-4658-enhanced-nr.jpeg",
+    "dimensions": [
+      1600,
+      600
+    ],
+    "caption": "Previous edition",
+    "output": "assets/photos/ogden-d-a-de-los-muertos-reviewed.webp"
+  },
+  {
+    "id": "kinlands-pumpkin-patch",
+    "source": "https://thekinlands.com/pages/pumpkin-patch-riverton-utah",
+    "asset": "https://thekinlands.com/cdn/shop/files/Screenshot_2025-08-29_at_8.38.17_PM.png?v=1756525504&width=5248",
+    "dimensions": [
+      2624,
+      1718
+    ],
+    "caption": "Farm setting",
+    "output": "assets/photos/kinlands-pumpkin-patch-reviewed.webp"
+  },
+  {
+    "id": "schmidt-s-farm-pumpkin-patch",
+    "source": "https://www.schmidtsfarmandgreenhouse.com/patch-info",
+    "asset": "https://images.squarespace-cdn.com/content/v1/65b943d367106a23a4ecffd6/8975bd42-95e2-447e-aef9-2f46265326d0/IMG_2174.JPG?format=2500w",
+    "dimensions": [
+      2500,
+      1667
+    ],
+    "caption": "",
+    "output": "assets/photos/schmidt-s-farm-pumpkin-patch-reviewed.webp"
+  },
+  {
+    "id": "spooky-light-show-south-jordan",
+    "source": "https://www.spookylightshow.com",
+    "asset": "https://images.squarespace-cdn.com/content/v1/633156f9b5f57e3ac3853945/1721691838500-B614HQG77AK9VH569E3K/Fright_Lights-57.jpg?format=2500w",
+    "dimensions": [
+      2500,
+      1875
+    ],
+    "caption": "",
+    "output": "assets/photos/spooky-light-show-south-jordan-reviewed.webp"
+  },
+  {
+    "id": "provo-pioneer-village-harvest-festival",
+    "source": "https://www.provopioneervillage.org",
+    "asset": "https://www.provopioneervillage.org/wp-content/uploads/2024/08/DSC4838-scaled-e1724601089186-2048x1154.jpg",
+    "dimensions": [
+      2048,
+      1154
+    ],
+    "caption": "Venue photo",
+    "output": "assets/photos/provo-pioneer-village-harvest-festival-reviewed.webp"
+  },
+  {
+    "id": "breakfast-with-santa-thanksgiving-point",
+    "source": "https://thanksgivingpoint.org/events/breakfast-with-santa/",
+    "asset": "https://thanksgivingpoint.org/app/uploads/2022/09/BWS_2026_breakfast_825_2.jpg",
+    "dimensions": [
+      825,
+      332
+    ],
+    "caption": "",
+    "output": "assets/photos/breakfast-with-santa-thanksgiving-point-reviewed.webp"
+  },
+  {
+    "id": "ogden-christmas-village-opening-ceremony-fireworks",
+    "source": "https://www.visitogden.com/events/signature/christmas-village/",
+    "asset": "https://visit-ogden.imgix.net/images/christmas-village-1-highres.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1440&q=80&w=1440&s=7f7cb6cbb8a2345835a743e7a01c518f",
+    "dimensions": [
+      1440,
+      1440
+    ],
+    "caption": "Previous edition",
+    "output": "assets/photos/ogden-christmas-village-opening-ceremony-fireworks-reviewed.webp"
+  },
+  {
+    "id": "trailing-of-the-sheep-mantua-to-brigham-city",
+    "source": "https://bearriverheritage.com/events/",
+    "asset": "https://bearriverheritage.com/wp-content/uploads/trailing-of-the-sheep.jpg",
+    "dimensions": [
+      1300,
+      731
+    ],
+    "caption": "Previous edition",
+    "output": "assets/photos/trailing-of-the-sheep-mantua-to-brigham-city-reviewed.webp"
+  },
+  {
+    "id": "north-logan-pumpkin-walk",
+    "source": "https://bearriverheritage.com/events/",
+    "asset": "https://bearriverheritage.com/wp-content/uploads/north-logan-pumpkin-walk.jpg",
+    "dimensions": [
+      1300,
+      731
+    ],
+    "caption": "Previous edition",
+    "output": "assets/photos/north-logan-pumpkin-walk-reviewed.webp"
+  },
+  {
+    "id": "american-west-heritage-center-fall-harvest-festival-haunted-hollow",
+    "source": "https://bearriverheritage.com/events/",
+    "asset": "https://bearriverheritage.com/wp-content/uploads/fall-festival.jpg",
+    "dimensions": [
+      1300,
+      731
+    ],
+    "caption": "Harvest festival setting",
+    "output": "assets/photos/american-west-heritage-center-fall-harvest-festival-haunted-hollow-reviewed.webp"
+  },
+  {
+    "id": "big-jack-s-world-outlets-at-traverse-mountain",
+    "source": "https://signature-events.outletsattraversemountain.com/",
+    "asset": "https://outletsattraversemountaincom.swipepages.media/2026/4/6890d1a675e53e001133c47e/img_2420-2--1--2500.webp",
+    "dimensions": [
+      2500,
+      1667
+    ],
+    "caption": "",
+    "output": "assets/photos/big-jack-s-world-outlets-at-traverse-mountain-reviewed.webp"
+  },
+  {
+    "id": "harvest-moon-celebration-2026",
+    "source": "https://ogdendowntown.com/harvestmoonogden/",
+    "asset": "https://ogdendowntown.com/wp-content/uploads/2025/11/250920-harvest-moon-oda-1348-1024x683.jpg",
+    "dimensions": [
+      1024,
+      683
+    ],
+    "caption": "Previous edition",
+    "output": "assets/photos/harvest-moon-celebration-2026-reviewed.webp"
+  },
+  {
+    "id": "christmas-village",
+    "source": "https://www.visitogden.com/events/signature/christmas-village/",
+    "asset": "https://visit-ogden.imgix.net/images/Areial-view-of-village.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1440&q=80&w=1440&s=50c0889133ec24822f19a064486c55b7",
+    "dimensions": [
+      1440,
+      1440
+    ],
+    "caption": "Village setting",
+    "output": "assets/photos/christmas-village-reviewed.webp"
+  },
+  {
+    "id": "jaker-s-jack-o-lanterns",
+    "source": "https://harwardfarms.com/jakers/",
+    "asset": "https://harwardfarms.com/wp-content/uploads/2024/12/HarwardFarms-jakers-pumpkin-patch-corn-maze-hay-ride-springville-utah-1500ride.jpg",
+    "dimensions": [
+      1500,
+      470
+    ],
+    "caption": "",
+    "output": "assets/photos/jaker-s-jack-o-lanterns-reviewed.webp"
+  }
+]

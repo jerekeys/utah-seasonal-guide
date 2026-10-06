@@ -11,7 +11,7 @@ const fixture=(id,name,dates,notable=false)=>({id,'Event / attraction':name,occu
 const recurring=fixture('a','A recurring',['2026-10-10','2026-10-11']);
 const single=fixture('z','Z single',['2026-10-10']);
 const notable=fixture('n','N notable',['2027-09-10','2027-09-11'],true);
-assert(t.compareEvents(notable,single)<0);assert(t.compareEvents(single,recurring)<0);
+assert(t.compareEvents(notable,single,'recommended','2026-10-06')>0);assert(t.compareEvents({...notable,occurrenceDates:['2026-10-25'],endDate:'2026-10-25'},single,'recommended','2026-10-06')<0);assert(t.isCurrentNotable({...notable,occurrenceDates:['2026-11-20'],endDate:'2026-11-20'},'2026-10-06'));assert(!t.isCurrentNotable({...notable,occurrenceDates:['2026-11-21'],endDate:'2026-11-21'},'2026-10-06')); assert(t.compareEvents(single,recurring)<0);
 assert(t.compareEvents(single,recurring,'name')>0);assert(t.compareEvents(recurring,notable,'date','2026-10-06')<0);
 assert(t.isPast(fixture('past','Past',['2026-09-19']),'2026-10-06'));
 assert(!t.isPast(recurring,'2026-10-06'));assert(!t.isPast({isWatch:true,occurrenceDates:['2025-09-19']},'2026-10-06'));
@@ -24,3 +24,5 @@ console.log('Notable ordering, explicit sorts, historical filters and public edi
 assert(!t.isPast({id:'overnight',Times:'9 PM–2 AM',occurrenceDates:['2026-10-05'],endDate:'2026-10-05'},'2026-10-06',new Date('2026-10-06T07:00Z')));
 assert(t.isPast({id:'overnight',Times:'9 PM–2 AM',occurrenceDates:['2026-10-05'],endDate:'2026-10-05'},'2026-10-06',new Date('2026-10-06T09:00Z')));
 console.log('Final-night rollover remains visible until closing');
+
+vm.runInContext(fs.readFileSync('assets/vibes.js','utf8'),ctx);const vs=ctx.window.VIBE_GUIDES;assert.equal(vs.length,27);assert.equal(new Set(vs.map(v=>v.id)).size,27);for(const v of vs){assert(v.description.length>40);assert(d.events.some(e=>ctx.window.matchesVibe(e,v)),v.id+' empty collection');}const dogs=vs.find(v=>v.id==='dogs');assert(ctx.window.matchesVibe(d.events.find(e=>e.id==='hounds-haunts'),dogs));assert(!ctx.window.matchesVibe(d.events.find(e=>e.id==='frightmares-at-lagoon'),dogs));console.log('Explained vibe collections and dog membership passed');

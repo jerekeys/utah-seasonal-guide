@@ -5,6 +5,7 @@ on:
     branches: [development]
     paths:
       - 'assets/site.js'
+      - 'assets/vibes.js'
       - 'assets/data.js'
       - 'assets/app.js'
       - 'assets/submission.js'

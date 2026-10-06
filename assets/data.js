@@ -18,11 +18,11 @@ window.SITE_DATA = {
       "bluesky": 1
     },
     "socialPolicy": "Verified organizer/event accounts only; Instagram, Facebook, TikTok, Bluesky, and LinkedIn supported. X/Twitter intentionally excluded.",
-    "imagePolicyUpdated": "October 5, 2026",
+    "imagePolicyUpdated": "October 6, 2026",
     "imagePolicy": "Use locally hosted imagery only when it clearly depicts the listed event, attraction, venue experience, or exact subject. Official-site provenance alone is not sufficient; generic stock, logos, unrelated page images and low-quality thumbnails are rejected. Category art remains the fallback.",
-    "realImageCount": 42,
+    "realImageCount": 56,
     "accessibilityListings": 19,
-    "localPhotoListings": 42,
+    "localPhotoListings": 56,
     "zeroHotlinks": true,
     "ccCandidates": 7,
     "siteVersion": "v9-year-round"
@@ -241,7 +241,23 @@ window.SITE_DATA = {
           "url": "https://www.facebook.com/AmericanWestHeritageCenter/"
         }
       ],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/american-west-heritage-center-fall-harvest-festival-haunted-hollow-reviewed.webp",
+        "alt": "Visitors outside the wooden Opera House at American West Heritage Center’s Fall Harvest Festival.",
+        "credit": "Bear River Heritage Area",
+        "creditUrl": "https://bearriverheritage.com/events/",
+        "sourceUrl": "https://bearriverheritage.com/events/",
+        "assetUrl": "https://bearriverheritage.com/wp-content/uploads/fall-festival.jpg",
+        "usageType": "official_web_promo",
+        "caption": "Harvest festival setting",
+        "width": 1300,
+        "height": 731,
+        "sourceDimensions": [
+          1300,
+          731
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sourceRegion": "Cache Valley",
       "publicRegion": "Cache / Box Elder",
       "sourceCategories": [
@@ -1131,7 +1147,23 @@ window.SITE_DATA = {
           "url": "https://www.instagram.com/traverseoutlets/"
         }
       ],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/big-jack-s-world-outlets-at-traverse-mountain-reviewed.webp",
+        "alt": "Orange pumpkins and a Halloween display beneath the Big Jack’s World entrance at Traverse Mountain.",
+        "credit": "Outlets at Traverse Mountain",
+        "creditUrl": "https://signature-events.outletsattraversemountain.com/",
+        "sourceUrl": "https://signature-events.outletsattraversemountain.com/",
+        "assetUrl": "https://outletsattraversemountaincom.swipepages.media/2026/4/6890d1a675e53e001133c47e/img_2420-2--1--2500.webp",
+        "usageType": "official_web_promo",
+        "caption": "",
+        "width": 1600,
+        "height": 1067,
+        "sourceDimensions": [
+          2500,
+          1667
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sourceRegion": "Utah County",
       "publicRegion": "Utah County",
       "sourceCategories": [
@@ -9557,7 +9589,23 @@ window.SITE_DATA = {
       "isWatch": false,
       "artKey": "farm",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/jaker-s-jack-o-lanterns-reviewed.webp",
+        "alt": "A tractor pulling visitors on a hayride past pumpkins and cornfields at Jaker’s, with mountains behind.",
+        "credit": "Harward Farms",
+        "creditUrl": "https://harwardfarms.com/jakers/",
+        "sourceUrl": "https://harwardfarms.com/jakers/",
+        "assetUrl": "https://harwardfarms.com/wp-content/uploads/2024/12/HarwardFarms-jakers-pumpkin-patch-corn-maze-hay-ride-springville-utah-1500ride.jpg",
+        "usageType": "official_web_promo",
+        "caption": "",
+        "width": 1500,
+        "height": 470,
+        "sourceDimensions": [
+          1500,
+          470
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sourceRegion": "Utah County",
       "publicRegion": "Utah County",
       "sourceCategories": [
@@ -9741,7 +9789,23 @@ window.SITE_DATA = {
       "isWatch": false,
       "artKey": "farm",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/kinlands-pumpkin-patch-reviewed.webp",
+        "alt": "Flowers and the farm shop at The Kinlands pumpkin patch.",
+        "credit": "The Kinlands",
+        "creditUrl": "https://thekinlands.com/pages/pumpkin-patch-riverton-utah",
+        "sourceUrl": "https://thekinlands.com/pages/pumpkin-patch-riverton-utah",
+        "assetUrl": "https://thekinlands.com/cdn/shop/files/Screenshot_2025-08-29_at_8.38.17_PM.png?v=1756525504&width=5248",
+        "usageType": "official_web_promo",
+        "caption": "Farm setting",
+        "width": 1600,
+        "height": 1048,
+        "sourceDimensions": [
+          2624,
+          1718
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sourceRegion": "Salt Lake Valley",
       "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
@@ -11310,7 +11374,23 @@ window.SITE_DATA = {
       "isWatch": false,
       "artKey": "farm",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/north-logan-pumpkin-walk-reviewed.webp",
+        "alt": "A Nightmare Before Christmas scene made with pumpkins at the North Logan Pumpkin Walk.",
+        "credit": "Bear River Heritage Area",
+        "creditUrl": "https://bearriverheritage.com/events/",
+        "sourceUrl": "https://bearriverheritage.com/events/",
+        "assetUrl": "https://bearriverheritage.com/wp-content/uploads/north-logan-pumpkin-walk.jpg",
+        "usageType": "official_web_promo",
+        "caption": "Previous edition",
+        "width": 1300,
+        "height": 731,
+        "sourceDimensions": [
+          1300,
+          731
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sourceRegion": "Cache Valley",
       "publicRegion": "Cache / Box Elder",
       "sourceCategories": [
@@ -11652,7 +11732,23 @@ window.SITE_DATA = {
       "isWatch": false,
       "artKey": "market",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/ogden-d-a-de-los-muertos-reviewed.webp",
+        "alt": "Ofrendas decorated with marigolds at Día de los Muertos in the Ogden Amphitheater.",
+        "credit": "OFOAM",
+        "creditUrl": "https://ofoam.org/dia-de-los-muertos",
+        "sourceUrl": "https://ofoam.org/dia-de-los-muertos",
+        "assetUrl": "https://ofoam.org/images/econa-article-images/564/full/1600/diadelosmuertos-2024-4658-enhanced-nr.jpeg",
+        "usageType": "official_web_promo",
+        "caption": "Previous edition",
+        "width": 1600,
+        "height": 600,
+        "sourceDimensions": [
+          1600,
+          600
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sourceRegion": "Ogden / Weber",
       "publicRegion": "Ogden, Weber & Morgan",
       "sourceCategories": [
@@ -12424,7 +12520,23 @@ window.SITE_DATA = {
       "isWatch": false,
       "artKey": "farm",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/provo-pioneer-village-harvest-festival-reviewed.webp",
+        "alt": "Historic wagons and wooden buildings at Provo Pioneer Village.",
+        "credit": "Provo Pioneer Village",
+        "creditUrl": "https://www.provopioneervillage.org",
+        "sourceUrl": "https://www.provopioneervillage.org",
+        "assetUrl": "https://www.provopioneervillage.org/wp-content/uploads/2024/08/DSC4838-scaled-e1724601089186-2048x1154.jpg",
+        "usageType": "official_web_promo",
+        "caption": "Venue photo",
+        "width": 1600,
+        "height": 902,
+        "sourceDimensions": [
+          2048,
+          1154
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sourceRegion": "Utah County",
       "publicRegion": "Utah County",
       "sourceCategories": [
@@ -13921,7 +14033,23 @@ window.SITE_DATA = {
       "isWatch": false,
       "artKey": "farm",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/schmidt-s-farm-pumpkin-patch-reviewed.webp",
+        "alt": "Pumpkins and gourds arranged around an orange wheelbarrow at Schmidt’s Farm.",
+        "credit": "Schmidt’s Farm & Greenhouse",
+        "creditUrl": "https://www.schmidtsfarmandgreenhouse.com/patch-info",
+        "sourceUrl": "https://www.schmidtsfarmandgreenhouse.com/patch-info",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/65b943d367106a23a4ecffd6/8975bd42-95e2-447e-aef9-2f46265326d0/IMG_2174.JPG?format=2500w",
+        "usageType": "official_web_promo",
+        "caption": "",
+        "width": 1600,
+        "height": 1067,
+        "sourceDimensions": [
+          2500,
+          1667
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sourceRegion": "Salt Lake Valley",
       "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
@@ -14913,7 +15041,23 @@ window.SITE_DATA = {
       "isWatch": false,
       "artKey": "scenic",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/spooky-light-show-south-jordan-reviewed.webp",
+        "alt": "Colorful Halloween lights outlining the Spooky Light Show drive-through lanes at night.",
+        "credit": "Spooky Light Show",
+        "creditUrl": "https://www.spookylightshow.com",
+        "sourceUrl": "https://www.spookylightshow.com",
+        "assetUrl": "https://images.squarespace-cdn.com/content/v1/633156f9b5f57e3ac3853945/1721691838500-B614HQG77AK9VH569E3K/Fright_Lights-57.jpg?format=2500w",
+        "usageType": "official_web_promo",
+        "caption": "",
+        "width": 1600,
+        "height": 1200,
+        "sourceDimensions": [
+          2500,
+          1875
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sourceRegion": "Salt Lake Valley",
       "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
@@ -16873,7 +17017,23 @@ window.SITE_DATA = {
       "isWatch": false,
       "artKey": "nature",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/trailing-of-the-sheep-mantua-to-brigham-city-reviewed.webp",
+        "alt": "A flock of sheep moving along a road beside homes and autumn trees near Brigham City.",
+        "credit": "Bear River Heritage Area",
+        "creditUrl": "https://bearriverheritage.com/events/",
+        "sourceUrl": "https://bearriverheritage.com/events/",
+        "assetUrl": "https://bearriverheritage.com/wp-content/uploads/trailing-of-the-sheep.jpg",
+        "usageType": "official_web_promo",
+        "caption": "Previous edition",
+        "width": 1300,
+        "height": 731,
+        "sourceDimensions": [
+          1300,
+          731
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sourceRegion": "Box Elder County",
       "publicRegion": "Box Elder County",
       "sourceCategories": [
@@ -19647,7 +19807,23 @@ window.SITE_DATA = {
       "id": "christmas-village",
       "Event / attraction": "Christmas Village",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/christmas-village-reviewed.webp",
+        "alt": "An aerial view of illuminated Christmas Village cottages and colorful trees in downtown Ogden.",
+        "credit": "Visit Ogden",
+        "creditUrl": "https://www.visitogden.com/events/signature/christmas-village/",
+        "sourceUrl": "https://www.visitogden.com/events/signature/christmas-village/",
+        "assetUrl": "https://visit-ogden.imgix.net/images/Areial-view-of-village.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1440&q=80&w=1440&s=50c0889133ec24822f19a064486c55b7",
+        "usageType": "official_web_promo",
+        "caption": "Village setting",
+        "width": 1440,
+        "height": 1440,
+        "sourceDimensions": [
+          1440,
+          1440
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sponsored": false,
       "holidays": [
         "Christmas"
@@ -23633,7 +23809,23 @@ window.SITE_DATA = {
       "id": "ogden-christmas-village-opening-ceremony-fireworks",
       "Event / attraction": "Ogden Christmas Village Opening Ceremony & Fireworks",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/ogden-christmas-village-opening-ceremony-fireworks-reviewed.webp",
+        "alt": "Fireworks above the illuminated Christmas Village and a crowd in downtown Ogden.",
+        "credit": "Visit Ogden",
+        "creditUrl": "https://www.visitogden.com/events/signature/christmas-village/",
+        "sourceUrl": "https://www.visitogden.com/events/signature/christmas-village/",
+        "assetUrl": "https://visit-ogden.imgix.net/images/christmas-village-1-highres.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1440&q=80&w=1440&s=7f7cb6cbb8a2345835a743e7a01c518f",
+        "usageType": "official_web_promo",
+        "caption": "Previous edition",
+        "width": 1440,
+        "height": 1440,
+        "sourceDimensions": [
+          1440,
+          1440
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sponsored": false,
       "holidays": [
         "Christmas",
@@ -32911,7 +33103,23 @@ window.SITE_DATA = {
           "url": "https://www.instagram.com/thankspoint/"
         }
       ],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/breakfast-with-santa-thanksgiving-point-reviewed.webp",
+        "alt": "Families serving breakfast from a buffet at Thanksgiving Point’s Breakfast with Santa.",
+        "credit": "Thanksgiving Point",
+        "creditUrl": "https://thanksgivingpoint.org/events/breakfast-with-santa/",
+        "sourceUrl": "https://thanksgivingpoint.org/events/breakfast-with-santa/",
+        "assetUrl": "https://thanksgivingpoint.org/app/uploads/2022/09/BWS_2026_breakfast_825_2.jpg",
+        "usageType": "official_web_promo",
+        "caption": "",
+        "width": 825,
+        "height": 332,
+        "sourceDimensions": [
+          825,
+          332
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sponsored": false,
       "holidays": [
         "Christmas"
@@ -36075,7 +36283,23 @@ window.SITE_DATA = {
       "isWatch": false,
       "artKey": "community",
       "socials": [],
-      "photo": null,
+      "photo": {
+        "src": "assets/photos/harvest-moon-celebration-2026-reviewed.webp",
+        "alt": "Folklórico dancers performing along Historic 25th Street at Harvest Moon Celebration.",
+        "credit": "Ogden Downtown Alliance",
+        "creditUrl": "https://ogdendowntown.com/harvestmoonogden/",
+        "sourceUrl": "https://ogdendowntown.com/harvestmoonogden/",
+        "assetUrl": "https://ogdendowntown.com/wp-content/uploads/2025/11/250920-harvest-moon-oda-1348-1024x683.jpg",
+        "usageType": "official_web_promo",
+        "caption": "Previous edition",
+        "width": 1024,
+        "height": 683,
+        "sourceDimensions": [
+          1024,
+          683
+        ],
+        "rightsNote": "Selected from the official organizer, venue or destination website under the guide’s image sourcing policy."
+      },
       "sponsored": false,
       "holidays": [
         "Fall"
