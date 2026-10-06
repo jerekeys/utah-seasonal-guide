@@ -11,7 +11,7 @@ This is a substantial development revision, not a completed production release. 
 - Editorial holiday ratings and practical flags. Cultural communities are not ranked as attractions. Holiday tags and community affiliation are separate fields.
 - 406 listings have explicit normalized visit dates. 111 announced listings still need complete operating dates. Unknown schedules do not appear in date-sensitive searches. Unknown hours produce clearly labeled all-day calendar reminders. Utah timezone, DST changes, overnight sessions, ICS escaping and all-day boundaries are tested.
 - Revised public copy, separate accommodations information, organizer links, corrections, credits and mobile layouts.
-- Suggest/correct form builds an email to jerekeys@gmail.com, validates fields and dates, and provides a copyable fallback. It requires the visitor to finish sending in an email app; it is not an automatic server-side delivery endpoint.
+- Suggest/correct form originally built a preview email; the new version uses a site form, validates fields and dates, and provides a copyable fallback. It requires the visitor to finish sending in an email app; it is not an automatic server-side delivery endpoint.
 - Five new events added to the native research workbook, with exact source hyperlinks. EVE watchlist lead resolved. ZooLights, PAAG date conflict and two Southern Utah Hanukkah leads demoted after source review.
 
 ## Research and photographs

@@ -5,8 +5,18 @@ on:
     branches: [development]
     paths:
       - 'assets/site.js'
+      - 'assets/data.js'
+      - 'assets/app.js'
+      - 'assets/submission.js'
+      - 'assets/date-tools.js'
+      - 'assets/event-enhancements.js'
       - 'assets/seasonal.css'
+      - 'manifest.webmanifest'
+      - 'sw.js'
+      - 'scripts/build-pages.py'
+      - 'scripts/page-templates/**'
       - 'scripts/qa-browser.cjs'
+      - 'scripts/qa-app.cjs'
       - '.github/workflows/responsive-qa.yml'
 permissions:
   contents: write
@@ -19,13 +29,14 @@ jobs:
         with:
           node-version: '22'
       - run: npm install --no-save playwright axe-core
-      - run: npx playwright install --with-deps chromium
+      - run: npx playwright install --with-deps chromium webkit
       - name: Review viewport layouts and interactions
         id: review
         continue-on-error: true
         run: |
           python3 -m http.server 8765 --bind 127.0.0.1 > /tmp/guide-server.log 2>&1 &
           node scripts/qa-browser.cjs
+          node scripts/qa-app.cjs
       - name: Preserve review evidence
         if: always()
         run: |

@@ -1,7 +1,18 @@
 [build]
-  publish = "."
+  command = "python3 scripts/stage-site.py"
+  publish = "public"
 [context.branch-deploy]
-  publish = "."
+  publish = "public"
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+    Service-Worker-Allowed = "/"
+[[headers]]
+  for = "/manifest.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json"
+    Cache-Control = "no-cache"
 [[headers]]
   for = "/*"
   [headers.values]
