@@ -134,4 +134,5 @@ jobs:
           git add assets/photos assets/data.js
           if git diff --cached --quiet; then echo "No image changes to commit."; exit 0; fi
           git commit -m "Apply event image quality control"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
