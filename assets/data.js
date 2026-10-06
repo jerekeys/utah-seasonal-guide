@@ -5,9 +5,9 @@ window.SITE_DATA = {
     "eventCount": 531,
     "confirmedCount": 523,
     "watchCount": 8,
-    "publicRegionCount": 13,
+    "publicRegionCount": 12,
     "publicTypeCount": 12,
-    "taxonomyNote": "Public filters use simplified regions and activity types; detailed research tags remain searchable.",
+    "taxonomyNote": "Public filters use simplified metro/region groupings and activity types; Salt Lake Metro includes Salt Lake City and the surrounding valley communities. Detailed research tags remain searchable.",
     "socialResearchUpdated": "October 4, 2026",
     "socialCoverageEvents": 108,
     "socialCoveragePlatforms": {
@@ -147,7 +147,7 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official event page for editorial event-listing use; remove on request."
       },
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nature / Museum / Garden / Zoo, Nightlife / Music / Social"
       ],
@@ -709,7 +709,7 @@ window.SITE_DATA = {
         "rightsNote": "Bundled from Ballet West’s publicly linked 2026 Dracula press-photo folder."
       },
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Film / Theater / Performance, Ballet"
       ],
@@ -780,7 +780,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Home Haunt / Display"
       ],
@@ -916,7 +916,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Residential Display, Halloween Atmosphere"
       ],
@@ -984,7 +984,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Convention / Fandom, Car Show"
       ],
@@ -1294,7 +1294,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social"
       ],
@@ -1636,8 +1636,8 @@ window.SITE_DATA = {
       "Region": "Salt Lake Valley",
       "Category": "Haunt / Scare",
       "First date": "2026-09-11",
-      "2026 schedule": "Fall season",
-      "Times": "Nightly schedule varies",
+      "2026 schedule": "Oct 5–Nov 1 nightly; additional Sep/Nov dates",
+      "Times": "Starts 7 PM; closing time and price vary by date",
       "Price": "$30 standard Level 1–2; $35 Level 3; $40 Level 4; $50 Level 5. Date-based nights can vary roughly $20–38.",
       "Cost": "",
       "Age": "teens+",
@@ -1676,7 +1676,7 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
       },
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Haunt / Scare"
       ],
@@ -1688,8 +1688,8 @@ window.SITE_DATA = {
         "Halloween"
       ],
       "primaryHoliday": "Halloween",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
+      "startDate": "2026-09-04",
+      "endDate": "2026-11-08",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "",
@@ -1705,10 +1705,40 @@ window.SITE_DATA = {
         "basis": "Editorial guide to the experience; not a customer review."
       },
       "occurrenceDates": [
-        "2026-09-11"
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
       ],
       "scheduleConfidence": "verified-dates",
-      "scheduleNote": "",
+      "scheduleNote": "Current October/November dates cross-checked against official/current event calendars.",
       "communities": [],
       "theme": "halloween",
       "placeholder": "assets/art/haunt.svg"
@@ -2269,7 +2299,7 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
       },
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Fall Farm / Pumpkin, Halloween Lights"
       ],
@@ -2425,7 +2455,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping"
       ],
@@ -2692,7 +2722,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social"
       ],
@@ -2834,7 +2864,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Library / Education, Ghost / Paranormal"
       ],
@@ -2900,7 +2930,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social"
       ],
@@ -2965,7 +2995,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social"
       ],
@@ -3035,7 +3065,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Attraction / Theme Park, Dining / Pop-Up"
       ],
@@ -3247,7 +3277,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Library / Education, Cultural / Día"
       ],
@@ -3379,7 +3409,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Community Festival, Cultural / Día"
       ],
@@ -3653,7 +3683,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Fall Farm / Pumpkin, Dog / Pet"
       ],
@@ -3721,7 +3751,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nature / Museum / Garden / Zoo, Nightlife / Music / Social"
       ],
@@ -3788,7 +3818,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Comedy, Film / Theater / Performance"
       ],
@@ -3980,7 +4010,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City / Utah",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Community Festival, Nightlife / Music / Social"
       ],
@@ -4110,7 +4140,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social, Concert"
       ],
@@ -4317,7 +4347,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Convention / Fandom, Market / Shopping"
       ],
@@ -4358,7 +4388,7 @@ window.SITE_DATA = {
       "Category": "Haunt / Scare",
       "First date": "",
       "2026 schedule": "Sep 18–Nov 1; select nights",
-      "Times": "Hours vary by date",
+      "Times": "Starts 7 PM; closing time varies by date",
       "Price": "Ticket pricing varies by date; optional Touch of Fear add-on.",
       "Cost": "",
       "Age": "teens+",
@@ -4392,7 +4422,7 @@ window.SITE_DATA = {
         }
       ],
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Haunt / Scare"
       ],
@@ -4422,8 +4452,8 @@ window.SITE_DATA = {
         "Halloween"
       ],
       "primaryHoliday": "Halloween",
-      "startDate": null,
-      "endDate": null,
+      "startDate": "2026-09-18",
+      "endDate": "2026-11-01",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "",
@@ -4436,9 +4466,31 @@ window.SITE_DATA = {
         "value": 4,
         "basis": "Editorial guide to the experience; not a customer review."
       },
-      "occurrenceDates": [],
-      "scheduleConfidence": "unresolved",
-      "scheduleNote": "Choose a date on the organizer’s calendar.",
+      "occurrenceDates": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "Current 2026 dates cross-checked against event calendar; official site confirms select-night season.",
       "communities": [],
       "theme": "halloween",
       "placeholder": "assets/art/haunt.svg"
@@ -4827,7 +4879,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Dining / Pop-Up"
       ],
@@ -4895,7 +4947,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Dining / Pop-Up"
       ],
@@ -4963,7 +5015,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Film / Theater / Performance, Ghost / Paranormal"
       ],
@@ -5286,7 +5338,7 @@ window.SITE_DATA = {
         }
       ],
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nature / Museum / Garden / Zoo, Attraction / Theme Park"
       ],
@@ -5429,7 +5481,7 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official event website for editorial event-listing use; remove on request."
       },
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping"
       ],
@@ -5585,7 +5637,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Fall Farm / Pumpkin, Community Festival"
       ],
@@ -5658,7 +5710,7 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official festival website for editorial event-listing use; remove on request."
       },
       "sourceRegion": "Salt Lake / Magna",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Haunt / Scare, Community Festival, Nightlife / Music / Social"
       ],
@@ -5878,7 +5930,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Fall Farm / Pumpkin, Community Festival"
       ],
@@ -6092,7 +6144,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping, Workshop / Craft"
       ],
@@ -6239,7 +6291,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Residential Display, Halloween Lights"
       ],
@@ -6439,7 +6491,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Workshop / Craft, Dining / Pop-Up, Nightlife / Music / Social"
       ],
@@ -6717,7 +6769,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Haunt / Scare, Community Festival, Library / Education"
       ],
@@ -6850,7 +6902,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Active / Outdoors / Sports, Community Festival"
       ],
@@ -7032,7 +7084,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping"
       ],
@@ -7173,7 +7225,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Haunt / Scare, Dining / Pop-Up, Nightlife / Music / Social"
       ],
@@ -7545,7 +7597,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Residential Haunt, Haunt / Scare"
       ],
@@ -7585,8 +7637,8 @@ window.SITE_DATA = {
       "Region": "Utah County",
       "Category": "Haunt / Scare",
       "First date": "",
-      "2026 schedule": "Fall season",
-      "Times": "Timed tickets; varies by date",
+      "2026 schedule": "Oct 5–31 Mon–Sat; Nov 6–7",
+      "Times": "Starts 7:30 PM; closing time varies by date",
       "Price": "2026 tickets vary by date/pass; current listings range from about $32.70 GA to $62.54 VIP/Scream Pass on peak nights.",
       "Cost": "",
       "Age": "teens+",
@@ -7633,8 +7685,8 @@ window.SITE_DATA = {
         "Halloween"
       ],
       "primaryHoliday": "Halloween",
-      "startDate": null,
-      "endDate": null,
+      "startDate": "2026-09-11",
+      "endDate": "2026-11-07",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "",
@@ -7647,9 +7699,36 @@ window.SITE_DATA = {
         "value": 4,
         "basis": "Editorial guide to the experience; not a customer review."
       },
-      "occurrenceDates": [],
-      "scheduleConfidence": "unresolved",
-      "scheduleNote": "Choose a date on the organizer’s calendar.",
+      "occurrenceDates": [
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "Current dates cross-checked against 2026 event calendar.",
       "communities": [],
       "theme": "halloween",
       "placeholder": "assets/art/haunt.svg"
@@ -7659,8 +7738,8 @@ window.SITE_DATA = {
       "Region": "Ogden / Weber",
       "Category": "Haunt / Scare",
       "First date": "2026-09-11",
-      "2026 schedule": "Sep–Oct",
-      "Times": "Oct. Wed–Thu 7:30–10 PM; Fri–Sat 7:30 PM–midnight",
+      "2026 schedule": "Oct 2–31; Wed–Sat",
+      "Times": "Wed–Thu 7:30–10 PM; Fri–Sat 7:30–11 PM",
       "Price": "$30.66 GA / $36.83 Fast Pass / $52.26 All Night Pass; listed prices include ticket fees.",
       "Cost": "",
       "Age": "teens+",
@@ -7702,8 +7781,8 @@ window.SITE_DATA = {
         "Halloween"
       ],
       "primaryHoliday": "Halloween",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "",
@@ -7717,10 +7796,27 @@ window.SITE_DATA = {
         "basis": "Editorial guide to the experience; not a customer review."
       },
       "occurrenceDates": [
-        "2026-09-11"
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31"
       ],
       "scheduleConfidence": "verified-dates",
-      "scheduleNote": "",
+      "scheduleNote": "2026 operating days verified against official schedule.",
       "communities": [],
       "theme": "halloween",
       "placeholder": "assets/art/haunt.svg"
@@ -7818,7 +7914,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Active / Outdoors / Sports, Community Festival"
       ],
@@ -8025,7 +8121,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nature / Museum / Garden / Zoo, Library / Education"
       ],
@@ -8555,7 +8651,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Community Festival, Film / Theater / Performance"
       ],
@@ -8648,7 +8744,7 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official event page for editorial event-listing use; remove on request."
       },
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nature / Museum / Garden / Zoo, Attraction / Theme Park, Community Festival"
       ],
@@ -8793,7 +8889,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Community Festival, Library / Education"
       ],
@@ -8869,7 +8965,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Film / Theater / Performance, Nightlife / Music / Social"
       ],
@@ -8937,7 +9033,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Workshop / Craft, Library / Education"
       ],
@@ -9073,7 +9169,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Haunt / Scare, Community Festival, Dog / Pet"
       ],
@@ -9454,7 +9550,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Fall Farm / Pumpkin"
       ],
@@ -9661,7 +9757,7 @@ window.SITE_DATA = {
       "artKey": "farm",
       "socials": [],
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Fall Farm / Pumpkin, Haunt / Scare, Festival"
       ],
@@ -9748,7 +9844,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nature / Museum / Garden / Zoo, Film / Theater / Performance"
       ],
@@ -9878,7 +9974,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Comedy, Ghost / Paranormal"
       ],
@@ -10021,7 +10117,7 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official event page for editorial event-listing use; remove on request."
       },
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Family / Community, Historic / Museum"
       ],
@@ -10087,7 +10183,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Film / Theater / Performance"
       ],
@@ -10215,7 +10311,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping, Nightlife / Music / Social"
       ],
@@ -10290,7 +10386,7 @@ window.SITE_DATA = {
         "rightsNote": "Manually reviewed higher-resolution official-site image from the pumpkin-patch photo section."
       },
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Fall Farm / Pumpkin"
       ],
@@ -10518,7 +10614,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Haunt / Scare, Fundraiser"
       ],
@@ -10636,8 +10732,8 @@ window.SITE_DATA = {
       "Region": "Salt Lake Valley",
       "Category": "Haunt / Scare, Fall Farm / Pumpkin",
       "First date": "",
-      "2026 schedule": "Through Oct 31; closed Sundays",
-      "Times": "Mon–Thu 7:30–9:30 PM; Fri–Sat 7:30–11:30 PM",
+      "2026 schedule": "Oct 1–31 Mon–Sat; select Sep dates; closed Sundays",
+      "Times": "Mon–Thu 7:30–9:30 PM; Fri–Sat 7:30–11:30 PM; closed Sundays",
       "Price": "$30 incl. Crazy Corn Maze; upgrades available",
       "Cost": "",
       "Age": "teens+",
@@ -10667,7 +10763,7 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
       },
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Haunt / Scare, Fall Farm / Pumpkin"
       ],
@@ -10680,7 +10776,7 @@ window.SITE_DATA = {
         "Halloween"
       ],
       "primaryHoliday": "Halloween",
-      "startDate": "2026-10-31",
+      "startDate": "2026-09-18",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
@@ -10697,10 +10793,43 @@ window.SITE_DATA = {
         "basis": "Editorial guide to the experience; not a customer review."
       },
       "occurrenceDates": [
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
         "2026-10-31"
       ],
       "scheduleConfidence": "verified-dates",
-      "scheduleNote": "",
+      "scheduleNote": "2026 dates and closed-Sunday rule verified against official schedule.",
       "communities": [],
       "theme": "halloween",
       "placeholder": "assets/art/haunt.svg"
@@ -10710,8 +10839,8 @@ window.SITE_DATA = {
       "Region": "Salt Lake City",
       "Category": "Haunt / Scare",
       "First date": "",
-      "2026 schedule": "Fall season",
-      "Times": "Varies by date",
+      "2026 schedule": "Oct 5–31 Mon–Sat; additional Sep/Nov dates",
+      "Times": "Mon–Thu 7–10 PM; Fri–Sat 7 PM–11:55 PM; other dates vary",
       "Price": "Approx. $30–75 by package",
       "Cost": "",
       "Age": "teens+",
@@ -10750,7 +10879,7 @@ window.SITE_DATA = {
         "rightsNote": "Downloaded from the official attraction website for editorial event-listing use; remove on request."
       },
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Haunt / Scare"
       ],
@@ -10762,8 +10891,8 @@ window.SITE_DATA = {
         "Halloween"
       ],
       "primaryHoliday": "Halloween",
-      "startDate": null,
-      "endDate": null,
+      "startDate": "2026-09-18",
+      "endDate": "2026-11-13",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
       "qaFlags": "",
@@ -10776,9 +10905,35 @@ window.SITE_DATA = {
         "value": 4,
         "basis": "Editorial guide to the experience; not a customer review."
       },
-      "occurrenceDates": [],
-      "scheduleConfidence": "unresolved",
-      "scheduleNote": "Choose a date on the organizer’s calendar.",
+      "occurrenceDates": [
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-13"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "October dates cross-checked against current 2026 event calendar.",
       "communities": [],
       "theme": "halloween",
       "placeholder": "assets/art/haunt.svg"
@@ -10811,7 +10966,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Residential Display, Charity"
       ],
@@ -10880,7 +11035,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Film / Theater / Performance"
       ],
@@ -11140,7 +11295,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping, Community Festival"
       ],
@@ -11710,7 +11865,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social"
       ],
@@ -12075,7 +12230,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping"
       ],
@@ -12498,7 +12653,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Home Haunt / Display"
       ],
@@ -12570,7 +12725,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nature / Museum / Garden / Zoo, Library / Education"
       ],
@@ -12853,7 +13008,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Residential Display, Halloween Lights"
       ],
@@ -13017,7 +13172,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Ghost / Paranormal"
       ],
@@ -13088,7 +13243,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social"
       ],
@@ -13158,7 +13313,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Film / Theater / Performance"
       ],
@@ -13486,7 +13641,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Fall Farm / Pumpkin"
       ],
@@ -13681,7 +13836,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Concert"
       ],
@@ -13744,7 +13899,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Active / Outdoors / Sports, Community Festival"
       ],
@@ -13813,7 +13968,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Dining / Pop-Up, Nightlife / Music / Social, Workshop / Craft"
       ],
@@ -13960,7 +14115,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Community Festival, Trick-or-Treat"
       ],
@@ -14174,7 +14329,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Convention / Fandom, Community Festival"
       ],
@@ -14335,7 +14490,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Family / Community, Unusual Seasonal"
       ],
@@ -14464,7 +14619,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Drive-Through / Lights"
       ],
@@ -14525,7 +14680,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Trivia / Games"
       ],
@@ -14595,7 +14750,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Library / Education, Nature / Museum / Garden / Zoo"
       ],
@@ -14739,7 +14894,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping, Ghost / Paranormal"
       ],
@@ -15075,7 +15230,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Fall Festival, Community Festival"
       ],
@@ -15149,7 +15304,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Community Festival, Library / Education"
       ],
@@ -15307,7 +15462,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Burlesque / Cabaret, Nightlife / Music / Social"
       ],
@@ -15380,7 +15535,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Dining / Pop-Up, Nightlife / Music / Social"
       ],
@@ -15651,7 +15806,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Community Festival"
       ],
@@ -15796,7 +15951,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping, Community Festival"
       ],
@@ -15862,7 +16017,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Home Haunt / Display"
       ],
@@ -15995,7 +16150,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Film / Theater / Performance, Nightlife / Music / Social"
       ],
@@ -16068,7 +16223,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social"
       ],
@@ -16146,7 +16301,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nature / Museum / Garden / Zoo, Workshop / Craft"
       ],
@@ -16489,7 +16644,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Trivia / Games, Nightlife / Music / Social"
       ],
@@ -16690,7 +16845,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Workshop / Craft"
       ],
@@ -16964,7 +17119,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping, Community Festival"
       ],
@@ -17041,7 +17196,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social"
       ],
@@ -17116,7 +17271,7 @@ window.SITE_DATA = {
         }
       ],
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Concert, Community Festival"
       ],
@@ -17266,7 +17421,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Comedy, Burlesque / Cabaret"
       ],
@@ -17473,7 +17628,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social, Convention / Fandom"
       ],
@@ -17538,7 +17693,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Community Festival"
       ],
@@ -17603,7 +17758,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Trivia / Games, Nightlife / Music / Social"
       ],
@@ -17668,7 +17823,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Fall Farm / Pumpkin, Community Festival"
       ],
@@ -17870,7 +18025,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Active / Outdoors / Sports, Community Festival"
       ],
@@ -18014,7 +18169,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Market / Shopping, Community Festival"
       ],
@@ -18274,7 +18429,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nightlife / Music / Social, Burlesque / Cabaret"
       ],
@@ -18364,7 +18519,7 @@ window.SITE_DATA = {
       ],
       "photo": null,
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Nature / Museum / Garden / Zoo, Nightlife / Music / Social"
       ],
@@ -18425,7 +18580,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Veterans Day",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Ceremony / civic"
       ],
@@ -18482,7 +18637,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Veterans Day",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / civic"
       ],
@@ -18715,7 +18870,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Thanksgiving",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Race / charity"
       ],
@@ -18937,7 +19092,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / shopping"
       ],
@@ -18990,7 +19145,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / shopping"
       ],
@@ -19043,7 +19198,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Lights / shopping / activities"
       ],
@@ -19154,7 +19309,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Thanksgiving",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / participatory"
       ],
@@ -19212,7 +19367,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Ballet / performing arts"
       ],
@@ -19273,7 +19428,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / culture / performances"
       ],
@@ -19340,7 +19495,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Festival / charity / displays"
       ],
@@ -19394,7 +19549,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Living history / lights / family"
       ],
@@ -19448,7 +19603,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Film with live orchestra"
       ],
@@ -19503,7 +19658,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert"
       ],
@@ -19613,7 +19768,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert"
       ],
@@ -19674,7 +19829,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / market"
       ],
@@ -19731,7 +19886,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Family concert"
       ],
@@ -19787,7 +19942,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Film with live orchestra"
       ],
@@ -19896,7 +20051,7 @@ window.SITE_DATA = {
       "primaryHoliday": "New Year",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Fireworks / outdoor / resort"
       ],
@@ -20017,7 +20172,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / cultural / alternative holiday"
       ],
@@ -20075,7 +20230,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Choir / concert"
       ],
@@ -20238,7 +20393,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert"
       ],
@@ -20291,7 +20446,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Drag / comedy / performance"
       ],
@@ -20518,7 +20673,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Choir / concert"
       ],
@@ -20571,7 +20726,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Choir / concert"
       ],
@@ -20624,7 +20779,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Cirque / dance / special event"
       ],
@@ -21326,7 +21481,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Orchestra / family concert"
       ],
@@ -21382,7 +21537,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Children's theatre"
       ],
@@ -21602,7 +21757,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Dining / hotel experience"
       ],
@@ -21718,7 +21873,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / art / shopping"
       ],
@@ -21827,7 +21982,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Yule & Solstice",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Beer / nightlife / solstice-adjacent"
       ],
@@ -21885,7 +22040,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Race / fitness"
       ],
@@ -21944,7 +22099,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Interfaith crafts / community"
       ],
@@ -22002,7 +22157,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Santa / storytime / crafts"
       ],
@@ -22392,7 +22547,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Lantern art / lights / cultural"
       ],
@@ -22446,7 +22601,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Queer market / shopping"
       ],
@@ -22505,7 +22660,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Queer market / shopping"
       ],
@@ -22564,7 +22719,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Dance / nightlife / social"
       ],
@@ -22785,7 +22940,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Race / fitness"
       ],
@@ -22844,7 +22999,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Santa / dining / family"
       ],
@@ -23073,7 +23228,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Craft / library"
       ],
@@ -23130,7 +23285,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Craft / family / library"
       ],
@@ -23188,7 +23343,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Bell choir / free concert"
       ],
@@ -23245,7 +23400,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Teen / library / social"
       ],
@@ -23302,7 +23457,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Children / dance / library"
       ],
@@ -23359,7 +23514,7 @@ window.SITE_DATA = {
       "primaryHoliday": "New Year",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Kids countdown / community"
       ],
@@ -23416,7 +23571,7 @@ window.SITE_DATA = {
       "primaryHoliday": "New Year",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Kids countdown / crafts"
       ],
@@ -23815,7 +23970,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Santa / dining / hotel"
       ],
@@ -23872,7 +24027,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Santa / dining / hotel"
       ],
@@ -24038,7 +24193,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / vocal"
       ],
@@ -24093,7 +24248,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Art market / university"
       ],
@@ -24148,7 +24303,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Theatre"
       ],
@@ -24635,7 +24790,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Diwali",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Cultural / family / library"
       ],
@@ -24691,7 +24846,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Hanukkah",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Menorah / community / cultural"
       ],
@@ -24809,7 +24964,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Yule & Solstice",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Science / family / solstice"
       ],
@@ -24866,7 +25021,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Yule & Solstice",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Science / family / solstice"
       ],
@@ -24923,7 +25078,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Yule & Solstice",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Wellness / workshop / solstice"
       ],
@@ -25147,7 +25302,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Thanksgiving",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Food giveaway / community service"
       ],
@@ -25318,7 +25473,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Thanksgiving",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Race / fitness"
       ],
@@ -25377,7 +25532,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Nightlife / dance / shopping"
       ],
@@ -25435,7 +25590,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Bar crawl / nightlife"
       ],
@@ -25492,7 +25647,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Bar crawl / nightlife"
       ],
@@ -25550,7 +25705,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Bar crawl / nightlife"
       ],
@@ -25607,7 +25762,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Adult / library / games"
       ],
@@ -25664,7 +25819,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Craft / library / make-and-take"
       ],
@@ -25721,7 +25876,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Craft / library / make-and-take"
       ],
@@ -25778,7 +25933,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / shopping / Santa"
       ],
@@ -25832,7 +25987,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Kids / Santa / outdoor"
       ],
@@ -25895,7 +26050,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Tree lighting / lights / Santa"
       ],
@@ -25953,7 +26108,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Theatre / musical"
       ],
@@ -26007,7 +26162,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / makers / STEM"
       ],
@@ -26089,7 +26244,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Lights / market / community"
       ],
@@ -26259,7 +26414,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Santa / community / crafts"
       ],
@@ -26316,7 +26471,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / Christian"
       ],
@@ -26646,7 +26801,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Art market / shopping"
       ],
@@ -26705,7 +26860,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / shopping"
       ],
@@ -26758,7 +26913,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Free concert / youth strings"
       ],
@@ -26869,7 +27024,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / roots / folk"
       ],
@@ -27090,7 +27245,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / cultural / community"
       ],
@@ -27146,7 +27301,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Sensory / quiet Santa"
       ],
@@ -27201,7 +27356,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Sensory / quiet Santa"
       ],
@@ -27256,7 +27411,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Santa / breakfast / community"
       ],
@@ -27314,7 +27469,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Tree lighting / market / music"
       ],
@@ -27486,7 +27641,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / community / Santa"
       ],
@@ -27598,7 +27753,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Hip-hop concert / nightlife"
       ],
@@ -27654,7 +27809,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Dance / variety / performing arts"
       ],
@@ -27707,7 +27862,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / tribute"
       ],
@@ -27762,7 +27917,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Musical parody / theatre"
       ],
@@ -27923,7 +28078,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Music / sing-along / community"
       ],
@@ -28099,7 +28254,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Zoo / lights / family"
       ],
@@ -28164,7 +28319,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Sensory-friendly zoo lights"
       ],
@@ -28227,7 +28382,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Lantern festival / aquarium / lights"
       ],
@@ -28290,7 +28445,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Art fair / market / garden"
       ],
@@ -28348,7 +28503,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Art show / cultural traditions"
       ],
@@ -28405,7 +28560,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Donation drive / service"
       ],
@@ -28462,7 +28617,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Community lighting / holiday kickoff"
       ],
@@ -28525,7 +28680,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / a cappella"
       ],
@@ -28587,7 +28742,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Community holiday event"
       ],
@@ -29119,7 +29274,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / vocal trio"
       ],
@@ -29181,7 +29336,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / multimedia"
       ],
@@ -29243,7 +29398,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Dance / touring performance"
       ],
@@ -29572,7 +29727,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Santa / resort / family"
       ],
@@ -29634,7 +29789,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Scavenger hunt / resort activity"
       ],
@@ -29706,7 +29861,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Skiing / Santa / outdoor"
       ],
@@ -29770,7 +29925,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Dining / resort"
       ],
@@ -29833,7 +29988,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Storytelling / resort tradition"
       ],
@@ -29896,7 +30051,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Dining / resort"
       ],
@@ -29965,7 +30120,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Mountains",
       "sourceRegion": "Salt Lake Mountains",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Torchlight parade / fireworks / skiing"
       ],
@@ -30102,7 +30257,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Thanksgiving",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Dining / buffet"
       ],
@@ -30171,7 +30326,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Dining / brunch"
       ],
@@ -30237,7 +30392,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Dining / brunch"
       ],
@@ -30295,7 +30450,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Early music / concert / cultural"
       ],
@@ -30795,7 +30950,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Touring musical comedy"
       ],
@@ -30856,7 +31011,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / season opening"
       ],
@@ -30920,7 +31075,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Daily music / choirs / community performances"
       ],
@@ -31014,7 +31169,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Winter",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / shopping / community"
       ],
@@ -31072,7 +31227,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Tree lighting / community / games"
       ],
@@ -31136,7 +31291,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Santa / lights / community"
       ],
@@ -31203,7 +31358,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Theatre / community theatre"
       ],
@@ -31265,7 +31420,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Community festival / Santa / ice skating / lights"
       ],
@@ -31333,7 +31488,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake Valley",
       "sourceRegion": "Salt Lake Valley",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Jazz / free community concert"
       ],
@@ -32210,7 +32365,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "String quartet / candlelight concert"
       ],
@@ -32274,7 +32429,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Candlelight concert / strings"
       ],
@@ -32337,7 +32492,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "String quartet / candlelight concert"
       ],
@@ -32463,7 +32618,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / art / oddities"
       ],
@@ -32592,7 +32747,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Christmas",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Market / shopping / community"
       ],
@@ -33143,7 +33298,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Storytelling / Poetry / Community"
       ],
@@ -33261,7 +33416,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Nightlife / Club / DJ"
       ],
@@ -33321,7 +33476,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Rave / Electronic / Costume Party"
       ],
@@ -33378,7 +33533,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Concert / Nightlife"
       ],
@@ -33437,7 +33592,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Latin Nightlife / Club"
       ],
@@ -33557,7 +33712,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Bar Crawl / Nightlife"
       ],
@@ -33617,7 +33772,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Karaoke / Pop-Up Bar / Nightlife"
       ],
@@ -33677,7 +33832,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "DJ / Pop-Up Bar / Nightlife"
       ],
@@ -33736,7 +33891,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "DJ / Pop-Up Bar / Art / Nightlife"
       ],
@@ -33796,7 +33951,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "DJ / Pop-Up Bar / Nightlife"
       ],
@@ -33855,7 +34010,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "R&B / DJ / Nightlife"
       ],
@@ -33915,7 +34070,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "EDM / Bass / Concert / Nightlife"
       ],
@@ -33977,7 +34132,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Drum & Bass / Rave / Nightlife"
       ],
@@ -34036,7 +34191,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Drag / Brunch / Nightlife"
       ],
@@ -34100,7 +34255,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Drag / Cabaret / Bar"
       ],
@@ -34162,7 +34317,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Queer Nightlife / Karaoke / Social"
       ],
@@ -34224,7 +34379,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "R&B / Hip-Hop / Rooftop Dance Party"
       ],
@@ -34285,7 +34440,7 @@ window.SITE_DATA = {
       "primaryHoliday": "Halloween",
       "Region": "Salt Lake City",
       "sourceRegion": "Salt Lake City",
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "categories": [
         "Electronic / Bass / Rave"
       ],
@@ -34659,7 +34814,7 @@ window.SITE_DATA = {
       "costCount": 0,
       "isFree": false,
       "ghostCount": 0,
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "publicTypes": [
         "Nightlife & Parties"
       ],
@@ -34713,7 +34868,7 @@ window.SITE_DATA = {
       "costCount": 0,
       "isFree": false,
       "ghostCount": 0,
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "publicTypes": [
         "Nightlife & Parties"
       ],
@@ -34764,7 +34919,7 @@ window.SITE_DATA = {
       "costCount": 3,
       "isFree": false,
       "ghostCount": 0,
-      "publicRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
       "publicTypes": [
         "Live Music & Performance"
       ],
@@ -34841,7 +34996,7 @@ window.SITE_DATA = {
       "costCount": 1,
       "isFree": true,
       "ghostCount": 0,
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "publicTypes": [
         "Workshops & Learning"
       ],
@@ -34960,7 +35115,7 @@ window.SITE_DATA = {
       "socials": [],
       "photo": null,
       "sourceRegion": "Salt Lake",
-      "publicRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
       "sourceCategories": [
         "Food & Drink"
       ],
@@ -36980,8 +37135,7 @@ window.SITE_DATA = {
     "Eastern Utah",
     "Ogden, Weber & Morgan",
     "Park City & Wasatch Back",
-    "Salt Lake City",
-    "Salt Lake Valley",
+    "Salt Lake Metro",
     "Southern Utah",
     "Statewide / Other",
     "Tooele",
