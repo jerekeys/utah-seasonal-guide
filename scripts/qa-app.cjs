@@ -2,6 +2,17 @@ const { chromium, webkit, devices } = require('playwright');
 const fs = require('fs');
 const assert = require('assert');
 const root = 'http://127.0.0.1:8765';
+const http = require('http');
+async function outageOrigin() {
+  let unavailable = false;
+  const server = http.createServer((request, response) => {
+    if (unavailable) { request.socket.destroy(); return; }
+    const upstream = http.request({ hostname: '127.0.0.1', port: 8765, path: request.url, method: request.method, headers: request.headers }, source => { response.writeHead(source.statusCode, source.headers); source.pipe(response); });
+    upstream.on('error', error => response.destroy(error)); request.pipe(upstream);
+  });
+  await new Promise(resolve => server.listen(0, '127.0.0.1', resolve));
+  return { root: 'http://127.0.0.1:' + server.address().port, setOffline(value) { unavailable = value; if(value) server.closeAllConnections(); }, close() { return new Promise(resolve => { server.close(resolve); server.closeAllConnections(); }); } };
+}
 const results = [];
 fs.mkdirSync('research/qa', { recursive: true });
 async function audit(page, label) {
@@ -13,7 +24,12 @@ async function audit(page, label) {
 (async () => {
   for (const [name, engine, device] of [['Android Chrome engine', chromium, devices['Pixel 5']], ['iPhone Safari engine', webkit, devices['iPhone 13']]]) {
     const browser = await engine.launch({ headless: true, ...(engine === chromium ? { args: ['--no-sandbox'] } : {}) });
+    // Playwright 1.63 WebKit rejects SW navigation under setOffline: microsoft/playwright#42775.
+    // An unavailable loopback origin exercises actual network-failure fallback, with a no-worker control below.
+    const proxy = engine === webkit ? await outageOrigin() : null;
+    const root = proxy ? proxy.root : 'http://127.0.0.1:8765';
     const context = await browser.newContext(device);
+    const setOffline = async value => proxy ? proxy.setOffline(value) : context.setOffline(value);
     const page = await context.newPage();
     page.setDefaultTimeout(20000);
     const errors = [];
@@ -55,8 +71,10 @@ async function audit(page, label) {
     await page.locator('#savedEvents .event-image-link').click();
     await page.waitForSelector('.detail-panel');
     const visited = page.url();
-    await context.setOffline(true);
-    await page.reload();
+    await page.waitForFunction(async url=>!!(await caches.match(url)),visited);
+    await setOffline(true);
+    const offlineResponse = await page.goto(visited);
+    assert(offlineResponse.fromServiceWorker(), 'Offline event is supplied by its service worker');
     await page.waitForSelector('.detail-panel');
     assert.equal(page.url(), visited);
     await page.goto(root + '/saved/');
@@ -67,7 +85,12 @@ async function audit(page, label) {
     await page.locator('.connection-notice').waitFor({state:'visible'});
     await page.goto(root + '/events/not-previously-opened/');
     assert(await page.getByRole('heading', { name: 'You’re offline.' }).isVisible());
-    await context.setOffline(false);
+    if (proxy) {
+      const negative = await browser.newContext({serviceWorkers:'block'}), negativePage = await negative.newPage();
+      await assert.rejects(() => negativePage.goto(root + '/', {timeout:5000}), 'No-worker control cannot navigate while origin is unavailable');
+      await negative.close();
+    }
+    await setOffline(false);
     await page.goto(root + '/contact/?topic=sponsorship');
     assert.equal(await page.locator('#contact-topic').inputValue(), 'sponsorship');
     await page.fill('#contact-email', 'test@example.com'); await page.fill('#contact-message', 'Local QA fixture only; do not transmit.');
@@ -75,11 +98,11 @@ async function audit(page, label) {
     await page.getByRole('button', { name: 'Send message' }).click();
     await page.waitForFunction(() => document.querySelector('#formFeedback').textContent.includes('could not be confirmed'));
     assert.equal(await page.locator('#contact-message').inputValue(), 'Local QA fixture only; do not transmit.');
-    await context.setOffline(true);
+    await setOffline(true);
     await page.evaluate(()=>dispatchEvent(new Event('offline')));
     await page.getByRole('button', { name: 'Send message' }).click();
     assert((await page.locator('#formFeedback').textContent()).includes('not been sent'));
-    await context.setOffline(false);
+    await setOffline(false);
     await page.unroute(root + '/');
     for (const path of ['/app/', '/about/', '/terms/', '/privacy/', '/contact/', '/submit/']) {
       await page.goto(root + path); await audit(page, name + path);
@@ -97,10 +120,10 @@ async function audit(page, label) {
       await page.waitForFunction(() => document.querySelector('#installStatus').textContent.includes('install later'));
     }
     await page.screenshot({ path: `research/qa/install-${engine === chromium ? 'android' : 'iphone'}.png`, fullPage: true });
-    assert.deepEqual(errors, []);
     assert.deepEqual(errors, [], name + ' JavaScript runtime errors');
-    results.push({ sourceCommit: process.env.GITHUB_SHA || 'local', platform: name, deviceEmulation: true, physicalInstallationVerified: false, installability, manifest: true, savedPersistence: true, exportImport: true, offlineSearch: true, visitedPageOffline: true, offlineFallback: true, failedFormPreservesInput: true, offlineFormDoesNotSend: true, publicIdentityRemoved: true, accessibility: 'no automated violations on tested pages', errors });
-    await browser.close();
+    results.push({ sourceCommit: process.env.GITHUB_SHA || 'local', platform: name, deviceEmulation: true, physicalInstallationVerified: false, offlineMethod: proxy ? 'Unavailable loopback origin with no-worker negative control; Playwright #42775' : 'Browser offline emulation', installability, manifest: true, savedPersistence: true, exportImport: true, offlineSearch: true, visitedPageOffline: true, offlineFallback: true, failedFormPreservesInput: true, offlineFormDoesNotSend: true, publicIdentityRemoved: true, accessibility: 'no automated violations on tested pages', errors });
+    fs.writeFileSync('research/qa/app-results.json', JSON.stringify(results, null, 2));
+    await browser.close(); if(proxy) await proxy.close();
   }
   // Exercise a real paid-slot fixture without publishing a pretend sponsor.
   const browser = await chromium.launch({ headless: true, args: ['--no-sandbox'] });
