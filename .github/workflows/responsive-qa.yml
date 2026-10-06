@@ -11,6 +11,7 @@ on:
       - 'assets/date-tools.js'
       - 'assets/event-enhancements.js'
       - 'assets/seasonal.css'
+      - 'assets/styles.css'
       - 'manifest.webmanifest'
       - 'sw.js'
       - 'scripts/build-pages.py'
