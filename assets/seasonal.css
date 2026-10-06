@@ -14,3 +14,5 @@ a{color:var(--accent-dark)}.nav-wrap{padding:14px 20px}.nav{gap:5px}.nav a{min-h
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}.card:hover{transform:none}}
 
 .detail-layout>*{min-width:0}.event-hero-media{min-width:0;max-width:100%}.fact{overflow-wrap:anywhere}.calendar-actions .button{white-space:normal}
+
+.detail-panel h1,.prose h2{text-transform:none}.fact{background:var(--paper)}
