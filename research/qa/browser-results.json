@@ -1,6 +1,6 @@
 [
   {
-    "sourceCommit": "bb29d3be293033bda8445b6e5b35385ab5630445",
+    "sourceCommit": "771456b36befa09c3f94514b747870050c9aa9a1",
     "fallHasSnowwiesn": true,
     "halloweenExcludesSnowwiesn": true,
     "emptyHolidayWorks": true,
@@ -11,7 +11,7 @@
     "pastHidden": true,
     "pastShown": true,
     "pastPersists": true,
-    "archiveNotice": false,
+    "archiveNotice": true,
     "noPastCalendar": true,
     "pastDateAuto": true,
     "pastDateWorks": true,
@@ -34,7 +34,7 @@
     "correctRecipient": true
   },
   {
-    "sourceCommit": "bb29d3be293033bda8445b6e5b35385ab5630445",
+    "sourceCommit": "771456b36befa09c3f94514b747870050c9aa9a1",
     "fallHasSnowwiesn": true,
     "halloweenExcludesSnowwiesn": true,
     "emptyHolidayWorks": true,
@@ -45,7 +45,7 @@
     "pastHidden": true,
     "pastShown": true,
     "pastPersists": true,
-    "archiveNotice": false,
+    "archiveNotice": true,
     "noPastCalendar": true,
     "pastDateAuto": true,
     "pastDateWorks": true,
@@ -68,7 +68,7 @@
     "correctRecipient": true
   },
   {
-    "sourceCommit": "bb29d3be293033bda8445b6e5b35385ab5630445",
+    "sourceCommit": "771456b36befa09c3f94514b747870050c9aa9a1",
     "fallHasSnowwiesn": true,
     "halloweenExcludesSnowwiesn": true,
     "emptyHolidayWorks": true,
@@ -79,7 +79,7 @@
     "pastHidden": true,
     "pastShown": true,
     "pastPersists": true,
-    "archiveNotice": false,
+    "archiveNotice": true,
     "noPastCalendar": true,
     "pastDateAuto": true,
     "pastDateWorks": true,

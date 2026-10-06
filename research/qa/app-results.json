@@ -1,6 +1,6 @@
 [
   {
-    "sourceCommit": "903b9a5f6c88bbd5f94c45790a8ef103fa099c3e",
+    "sourceCommit": "771456b36befa09c3f94514b747870050c9aa9a1",
     "platform": "Android Chrome engine",
     "deviceEmulation": true,
     "physicalInstallationVerified": false,
@@ -21,7 +21,7 @@
     "errors": []
   },
   {
-    "sourceCommit": "903b9a5f6c88bbd5f94c45790a8ef103fa099c3e",
+    "sourceCommit": "771456b36befa09c3f94514b747870050c9aa9a1",
     "platform": "iPhone Safari engine",
     "deviceEmulation": true,
     "physicalInstallationVerified": false,
