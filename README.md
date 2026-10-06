@@ -62,6 +62,14 @@ A research pass expanded social-link coverage across event listings. Supported p
 - The holiday/season selector should be built only from real occasion/collection tags. Standalone notable events appear under **All** and through Event Type/search rather than creating another catch-all filter.
 - Current seeded research targets include Utah Greek Festival, an Italian-American/Festa Italiana target, FanX, and the Strange & Unusual Market at Mountain America Expo Center.
 
+## v8 metro geography + date-filter reliability
+- Public geography collapses **Salt Lake City** and **Salt Lake Valley** into one **Salt Lake Metro** filter. It includes Salt Lake City plus valley communities such as Sandy, Draper, West Jordan, South Jordan, Midvale, Murray, Millcreek, Cottonwood Heights, Taylorsville, West Valley City, Riverton, Herriman, Bluffdale, Magna and Kearns.
+- Detailed source geography may remain more specific internally, but the visitor-facing region filter should not split the metro into city vs. valley.
+- Date filters must operate on actual occurrence dates, not only an event's first date or a broad season span.
+- The date engine may conservatively infer recurrence only when the listing supplies a clear date range plus explicit weekday/daily hours. Phrases such as **select nights**, **hours vary by date**, or **performance schedule varies** must not be expanded into every date without stronger evidence.
+- Exact current calendars override recurrence inference. Major recurring haunts with known calendar failures should be date-verified and stored with explicit occurrence dates.
+- **Today**, **Tomorrow**, **This Weekend**, **Tonight**, date sorting, and schedule labels all use the same resolved schedule function so filtering and display cannot drift apart.
+
 ## Current image and visual policy
 - Official organizer/venue/attraction/promoter hero and promotional images are acceptable event-specific imagery for the guide.
 - Download and host those files locally; do not hotlink them from the source site.
