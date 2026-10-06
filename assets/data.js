@@ -993,9 +993,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-02",
       "endDate": "2026-10-25",
       "travelTier": "Core / easy day trip",
@@ -1100,7 +1100,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Lehi, Lehi",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Large whimsical pumpkin world; great visual payoff for no admission. Worth doing only as part of one south trip for me.",
+      "Why / thoughts": "A large, whimsical pumpkin display with free admission at the Outlets at Traverse Mountain.",
       "Website": "https://signature-events.outletsattraversemountain.com/",
       "Social profile": "https://www.instagram.com/traverseoutlets/",
       "Extra notes": "",
@@ -1270,7 +1270,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "Metro Music Hall, 615 W 100 S, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Touring Blade-inspired vampire rave with goth/techno/house, go-go vampires, cosplay, themed cocktails and a midnight bloodbath. One of the strongest unconventional nightlife finds; 21+ only.",
+      "Why / thoughts": "A touring Blade-inspired vampire rave with goth, techno and house music, go-go vampires, cosplay, themed cocktails and a midnight bloodbath. Ages 21+.",
       "Website": "https://www.24tix.com/event/63414888997",
       "Social profile": "",
       "Extra notes": "",
@@ -2475,7 +2475,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Bear River Migratory Bird Refuge, Brigham City, Box Elder County",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Halloween nature night with an enchanted trail, treats, pumpkin painting, crafts and the Mad Biologist. Occurred Sep. 26; retained for completeness and future-year planning.",
+      "Why / thoughts": "A Halloween nature night with an enchanted trail, treats, pumpkin painting, crafts and the Mad Biologist. The September 26, 2026 event has ended.",
       "Website": "https://www.boxeldercountyut.gov/Calendar.aspx?EID=1260",
       "Social profile": "",
       "Extra notes": "",
@@ -3086,7 +3086,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Layton, Kaysville, Syracuse, Farmington HQ, Centerville, Bountiful branches, Layton",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Much richer than initial search suggested: storytelling, puzzles/trivia, carnival, Choose Your Own Adventure, spooky LEGO and stuffie sleepovers. Good catch from a deeper official-library-calendar search.",
+      "Why / thoughts": "Seasonal library activities include storytelling, trivia, carnival games, Choose Your Own Adventure, spooky LEGO and stuffed-animal sleepovers. Check each branch’s calendar for its program.",
       "Website": "https://daviscounty.librarycalendar.com/events/upcoming?bundles%5Blc_event%5D=lc_event&program_types%5B286%5D=286",
       "Social profile": "",
       "Extra notes": "",
@@ -3773,7 +3773,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "The Off Broadway Theatre / The Studio, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Family Halloween musical parody/comedy pitting Dracula against the Mummy with magic and Laughing Stock-style humor. The cleanest explicitly Halloween-themed comedy/theater addition found.",
+      "Why / thoughts": "A family Halloween musical comedy pitting Dracula against the Mummy, with magic and improvisational humor.",
       "Website": "https://www.theobt.org/2026-season",
       "Social profile": "",
       "Extra notes": "",
@@ -3990,9 +3990,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -5565,7 +5565,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "The Gateway, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Giant pumpkins, zombie walk, costume spectacle; easy free seasonal event. Schedule conflicts for me, but useful general recommendation.",
+      "Why / thoughts": "Giant pumpkins, a zombie walk and costumes at a free community celebration.",
       "Website": "https://atthegateway.com/calendars/giant-pumpkinpalooza-26/",
       "Social profile": "https://www.instagram.com/atthegateway/",
       "Extra notes": "",
@@ -6289,7 +6289,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "60 W 100 N, Logan, Logan",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "The memorable division requires carrying an organizer-supplied pumpkin for the entire 5K; immediately feeds into the Giant Pumpkin Festival. Two divisions: standard 5K or Haul a Pumpkin. One of the strongest fitness/fall crossover finds.",
+      "Why / thoughts": "Choose a standard 5K or carry an organizer-supplied pumpkin for the entire Haul a Pumpkin division. The run leads into the Giant Pumpkin Festival.",
       "Website": "https://runsignup.com/Race/Events/UT/Logan/PumpkinRace",
       "Social profile": "",
       "Extra notes": "",
@@ -7362,9 +7362,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -8005,7 +8005,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Natural History Museum of Utah, 301 Wakara Way, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Meet live raptors up close and examine feathers, eggs and claws while learning bird conservation. Not a staged Halloween event, but the Halloween date + live birds of prey make it a terrific obscure seasonal fit.",
+      "Why / thoughts": "Meet live raptors and examine feathers, eggs and claws while learning about bird conservation. This is a bird encounter, with no staged Halloween program.",
       "Website": "https://nhmu.utah.edu/events/hawkwatch-birds-lab-october-2026",
       "Social profile": "https://www.instagram.com/hawkwatch/",
       "Extra notes": "",
@@ -8034,9 +8034,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
       "travelTier": "Core / easy day trip",
@@ -8403,7 +8403,7 @@ window.SITE_DATA = {
       "Intensity": "👻",
       "Location": "Stellas on 25th, 225 Historic 25th Street, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "One of the best true themed-dining finds: dinner, photo booth, scavenger hunt and historic walking tour built around Ogden's Roaring 20s / Junction City history. Visit Ogden lists the audience as adults; no explicit minimum age was found. Costumes are required.",
+      "Why / thoughts": "Dinner, a photo booth, scavenger hunt and historic walking tour explore Ogden’s Roaring 20s and Junction City history. Costumes are required. Listed for adults; ask the organizer about the minimum age.",
       "Website": "https://tourogden.com/halloween-event/",
       "Social profile": "",
       "Extra notes": "",
@@ -9887,9 +9887,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-29",
       "endDate": "2026-10-29",
       "travelTier": "Core / easy day trip",
@@ -10200,7 +10200,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻👻",
       "Location": "The Commonwealth Room, 195 W 2100 S, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Excellent adult-market find: spooky vendors, vintage and handmade art, live music, beer, cocktails and food. Free but ticketed/21+; runs genuinely late.",
+      "Why / thoughts": "An evening market with spooky vendors, vintage and handmade art, live music, beer, cocktails and food. Free admission with a ticket; ages 21+.",
       "Website": "https://www.axs.com/events/1567434/low-light-market-tickets",
       "Social profile": "",
       "Extra notes": "",
@@ -10435,7 +10435,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Stellas on 25th, 225 25th Street, Ogden, Ogden",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Interactive 1920s speakeasy murder mystery where guests receive characters and become part of the story; only 50 guests. Strong immersive-dining find, though currently sold out. 18+ event. 1920s attire strongly encouraged but not required; paid parking; vegetarian/gluten-free options addressed in event FAQ. Oct. 30 and 31 were added after Oct. 28 sold out.",
+      "Why / thoughts": "An interactive 1920s speakeasy murder mystery where guests play characters in the story. Ages 18+; 1920s attire encouraged. Paid parking and vegetarian/gluten-free options are addressed in the event FAQ. October 30 and 31 were added after October 28 sold out; check remaining availability.",
       "Website": "https://www.eventbrite.com/e/murder-at-the-juice-joint-a-1920s-murder-mystery-dinner-tickets-1998890663784",
       "Social profile": "",
       "Extra notes": "",
@@ -11958,9 +11958,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": null,
       "endDate": null,
       "travelTier": "Core / easy day trip",
@@ -12579,9 +12579,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
       "travelTier": "Core / easy day trip",
@@ -12734,9 +12734,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "travelTier": "Core / easy day trip",
@@ -13892,9 +13892,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-02",
       "endDate": "2026-10-03",
       "travelTier": "Overnight / destination",
@@ -14987,7 +14987,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Syracuse Regional Museum, 1891 W 1700 S, Syracuse",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Small-city museum night with local lore, live music, family-friendly frights and a spook alley. Strong municipal-calendar find.",
+      "Why / thoughts": "A museum night with local lore, live music, family-friendly frights and a spook alley.",
       "Website": "https://www.syracuseut.gov/545/Scarycuse-Community-Events",
       "Social profile": "",
       "Extra notes": "",
@@ -15430,7 +15430,7 @@ window.SITE_DATA = {
       "Intensity": "👻👻",
       "Location": "Alpine Distilling Social Aid & Pleasure Club, 364 Main St, Park City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Strong Park City nightlife find: DJ, witch costumes, psychic readings and a charity donation drive. Other = women-only adult event. Bring new socks or underwear to donate to Peace House.",
+      "Why / thoughts": "A women-only adult night with a DJ, witch costumes, psychic readings and a charity donation drive. Bring new socks or underwear to donate to Peace House.",
       "Website": "https://parkcityrestaurants.com/event/the-group-project-dance-witches/",
       "Social profile": "",
       "Extra notes": "",
@@ -15517,9 +15517,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
@@ -16840,9 +16840,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-28",
       "endDate": "2026-10-28",
       "travelTier": "Core / easy day trip",
@@ -17547,9 +17547,9 @@ window.SITE_DATA = {
       ],
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-03",
       "endDate": "2026-10-03",
       "travelTier": "Core / easy day trip",
@@ -18385,9 +18385,9 @@ window.SITE_DATA = {
       },
       "sponsored": false,
       "holidays": [
-        "Halloween"
+        "Fall"
       ],
-      "primaryHoliday": "Halloween",
+      "primaryHoliday": "Fall",
       "startDate": "2026-10-14",
       "endDate": "2026-10-14",
       "travelTier": "Core / easy day trip",
@@ -33577,7 +33577,7 @@ window.SITE_DATA = {
       "Location": "Downtown Salt Lake City bars; check-in varies by date, Salt Lake City",
       "Status": "Confirmed official 2026 listing",
       "Website": "https://frightcrawl.com/salt-lake-city/",
-      "Why / thoughts": "Separate producer from the Oct. 31 Crawl With US listing already in the database; four crawl sessions across Halloween weekend.",
+      "Why / thoughts": "Four bar-crawl sessions across Halloween weekend, from a separate producer to the October 31 Crawl With US event.",
       "Extra notes": "Walking route; participating venues subject to change; photo ID required",
       "travelTier": "Core / easy day trip",
       "lastVerified": "2026-10-06",
