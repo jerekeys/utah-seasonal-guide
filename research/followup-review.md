@@ -13,3 +13,7 @@ The earlier browser tests established working UI behavior but did not prove ever
 - Expanded vibes from six to fifteen usable activity/community entry points. 'Free and easy' does not promise afternoon hours, and sensory-friendly options do not conflate adaptive appointments with quiet conditions.
 
 Whole-list source evidence collection is underway. Automated collection is not a completed human review of every poster, ticket option or accommodation. The persistent audit marks that distinction explicitly and records inaccessible pages rather than asserting an organizer hasn't announced details. Production remains unchanged.
+
+## Complete source-collection queue
+
+Collection completed for all 528 records: 447 have readable page evidence; 81 have no readable HTML evidence and require browser/visual investigation. The CSV and compressed JSON preserve the review queue. Human review of every event is not complete. Linked ticket pages can refer to unrelated performances, and accommodation links can refer to hotels or website access; neither is sufficient evidence for event facts. No facts were automatically promoted from this collection.
