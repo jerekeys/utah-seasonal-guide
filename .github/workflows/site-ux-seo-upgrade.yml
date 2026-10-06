@@ -5,6 +5,7 @@ on:
     paths:
       - '.github/workflows/site-ux-seo-upgrade.yml'
       - 'event.html'
+      - 'assets/schedule-overrides.js'
       - 'assets/date-tools.js'
       - 'assets/date-tools.css'
       - 'assets/event-enhancements.js'
@@ -30,31 +31,22 @@ jobs:
           python - <<'PY'
           import json, pathlib, re, html, shutil
           from urllib.parse import quote
-          root=pathlib.Path('.')
-          base='https://chipper-froyo-598c2e.netlify.app'
-          ev=root/'event.html'; template=ev.read_text()
-          for href in ('assets/date-tools.css',):
-              if href not in template: template=template.replace('<link rel="stylesheet" href="assets/styles.css">','<link rel="stylesheet" href="assets/styles.css"><link rel="stylesheet" href="assets/date-tools.css">')
-          if 'assets/date-tools.js' not in template: template=template.replace('<script src="assets/data.js"></script><script src="assets/site.js"></script>','<script src="assets/data.js"></script><script src="assets/date-tools.js"></script><script src="assets/site.js"></script><script src="assets/event-enhancements.js"></script>')
+          root=pathlib.Path('.');base='https://chipper-froyo-598c2e.netlify.app';ev=root/'event.html';template=ev.read_text()
+          if 'assets/date-tools.css' not in template:template=template.replace('<link rel="stylesheet" href="assets/styles.css">','<link rel="stylesheet" href="assets/styles.css"><link rel="stylesheet" href="assets/date-tools.css">')
+          if 'assets/schedule-overrides.js' not in template:template=template.replace('<script src="assets/data.js"></script>','<script src="assets/data.js"></script><script src="assets/schedule-overrides.js"></script>')
+          if 'assets/date-tools.js' not in template:template=template.replace('<script src="assets/schedule-overrides.js"></script><script src="assets/site.js"></script>','<script src="assets/schedule-overrides.js"></script><script src="assets/date-tools.js"></script><script src="assets/site.js"></script><script src="assets/event-enhancements.js"></script>')
           raw=(root/'assets/data.js').read_text();prefix='window.SITE_DATA = ';payload=raw[len(prefix):].strip();payload=payload[:-1] if payload.endswith(';') else payload;data=json.loads(payload)
-          out=root/'events';shutil.rmtree(out,ignore_errors=True);out.mkdir()
-          template=template.replace('<head>','<head><base href="/">',1)
-          def desc(e):
-              s=(e.get('Why / thoughts') or e.get('Extra notes') or 'Utah seasonal event details.').strip();return s[:155].rsplit(' ',1)[0] if len(s)>155 else s
+          out=root/'events';shutil.rmtree(out,ignore_errors=True);out.mkdir();template=template.replace('<head>','<head><base href="/">',1)
+          def desc(e):s=(e.get('Why / thoughts') or e.get('Extra notes') or 'Utah seasonal event details.').strip();return s[:155].rsplit(' ',1)[0] if len(s)>155 else s
           urls=[base+'/']
           for e in data.get('events',[]):
               slug=e['id'];d=out/slug;d.mkdir(parents=True,exist_ok=True);title=f"{e.get('Event / attraction','Event')} | Utah Seasonal Guide";description=desc(e);canonical=f'{base}/events/{quote(slug)}/';page=template
-              page=re.sub(r'<title>.*?</title>',f'<title>{html.escape(title)}</title>',page,count=1,flags=re.S)
-              page=re.sub(r'<meta name="description" content="[^"]*">',f'<meta name="description" content="{html.escape(description,quote=True)}">',page,count=1)
-              photo=e.get('photo') or {};ogimg=(base+'/'+photo.get('src','')) if str(photo.get('src','')).startswith('assets/') else None
-              extra=f'<link rel="canonical" href="{canonical}"><meta property="og:type" content="website"><meta property="og:title" content="{html.escape(title,quote=True)}"><meta property="og:description" content="{html.escape(description,quote=True)}"><meta property="og:url" content="{canonical}">' + (f'<meta property="og:image" content="{html.escape(ogimg,quote=True)}">' if ogimg else '')
+              page=re.sub(r'<title>.*?</title>',f'<title>{html.escape(title)}</title>',page,count=1,flags=re.S);page=re.sub(r'<meta name="description" content="[^"]*">',f'<meta name="description" content="{html.escape(description,quote=True)}">',page,count=1)
+              photo=e.get('photo') or {};ogimg=(base+'/'+photo.get('src','')) if str(photo.get('src','')).startswith('assets/') else None;extra=f'<link rel="canonical" href="{canonical}"><meta property="og:type" content="website"><meta property="og:title" content="{html.escape(title,quote=True)}"><meta property="og:description" content="{html.escape(description,quote=True)}"><meta property="og:url" content="{canonical}">' + (f'<meta property="og:image" content="{html.escape(ogimg,quote=True)}">' if ogimg else '')
               page=page.replace('</head>',extra+'</head>',1);page=page.replace('<script src="assets/data.js"></script>',f'<script>window.EVENT_ID={json.dumps(slug)};</script><script src="assets/data.js"></script>',1);(d/'index.html').write_text(page);urls.append(canonical)
           for p in ['weekend.html','itineraries.html','vibes.html','standouts.html','about.html','submit.html','image-credits.html']:
               if (root/p).exists():urls.append(f'{base}/{p}')
-          xml=['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']+[f'<url><loc>{html.escape(u)}</loc></url>' for u in urls]+['</urlset>'];(root/'sitemap.xml').write_text('\n'.join(xml)+'\n')
-          (root/'_redirects').write_text('/event.html /event.html 200\n')
-          (root/'robots.txt').write_text(f'User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n')
-          print(f"Generated {len(data.get('events',[]))} event pages and sitemap")
+          xml=['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']+[f'<url><loc>{html.escape(u)}</loc></url>' for u in urls]+['</urlset>'];(root/'sitemap.xml').write_text('\n'.join(xml)+'\n');(root/'_redirects').write_text('/event.html /event.html 200\n');(root/'robots.txt').write_text(f'User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n');print(f"Generated {len(data.get('events',[]))} event pages and sitemap")
           PY
       - name: Commit generated files
         run: |
