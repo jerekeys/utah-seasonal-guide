@@ -1,0 +1,38 @@
+[
+  {
+    "width": 390,
+    "errors": [],
+    "accessibility": [],
+    "overflow": false,
+    "eventOverflow": false,
+    "christmas": "183",
+    "freeCards": 5,
+    "saved": 1,
+    "calendar": 1,
+    "formLabels": true
+  },
+  {
+    "width": 768,
+    "errors": [],
+    "accessibility": [],
+    "overflow": false,
+    "eventOverflow": false,
+    "christmas": "183",
+    "freeCards": 5,
+    "saved": 1,
+    "calendar": 1,
+    "formLabels": true
+  },
+  {
+    "width": 1440,
+    "errors": [],
+    "accessibility": [],
+    "overflow": false,
+    "eventOverflow": false,
+    "christmas": "183",
+    "freeCards": 5,
+    "saved": 1,
+    "calendar": 1,
+    "formLabels": true
+  }
+]
