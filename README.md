@@ -1,6 +1,6 @@
 # Utah Halloween & Fall Guide 2026 — Website v2
 
-A multi-page, static public website generated from the Google Sheet **Utah Halloween & Fall 2026 — Complete Ideas Guide**.
+A multi-page, static public website backed by the Google Sheet **Utah Seasonal Event Discovery Backend — 2026–27**. The older Halloween/Fall workbook remains a research baseline, but the canonical detailed event source is now the backend workbook’s **Event Database** tab.
 
 ## Development workflow
 - `main` is production and should only receive reviewed release batches.
@@ -49,6 +49,18 @@ A research pass expanded social-link coverage across event listings. Supported p
 - Added sourced accessibility summaries; absence of a badge means no verified accessibility claim was found, not that the event is inaccessible.
 - Enforced **zero image hotlinks**. Only locally bundled image paths render.
 - Accessibility summaries link to the organizer/venue source and use warning styling for explicit limitations.
+
+## v7 broader event architecture
+- **Occasion / Collection is optional.** Use it only when an event genuinely belongs to a holiday, season, heritage/cultural month, religious observance, or other editorial collection.
+- **Event Type is separate and required.** Examples include Festival, Market, Convention, Film Festival, Parade, Concert, Workshop, Race, and Community Tradition.
+- Standalone signature events may have a blank Occasion / Collection and still be eligible for the public **All** directory.
+- Do **not** create or assign synthetic `Other` or `General Event` occasion values. Blank is the correct value when no collection applies.
+- The backend **Notable Event** flag is the editorial mechanism for selecting major standalone events. It is independent of sponsorship and must never be treated as a paid-placement field.
+- For website ingestion, holiday/season-tagged events remain eligible through their collections; blank-occasion events should be included only when they meet editorial inclusion standards, normally via **Notable Event**.
+- Research/discovery explicitly includes signature cultural/community festivals, public fan/pop-culture conventions, notable specialty markets and expos, film festivals, parades/processions, and distinctive local traditions.
+- Consumer/public access is required for standalone conventions, expos and markets. Vendor-only, trade-only, invite-only and private industry events are excluded unless they contain a separately listable public component.
+- The holiday/season selector should be built only from real occasion/collection tags. Standalone notable events appear under **All** and through Event Type/search rather than creating another catch-all filter.
+- Current seeded research targets include Utah Greek Festival, an Italian-American/Festa Italiana target, FanX, and the Strange & Unusual Market at Mountain America Expo Center.
 
 ## Current image and visual policy
 - Official organizer/venue/attraction/promoter hero and promotional images are acceptable event-specific imagery for the guide.
