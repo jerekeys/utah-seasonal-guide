@@ -1,5 +1,8 @@
 [
   {
+    "fallHasSnowwiesn": true,
+    "halloweenExcludesSnowwiesn": true,
+    "emptyHolidayWorks": true,
     "linkedImages": true,
     "ogdenHoliday": true,
     "imageNavigation": true,
@@ -20,6 +23,9 @@
     "correctRecipient": true
   },
   {
+    "fallHasSnowwiesn": true,
+    "halloweenExcludesSnowwiesn": true,
+    "emptyHolidayWorks": true,
     "linkedImages": true,
     "ogdenHoliday": true,
     "imageNavigation": true,
@@ -40,6 +46,9 @@
     "correctRecipient": true
   },
   {
+    "fallHasSnowwiesn": true,
+    "halloweenExcludesSnowwiesn": true,
+    "emptyHolidayWorks": true,
     "linkedImages": true,
     "ogdenHoliday": true,
     "imageNavigation": true,
