@@ -20,3 +20,7 @@ assert(!t.isPast({occurrenceDates:[]},'2026-10-06'));
 assert(t.matchesWhen(fixture('past','Past',['2026-09-19']),'2026-09-19'));
 for(const e of d.events){assert(typeof e.notable_event==='boolean',e.id+' notable flag');assert(d.regions.includes(e.publicRegion),e.id+' public region');assert(!/gap|bundle filler|fresh.*addition|taxonomy|primary.*capture|producer sweep|child event|separately.*filtering|known by name.*j209|this captures|original.list omission/i.test(e['Why / thoughts']),e.id+' internal copy');}
 console.log('Notable ordering, explicit sorts, historical filters and public editorial checks passed');
+
+assert(!t.isPast({id:'overnight',Times:'9 PM–2 AM',occurrenceDates:['2026-10-05'],endDate:'2026-10-05'},'2026-10-06',new Date('2026-10-06T07:00Z')));
+assert(t.isPast({id:'overnight',Times:'9 PM–2 AM',occurrenceDates:['2026-10-05'],endDate:'2026-10-05'},'2026-10-06',new Date('2026-10-06T09:00Z')));
+console.log('Final-night rollover remains visible until closing');

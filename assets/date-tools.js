@@ -99,8 +99,10 @@ function matchesWhen(e,v,now=new Date()){
  return true
 }
 function nextOccurrence(e,from=today()){return parseSchedule(e).dates.find(d=>d>=from)||null}
-function isPast(e,from=today()){
+function isPast(e,from=today(),now=new Date()){
  if(e.isWatch)return false;
+ // The final night can remain open after midnight on the following date.
+ if(from===today(now)&&matchesWhen(e,'open-now',now))return false;
  const dates=parseSchedule(e).dates,ends=[...dates,e.endDate].filter(d=>/^\d{4}-\d{2}-\d{2}$/.test(d||''));
  return ends.length>0&&ends.every(d=>d<from)
 }
