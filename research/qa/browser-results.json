@@ -1,5 +1,8 @@
 [
   {
+    "linkedImages": true,
+    "ogdenHoliday": true,
+    "imageNavigation": true,
     "width": 390,
     "errors": [],
     "accessibility": [],
@@ -7,7 +10,7 @@
     "brokenEventImages": [],
     "overflow": false,
     "eventOverflow": false,
-    "christmas": "184",
+    "christmas": "185",
     "freeCards": 5,
     "saved": 1,
     "calendar": 1,
@@ -17,6 +20,9 @@
     "correctRecipient": true
   },
   {
+    "linkedImages": true,
+    "ogdenHoliday": true,
+    "imageNavigation": true,
     "width": 768,
     "errors": [],
     "accessibility": [],
@@ -24,7 +30,7 @@
     "brokenEventImages": [],
     "overflow": false,
     "eventOverflow": false,
-    "christmas": "184",
+    "christmas": "185",
     "freeCards": 5,
     "saved": 1,
     "calendar": 1,
@@ -34,6 +40,9 @@
     "correctRecipient": true
   },
   {
+    "linkedImages": true,
+    "ogdenHoliday": true,
+    "imageNavigation": true,
     "width": 1440,
     "errors": [],
     "accessibility": [],
@@ -41,7 +50,7 @@
     "brokenEventImages": [],
     "overflow": false,
     "eventOverflow": false,
-    "christmas": "184",
+    "christmas": "185",
     "freeCards": 5,
     "saved": 1,
     "calendar": 1,
