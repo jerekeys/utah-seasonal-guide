@@ -41,7 +41,9 @@ async function audit(page, label) {
     const download = await downloadPromise;
     const payload = JSON.parse(fs.readFileSync(await download.path(), 'utf8'));
     assert.equal(payload.events.length, 1);
+    await page.locator('#savedEvents .save-button').focus();
     await page.locator('#savedEvents .save-button').click();
+    assert(await page.locator('#savedEvents a.button').evaluate(e=>e===document.activeElement),'Keyboard focus reaches the next available action after unsaving');
     assert.equal(await page.locator('#savedEvents .card').count(), 0, 'Unsave removes the card');
     await page.setInputFiles('#importSaved', { name: 'saved.json', mimeType: 'application/json', buffer: Buffer.from(JSON.stringify(payload)) });
     await page.waitForSelector('#savedEvents .card');

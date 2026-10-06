@@ -27,3 +27,4 @@ body[data-theme=dayofdead]{--accent:#f7b64d;--accent-dark:#65356e;--season-red:#
 @media(max-width:800px){.nav-wrap{flex-wrap:wrap}.brand{width:100%;font-size:.95rem}.nav{width:100%;display:flex;flex-wrap:wrap;overflow:visible;gap:3px}.nav a{font-size:.8rem;padding:6px 8px}.sponsored-grid{grid-template-columns:1fr}.site-header{position:relative}.saved-tools .button{font-size:.9rem}}
 body[data-theme=pride]{--accent:#f0d687;--accent-dark:#574268;--season-red:#694983;--paper:#f7f2fa;--ink:#292037}
 .season-picker{display:block;overflow:visible}.season-picker .filter-control{display:flex;flex-direction:column;min-width:0;max-width:560px;gap:7px}.season-picker select{width:100%;min-width:0;max-width:100%;min-height:46px;padding:10px;border:2px solid var(--ink);border-radius:6px;background:white;color:var(--ink);font:inherit}
+.nav a.submit-link[aria-current=page],.nav a.submit-link:hover{color:#fff}
