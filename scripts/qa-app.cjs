@@ -74,6 +74,7 @@ async function audit(page, label) {
     await page.waitForFunction(() => document.querySelector('#formFeedback').textContent.includes('could not be confirmed'));
     assert.equal(await page.locator('#contact-message').inputValue(), 'Local QA fixture only; do not transmit.');
     await context.setOffline(true);
+    await page.evaluate(()=>dispatchEvent(new Event('offline')));
     await page.getByRole('button', { name: 'Send message' }).click();
     assert((await page.locator('#formFeedback').textContent()).includes('not been sent'));
     await context.setOffline(false);

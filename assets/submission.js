@@ -23,7 +23,7 @@
   function show(message) { feedback.hidden = false; feedback.replaceChildren(document.createTextNode(message)); feedback.focus(); }
   form.addEventListener('submit', async event => {
     event.preventDefault(); validate(); if (!form.reportValidity()) return;
-    if (!navigator.onLine) { show('You’re offline. Your message has not been sent. Keep this page open and try again when you’re connected.'); return; }
+    if (!navigator.onLine || window.GUIDE_OFFLINE === true) { show('You’re offline. Your message has not been sent. Keep this page open and try again when you’re connected.'); return; }
     button.disabled = true; button.textContent = 'Sending…'; const data = new FormData(form);
     try {
       const response = await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams(data).toString() });

@@ -24,4 +24,12 @@ PAAG Christmas Dinner heading says Dec 18; description says Dec 19. Event remain
 
 Automated Chromium/Android and WebKit/iPhone engine checks do not prove physical home-screen installation, native share-sheet behavior or Apple Calendar import. Live Netlify preview and form-delivery verification are blocked by invited-account sign-in. Forms require Netlify form detection to be enabled and both form names to be detected after deploy; notifications can later go to a separate site inbox without exposing the address in source.
 
-User QA should be five minutes of real-device interaction, not 81 source pages: install and reopen, save/reopen an event, open one image and one calendar link, send one clearly labeled test suggestion and confirm receipt in Netlify. Editorial source review remains our responsibility. The site currently contains 530 records; the earlier complete evidence collection was for 528 and remains distinct from a completed human review.
+User QA should be five minutes of real-device interaction, not 81 source pages: install and reopen, save/reopen an event, open one image and one calendar link, send one clearly labeled test suggestion and confirm receipt in Netlify. Editorial source review remains our responsibility. The site currently contains 531 records; the earlier complete evidence collection was for 528 and remains distinct from a completed human review.
+
+## Year-round extension
+
+A grouped native dropdown replaces the horizontal holiday-button roster and defaults to All. The initial planning roster contains 80 buckets across four groups, spanning October 2026–October 2027. Fall and Halloween are separate; mixed harvest/haunt destinations may carry both. Samhain has its own category. The canonical workbook has Annual Calendar Roster plus separate Fall, Halloween and Samhain views.
+
+Cougar Pride Center announces Pride in Progress on April 10, 2027: https://www.cougarpridecenter.org/pride . Only that date is reused; historical venues, performers and hours are not assigned to 2027. Admission and venue details remain forthcoming. Pride graphics use a locally hosted rainbow/heart SVG in the existing icon approach.
+
+The browser regression suite passed all three widths (390, 768, 1440): holiday separation, empty future bucket, Ogden Día, image navigation, calendars, labels, date validation and intercepted suggestion submission. Android-engine checks reached and passed installability, persistence, export/import and offline event/search behavior; an asynchronous offline-notice assertion is being rerun with a visibility wait. Full engine results and physical installation remain distinct.

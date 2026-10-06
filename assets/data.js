@@ -37159,7 +37159,9 @@ window.SITE_DATA = {
     "Kwanzaa",
     "Autism Acceptance Month",
     "Transgender Day of Visibility",
-    "Transgender Day of Remembrance"
+    "Transgender Day of Remembrance",
+    "All Saints & All Souls",
+    "Bodhi Day"
   ],
   "holidayGroups": {
     "Seasons": [
@@ -37226,7 +37228,9 @@ window.SITE_DATA = {
       "Epiphany",
       "Lent & Holy Week",
       "Orthodox Christmas",
-      "Orthodox Easter"
+      "Orthodox Easter",
+      "All Saints & All Souls",
+      "Bodhi Day"
     ],
     "Heritage, culture & community": [
       "Pride",

@@ -18,8 +18,15 @@
   addEventListener('appinstalled', installed);
   const notice = document.createElement('div'); notice.className = 'connection-notice'; notice.setAttribute('role', 'status'); notice.hidden = true;
   document.querySelector('.site-header')?.after(notice);
-  function connection() { notice.hidden = navigator.onLine; notice.textContent = 'You’re offline. Browsing saved guide information; details may have changed. Tickets and sending forms need a connection.'; }
-  addEventListener('online', connection); addEventListener('offline', connection); connection();
+  function connection(online = navigator.onLine) { window.GUIDE_OFFLINE = !online; notice.hidden = online; notice.textContent = 'You’re offline. Browsing saved guide information; details may have changed. Tickets and sending forms need a connection.'; }
+  async function checkConnection() {
+    if (!navigator.onLine) { connection(false); return; }
+    const controller = new AbortController(), timer = setTimeout(() => controller.abort(), 5000);
+    try { await fetch('/manifest.webmanifest', { method: 'HEAD', cache: 'no-store', signal: controller.signal }); connection(true); }
+    catch { connection(false); }
+    finally { clearTimeout(timer); }
+  }
+  addEventListener('online', checkConnection); addEventListener('offline', () => connection(false)); connection(); checkConnection();
   if (!('serviceWorker' in navigator) || !isSecureContext) return;
   const update = document.createElement('div'); update.className = 'app-update'; update.setAttribute('role', 'status'); update.hidden = true; document.body.append(update);
   function showUpdate(registration) {
