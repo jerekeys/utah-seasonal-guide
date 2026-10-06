@@ -34,6 +34,7 @@ jobs:
           git add research/qa
           if ! git diff --cached --quiet; then
             git commit -m 'Record responsive preview QA evidence'
+            git pull --rebase origin development
             git push origin HEAD:development
           fi
       - name: Report review failures
