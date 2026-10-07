@@ -36,13 +36,24 @@ Research is part of the product, so small factual metadata may become graphic la
 
 Do not expose internal workflow notes, confidence debates, spreadsheet mechanics, or research process. Public metadata should help someone decide what to do.
 
-## Photography
+## Photography and Field Plates
 Photography does not need one color grade. The publication frame provides consistency.
 - Prefer real event/venue photography when it accurately represents the listing.
 - Keep source/credit records.
 - Do not hotlink.
 - Do not fake event photography with generic stock.
-- When no real photo exists, use clearly illustrated field-guide artwork.
+- When no real photo exists, the site automatically renders a **Field Plate** instead of a generic placeholder.
+
+### Field Plates are generative, not per-event assets
+Do **not** create a new placeholder file when adding an event. `assets/field-plates.js` uses existing event metadata to choose a reusable specimen family, seasonal/occasion treatment, region annotation, and deterministic plate number. A new event therefore requires zero illustration administration.
+
+Current specimen families cover haunts, harvest/farms, lights, markets, performance, food, outdoors, workshops, nightlife, family/Christmas, giving, film, parades, fandom/conventions, residential displays and community/culture. Culturally specific treatments include Día de los Muertos, Diwali, Hanukkah, Yule/Solstice and Pride.
+
+The old `placeholder` value may remain in legacy/generated event data for compatibility, but the public site and social toolkit do not use it when photography is absent.
+
+**Maintenance rule:** add a new specimen family only when a genuinely new event class repeatedly appears and the existing families communicate it poorly. Do not add one for a single event.
+
+Field Plates deliberately say **NO EVENT PHOTO**. They should never be mistaken for documentary photography or imply a location-specific map. Contour lines are abstract field-guide texture, not real topography.
 
 ## Social editorial franchises
 Use these repeatedly so followers learn the formats:
