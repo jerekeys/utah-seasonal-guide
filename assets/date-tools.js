@@ -109,7 +109,8 @@ function isPast(e,from=today(),now=new Date()){
 function isSingleDay(e){
  if(e.isWatch)return false;
  const dates=parseSchedule(e).dates;
- return dates.length===1&&(!e.endDate||e.endDate===dates[0])
+ const frequency=String(e.recurrence||e.recurrenceFrequency||'').toLowerCase();
+ return !/daily|weekly|monthly|multiple|recurring/.test(frequency)&&dates.length===1&&(!e.endDate||e.endDate===dates[0])
 }
 function isUpcomingSoon(e,from=today()){
  if(e.isWatch)return false;
@@ -121,8 +122,11 @@ function compareEvents(a,b,sort='recommended',from=today()){
  const name=()=>a['Event / attraction'].localeCompare(b['Event / attraction'])||a.id.localeCompare(b.id);
  if(sort==='name')return name();
  if(sort==='cost')return (a.costCount||9)-(b.costCount||9)||name();
- if(sort==='date')return (nextOccurrence(a,from)||'9999').localeCompare(nextOccurrence(b,from)||'9999')||name();
- return Number(isCurrentNotable(b,from))-Number(isCurrentNotable(a,from))||Number(isSingleDay(b))-Number(isSingleDay(a))||name()
+ const start=e=>e.startDate||parseSchedule(e).dates[0]||'9999';
+ const chronological=()=>start(a).localeCompare(start(b))||name();
+ if(sort==='date')return chronological();
+ const tier=e=>isCurrentNotable(e,from)?0:isSingleDay(e)?1:2;
+ return tier(a)-tier(b)||chronological()
 }
 window.DATE_TOOLS={iso,localDate,add,today,parseTime,startForDate,hoursForDate,parseSchedule,enrich,selectedWindow,matchesWhen,nextOccurrence,isPast,isSingleDay,isUpcomingSoon,isCurrentNotable,compareEvents};
 })();

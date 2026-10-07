@@ -1,0 +1,1318 @@
+{
+  "baseDevelopmentSha": "8f6a8628a021b56e0acb0865a26d224b12f71e45",
+  "reviewedOn": "2026-10-07",
+  "photoListings": 289,
+  "totalListings": 572,
+  "items": [
+    {
+      "destination": "assets/photos/reviewed-benson-grist-mill-15.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Benson_Grist_Mill_Utah.jpeg/1280px-Benson_Grist_Mill_Utah.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0xcc0f0717178f46e4",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Benson_Grist_Mill_Utah.jpeg",
+      "credit": "Tricia Simpson",
+      "alt": "The historic Benson Grist Mill building.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-metro-music-hall-49.webp",
+      "url": "https://images.squarespace-cdn.com/content/v1/5d766d269a8f4a561ad27262/633b5596-428e-4b28-84c9-1522aa9fd6ad/03.31.2023%2BVenue%2BPhotos%2BS%26S%2B002.webp",
+      "reviewHash": "0xefece4a46c64e444",
+      "sourcePage": "https://metromusichall.com/",
+      "credit": "metromusichall.com",
+      "alt": "The stage and dance floor inside Metro Music Hall.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-boo-tiful-bussin-drag-brunch-at-the-mercantile-on-25th-18.webp",
+      "url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185346367%252F355004395473%252F1%252Foriginal.20260525-061230%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D1880%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.534%26fp-y%3D0.3%26s%3De38ecaa281ab601aa5a4506669452605&w=1880&q=75",
+      "reviewHash": "0x64747818f898b383",
+      "sourcePage": "https://www.eventbrite.com/e/boo-tiful-bussin-drag-brunch-at-the-mercantile-on-25th-tickets-1990304024916",
+      "credit": "eventbrite.com",
+      "alt": "A drag performer seated at an outdoor table.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-provo-city-library-10.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Provo_City_Library_at_night%2C_Oct_16.jpg/1280px-Provo_City_Library_at_night%2C_Oct_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0xd0ccf8b0b05a0540",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Provo_City_Library_at_night,_Oct_16.jpg",
+      "credit": "An Errant Knight",
+      "alt": "Provo City Library illuminated at night.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-clinton-halloween-walk-30.webp",
+      "url": "https://www.clintoncity.net/ImageRepository/Document?documentId=4345",
+      "reviewHash": "0xb9bb2b2f3393b232",
+      "sourcePage": "https://www.clintoncity.net/2348/Special-Events",
+      "credit": "clintoncity.net",
+      "alt": "Children in costumes at a community trick-or-treat.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-sslcommunity-8.webp",
+      "url": "https://sslc.gov/ImageRepository/Document?documentID=1370",
+      "reviewHash": "0x69ac306c6d296bb3",
+      "sourcePage": "https://sslc.gov/283/South-Salt-Lake-Community-Center",
+      "credit": "sslc.gov",
+      "alt": "The historic exterior of South Salt Lake Community Center.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-bear-river-migratory-bird-refuge-19.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Clarks%27s_Grebe_Bear_River_Migratory_Bird_Refuge_%2852034906737%29.jpg/1280px-Clarks%27s_Grebe_Bear_River_Migratory_Bird_Refuge_%2852034906737%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0x494f474fcd9091a1",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Clarks%27s_Grebe_Bear_River_Migratory_Bird_Refuge_(52034906737).jpg",
+      "credit": "USFWS Mountain Prairie",
+      "alt": "A Clark’s grebe at Bear River Migratory Bird Refuge.",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "destination": "assets/photos/reviewed-urban-lounge-43.webp",
+      "url": "https://images.squarespace-cdn.com/content/v1/5dfb9b14047a8637eec009e4/1578079198539-FAEBF4YFNEBHF0V1JAR4/IMG_1955.jpg",
+      "reviewHash": "0x9801e7e7a548fcee",
+      "sourcePage": "https://www.theurbanloungeslc.com/",
+      "credit": "Urban Lounge",
+      "alt": "The exterior of Urban Lounge in Salt Lake City.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-liquidjoes-61.webp",
+      "url": "https://images.squarespace-cdn.com/content/v1/68eddc5ec521c03e4d05e018/6f57bbff-9619-4ade-9458-22b4cf6b4814/banner.jpg?format=2500w",
+      "reviewHash": "0x909290b4a0a4c6d5",
+      "sourcePage": "https://liquidjoes.net/",
+      "credit": "liquidjoes.net",
+      "alt": "A concert crowd inside Liquid Joe’s.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-the-gateway-241.webp",
+      "url": "https://atthegateway.com/wp-content/uploads/2024/07/pumpkinpalooza-36-scaled.jpg",
+      "reviewHash": "0xd1e6e87014622525",
+      "sourcePage": "https://atthegateway.com/",
+      "credit": "atthegateway.com",
+      "alt": "Seasonal pumpkins on a pedestrian plaza at The Gateway.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-dead-horse-point-20.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Dead_Horse_Point_2012.JPG/1280px-Dead_Horse_Point_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0x6879b176a3913c3b",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dead_Horse_Point_2012.JPG",
+      "credit": "FF23-fr",
+      "alt": "The canyon and Colorado River viewed from Dead Horse Point.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-d-a-de-los-muertos-utah-cultural-celebration-center-56.webp",
+      "url": "https://images.squarespace-cdn.com/content/v1/665628baf8b234264d46caae/b0c154f7-c115-4874-9ee8-ce1a8e820866/skulls3.jpg?format=2500w",
+      "reviewHash": "0xf0d19878aeeaf6ec",
+      "sourcePage": "https://www.culturalcelebration.org/dayofthedead",
+      "credit": "culturalcelebration.org",
+      "alt": "Decorated sugar skulls displayed at the Utah Cultural Celebration Center.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-dinos-in-the-dark-63.webp",
+      "url": "https://dinosaurpark.org/wp-content/uploads/2025/08/Dinos-in-the-Dark-Trails.jpg",
+      "reviewHash": "0x80e3f5e8c1c48040",
+      "sourcePage": "https://dinosaurpark.org/dinos-dark/",
+      "credit": "dinosaurpark.org",
+      "alt": "Illuminated trails at the George S. Eccles Dinosaur Park.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-disney-s-hocus-pocus-in-concert-64.webp",
+      "url": "https://usuo.org/app/uploads/2026/03/FILM1-Hocus-Pocus.jpg",
+      "reviewHash": "0x414949cd8c8494f0",
+      "sourcePage": "https://utahsymphony.org/event/id/38957/",
+      "credit": "utahsymphony.org",
+      "alt": "The Sanderson sisters in a promotional still from Hocus Pocus.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-umoca-95.webp",
+      "url": "https://utahmoca.org/wp-content/uploads/2026/09/usuo_well_being_1-1920x1440.jpg",
+      "reviewHash": "0x6e6968484b739346",
+      "sourcePage": "https://utahmoca.org/",
+      "credit": "utahmoca.org",
+      "alt": "Visitors attending a program inside Utah Museum of Contemporary Art.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-dreamwalk-park-halloween-2026-72.webp",
+      "url": "https://dreamwalk.com/_astro/grotto_background.CoXyEACd.webp",
+      "reviewHash": "0x7372780bcfe66666",
+      "sourcePage": "https://dreamwalk.com/",
+      "credit": "dreamwalk.com",
+      "alt": "An illuminated immersive room at Dreamwalk Park.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-element-11-utah-regional-decompression-2026-watch-75.webp",
+      "url": "https://i0.wp.com/www.element11.org/wp-content/uploads/2021/05/Center-Camp-Header-02.jpg?fit=1200%2C400&ssl=1",
+      "reviewHash": "0xf0bc95236c8e1693",
+      "sourcePage": "https://www.element11.org/history/timeline/",
+      "credit": "element11.org",
+      "alt": "Festival participants gathered outdoors at an earlier Element 11.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-camp-floyd-183.webp",
+      "url": "https://stateparks.utah.gov/wp-content/uploads/Camp-floyd_2x3_11-scaled.webp",
+      "reviewHash": "0x5291098b0762fafc",
+      "sourcePage": "https://stateparks.utah.gov/parks/camp-floyd/",
+      "credit": "stateparks.utah.gov",
+      "alt": "A historical reenactment at Camp Floyd State Park.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-goblin-valley-24.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Goblin_Valley_-44.jpg/1280px-Goblin_Valley_-44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0xae2c646c49a6e613",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Goblin_Valley_-44.jpg",
+      "credit": "claralieu",
+      "alt": "Sandstone hoodoos at Goblin Valley State Park.",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-gordon-s-family-farm-fall-festival-93.webp",
+      "url": "https://gordonfamilyfarms.com/files/2023/01/1674061726141_img_1425_2.jpg",
+      "reviewHash": "0x5a5955d421119f3f",
+      "sourcePage": "https://gordonfamilyfarms.com/pumpkin-patch",
+      "credit": "gordonfamilyfarms.com",
+      "alt": "Harvested pumpkins at Gordon’s Family Farm.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-bean-life-science-museum-26.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Monte_L._Bean_Life_Science_Museum_east_side%2C_Jun_16.jpg/1280px-Monte_L._Bean_Life_Science_Museum_east_side%2C_Jun_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0x80000406134f7840",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Monte_L._Bean_Life_Science_Museum_east_side,_Jun_16.jpg",
+      "credit": "An Errant Knight",
+      "alt": "The exterior of BYU’s Monte L. Bean Life Science Museum.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-peery-0.webp",
+      "url": "https://ogdenpet.com/wp-content/uploads/2025/09/New-About-1-copy-e1765312642723.webp",
+      "reviewHash": "0xf8f01317577171e8",
+      "sourcePage": "https://ogdenpet.com/about/",
+      "credit": "ogdenpet.com",
+      "alt": "The auditorium inside Peery’s Egyptian Theater.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-laytoncommons-35.webp",
+      "url": "https://www.laytoncityutah.gov/photoGallery/Parks/LaytonCommons/pic06.png",
+      "reviewHash": "0xf4e5b9b4b0a1a918",
+      "sourcePage": "https://www.laytoncityutah.gov/LC/Parks/Park/Layton%20Commons%20Park",
+      "credit": "laytoncityutah.gov",
+      "alt": "A playground among the trees at Layton Commons Park.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-nhmu-45.webp",
+      "url": "http://nhmu.utah.edu/sites/default/files/embedded_images/A-Sohm%20Cropped%20Exterior.jpg",
+      "reviewHash": "0xfc31736c2c1c98d0",
+      "sourcePage": "https://nhmu.utah.edu/about/our-building",
+      "credit": "nhmu.utah.edu",
+      "alt": "The exterior of the Natural History Museum of Utah.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-heber-halloween-fest-141.webp",
+      "url": "https://www.earthdiver.com/cdn-cgi/image/width=800,quality=75,format=auto/https://assets.earthdiver.com/media/media-image-3191381.jpg?w=5472&h=3648&tick=1787156204805",
+      "reviewHash": "0xe8b0dcd696968cb6",
+      "sourcePage": "https://www.gohebervalley.com/heber-halloween-fest/52/",
+      "credit": "gohebervalley.com",
+      "alt": "An inflatable Halloween character at Heber Halloween Fest.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-howl-o-ween-on-historic-main-street-155.webp",
+      "url": "https://assets.simpleviewinc.com/sv-park-city/image/upload/c_limit,h_1200,q_75,w_1200/v1/cms_resources/cms_resources/clients/parkcity/IMG_7894_0716eab4-03f2-48b5-8d32-17c1ed82ed84.jpg",
+      "reviewHash": "0x80016de5c341c010",
+      "sourcePage": "https://www.visitparkcity.com/blog/stories/post/tips-for-attending-howl-o-ween/",
+      "credit": "visitparkcity.com",
+      "alt": "A costumed dog and handler on Park City Main Street.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-kohler-creamery-fall-festival-163.webp",
+      "url": "https://www.earthdiver.com/cdn-cgi/image/width=800,quality=75,format=auto/https://assets.earthdiver.com/media/media-image-2748644.jpg?w=4032&h=3024&tick=1729534221609",
+      "reviewHash": "0xc03724b9a1a48898",
+      "sourcePage": "https://www.gohebervalley.com/kohler-creamery-fall-festival/",
+      "credit": "gohebervalley.com",
+      "alt": "Hay bales and farm decorations at Kohler Creamery.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-night-of-fright-market-university-place-182.webp",
+      "url": "https://universityplaceorem.com/wp-content/uploads/2026/09/IMG_5941-square-2048x2048.jpeg",
+      "reviewHash": "0x4b99e961b6fcfeff",
+      "sourcePage": "https://universityplaceorem.com/events/2026-night-of-fright/",
+      "credit": "universityplaceorem.com",
+      "alt": "Evening decorations at University Place’s Orchard.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-masonic-2.webp",
+      "url": "https://slcmasonictemple.com/wp-content/uploads/2024/07/IMG_0222-copy-2-2048x1365.jpg",
+      "reviewHash": "0x786161f071f171e0",
+      "sourcePage": "https://slcmasonictemple.com/",
+      "credit": "slcmasonictemple.com",
+      "alt": "The exterior of Salt Lake Masonic Temple.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-ogden-halloween-bar-crawl-2026-197.webp",
+      "url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F902489513%252F235275390377%252F1%252Foriginal.20241119-210938%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D1880%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.501893939394%26fp-y%3D0.332865168539%26s%3Df05bb9eaf095a8aeeb4ed4e65187bf4b&w=1880&q=75",
+      "reviewHash": "0x193c1829adb999d8",
+      "sourcePage": "https://www.eventbrite.com/e/ogden-halloween-bar-crawl-2026-tickets-1583325281539",
+      "credit": "eventbrite.com",
+      "alt": "Costumed participants pictured by the Halloween bar crawl organizer.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-parkcitymain-171.webp",
+      "url": "https://res.cloudinary.com/dmq6kny6m/image/upload/v1758565652/Marque%20Images%202280x1256/2280x1256---Fall_a55ocn.jpg",
+      "reviewHash": "0x759cb82869cfae7f",
+      "sourcePage": "https://historicparkcityutah.com/",
+      "credit": "historicparkcityutah.com",
+      "alt": "Historic Park City and the surrounding mountains.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-reading-with-raptors-at-discovery-gateway-220.webp",
+      "url": "https://hawkwatch.org/wp-content/uploads/2024/10/goose-at-nhmu-1024x576.png",
+      "reviewHash": "0xf9cc4d3d79787c4c",
+      "sourcePage": "https://hawkwatch.org/event/reading-with-raptors-at-discovery-gateway/2026-10-10/",
+      "credit": "hawkwatch.org",
+      "alt": "A falcon featured by HawkWatch International.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-robinson-family-pumpkin-patch-222.webp",
+      "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/ironcountyut/RobinsonFamilyPumpkinPatch-Facebook_97B7071D-5056-A36F-23205904784F2CE3_97bc3b8d-5056-a36f-234c672947516082.jpg",
+      "reviewHash": "0xd41d5c17d6e6e0c9",
+      "sourcePage": "https://visitcedarcity.com/event/robinson-family-pumpkin-patch/367/",
+      "credit": "visitcedarcity.com",
+      "alt": "Pumpkins displayed at Robinson Family Pumpkin Patch.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-rowley-s-red-barn-fall-festival-228.webp",
+      "url": "https://rowleysredbarn.com/cdn/shop/files/preview_images/c0aa2e147c1f4afc91db62117ac59d8c.thumbnail.0000000000.jpg?v=1704836748&width=1080",
+      "reviewHash": "0xb4e0e8fcfefe7efe",
+      "sourcePage": "https://rowleysredbarn.com/pages/fall-festival",
+      "credit": "rowleysredbarn.com",
+      "alt": "Pumpkin fields at Rowley’s Red Barn.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-red-hills-desert-garden-9.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Red_Hills_Desert_Garden_kz02.jpg/1280px-Red_Hills_Desert_Garden_kz02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0xd0d2e1c081bb6c6b",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Red_Hills_Desert_Garden_kz02.jpg",
+      "credit": "Krzysztof Ziarnek, Kenraiz",
+      "alt": "The walking path and desert plants at Red Hills Desert Garden.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-scary-hill-cherry-hill-243.webp",
+      "url": "https://wp-cdn-cherry-hill.s3.amazonaws.com/prod/uploads/Scary-Hill-11.jpg",
+      "reviewHash": "0x666c6a66a4656526",
+      "sourcePage": "https://cherry-hill.com/scary-hill/",
+      "credit": "cherry-hill.com",
+      "alt": "Halloween decorations on Cherry Hill’s mini-golf course.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-skalloween-250.webp",
+      "url": "https://static.wixstatic.com/media/bda7c02f80a942509d497076f05be376.jpg/v1/fill/w_5616,h_3744,al_c,q_90/bda7c02f80a942509d497076f05be376.jpg",
+      "reviewHash": "0x7131d3ee34b2d8f4",
+      "sourcePage": "https://www.ogdenepic.com/event-details/skalloween",
+      "credit": "ogdenepic.com",
+      "alt": "A close-up of a trumpet and its valves.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-skull-paint-pour-candle-workshop-the-wick-lab-252.webp",
+      "url": "https://www.thewicklab.com/wp-content/uploads/sites/8131/2026/09/OGDEN-Skull-Paint-Pour-Workshop-image-1.jpg?resize=360%2C240&zoom=2",
+      "reviewHash": "0xe464e1f1f1e0e6e4",
+      "sourcePage": "https://www.thewicklab.com/ogden/skull-paint-pour-workshop/",
+      "credit": "thewicklab.com",
+      "alt": "A painted skull candle jar at The Wick Lab.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-studio-31.webp",
+      "url": "https://studiosaltlake.com/wp-content/uploads/2023/10/Slide-15-768x768.jpg",
+      "reviewHash": "0xe864131050736dd9",
+      "sourcePage": "https://studiosaltlake.com/",
+      "credit": "studiosaltlake.com",
+      "alt": "A DJ performing inside Studio at Soundwell.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-souanime-convention-207.webp",
+      "url": "https://www.souanime.com/_next/image?url=%2Fimages%2F2025-1.jpeg&w=1920&q=75",
+      "reviewHash": "0x6c0e33acc84c5c34",
+      "sourcePage": "https://www.souanime.com/",
+      "credit": "souanime.com",
+      "alt": "Costumed attendees at an earlier SoUAnime convention.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-syracusemuseum-92.webp",
+      "url": "https://www.syracuseut.gov/ImageRepository/Document?documentID=1546",
+      "reviewHash": "0xff772722a1a79f1c",
+      "sourcePage": "https://www.syracuseut.gov/243/Museum",
+      "credit": "syracuseut.gov",
+      "alt": "The historic buildings at Syracuse Regional Museum.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-spooktober-thanksgiving-point-276.webp",
+      "url": "https://thanksgivingpoint.org/app/uploads/2024/08/Scarecrow25_825.jpg",
+      "reviewHash": "0xb636764828181021",
+      "sourcePage": "https://thanksgivingpoint.org/event/spooktober/",
+      "credit": "thanksgivingpoint.org",
+      "alt": "A scarecrow displayed in Ashton Gardens.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-springville-museum-35.webp",
+      "url": "https://smofa.org/uploads/files/5045/xlarge/Website-Home-Page-Image.png",
+      "reviewHash": "0xc2ce6c70e81149e8",
+      "sourcePage": "https://smofa.org/",
+      "credit": "smofa.org",
+      "alt": "The exterior of Springville Museum of Art.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-swift-pumpkins-dog-daze-in-the-maze-294.webp",
+      "url": "https://images.squarespace-cdn.com/content/v1/587d499b46c3c46130e8ecdf/1769454285975-0KVX2XP7YK5MXF26U3SV/IMG_0044.JPG",
+      "reviewHash": "0xb0e03032f2f0ceb8",
+      "sourcePage": "https://www.swiftpumpkins.com/corn-maze-play-zone-dates-and-times",
+      "credit": "swiftpumpkins.com",
+      "alt": "A path through the corn maze at Swift Pumpkins.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-ashton-103.webp",
+      "url": "https://thanksgivingpoint.org/app/uploads/2024/11/TTOL_AJCredit_825x332-1-scaled.jpg",
+      "reviewHash": "0xca939fd4ceced353",
+      "sourcePage": "https://thanksgivingpoint.org/experience/ashton-gardens/",
+      "credit": "thanksgivingpoint.org",
+      "alt": "Sculptures and landscaping in Ashton Gardens.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-the-morgan-maze-306.webp",
+      "url": "https://irp.cdn-website.com/776d237c/dms3rep/multi/opt/IMG_5264-1920w.jpg",
+      "reviewHash": "0x80c0d1e3c3546000",
+      "sourcePage": "https://www.themorganmaze.com/",
+      "credit": "themorganmaze.com",
+      "alt": "Visitors on a slide at The Morgan Maze.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-tommy-s-express-tunnel-of-terror-layton-328.webp",
+      "url": "https://tommys-express.com/wp-content/uploads/2023/01/UT414-5-1.jpg",
+      "reviewHash": "0xbce456591f5dd9e7",
+      "sourcePage": "https://tommys-express.com/locations/ut414/",
+      "credit": "tommys-express.com",
+      "alt": "The exterior of Tommy’s Express car wash.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-university-place-the-orchard-halloween-display-340.webp",
+      "url": "https://universityplaceorem.com/wp-content/uploads/2026/09/20251009_200357-square-2048x2048.jpg",
+      "reviewHash": "0xd6ca5ae0ecb0f0d2",
+      "sourcePage": "https://universityplaceorem.com/events/2026-orchard-halloween-display/",
+      "credit": "universityplaceorem.com",
+      "alt": "A seasonal decoration displayed at University Place.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-wadley-120.webp",
+      "url": "https://static.showit.co/1200/tAa-T2lbTCeDw2_dJjRBGw/253462/archive_-_quinceanera_2023-07-08_antonella-2690.jpg",
+      "reviewHash": "0xdf9a4e5a9bdbfa6e",
+      "sourcePage": "https://www.wadleyfarms.com/",
+      "credit": "wadleyfarms.com",
+      "alt": "The castle at Wadley Farms.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-utah-olympic-park-autumn-scenic-chairlift-349.webp",
+      "url": "https://utaholympiclegacy.org/wp-content/uploads/2017/10/Image-10-scaled.jpeg",
+      "reviewHash": "0xb2244cda4b6ffc2e",
+      "sourcePage": "https://utaholympiclegacy.org/activity/autumn-scenic-chairlift-rides/",
+      "credit": "utaholympiclegacy.org",
+      "alt": "Autumn trees viewed from Utah Olympic Park’s chairlift.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-utah-symphony-halloween-hijinks-358.webp",
+      "url": "https://usuo.org/app/uploads/2026/03/FAM1-Halloween-Hijinks-2.jpg",
+      "reviewHash": "0xc8cac9c9c1c1e1f4",
+      "sourcePage": "https://utahsymphony.org/event/id/38949/",
+      "credit": "utahsymphony.org",
+      "alt": "A costumed musician at a Utah Symphony Halloween performance.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-viva-la-diva-trickortreat-diva-360.webp",
+      "url": "https://www.thevivaladivashow.com/wp-content/uploads/2020/08/diva-sm.png",
+      "reviewHash": "0x447d7a5a725b0a8a",
+      "sourcePage": "https://thevivaladivashow.com/",
+      "credit": "thevivaladivashow.com",
+      "alt": "Drag performers dressed as fairy-tale characters.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-weeb-streets-3rd-annual-halloween-cosplay-party-303.webp",
+      "url": "https://weebstreets.com/assets/images/image51.jpg?v=2124b9d2",
+      "reviewHash": "0x7178f9e86431b224",
+      "sourcePage": "https://weebstreets.com/",
+      "credit": "weebstreets.com",
+      "alt": "A costumed participant pictured by Weeb Streets.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-wicked-way-5k-halloween-party-379.webp",
+      "url": "https://d368g9lw5ileu7.cloudfront.net/races/race151013-customSectionAttachment6aa9802079a5d3.21453660.png",
+      "reviewHash": "0x41414d2d18982372",
+      "sourcePage": "https://runsignup.com/Race/UT/Logan/WickedWay",
+      "credit": "runsignup.com",
+      "alt": "Costumed participants gathered at a Wicked Way Halloween activity.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-gardner-village-25.webp",
+      "url": "https://www.gardnervillage.com/post_gallery/378_large_witch-brew.jpg",
+      "reviewHash": "0x5bda526c6c65a3b1",
+      "sourcePage": "https://www.gardnervillage.com/",
+      "credit": "gardnervillage.com",
+      "alt": "Seasonal witch displays in a shop at Gardner Village.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-witchy-woman-halloween-special-388.webp",
+      "url": "https://images.squarespace-cdn.com/content/v1/5d766d269a8f4a561ad27262/633b5596-428e-4b28-84c9-1522aa9fd6ad/03.31.2023%2BVenue%2BPhotos%2BS%26S%2B002.webp",
+      "reviewHash": "0xefece4a46c64e444",
+      "sourcePage": "https://www.metromusichall.com/",
+      "credit": "metromusichall.com",
+      "alt": "The stage and auditorium at Metro Music Hall.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-hogle-zoo-141.webp",
+      "url": "https://www.hoglezoo.org/wp-content/uploads/2023/01/Savannah-Safari-1-768x512.jpg",
+      "reviewHash": "0x1c9c8dac66e3e3ec",
+      "sourcePage": "https://www.hoglezoo.org/",
+      "credit": "Hogle Zoo",
+      "alt": "A lion resting in its habitat at Hogle Zoo.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-salt-lake-tabernacle-4.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Salt_Lake_Tabernacle_organ.jpg/1280px-Salt_Lake_Tabernacle_organ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0xf286b3330d554d31",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Salt_Lake_Tabernacle_organ.jpg",
+      "credit": "Lomrjyo",
+      "alt": "A historical photograph of the organ and seating inside Salt Lake Tabernacle.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-utah-human-race-334.webp",
+      "url": "https://www.utahfoodbank.org/wp-content/uploads/2025/01/Utah-Human-Race-2022-596-2048x1362.jpg",
+      "reviewHash": "0xd1958501497abebc",
+      "sourcePage": "https://www.utahfoodbank.org/events/utah-human-race/",
+      "credit": "utahfoodbank.org",
+      "alt": "Costumed participants running at an earlier Utah Human Race.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-sundance-387.webp",
+      "url": "https://www.sundanceresort.com/site/assets/files/31150/fall_landscape_2020_001.1000x1067.jpg",
+      "reviewHash": "0xf8984661e8f4f2ff",
+      "sourcePage": "https://www.sundanceresort.com/",
+      "credit": "sundanceresort.com",
+      "alt": "Autumn colors in the mountains at Sundance.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-halloween-family-night-bean-life-science-museum-55.webp",
+      "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_787,q_65,w_639/v1/clients/utahvalley/2_ca1a1dc4-7f63-41d1-b316-0e29d445fad1.jpg",
+      "reviewHash": "0x86ac4d5059595a4f",
+      "sourcePage": "https://www.utahvalley.com/holiday-events-christmas-lights/",
+      "credit": "utahvalley.com",
+      "alt": "Visitors beside illuminated holiday displays at Luminaria.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-annual-crazy-daisy-holiday-boutique-412.webp",
+      "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_428,q_65,w_1024/v1/clients/saltlake/temp_0826dc6b_216a_4a35_bc40_bc50dc647668_1421588b-0ef1-4a4d-8716-66595e562091.jpg",
+      "reviewHash": "0xe2d2b13999ccc662",
+      "sourcePage": "https://www.visitsaltlake.com/mountain-america-expo-center/attend/facility-events-calendar/",
+      "credit": "visitsaltlake.com",
+      "alt": "The exterior of Mountain America Expo Center.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-abravanel-hall-cc-173.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Abravanel_hall_house.jpg/1280px-Abravanel_hall_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "reviewHash": "0xe0e0d170e1f1f1cc",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Abravanel_hall_house.jpg",
+      "credit": "Ricardo630",
+      "alt": "Inside Abravanel Hall, looking toward the concert stage.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "destination": "assets/photos/reviewed-capitol-theatre-21.webp",
+      "url": "https://www.saltlakecountyarts.org/wp-content/uploads/2018/11/Capitol-2-900x600.jpg",
+      "reviewHash": "0x40c28383232b2bc8",
+      "sourcePage": "https://www.saltlakecountyarts.org/venues/capitol-theatre/",
+      "credit": "Salt Lake County Arts & Culture",
+      "alt": "The stage inside Capitol Theatre.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-candlelight-christmas-420.webp",
+      "url": "https://www.thisistheplace.org/wp-content/uploads/2024/10/MG_2764-2-scaled.jpg",
+      "reviewHash": "0x2939f9ccccf9dab0",
+      "sourcePage": "https://www.thisistheplace.org/events/",
+      "credit": "thisistheplace.org",
+      "alt": "Santa Claus greeting a child at This Is the Place Heritage Park.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-a-cody-fry-christmas-425.webp",
+      "url": "https://usuo.org/app/uploads/2026/03/SP-A-Cody-Fry-Christmas.jpg",
+      "reviewHash": "0x9898999993a3c5cd",
+      "sourcePage": "https://utahsymphony.org/event/id/39371/",
+      "credit": "utahsymphony.org",
+      "alt": "Cody Fry in an official promotional portrait.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-holiday-pops-extravaganza-in-ogden-426.webp",
+      "url": "https://usuo.org/app/uploads/2025/08/25-26-POPS-3-Holiday-Pops-Primary-1.png",
+      "reviewHash": "0xf6d6b6b2b0b4b472",
+      "sourcePage": "https://usuo.org/tickets/subscriptions/design-a-series/",
+      "credit": "usuo.org",
+      "alt": "A child playing violin in a Santa hat.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-conference-center-salt-lake-city-6.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2013_Conference_Center_%28Salt_Lake_City%29_%284%29.jpg/1280px-2013_Conference_Center_%28Salt_Lake_City%29_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0xfef4f83091d8d9b5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2013_Conference_Center_(Salt_Lake_City)_(4).jpg",
+      "credit": "Chris06",
+      "alt": "The auditorium inside the Conference Center at Temple Square.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-here-comes-santa-claus-429.webp",
+      "url": "https://usuo.org/app/uploads/2026/03/FAM2-Here-Comes-Santa-Claus.jpg",
+      "reviewHash": "0x3034286971703272",
+      "sourcePage": "https://usuo.org/tickets/subscriptions/design-a-series/",
+      "credit": "usuo.org",
+      "alt": "A singer performing in a Santa costume.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-disneys-the-muppet-christmas-carol-in-concert-431.webp",
+      "url": "https://usuo.org/app/uploads/2026/03/FILM2-The-Muppet-Christmas-Carol-2.jpg",
+      "reviewHash": "0x2d25698dcd447211",
+      "sourcePage": "https://usuo.org/tickets/subscriptions/design-a-series/",
+      "credit": "usuo.org",
+      "alt": "A promotional still featuring the Muppets and Ebenezer Scrooge.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-north-pole-express-2026-347.webp",
+      "url": "https://hebervalleyrr.antix.io/media/0cd34569-82b8-4968-a594-a1117af00653",
+      "reviewHash": "0x494e8e99e464c60f",
+      "sourcePage": "https://hebervalleyrr.antix.io/event/northpoleexpress",
+      "credit": "hebervalleyrr.antix.io",
+      "alt": "Passengers in a decorated vintage coach on Heber Valley Railroad.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-solitude-369.webp",
+      "url": "https://www.solitudemountain.com/-/media/solitude/team-solitude/race-team/2022_01_23_solitude_mountain_resort_ck_race_team_0020.jpg?w=1024&rev=df16064498ba40889c3ee4a966dd8f68&hash=85BC43CD71D96C0AA7FFC5AA0DCF4951",
+      "reviewHash": "0xf325656565e5e3e3",
+      "sourcePage": "https://www.solitudemountain.com/",
+      "credit": "solitudemountain.com",
+      "alt": "Skiers gathered at Solitude Mountain Resort.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-lindon-turkey-trot-2026-439.webp",
+      "url": "https://lindon.gov/ImageRepository/Document?documentId=1629",
+      "reviewHash": "0x6e6a6b666126cecc",
+      "sourcePage": "https://lindon.gov/315/Community-Events",
+      "credit": "lindon.gov",
+      "alt": "Participants in turkey costumes at the Lindon Turkey Trot.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-eccles-theater-12.webp",
+      "url": "https://www.saltlakecountyarts.org/wp-content/uploads/2018/12/Eccles1-900x600.jpg",
+      "reviewHash": "0x7898c4e55c9d1f4b",
+      "sourcePage": "https://www.saltlakecountyarts.org/venues/eccles-theater/",
+      "credit": "Salt Lake County Arts & Culture",
+      "alt": "The auditorium and stage inside Eccles Theater.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-caleb-chapman-s-cool-yule-451.webp",
+      "url": "https://www.visitogden.com/imager/www_trumba_com/i/DgBa-3mm2wOtRJQeUhiQAwdQ_91852798b59be8b28fc00edfe4aec23a.jpg",
+      "reviewHash": "0x6476ba7d4944c0c0",
+      "sourcePage": "https://www.visitogden.com/events/caleb-chapmans-cool-yule/",
+      "credit": "visitogden.com",
+      "alt": "Musicians performing with Caleb Chapman’s ensemble.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-live-nativity-christmas-celebration-453.webp",
+      "url": "https://www.earthdiver.com/cdn-cgi/image/width=800,quality=75,format=auto/https://assets.earthdiver.com/media/media-image-2727622.jpg?w=4032&h=3024&tick=1726605948078",
+      "reviewHash": "0xc9e0e4c6ce3c2568",
+      "sourcePage": "https://www.gohebervalley.com/nativity-christmas-celebration/",
+      "credit": "gohebervalley.com",
+      "alt": "A nativity display in a performance space.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-dinos-in-the-snow-454.webp",
+      "url": "https://dinosaurpark.org/wp-content/uploads/2025/08/Dinos-in-the-Snow-Grinch-explores-1024x682.jpg",
+      "reviewHash": "0x3939272723494100",
+      "sourcePage": "https://dinosaurpark.org/dinos-in-the-snow/",
+      "credit": "dinosaurpark.org",
+      "alt": "Illuminated dinosaur displays at the George S. Eccles Dinosaur Park.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-sterling-singers-2026-christmas-concert-456.webp",
+      "url": "https://sterlingsingers.org/wp-content/uploads/2026/08/ss-photo-2026.jpg",
+      "reviewHash": "0xeae07046cccccccc",
+      "sourcePage": "https://sterlingsingers.org/",
+      "credit": "sterlingsingers.org",
+      "alt": "Sterling Singers arranged on a concert stage.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-libraryhall-1.webp",
+      "url": "https://cdn.prod.website-files.com/6466e1576cfd39b21cb7d7c6/65f680c4e7bc08dbe3b07686_OremHall-8.jpg",
+      "reviewHash": "0x4db7c6cc9ce68616",
+      "sourcePage": "https://www.reaveley.com/projects/orem-library-hall",
+      "credit": "reaveley.com",
+      "alt": "The auditorium and stage inside Orem Library Hall.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-cache-valley-civic-ballet-the-nutcracker-471.webp",
+      "url": "https://static.wixstatic.com/media/813be7_4b55b092d77c4a0ba6d55fafd9a4ff70~mv2_d_6652_4435_s_4_2.jpg/v1/fill/w_2500,h_1666,al_c/813be7_4b55b092d77c4a0ba6d55fafd9a4ff70~mv2_d_6652_4435_s_4_2.jpg",
+      "reviewHash": "0x713397cc4d4c0f69",
+      "sourcePage": "https://cachearts.org/",
+      "credit": "cachearts.org",
+      "alt": "The auditorium inside Ellen Eccles Theatre.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-the-pigeon-gets-a-big-time-holiday-extravaganza-478.webp",
+      "url": "https://saltlakeactingcompany.org/images/slider/hero4.jpeg",
+      "reviewHash": "0x767c6e6e2b3b796f",
+      "sourcePage": "https://saltlakeactingcompany.org/",
+      "credit": "saltlakeactingcompany.org",
+      "alt": "A performer and pigeon puppet in a holiday stage production.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-noorda-30.webp",
+      "url": "https://www.uvu.edu/thenoorda/images/homepage/noorda_header.jpg",
+      "reviewHash": "0x6f6fef4e4ede9cdd",
+      "sourcePage": "https://www.uvu.edu/thenoorda/",
+      "credit": "uvu.edu",
+      "alt": "The stage and auditorium at The Noorda.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-scera-41.webp",
+      "url": "https://scera.org/wp-content/uploads/2024/05/p2308-Scera-exteriors-084_smaller.jpg",
+      "reviewHash": "0x8aaace160f3a99f9",
+      "sourcePage": "https://scera.org/",
+      "credit": "SCERA",
+      "alt": "The exterior of the SCERA Center for the Arts.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-umfa-holiday-market-2026-482.webp",
+      "url": "https://umfa.utah.edu/wp-content/uploads/2025/09/202412_Holiday-Market_35-2048x1365.jpg",
+      "reviewHash": "0xe432326276f2d2f2",
+      "sourcePage": "https://umfa.utah.edu/event/holiday-market-2026/2026-12-05/",
+      "credit": "umfa.utah.edu",
+      "alt": "Vendor booths at the Utah Museum of Fine Arts holiday market.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-covey-center-1.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Covey_Center_for_the_Arts_%2841556186342%29.jpg/1280px-Covey_Center_for_the_Arts_%2841556186342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0x33b2f437a22ef5f5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Covey_Center_for_the_Arts_(41556186342).jpg",
+      "credit": "Ben P L",
+      "alt": "The entrance to Covey Center for the Arts.",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-browning-center-cc-177.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/US_Utah_Ogden_WSU_Browning_Center.JPG/1280px-US_Utah_Ogden_WSU_Browning_Center.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "reviewHash": "0x383bec8c99984403",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:US_Utah_Ogden_WSU_Browning_Center.JPG",
+      "credit": "Thomas Wozniak",
+      "alt": "The exterior of Weber State University’s Browning Center.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "destination": "assets/photos/reviewed-breakfast-with-santa-grand-america-507.webp",
+      "url": "https://stgalawebprod.blob.core.windows.net/app-grand-strapi-prod-storage/uploads/gasanta_18_1200x800_5b2df79_4004e0cbd7.jpg",
+      "reviewHash": "0xe8e86969656968e",
+      "sourcePage": "https://www.grandamerica.com/events/breakfast-with-santa-2026-12-18",
+      "credit": "grandamerica.com",
+      "alt": "Santa and Mrs. Claus pictured at the Grand America.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-breakfast-with-santa-little-america-508.webp",
+      "url": "https://stgalawebprod.blob.core.windows.net/app-little-strapi-prod-storage/uploads/gasanta_59_23fea72d42.jpg",
+      "reviewHash": "0x19357711335b6873",
+      "sourcePage": "https://www.saltlake.littleamerica.com/events/breakfast-with-santa-2026-12-06",
+      "credit": "saltlake.littleamerica.com",
+      "alt": "Santa and Mrs. Claus pictured at Little America.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-utah-state-capitol-13.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Utah_State_Capitol_Building_in_2022.jpg/1280px-Utah_State_Capitol_Building_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0x9033c488d0d01020",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Utah_State_Capitol_Building_in_2022.jpg",
+      "credit": "GyozaDumpling",
+      "alt": "The Utah State Capitol building.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-winter-solstice-sound-bath-bow-sanctuary-531.webp",
+      "url": "https://images.squarespace-cdn.com/content/v1/5a90d24e5b409b23fc1e80b6/1789667283370-SRYAATN6ON50SUW1C2PY/PXL_20250126_004207553.PORTRAIT.ORIGINAL.jpg",
+      "reviewHash": "0xc09133210542c353",
+      "sourcePage": "https://www.mysticheartbeats.com/events",
+      "credit": "mysticheartbeats.com",
+      "alt": "A gong in Botanica’s sound bath space.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-12-bars-of-christmas-bar-crawl-salt-lake-city-543.webp",
+      "url": "https://eadn-wc04-14746903.nxedge.io/wp-content/smush-avif/2025/01/Shades-on-State-Salt-Lake-City-featured-image.jpg.avif",
+      "reviewHash": "0xb3f316377d4df0fb",
+      "sourcePage": "https://crawlwith.us/saltlakecity/christmas/",
+      "credit": "crawlwith.us",
+      "alt": "The interior of Shades on State, a participating crawl venue.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-salt-lake-city-ugly-sweater-bar-crawl-2026-549.webp",
+      "url": "https://pubcrawls.com/wp-content/uploads/2026/04/IMG_4090-768x1025.webp",
+      "reviewHash": "0xa04cc28943d646ba",
+      "sourcePage": "https://pubcrawls.com/tribe_events/salt-lake-city-ugly-sweater-bar-crawl/",
+      "credit": "pubcrawls.com",
+      "alt": "Participants wearing decorated holiday sweaters.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-draper-candy-cane-hunt-555.webp",
+      "url": "https://www.draperutah.gov/media/aripmoe2/dds01897.jpg?width=1600&height=1200&v=1dd26a1ec716ef0&format=webp",
+      "reviewHash": "0xb436262b2b6a6b3a",
+      "sourcePage": "https://www.draperutah.gov/events-programs/community-events/candy-cane-hunt/",
+      "credit": "draperutah.gov",
+      "alt": "A child participating in Draper’s candy cane hunt.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-draper-tree-lighting-ceremony-556.webp",
+      "url": "https://www.draperutah.gov/media/nhcbfner/tree-lighting.jpg?width=1600&height=1600&v=1db61f155fabd30&format=webp",
+      "reviewHash": "0xa9a9f0ec4d4fd8c0",
+      "sourcePage": "https://www.draperutah.gov/events-programs/community-events/tree-lighting-ceremony/",
+      "credit": "draperutah.gov",
+      "alt": "A decorated Christmas tree illuminated at Draper’s tree lighting.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-hometown-christmas-tree-festival-429.webp",
+      "url": "https://exploremorganutah.com/wp-content/uploads/Hometown-Christmas-Tree-Festival-.jpg",
+      "reviewHash": "0x438616c6463c3c3c",
+      "sourcePage": "https://exploremorganutah.com/events-calendar/list/?tribe-bar-date=2026-09-13",
+      "credit": "exploremorganutah.com",
+      "alt": "A decorated tree at Morgan’s Hometown Christmas Tree Festival.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-byu-music-144.webp",
+      "url": "https://brightspotcdn.byu.edu/dims4/default/24b5197/2147483647/strip/true/crop/3840x3840+960+0/resize/3200x3200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Ff2%2F52%2Fb0799d0648cbac5386f42ba71bb1%2F1509-93-154.jpg",
+      "reviewHash": "0xe6f870f132eeb898",
+      "sourcePage": "https://arts.byu.edu/venues",
+      "credit": "arts.byu.edu",
+      "alt": "Inside BYU’s Marriott Center.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-byu-music-142.webp",
+      "url": "https://brightspotcdn.byu.edu/dims4/default/76dc210/2147483647/strip/true/crop/3050x3050+0+0/resize/3200x3200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Fc7%2F7d%2F9f8732dd4ddbb7cc5b989c1134f6%2Fweb-graphics.jpg",
+      "reviewHash": "0x8ecdd99a989e7ec3",
+      "sourcePage": "https://arts.byu.edu/venues",
+      "credit": "arts.byu.edu",
+      "alt": "The exterior of BYU’s Music Building.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-clinton-blitzen-bash-455.webp",
+      "url": "https://www.clintoncity.net/ImageRepository/Document?documentId=4347",
+      "reviewHash": "0xb3b1a9acacac6c3c",
+      "sourcePage": "https://www.clintoncity.net/2348/Special-Events",
+      "credit": "clintoncity.net",
+      "alt": "Trees decorated with holiday lights by Clinton City.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-rose-wagner-performing-arts-center-12.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Rose_Wagner_Performing_Arts_Center.jpg/1280px-Rose_Wagner_Performing_Arts_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0x70d9ccc9d1d1f979",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rose_Wagner_Performing_Arts_Center.jpg",
+      "credit": "Paul2520",
+      "alt": "The exterior of Rose Wagner Performing Arts Center.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-gordon-s-family-farm-red-nose-ranch-2026-589.webp",
+      "url": "https://gordonfamilyfarms.com/files/2023/11/winter-wonderland-dl.jpg",
+      "reviewHash": "0xe2c0e879faf8fbff",
+      "sourcePage": "https://gordonfamilyfarms.com/winter-wonderland/",
+      "credit": "gordonfamilyfarms.com",
+      "alt": "Illuminated holiday displays at Gordon’s Family Farm.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-aquarium-lantern-festival-595.webp",
+      "url": "https://livingplanetaquarium.org/wp-content/uploads/OAKLAND-LANTERN-FESTIVAL-SMALL-scaled.jpg",
+      "reviewHash": "0x4c58a1b2a1e50400",
+      "sourcePage": "https://livingplanetaquarium.org/experiences/lantern-festival/",
+      "credit": "livingplanetaquarium.org",
+      "alt": "Illuminated animal lanterns at Loveland Living Planet Aquarium.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-red-butte-83.webp",
+      "url": "https://redbuttegarden.org/media/images/Red-Butte-092923-27-Dave-Titensor.format-jpeg.original.jpg",
+      "reviewHash": "0xe0e0e0b0e4e4e460",
+      "sourcePage": "https://redbuttegarden.org/",
+      "credit": "Red Butte Garden",
+      "alt": "A planted walkway at Red Butte Garden.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-utah-food-bank-holiday-food-fund-drive-475.webp",
+      "url": "https://www.utahfoodbank.org/wp-content/uploads/2025/03/IMG_0919-1536x1024.jpg",
+      "reviewHash": "0xb4d4d4d696557878",
+      "sourcePage": "https://www.utahfoodbank.org/events/holiday-food-fund-drive/",
+      "credit": "utahfoodbank.org",
+      "alt": "Food donation barrels filled for Utah Food Bank.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-christmas-dinner-at-swen-s-628.webp",
+      "url": "https://www.snowpine.com/site/assets/files/48247/picture-perfect-holiday-savings.1200x0.jpg",
+      "reviewHash": "0x7571d112333371a4",
+      "sourcePage": "https://www.snowpine.com/events/christmas-dinner-at-swens/",
+      "credit": "snowpine.com",
+      "alt": "The dining room at Swen’s Restaurant in Snowpine Lodge.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-ski-with-santa-at-alta-496.webp",
+      "url": "https://www.snowpine.com/site/assets/files/48241/ski-with-santa-at-alta.1200x0.png",
+      "reviewHash": "0xf00f0c8c9bdc65fc",
+      "sourcePage": "https://www.snowpine.com/events/ski-with-santa-at-alta/",
+      "credit": "snowpine.com",
+      "alt": "Santa Claus skiing on a snowy slope at Alta.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-alta-nye-torchlight-parade-fireworks-630.webp",
+      "url": "https://res.cloudinary.com/altaskiarea/image/upload/f_auto,q_auto/e_gradient_fade:25,x_0.4/e_gradient_fade:15,y_0.20/e_gradient_fade:30,y_-0.5/v1606939727/resources/Alta-Environmental-Center/Iz-03-11-2019-2100x1400-edf792ae-58ca-49b9-8c15-106c8617cbd1.jpg",
+      "reviewHash": "0x4d4f6f6f5f4fe7ef",
+      "sourcePage": "https://www.alta.com/events/torchlight-parade",
+      "credit": "alta.com",
+      "alt": "Skiers on the slopes at Alta.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-grand-america-holiday-brunch-at-laurel-634.webp",
+      "url": "https://stgalawebprod.blob.core.windows.net/app-grand-strapi-prod-storage/uploads/GA_Laurel_Entrance_Xmas_DSC_06223_Edit_0536387a20.jpg",
+      "reviewHash": "0x6e64f490a82c3eec",
+      "sourcePage": "https://www.grandamerica.com/events/holiday-brunch-2026-12-24",
+      "credit": "grandamerica.com",
+      "alt": "The entrance to Laurel Brasserie & Bar at the Grand America.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-grand-america-holiday-saturday-brunch-635.webp",
+      "url": "https://stgalawebprod.blob.core.windows.net/app-grand-strapi-prod-storage/uploads/DSC_02299_d0c1e1bef2.jpg",
+      "reviewHash": "0x1d1c1c1410283810",
+      "sourcePage": "https://www.grandamerica.com/events/saturday-brunch-2026-11-28",
+      "credit": "grandamerica.com",
+      "alt": "A guitarist performing at Laurel Brasserie & Bar.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-pickleville-on-tour-sheriff-kringle-farmington-506.webp",
+      "url": "https://cdn.prod.website-files.com/612d5cb39eea7f119df6ea34/6aac16bac644a5a7155b37a3_67df7e1a0d8db58dfce2e8635bdab0ec_christmasgal.avif",
+      "reviewHash": "0x27a71b070f17130e",
+      "sourcePage": "https://www.picklevilleontour.com/about-the-show",
+      "credit": "picklevilleontour.com",
+      "alt": "A costumed performer pictured by Pickleville on Tour.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-mormontemple-418.webp",
+      "url": "https://www.churchofjesuschrist.org/imgs/215a9dc2298511eeacb9eeeeac1e26338fda42c9/full/3840%2C/0/default",
+      "reviewHash": "0xc8f4f0f9cc880818",
+      "sourcePage": "https://www.churchofjesuschrist.org/temples/details/st.-george-utah-temple?lang=eng",
+      "credit": "churchofjesuschrist.org",
+      "alt": "The exterior and grounds of the St. George Utah Temple.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-cedar-city-downtown-lighting-ceremony-665.webp",
+      "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/ironcountyut/Christmas_Lights_Holiday_Map_2024_Dallas_9490_32e974f9-96e6-4105-b2bd-e131af18edb9.jpg",
+      "reviewHash": "0x9234b5754ccb0d2",
+      "sourcePage": "https://visitcedarcity.com/blog/post/holiday-lights-in-cedar-city-parowan-and-brian-head/",
+      "credit": "visitcedarcity.com",
+      "alt": "Visitors walking through a holiday light display in Cedar City.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-monarch-44.webp",
+      "url": "https://images.squarespace-cdn.com/content/v1/67548031c2a7aa1eb794395d/bdaa7816-c612-4891-918c-3e4ce723a77d/Monarch-Happ-hero3.jpg?format=2500w",
+      "reviewHash": "0x272c2c38a7357e00",
+      "sourcePage": "https://themonarchogden.com/",
+      "credit": "themonarchogden.com",
+      "alt": "The exterior of The Monarch in Ogden.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-parowan-christmas-in-the-country-676.webp",
+      "url": "https://435locals.com/wp-content/uploads/event-manager-uploads/event_banner/2026/10/Screenshot-2026-10-03-134901.png",
+      "reviewHash": "0xbf327131d1d0c9d3",
+      "sourcePage": "https://435locals.com/event/parowan-christmas-in-the-country/",
+      "credit": "435locals.com",
+      "alt": "Santa and Mrs. Claus on a Christmas parade float in Parowan.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-lindon-halloween-spooktacular-688.webp",
+      "url": "https://www.lindon.gov/ImageRepository/Document?documentID=1628",
+      "reviewHash": "0x1c30f0f4f076b697",
+      "sourcePage": "https://www.lindon.gov/m/calendar/event/detail/712",
+      "credit": "lindon.gov",
+      "alt": "Visitors gathering in a park for Lindon’s Halloween celebration.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-12-bars-of-christmas-bar-crawl-salt-lake-city-545.webp",
+      "url": "https://eadn-wc04-14746903.nxedge.io/wp-content/smush-avif/2026/09/250911-SKY-120-768x432.jpg.avif",
+      "reviewHash": "0x26caf0f0d098a8b0",
+      "sourcePage": "https://crawlwith.us/saltlakecity/christmas/",
+      "credit": "crawlwith.us",
+      "alt": "Concert lighting and a crowd inside SKY SLC.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-saltlakechoir-225.webp",
+      "url": "https://static.wixstatic.com/media/a7267c_57de852f1f724726bacdad3fe50f9b08~mv2.png",
+      "reviewHash": "0x6ce4e07192b27000",
+      "sourcePage": "https://www.saltlakemenschoir.org/",
+      "credit": "saltlakemenschoir.org",
+      "alt": "The Salt Lake Men’s Choir performing with musicians.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-jane-austen-yule-ball-2026-735.webp",
+      "url": "https://www.theregencyguy.com/wp-content/uploads/2026/02/image-1024x649.png",
+      "reviewHash": "0x9ada33353252554f",
+      "sourcePage": "https://theregencyguy.com/jane-austen-yule-ball-2026/",
+      "credit": "theregencyguy.com",
+      "alt": "The Ashton String Quartet, performers at the Jane Austen Yule Ball.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-snowbasin-396.webp",
+      "url": "https://www.snowbasin.com/azure/snowbasin/media/siteassets/images/scenic/fall/dsc04905.jpg?w=1120&h=1600&mode=crop&scale=both&anchor=middle-center&quality=75",
+      "reviewHash": "0x8949da52b6bcfdfe",
+      "sourcePage": "https://www.snowbasin.com/",
+      "credit": "snowbasin.com",
+      "alt": "Visitors at Snowbasin during an autumn festival.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-salt-palace-convention-center-17.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Salt_Palace_Convention_Center_%27Salt_Shaker%27_-_Salt_Lake_City%2C_Utah_-_21_April_2024.jpg/1280px-Salt_Palace_Convention_Center_%27Salt_Shaker%27_-_Salt_Lake_City%2C_Utah_-_21_April_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0xdc64672764676764",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Salt_Palace_Convention_Center_%27Salt_Shaker%27_-_Salt_Lake_City,_Utah_-_21_April_2024.jpg",
+      "credit": "Beneathtimp",
+      "alt": "The Salt Palace Convention Center in downtown Salt Lake City.",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "destination": "assets/photos/reviewed-holy-trinity-cathedral-salt-lake-city-19.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Holy_Trinity_Cathedral%2C_Salt_Lake_City.jpg/1280px-Holy_Trinity_Cathedral%2C_Salt_Lake_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0xc48e051206e4f0ec",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Cathedral,_Salt_Lake_City.jpg",
+      "credit": "Tricia Simpson",
+      "alt": "Holy Trinity Greek Orthodox Cathedral in Salt Lake City.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-minersday-247.webp",
+      "url": "https://parkcityminersday.org/cdn/shop/files/police.jpg?v=1708369512&width=3600",
+      "reviewHash": "0xa4b9f8acbc2ccc48",
+      "sourcePage": "https://parkcityminersday.org/",
+      "credit": "parkcityminersday.org",
+      "alt": "The Miners’ Day parade on Park City Main Street.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-salt-lake-city-public-library-169.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/SLC_Library_amphitheater_%2843885933231%29.jpg/1280px-SLC_Library_amphitheater_%2843885933231%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "reviewHash": "0x90e063615b3291f8",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:SLC_Library_amphitheater_(43885933231).jpg",
+      "credit": "Ben P L",
+      "alt": "The outdoor amphitheatre beside Salt Lake City Public Library.",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "destination": "assets/photos/reviewed-draper-historic-park-31.webp",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/0807_Draper_Historic_Park.jpg/1280px-0807_Draper_Historic_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "reviewHash": "0xb8f2eae191e0e2c6",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:0807_Draper_Historic_Park.jpg",
+      "credit": "Scott Catron",
+      "alt": "Landscaped grounds at Draper Historic Park.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "destination": "assets/photos/reviewed-territorial-statehouse-169.webp",
+      "url": "https://stateparks.utah.gov/wp-content/gallery/territorial-state-house/Territorial_7_3x2-copy-scaled.webp",
+      "reviewHash": "0xc74999859c1410d8",
+      "sourcePage": "https://stateparks.utah.gov/parks/territorial-statehouse/",
+      "credit": "stateparks.utah.gov",
+      "alt": "The historic Territorial Statehouse in Fillmore.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-storytelling-310.webp",
+      "url": "https://timpfest.org/wp-content/uploads/2024/07/OurStory2000x1000.webp",
+      "reviewHash": "0xd2929393b2b2b034",
+      "sourcePage": "https://timpfest.org/",
+      "credit": "timpfest.org",
+      "alt": "A costumed storyteller performing for an audience.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-ashton-gardens-157.webp",
+      "url": "https://thanksgivingpoint.org/app/uploads/2024/08/GOG_825_332_edit.jpg",
+      "reviewHash": "0xf060e0f8e8e8e0c0",
+      "sourcePage": "https://thanksgivingpoint.org/events/garden-of-quilts/",
+      "credit": "thanksgivingpoint.org",
+      "alt": "Quilts hanging among the trees in Ashton Gardens.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-woodshed-320.webp",
+      "url": "https://img1.wsimg.com/isteam/ip/b563b5c9-5618-45d4-9c01-60fb94765780/20241116_194947.jpg",
+      "reviewHash": "0xed2d191225b4f806",
+      "sourcePage": "https://www.woodshedfest.com/",
+      "credit": "woodshedfest.com",
+      "alt": "Musicians performing at Woodshed Music Festival.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-deer-valley-128.webp",
+      "url": "https://www.deervalley.com/-/media/deer-valley/activities/mountain-beer-festival/group-cheers-at-deer-valley-mountain-beer-festival.jpg?rev=63466ba57e1f4632b5bd6975fbfdb4f4?h=1012&w=1800&hash=4DAD30B987F39B8DC9DF05B8B9C8383F",
+      "reviewHash": "0x743494d65968f2b2",
+      "sourcePage": "https://www.deervalley.com/media-room/070826-5th-annual-beer-fest",
+      "credit": "deervalley.com",
+      "alt": "Guests raising tasting glasses at Deer Valley’s Mountain Beer Festival.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-conservationgarden-189.webp",
+      "url": "https://conservationgardenpark.org/file/71984531-14e2-4908-8c99-fc12d8167386/4S4B4181.jpg",
+      "reviewHash": "0x7c2ce4d5d554d410",
+      "sourcePage": "https://conservationgardenpark.org/",
+      "credit": "conservationgardenpark.org",
+      "alt": "Autumn foliage at Conservation Garden Park.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-antelope-island-199.webp",
+      "url": "https://stateparks.utah.gov/wp-content/uploads/Antelope-Island_cover_16x9-scaled.webp",
+      "reviewHash": "0xb2e6548e0c80de9e",
+      "sourcePage": "https://stateparks.utah.gov/parks/antelope-island/",
+      "credit": "stateparks.utah.gov",
+      "alt": "The Great Salt Lake shoreline at Antelope Island.",
+      "license": null,
+      "licenseUrl": null
+    },
+    {
+      "destination": "assets/photos/reviewed-snowbird-137.webp",
+      "url": "https://www.snowbird.com/_bluedrop/images/sites/default/files/2024-08/9.17.23.Otto-70_events_oktoberfest_halle_1000x667.jpg?u=aHR0cHM6Ly9jbXMuc25vd2JpcmQuY29tL3NpdGVzL2RlZmF1bHQvZmlsZXMvMjAyNC0wOC85LjE3LjIzLk90dG8tNzBfZXZlbnRzX29rdG9iZXJmZXN0X2hhbGxlXzEwMDB4NjY3LmpwZw%3D%3D&d=212089c47116072c4361575e02bb9ba8&q=75&w=1000&h=667",
+      "reviewHash": "0x8eadea823407969e",
+      "sourcePage": "https://www.snowbird.com/activities-events/oktoberfest/snowbird-oktoberfest/",
+      "credit": "snowbird.com",
+      "alt": "Guests gathered in Snowbird’s Oktoberfest tent.",
+      "license": null,
+      "licenseUrl": null
+    }
+  ]
+}

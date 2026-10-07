@@ -27,4 +27,20 @@ console.log('Final-night rollover remains visible until closing');
 
 vm.runInContext(fs.readFileSync('assets/vibes.js','utf8'),ctx);const vs=ctx.window.VIBE_GUIDES;assert.equal(vs.length,27);assert.equal(new Set(vs.map(v=>v.id)).size,27);for(const v of vs){assert(v.description.length>40);assert(d.events.some(e=>ctx.window.matchesVibe(e,v)),v.id+' empty collection');}const dogs=vs.find(v=>v.id==='dogs');assert(ctx.window.matchesVibe(d.events.find(e=>e.id==='hounds-haunts'),dogs));assert(!ctx.window.matchesVibe(d.events.find(e=>e.id==='frightmares-at-lagoon'),dogs));console.log('Explained vibe collections and dog membership passed');
 
-assert(t.isUpcomingSoon(single,'2026-10-06'));assert(!t.isUpcomingSoon(notable,'2026-10-06'));console.log('Collection examples prefer the next 45 days');
+assert(t.isUpcomingSoon(single,'2026-10-06'));assert(!t.isUpcomingSoon(notable,'2026-10-06'));console.log('Notable priority respects the next 45 days');
+
+// Every ordering tier remains chronological, even when a notable is also single-day.
+const ns=fixture('ns','Z notable single',['2026-10-20'],true),nm=fixture('nm','A notable multi',['2026-10-15','2026-10-16'],true);
+assert(t.compareEvents(nm,ns,'recommended','2026-10-06')<0);
+assert(t.compareEvents(fixture('early','Z early',['2026-10-09']),fixture('late','A late',['2026-10-10']),'recommended','2026-10-06')<0);
+assert(!t.isSingleDay({...single,recurrence:'weekly'}));assert(t.isSingleDay({...single,recurrence:'annual'}));
+assert(t.compareEvents({...recurring,startDate:'2026-09-01'},fixture('later','A later',['2026-10-01','2026-10-02']),'date','2026-10-06')<0);
+const seasonFor=day=>({12:'Winter',1:'Winter',2:'Winter',3:'Spring',4:'Spring',5:'Spring',6:'Summer',7:'Summer',8:'Summer',9:'Fall',10:'Fall',11:'Fall'})[+day.slice(5,7)];
+for(const e of d.events){if(e.isWatch)continue;for(const day of t.parseSchedule(e).dates)assert(e.holidays.includes(seasonFor(day)),e.id+' missing '+seasonFor(day));}
+assert(d.events.find(e=>e.id==='labor-day-luau-at-thanksgiving-point-2026').holidays.includes('Labor Day'));
+assert(!fs.readFileSync('assets/site.js','utf8').includes('rows.length?`<ul>'));
+assert(fs.readFileSync('assets/site.js','utf8').includes('📷:'));
+console.log('Chronological tiers, recurrence, additive seasons, archive backfill and image-credit checks passed');
+
+assert(d.events.filter(e=>e.photo).length>=Math.ceil(d.events.length/2),'At least half of listings have reviewed photos');
+console.log('Photo coverage meets the requested halfway threshold');

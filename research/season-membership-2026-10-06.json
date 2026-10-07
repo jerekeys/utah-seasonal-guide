@@ -1,0 +1,5666 @@
+{
+  "definition": "Fall: September–November; Winter: December–February; Spring: March–May; Summer: June–August. Holiday and cultural tags are additive.",
+  "changes": [],
+  "memberships": [
+    {
+      "id": "2026-roy-community-trick-or-treat",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "agave-after-dark-bats-tequila",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "american-west-heritage-center-fall-harvest-festival-haunted-hollow",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Halloween"
+      ]
+    },
+    {
+      "id": "annual-creepy-doll-class",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "antelope-island-bison-roundup",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "asylum-49",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "autumn-apparitions-2026-jkr-gallery",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "ballet-west-dracula",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "bates-haunt-2026-watch",
+      "seasons": [],
+      "holidays": [
+        "Halloween"
+      ]
+    },
+    {
+      "id": "beams-and-screams-mcauliffe-space-center",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "beetlejuice-house-daybreak",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "bemysecret-anime-con-utah-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "benson-grist-mill-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "big-jack-s-world-outlets-at-traverse-mountain",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "black-island-farms-nightmare-acres",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "blade-rave",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "boo-tiful-bussin-drag-brunch-at-the-mercantile-on-25th",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "book-or-treat-provo-library",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "cache-valley-straw-maze",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "canyon-road-haunt",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "castle-of-chaos",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "center-street-giant-pumpkin-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "clearfield-family-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "clearfield-pumpkin-float",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "climb-moab-halloween-party-costume-contest",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "clinton-halloween-walk",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "cornbelly-s-corn-maze-pumpkin-fest-lehi",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "cornbelly-s-pumpkin-fest-spanish-fork",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "crazy-corn-maze-nightfall-halloween-park",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Halloween"
+      ]
+    },
+    {
+      "id": "creator-s-collective-lindon-halloween-market",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "creator-s-collective-slc-halloween-market",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "creature-crawl-bear-river-migratory-bird-refuge",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "creatures-of-the-night",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "creepy-doll-head-necklace-drop-in-bar",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "crimewave-goth-post-punk-darkwave-party",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "cross-e-ranch-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "cryptids-and-their-folklore-u-of-u-lifelong-learning",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "daft-disko-french-house-disco-halloween",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "daj-dolla-halloween-party-liquid-joe-s",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "dave-boo-ster-s-moonlight-mixer",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "davis-county-library-october-spooktacular-series",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "dead-horse-point-halloween-night-programs",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "d-a-de-los-muertos-kearns-library",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ]
+    },
+    {
+      "id": "d-a-de-los-muertos-shops-at-riverwoods",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ]
+    },
+    {
+      "id": "d-a-de-los-muertos-utah-cultural-celebration-center",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ]
+    },
+    {
+      "id": "dibble-farms-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "dinos-in-the-dark",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "disney-s-hocus-pocus-in-concert",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "dog-daze-in-the-maze-wheeler-historic-farm",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "doomsday-disco-umoca-annual-halloween-bash",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "dracula-vs-the-mummy-off-broadway-theatre",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "dreamwalk-park-halloween-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "eagle-mountain-halloween-town",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "element-11-utah-regional-decompression-2026-watch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "evans-family-farm-pumpkin-patch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "fabio-frizzi-frizzi2fulci",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "fall-market-country-gardens",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "farmers-market-lehi-halloween-night-market",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "fear-lust-utah-horror-x-romance-day",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "fear-factory",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "field-of-fright-glen-ray-s-corn-maze",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Halloween"
+      ]
+    },
+    {
+      "id": "field-of-screams-staheli-family-farm",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "field-of-screams-lights-on-tour-staheli-family-farm",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "fiesta-fright-haunted-house",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "franck-s-autumn-harvest-dinner",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "franck-s-trick-or-treat-tasting-menu-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "fright-night-flick-ghost-tours-lindsey-gardens",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "frightbelly-s-cornbelly-s-lehi",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "frightmares-at-lagoon",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "garden-after-dark-adventures-in-neverland",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "gardner-village-witchfest",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "gateway-giant-pumpkinpalooza-zombie-walk",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Halloween"
+      ]
+    },
+    {
+      "id": "get-freaky-neon-nightmare",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "ghosts-of-camp-floyd",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "gibson-s-green-acres-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "ginormous-pumpkin-regatta",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "glen-ray-s-corn-maze-pumpkin-patch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "goblin-valley-spooky-dark-sky-wildlife-programs",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "golden-braid-s-annual-spookytown-party",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "gordon-s-family-farm-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "granville-graveyard",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "great-pumpkin-5k-haul-a-pumpkin",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "grow-ogden-fall-farm-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-cocktails-bitters-lab-x-u-of-u",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-cruise-clas-ropes-course",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-family-night-bean-life-science-museum",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-family-night-brigham-city-museum",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-festival-spook-alley-sandy-library",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-havoc-demolition-derby",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-ice-skating-cottonwood-heights",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-lift-rides-sundance",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-makers-market-downtown-daybreak",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-storytelling-spooktacular",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-town-a-nightmare-before-christmas-pop-up-bar",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-train-heber-valley-railroad",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "hansel-gretel-storytelling-walk-layton",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "happy-pumpkin-corn-maze",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "harris-halloween-house",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "haunt-on-aster",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "haunted-forest",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "haunted-hollow",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "haunted-provo-night-5k-half-5k-kids-run",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "haunted-salt-lake-city-night-5k-half-5k-kids-run",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "haunted-story-room-provo-library",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "haunted-wood-cove",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "hawkwatch-birds-in-the-lab",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "heber-city-historic-ghost-tours",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "heber-halloween-fest",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "hee-haw-farms-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "hee-haw-farms-giant-pumpkin-drop",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "hines-mansion-halloween-tour",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "historic-25th-street-roaring-20s-halloween-dinner-tour",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "historic-downtown-ghost-tour-logan",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "hocus-pocus-spooktacular-the-ballpark",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "hogle-halloween-a-boo-lights-experience",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "holladay-halloween-bash-county-library",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "horror-icons-vi-feat-priyanka",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "horror-writing-bootcamp-u-of-u-lifelong-learning",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "hotel-vernal-haunt",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "hounds-haunts",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "howl-o-ween-on-historic-main-street",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "hurricane-city-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "jaker-s-jack-o-lanterns",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "kanarra-scare-frisby-farms",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "kinlands-pumpkin-patch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "kohler-creamery-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "kohler-creamery-haunted-hayrides",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "kuwahara-s-pumpkin-patch-thriller-park",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Halloween"
+      ]
+    },
+    {
+      "id": "laser-halloween-clark-planetarium",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "layton-halloween-bash",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "life-afterlife-travis-holp-live",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "little-bear-bottoms-corn-maze-pumpkin-patch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "little-haunts-this-is-the-place",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "little-shop-of-horrors-murray-theater",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "logan-halloween-treat-walk",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "low-light-market",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "mabey-farms-pumpkin-patch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "monster-dash-5k-kids-trick-or-treat-mile",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "murder-at-the-juice-joint-1920s-murder-mystery-dinner",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "murray-haunted-woods",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "night-of-fright-market-university-place",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "night-stalkers-haunted-trail",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "nightmare-on-13th",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "nightmare-on-clown-street-2026-watch",
+      "seasons": [],
+      "holidays": [
+        "Halloween"
+      ]
+    },
+    {
+      "id": "nocturne-film-society-mystery-horror-screening",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "north-logan-pumpkin-walk",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "north-ogden-s-trunk-or-treat",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "north-salt-lake-zombie-chase-spooktacular",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "odd-lake-city-halloween-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "odyssey-dance-theatre-thriller",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "ogden-d-a-de-los-muertos",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ]
+    },
+    {
+      "id": "ogden-halloween-bar-crawl-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "ogden-historic-25th-street-ghost-walk-city-ghost-tour",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "ogden-prep-academy-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "ogden-valley-harvest-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "orem-city-truck-or-treat-university-place",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "otherworld-presents-don-t-blink",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "pack-farms-pumpkin-patch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "park-city-ghost-tours",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "park-city-mining-history-route-museum",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "provo-pioneer-village-harvest-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "puck-s-magical-market",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "pumpkin-paint-sip-copper-nickel",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "pumpkin-patch-jordanelle-ridge",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "pumpkin-train-heber-valley-railroad",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "pumpkins-in-the-park-woods-cross",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "purple-paw-parade-weber-state",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "raven-manor",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "reading-with-raptors-at-discovery-gateway",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "robinson-family-pumpkin-patch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "rocktober-ogden-dinosaur-park",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "rocky-horror-picture-show-peery-s-egyptian",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "rooftop-halloween-display-2026-watch",
+      "seasons": [],
+      "holidays": [
+        "Halloween"
+      ]
+    },
+    {
+      "id": "rowley-s-red-barn-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "salt-lake-city-cemetery-ghost-walk-slc-ghost-tour",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "salt-lake-city-halloween-singles-mixer",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "salt-lake-film-society-tower-of-terror",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "saratoga-springs-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "scarecrow-walk-haunted-canyon-red-hills-desert-garden",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Halloween"
+      ]
+    },
+    {
+      "id": "scary-hill-cherry-hill",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "scarycuse-pumpkin-walk",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "schmidt-s-farm-pumpkin-patch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "skalloween",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "skull-paint-pour-candle-workshop-the-wick-lab",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "slc-guitar-halloween-showcase",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "sojo-halloween-fun-run-5k-ruck-kids-run",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "something-wicked-halloween-pop-up-at-studio",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "souanime-convention",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "south-salt-lake-spooktacular-trunk-or-treat",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "special-exhibit-america-s-haunted-history-syracuse-museum",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "spell-jar-workshops-the-local-artisan-collective",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "spooktacufur-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "spooktober-thanksgiving-point",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "spooky-city-hall-south-salt-lake",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "spooky-game-day-utah-s-cardboard-cabal",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "spooky-light-show-south-jordan",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "spooky-night-trivia-at-tea-bar-slc",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "spooky-science-nights-natural-history-museum-of-utah",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "spooky-week-at-the-bootanical-center",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "spookyfest-at-crone-s-hollow",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "springville-museum-of-art-halloween-party",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "staheli-family-farm-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "swift-pumpkins-dog-daze-in-the-maze",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "syracuse-night-at-the-museum",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "taylorsville-fall-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "teen-halloween-viridian-event-center",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "thanksgiving-point-scarecrow-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-freakshow-a-haunted-cabaret",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-fright-club-at-varley",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-group-project-dance-witches",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-modern-ball-masquerade-ball",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-morgan-maze",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-park-center-trunk-or-treat-murray",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-pirate-yard-spanish-fork",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-princess-in-black-and-the-trick-or-treating-trouble",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-pumpkin-house-pumpkin-palace",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-pumpkin-patch-orem-free-halloween-hayrides",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Halloween"
+      ]
+    },
+    {
+      "id": "the-rocky-horror-picture-show-why-kiki-haus-of-monroe",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "thrillers-ball-icons-of-the-night",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "tinker-day-spooky-circuits",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "tommy-s-express-tunnel-of-terror-layton",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "tommy-s-express-tunnel-of-terror-saratoga-springs",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "trailing-of-the-sheep-mantua-to-brigham-city",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "triple-money-halloween-rave",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "trivia-craft-a-witchcraft-trivia-night",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "trunk-or-treat-in-the-arboretum",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "university-place-the-orchard-halloween-display",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "unleash-your-inner-monster-sfx-makeup-workshop",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "usu-botanical-center-scarecrow-walk",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "utah-metropolitan-ballet-masquerade-ball",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "utah-olympic-park-autumn-scenic-chairlift",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "utah-pagan-market-samhain-festival-2026-watch",
+      "seasons": [],
+      "holidays": [
+        "Samhain"
+      ]
+    },
+    {
+      "id": "utah-pride-halloqueen-ball",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "utah-symphony-halloween-hijinks",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "villains-heroes-halloween-carnival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "viva-la-diva-trickortreat-diva",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "wandering-wizards-halloween-vendor-market",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "weber-basin-water-garden-spooktacular",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "weeb-streets-3rd-annual-halloween-cosplay-party",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "whale-fest-costume-contest-parade",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "what-s-your-favorite-scream-all-scream-trivia",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "wheeler-farm-pumpkin-days",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "whispers-in-the-dark-layton-scary-storytelling-festival",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "wicked-way-5k-halloween-party",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "witch-run-gardner-village",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "witches-night-out-jungle-room",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "witches-night-out-gardner-village",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "witches-night-out-train-heber-valley-railroad",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "witchy-watercolor-painting-series",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "witchy-woman-halloween-special",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "zoobrew-october",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "west-jordan-veterans-day-ceremony",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ]
+    },
+    {
+      "id": "veterans-day-concert-america-250",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ]
+    },
+    {
+      "id": "runtastic-thankful",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ]
+    },
+    {
+      "id": "north-ogden-turkey-trot",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ]
+    },
+    {
+      "id": "south-davis-thanksgiving-day-races",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ]
+    },
+    {
+      "id": "utah-human-race",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ]
+    },
+    {
+      "id": "thanksgiving-brunch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ]
+    },
+    {
+      "id": "luminaria",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "2026-salt-lake-family-christmas-gift-show",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall"
+      ]
+    },
+    {
+      "id": "annual-crazy-daisy-holiday-boutique",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall"
+      ]
+    },
+    {
+      "id": "christmas-in-the-village",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "christmas-village",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "messiah-sing-in",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Christmas",
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-nutcracker-ballet-west",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "christkindlmarkt-slc",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "primary-childrens-festival-of-trees",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "candlelight-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "the-holiday-in-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-cody-fry-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "holiday-pops-extravaganza-in-ogden",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "the-tabernacle-choir-christmas-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "holiday-pops-extravaganza",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "here-comes-santa-claus",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "disneys-the-muppet-christmas-carol-in-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "north-pole-express-2026",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "new-years-eve-torchlight-parade-fireworks-show",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "New Year",
+        "Winter"
+      ]
+    },
+    {
+      "id": "lindon-turkey-trot-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ]
+    },
+    {
+      "id": "yule-fairs-at-crone-s-hollow",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Yule & Solstice",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "ascent-chorus-temple-square-christmas-concert",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall"
+      ]
+    },
+    {
+      "id": "simple-treasures-heber-valley-holiday-boutique",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "cottages-for-the-children-gingerbread-house-auction",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-kurt-bestor-christmas-salt-lake-city",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-drag-queen-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "caleb-chapman-s-cool-yule",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "live-nativity-christmas-celebration",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "dinos-in-the-snow",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "o-come-all-ye-faithful-salt-lake-choral-artists",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "sterling-singers-2026-christmas-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-magical-cirque-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "centerville-tree-lighting",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "pioneer-christmas-at-whitaker-museum",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "syracuse-city-christmas-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "lights-before-christmas-kickoff",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "lights-before-christmas-display",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "layton-holiday-hayrides",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "lighting-of-riverwoods-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "imagine-ballet-theatre-the-nutcracker",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "library-hall-presents-the-nutcracker",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "cache-valley-civic-ballet-the-nutcracker",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "byu-theatre-ballet-the-nutcracker",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "snow-day-a-holiday-family-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "the-pigeon-gets-a-big-time-holiday-extravaganza",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "uvu-sounds-of-the-season",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-christmas-story-the-musical",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "caleb-chapman-s-crescent-christmas-cool-yule-orem",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "grand-america-holiday-tea",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "umfa-holiday-market-2026",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-krampus-karol",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Yule & Solstice",
+        "Winter"
+      ]
+    },
+    {
+      "id": "the-darkest-night",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Yule & Solstice",
+        "Winter"
+      ]
+    },
+    {
+      "id": "sojo-santa-sprint",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "winter-celebrations",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-visit-with-santa-mrs-claus",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "carpenters-platinum-christmas-tribute",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall"
+      ]
+    },
+    {
+      "id": "peter-breinholt-christmas-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-thrill-of-hope-a-christmas-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-truman-brothers-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "shaun-johnson-an-improvised-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "messiah-sing-along-provo",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "magical-lantern-nights",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "always-queer-market-holiday-market",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "always-queer-market-winter-market",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "2026-latin-jingle-dance-party",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "carol-of-drums-festival",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "wsu-symphonic-band-songs-of-the-season",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "tidings-of-joy-41st-annual-holiday-choir-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "utah-santa-5k-10k-half-marathon-gardner-village",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "breakfast-with-santa-gardner-village",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "ogden-santa-run",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall"
+      ]
+    },
+    {
+      "id": "ogden-holiday-electric-light-parade",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "ogden-christmas-village-opening-ceremony-fireworks",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "holiday-ceramics-taylorsville-library",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "family-fun-night-faux-stained-glass-art",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "cottonwood-presbyterian-church-bell-choir-at-whitmore",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "teen-scene-holiday-party",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "nutcracker-suite-holiday-celebration-holladay-library",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "noon-year-celebration-tyler-library",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "New Year",
+        "Winter"
+      ]
+    },
+    {
+      "id": "noon-year-s-eve-daybreak-library",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "New Year",
+        "Winter"
+      ]
+    },
+    {
+      "id": "orem-holiday-performance-utah-baroque-ensemble",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "orem-holiday-performance-cantorum-chamber-choir",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "orem-holiday-performance-celtic-holiday-night",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "orem-holiday-performance-mapleton-chorale",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "orem-holiday-performance-chauntenettes-women-s-chorus",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "orem-holiday-performance-a-christmas-carol",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "breakfast-with-santa-grand-america",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "breakfast-with-santa-little-america",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "holiday-at-university-place-2026",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "scera-christmas-maker-s-market",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-christmas-with-nathan-pacheco",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "university-of-utah-holiday-art-sale",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-christmas-carol-hale-centre-theatre",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-christmas-carol-ogden-musical-theatre",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall"
+      ]
+    },
+    {
+      "id": "a-mariachi-christmas-mariachi-herencia-de-mexico",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "humbug-the-musical",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "byu-vocal-point-noteworthy-a-new-christmas-tradition",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "byu-celebration-of-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-kurt-bestor-christmas-logan",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "christmas-in-the-canyon-tuacahn",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "holiday-inn-tuacahn",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "diwali-family-celebration",
+      "seasons": [],
+      "holidays": [
+        "Diwali"
+      ]
+    },
+    {
+      "id": "a-utah-pre-chanukah-celebration",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Hanukkah",
+        "Winter"
+      ]
+    },
+    {
+      "id": "hanukkah-celebration-at-waldorf-astoria-park-city",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Hanukkah",
+        "Winter"
+      ]
+    },
+    {
+      "id": "nhmu-family-seasonal-science-winter-solstice-dec-13",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Yule & Solstice",
+        "Winter"
+      ]
+    },
+    {
+      "id": "nhmu-family-seasonal-science-winter-solstice-dec-19",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Yule & Solstice",
+        "Winter"
+      ]
+    },
+    {
+      "id": "winter-solstice-sound-bath-alta",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Yule & Solstice",
+        "Winter"
+      ]
+    },
+    {
+      "id": "winter-solstice-sound-bath-bow-sanctuary",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Yule & Solstice",
+        "Winter"
+      ]
+    },
+    {
+      "id": "our-lady-of-guadalupe-celebration-st-bede-s",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "las-posadas-st-bede-s",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "mosaic-turkey-fixins-give-a-way",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "paag-thanksgiving-dinner",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ]
+    },
+    {
+      "id": "paag-christmas-dinner",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "sojo-turkey-run-5k-10k",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ]
+    },
+    {
+      "id": "cowgirl-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "12-bars-of-christmas-bar-crawl-salt-lake-city",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "salt-lake-city-santacon-bar-crawl-2026",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "salt-lake-city-ugly-sweater-bar-crawl-2026",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "ugly-sweater-bingo",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "last-minute-gifting-dec-15",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "last-minute-gifting-dec-22",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "draper-holiday-market",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "draper-candy-cane-hunt",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "draper-tree-lighting-ceremony",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "miracle-on-34th-street-the-musical",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "craft-lake-city-holiday-market",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "midvale-light-up-main-street",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "spirit-of-the-season-at-camp-floyd",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "hometown-christmas-tree-festival",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "saturday-with-santa-taylorsville",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "joy-to-the-world-a-sacred-celebration",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "christmas-around-the-world",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "tuba-christmas-byu",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "christmas-with-vocal-point-noteworthy-provo",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "brassworks-christmas-brass",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "lens-and-light-film-series-white-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "ace-holiday-art-market-2026",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "2026-daybreak-winter-market",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "psm-holiday-concert-capitol-rotunda",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "christmas-cruise-provo-river",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "the-lower-lights-christmas-concerts-2026",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "christmas-from-the-daines-concert-hall-with-gentri",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "odyssey-dance-theatre-christmas-spectacular-spectacular",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "white-christmas-sing-a-long-park-city",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "around-the-world-holiday-market",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "quiet-time-with-mr-mrs-claus-dec-1",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "quiet-time-with-mr-mrs-claus-dec-3",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "breakfast-with-santa-south-salt-lake",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "sandy-city-light-up-the-cairns-2026",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "clearfield-community-choir-christmas-joy",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "clinton-blitzen-bash",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "west-jordan-first-friday-josh-wright-classical-piano-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "christmas-in-color-american-fork",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "how-the-grouch-stole-christmas-live-at-the-complex",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "odyssey-dance-christmas-spectacular-salt-lake-city",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "carpenters-platinum-christmas-salt-lake-city",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "off-white-christmas",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "gordon-s-family-farm-red-nose-ranch-2026",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-christmas-carol-2026-at-the-ruth",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "ace-holiday-music",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "christmas-with-the-alley-cats",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "all-abilities-noon-year-s-eve-pajama-party",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "New Year",
+        "Winter"
+      ]
+    },
+    {
+      "id": "zoolights-2026",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "zoolights-silent-night",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "aquarium-lantern-festival",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "red-butte-garden-holiday-open-house-art-fair",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "around-the-world-winter-wonders-and-cultural-traditions-art-show",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "cottonwood-heights-public-works-sock-drive",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "light-the-heights",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "eclipse-6-christmas-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "south-jordan-america250-light-the-night",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "utah-metropolitan-ballet-the-nutcracker",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "utah-metropolitan-ballet-the-nutcracker-autism-performance",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "historic-park-city-holiday-lights-ceremony",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "historic-park-city-holiday-window-display-contest",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "historic-park-city-snow-globe-stroll",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "historic-park-city-santa-pub-crawl",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "santa-comes-down-the-town-lift",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "gentri-christmas-eccles-theater",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall"
+      ]
+    },
+    {
+      "id": "mannheim-steamroller-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "derek-hough-dance-for-the-holidays",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "utah-food-bank-holiday-food-fund-drive",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "celebrate-in-saratoga-christmas-tree-lighting",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "celebrate-in-saratoga-silent-santa",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "celebrate-in-saratoga-holiday-orchestra-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "santa-s-snowpine-visit",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "snowpine-lodge-elf-on-the-shelf",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "ski-with-santa-at-alta",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "christmas-eve-dinner-at-swen-s",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "reading-of-the-night-before-christmas-snowpine-lodge",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "christmas-dinner-at-swen-s",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "alta-nye-torchlight-parade-fireworks",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter",
+        "New Year"
+      ]
+    },
+    {
+      "id": "sundance-tree-lighting-celebration",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "little-america-thanksgiving-buffet",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ]
+    },
+    {
+      "id": "grand-america-holiday-brunch-at-laurel",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "New Year",
+        "Winter"
+      ]
+    },
+    {
+      "id": "grand-america-holiday-saturday-brunch",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "utopia-early-music-celtic-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Yule & Solstice",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-joshua-creek-christmas",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "the-best-christmas-pageant-ever-old-barn-community-theatre",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "irving-berlin-s-white-christmas-four-seasons-theatre",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "the-johnson-files-an-improvised-christmas-ogden",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "a-christmas-story-the-musical-ziegfeld-theater",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "pickleville-on-tour-sheriff-kringle-farmington",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "pickleville-on-tour-sheriff-kringle-roy",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "pickleville-on-tour-sheriff-kringle-salt-lake-city",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall"
+      ]
+    },
+    {
+      "id": "temple-square-christmas-opening-concert",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall"
+      ]
+    },
+    {
+      "id": "temple-square-daily-christmas-performances",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "west-valley-city-winter-market",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "west-valley-city-holiday-games-tree-lighting",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "santa-the-lights-bluffdale",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "miracle-on-34th-street-bluffdale-arts",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "herriman-night-of-lights",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "herriman-jazz-project-christmas-concert",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "springville-holiday-festival-santa-village",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "springville-santa-village-free-santa-visits",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "santa-s-art-shop-springville-museum-of-art",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "utah-valley-bell-ringers-springville-museum-of-art",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "tubular-christmas-springville-senior-center",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "chabad-southern-utah-public-menorah-lighting-cedar-city",
+      "seasons": [],
+      "holidays": [
+        "Hanukkah"
+      ]
+    },
+    {
+      "id": "chabad-southern-utah-grand-menorah-lighting-st-george",
+      "seasons": [],
+      "holidays": [
+        "Hanukkah"
+      ]
+    },
+    {
+      "id": "st-george-dickens-christmas-festival",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "holiday-lights-at-red-hills-desert-garden",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "st-george-utah-temple-christmas-lights",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "cedar-city-downtown-lighting-ceremony",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "breakfast-with-santa-thanksgiving-point",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "candlelight-christmas-carols-on-strings-salt-lake-masonic-temple",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "candlelight-christmas-classics-clubhouse-on-south-temple",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "candlelight-christmas-carols-on-strings-grand-america",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "candlelight-christmas-carols-on-strings-ogden",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "oddlake-city-christmas-market",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "parowan-christmas-in-the-country",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "capitol-hill-christmas-market",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "ogden-christmas-tree-hike-wasatch-mountain-club",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "brian-head-holiday-lighting-extravaganza",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter",
+        "Fall"
+      ]
+    },
+    {
+      "id": "holiday-tree-jubilee-cedar-city",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Fall",
+        "Winter"
+      ]
+    },
+    {
+      "id": "the-addams-family",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "paranormal-percussion",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "lindon-halloween-spooktacular",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "provo-trick-or-treat-resource-fair",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "lindon-spooky-movie-in-the-park",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "salt-lake-spooky-speaks",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "stage-fright-halloween-dance-concert",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "casino-halloween-sky-slc",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "graveyard-shift-a-costume-party",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "sunfish-halloween",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-night-famous-karamba",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "hallows-eve-monster-bash",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "frightcrawl-salt-lake-city-halloween-bar-crawl",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "haunted-shrills-scare-oke-studio-at-soundwell",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "monster-mash-logik-studio-at-soundwell",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "creature-feature-dimitri-garzarelli-studio-at-soundwell",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "monster-mash-iann-studio-at-soundwell",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "r-b-season-after-dark-halloween-edition",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "zeds-dead-halloween-at-granary-open-air",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "create-and-destroy-feat-craze-dieselboy",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "gracies-halloween-drag-brunch",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "the-haunting-of-hk-brewing",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "slc-sapphic-night-out-spooky-season-at-why-kiki",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "my-boo-halloween-throwback-night",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "dust-till-dawn-iv-project-mayhem-feat-ashez-kaipora",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "halloween-edm-at-cache-bar",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "day-of-the-dead-at-cache-bar",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ]
+    },
+    {
+      "id": "muskieween-3",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "provo-halloween-singles-mixer-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "ogden-halloween-singles-mixer-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "eve-rooftop-afterlive",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "eve-halloween-crawl",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "salt-lake-men-s-choir-somewhere-in-my-memory",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "winter-craftacular",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Winter"
+      ]
+    },
+    {
+      "id": "jane-austen-yule-ball-2026",
+      "seasons": [
+        "Winter"
+      ],
+      "holidays": [
+        "Yule & Solstice",
+        "Christmas",
+        "Winter"
+      ]
+    },
+    {
+      "id": "grand-america-witches-tea",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ]
+    },
+    {
+      "id": "snowwiesn-oktoberfest-snowbasin",
+      "seasons": [
+        "Fall",
+        "Summer"
+      ],
+      "holidays": [
+        "Fall",
+        "Oktoberfest",
+        "Summer"
+      ]
+    },
+    {
+      "id": "pride-in-progress-2027",
+      "seasons": [
+        "Spring"
+      ],
+      "holidays": [
+        "Pride",
+        "Spring"
+      ]
+    },
+    {
+      "id": "harvest-moon-celebration-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "fanx-salt-lake-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "salt-lake-city-greek-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "festa-italiana-slc-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "dogden-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "brigham-city-peach-days-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "ogden-pride-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Pride",
+        "Fall"
+      ]
+    },
+    {
+      "id": "salt-lake-city-greek-festival-2027",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "midway-swiss-days-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Labor Day"
+      ]
+    },
+    {
+      "id": "golden-onion-days-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Labor Day"
+      ]
+    },
+    {
+      "id": "festival-latinoamericano-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Labor Day"
+      ]
+    },
+    {
+      "id": "polynesian-days-utah-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Labor Day"
+      ]
+    },
+    {
+      "id": "labor-day-luau-at-thanksgiving-point-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Labor Day"
+      ]
+    },
+    {
+      "id": "park-city-miners-day-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Labor Day"
+      ]
+    },
+    {
+      "id": "moab-music-festival-labor-day-community-concert-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Labor Day"
+      ]
+    },
+    {
+      "id": "history-of-camp-floyd-day-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Labor Day"
+      ]
+    },
+    {
+      "id": "afro-utah-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Labor Day"
+      ]
+    },
+    {
+      "id": "railroaders-festival-at-golden-spike-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Labor Day"
+      ]
+    },
+    {
+      "id": "utah-state-fair-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "draper-international-arts-crafts-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "9th-9th-street-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "old-capitol-arts-living-history-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "freedom-s-light-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "logan-pride-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Pride"
+      ]
+    },
+    {
+      "id": "pride-of-southern-utah-pride-in-the-park-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Pride"
+      ]
+    },
+    {
+      "id": "fiestas-am-ricas-at-utah-state-university-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Hispanic Heritage Month"
+      ]
+    },
+    {
+      "id": "utah-symphony-celebraci-n-sinf-nica-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall",
+        "Hispanic Heritage Month"
+      ]
+    },
+    {
+      "id": "red-rock-arts-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "red-rock-film-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "phenomecon-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "timpanogos-storytelling-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "garden-of-quilts-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "woodshed-music-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "deer-valley-mountain-beer-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "rocky-mountain-atv-jamboree-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "lotoja-classic-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "nature-rhythm-drum-circle-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "cycle-of-life-plein-air-festival-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "bluffdale-get-to-the-river-family-festival-safety-fair-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "bird-walk-at-fielding-garr-ranch-2026",
+      "seasons": [
+        "Fall"
+      ],
+      "holidays": [
+        "Fall"
+      ]
+    },
+    {
+      "id": "snowbird-oktoberfest-2026",
+      "seasons": [
+        "Fall",
+        "Summer"
+      ],
+      "holidays": [
+        "Fall",
+        "Oktoberfest",
+        "Labor Day",
+        "Summer"
+      ]
+    }
+  ]
+}

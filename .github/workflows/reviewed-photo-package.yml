@@ -1,0 +1,46 @@
+name: Build reviewed photo package and development preview
+on:
+  push:
+    branches: ['coverage-rebuild-*']
+    paths: ['assets/reviewed-photo-manifest.json', 'scripts/import-reviewed-photos.py', '.github/workflows/reviewed-photo-package.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: reviewed-photo-package
+  cancel-in-progress: false
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: python -m pip install --disable-pip-version-check pillow
+      - name: Build visually reviewed assets
+        run: python scripts/import-reviewed-photos.py
+      - name: Validate the complete development package
+        run: |
+          python scripts/build-pages.py
+          node scripts/check-site.cjs
+          python scripts/check-links.py
+          python scripts/stage-site.py
+      - name: Advance development only
+        run: |
+          case "$GITHUB_REF_NAME" in coverage-rebuild-*) ;; *) echo "Use a coverage rebuild branch"; exit 1;; esac
+          git fetch origin development
+          expected=$(python -c "import json; print(json.load(open('assets/reviewed-photo-manifest.json'))['baseDevelopmentSha'])")
+          actual=$(git rev-parse origin/development)
+          if [ "$actual" != "$expected" ]; then echo "Development changed; preserve that work and rebuild the package"; exit 1; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/photos assets/data.js events sitemap.xml
+          git commit -m "Include complete reviewed event photo package"
+          git push origin HEAD:development

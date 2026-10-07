@@ -79,3 +79,6 @@ old['meta'].update(title='Utah Seasonal Guide · 2026–27',updated='October 6, 
 p.write_text('window.SITE_DATA = '+json.dumps(old,ensure_ascii=False,separators=(',',':'))+';\n')
 (root/'research/unpublished-leads.json').write_text(json.dumps(research,ensure_ascii=False,indent=2))
 print('Imported',len(merged),'events;',old['meta']['confirmedCount'],'confirmed;',len(research),'unpublished research leads')
+
+# Preserve additive seasons after every canonical import.
+subprocess.run(["python3",str(root/"scripts/apply-season-membership.py")],cwd=root,check=True)

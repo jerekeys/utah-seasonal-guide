@@ -1,0 +1,2663 @@
+[
+  {
+    "id": "midway-swiss-days-2026",
+    "Event / attraction": "Midway Swiss Days",
+    "Region": "Park City & Wasatch Back",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-04",
+    "2026 schedule": "2026-09-04, 2026-09-05",
+    "Times": "8 AM–8 PM",
+    "Price": "Free admission; shuttle parking $15; purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Midway Town Square, 75 W 100 N, Midway",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A Swiss heritage celebration with artisan booths, Swiss German food, live entertainment and a Saturday parade. Busy walkways make this a substantial festival outing.",
+    "Website": "https://www.midwayswissdays.org/2026-event",
+    "Social profile": "",
+    "Extra notes": "Saturday parade at 10 AM. Pets are not permitted; service animals excepted.",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Park City & Wasatch Back",
+    "publicRegion": "Park City & Wasatch Back",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Labor Day",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-05",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-04",
+      "2026-09-05"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.midwayswissdays.org/2026-event",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 607
+  },
+  {
+    "id": "golden-onion-days-2026",
+    "Event / attraction": "Golden Onion Days",
+    "Region": "Utah County",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-03",
+    "2026 schedule": "2026-09-03, 2026-09-04, 2026-09-05, 2026-09-06, 2026-09-07",
+    "Times": "Program varies by activity; opening concert Sep 3 at 6 PM",
+    "Price": "Opening concert free; carnival, race entries and purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Payson city parks and downtown, Payson",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Payson’s harvest and homecoming celebration combines concerts, a carnival, a parade, fireworks, art and flower shows, and a Labor Day car show.",
+    "Website": "https://www.paysonutah.gov/386/Golden-Onion-Days",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Utah County",
+    "publicRegion": "Utah County",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Labor Day",
+    "startDate": "2026-09-03",
+    "endDate": "2026-09-07",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-03",
+      "2026-09-04",
+      "2026-09-05",
+      "2026-09-06",
+      "2026-09-07"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.paysonutah.gov/386/Golden-Onion-Days",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 608
+  },
+  {
+    "id": "festival-latinoamericano-2026",
+    "Event / attraction": "Festival Latinoamericano",
+    "Region": "Utah County",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-04",
+    "2026 schedule": "2026-09-04, 2026-09-05, 2026-09-06, 2026-09-07",
+    "Times": "Fri 5:45–10 PM; Sat 10 AM–10 PM; Sun 6–8 PM; Mon 10 AM–10 PM",
+    "Price": "Free admission; food and purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Utah County Historic Courthouse, 51 S University Ave, Provo",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Music, dance, food and crafts celebrate Latin American cultures in downtown Provo. Sunday is a stage-only evening; vendor and food booths operate on the other three days.",
+    "Website": "https://festivalprovo.com/festival-info.php",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Utah County",
+    "publicRegion": "Utah County",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Labor Day",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-07",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-04",
+      "2026-09-05",
+      "2026-09-06",
+      "2026-09-07"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "Latino / Hispanic"
+    ],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://festivalprovo.com/festival-info.php",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "hoursByDate": {
+      "2026-09-04": "5:45–10 PM",
+      "2026-09-05": "10 AM–10 PM",
+      "2026-09-06": "6–8 PM",
+      "2026-09-07": "10 AM–10 PM"
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 609
+  },
+  {
+    "id": "polynesian-days-utah-2026",
+    "Event / attraction": "Polynesian Days Utah",
+    "Region": "Utah County",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-04",
+    "2026 schedule": "2026-09-04, 2026-09-05, 2026-09-06, 2026-09-07",
+    "Times": "See archived performance program",
+    "Price": "2026 admission: $10 online or $12 at the gate; under 2 free",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Electric Park, 3003 N Thanksgiving Way, Lehi",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A cultural festival with Pacific Island music, dance, food, vendors and village experiences. Evening concerts form part of the program.",
+    "Website": "https://polynesiandaysutah.com/activities",
+    "Social profile": "",
+    "Extra notes": "Organizer home page lists admission and free east-side parking; performance times vary.",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Utah County",
+    "publicRegion": "Utah County",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 2,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Labor Day",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-07",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-04",
+      "2026-09-05",
+      "2026-09-06",
+      "2026-09-07"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "Pacific Islander"
+    ],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://polynesiandaysutah.com/activities",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 610
+  },
+  {
+    "id": "labor-day-luau-at-thanksgiving-point-2026",
+    "Event / attraction": "Labor Day Luau at Thanksgiving Point",
+    "Region": "Utah County",
+    "Category": "Food & Drink / Live Music & Performance / Community & Culture",
+    "First date": "2026-09-07",
+    "2026 schedule": "2026-09-07",
+    "Times": "Doors and dinner 6 PM; show 7:30 PM",
+    "Price": "2026 advance: adult $35; ages 3–12 $27; under 3 $10; VIP $49. Day-of adult $40, child $32, VIP $55",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Waterfall Amphitheatre, Ashton Gardens, Lehi",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A Hawaiian-inspired dinner followed by Pacific Island dances and storytelling in an outdoor garden amphitheatre. General admission uses designated blanket and chair sections.",
+    "Website": "https://thanksgivingpoint.org/events/labor-day-luau/",
+    "Social profile": "",
+    "Extra notes": "2026 tickets sold out. Accessible paths and parking are available; wheelchair seating is at the rear. Mobility devices are not rented.",
+    "categories": [
+      "Food & Drink",
+      "Live Music & Performance",
+      "Community & Culture"
+    ],
+    "sourceCategories": [
+      "Food & Drink",
+      "Live Music & Performance",
+      "Community & Culture"
+    ],
+    "sourceRegion": "Utah County",
+    "publicRegion": "Utah County",
+    "publicTypes": [
+      "Food & Drink",
+      "Live Music & Performance",
+      "Community & Culture"
+    ],
+    "ghostCount": 0,
+    "costCount": 3,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Labor Day",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-07",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Advance booking"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-07"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "Pacific Islander"
+    ],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": {
+      "summary": "Accessible paths and parking; wheelchair seating at rear of amphitheatre.",
+      "sourceUrl": "https://thanksgivingpoint.org/events/labor-day-luau/"
+    },
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://thanksgivingpoint.org/events/labor-day-luau/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 611
+  },
+  {
+    "id": "park-city-miners-day-2026",
+    "Event / attraction": "Park City Miners Day",
+    "Region": "Park City & Wasatch Back",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-07",
+    "2026 schedule": "2026-09-07",
+    "Times": "7:30 AM–4 PM; parade 11 AM",
+    "Price": "Free parade and park activities; breakfast, race, ball entries and purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Main Street and City Park, Park City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Park City’s mining heritage celebration features the Running of the Balls, a Main Street parade, live music, children’s games and mucking and drilling competitions.",
+    "Website": "https://parkcityminersday.org/pages/schedule-of-events",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Park City & Wasatch Back",
+    "publicRegion": "Park City & Wasatch Back",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Labor Day",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-07",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-07"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://parkcityminersday.org/pages/schedule-of-events",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 612
+  },
+  {
+    "id": "moab-music-festival-labor-day-community-concert-2026",
+    "Event / attraction": "Moab Music Festival Labor Day Community Concert",
+    "Region": "Eastern Utah",
+    "Category": "Live Music & Performance",
+    "First date": "2026-09-07",
+    "2026 schedule": "2026-09-07",
+    "Times": "2 PM",
+    "Price": "Free admission",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Old City Park, Old City Park Rd and Murphy Lane, Moab",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "An outdoor concert with R. Carlos Nakai, Sam Reider and the Human Hands, and festival chamber musicians. Bring a blanket or camp chair for the shaded lawn; picnics are welcome.",
+    "Website": "https://moabmusicfest.org/events/rmp-community-concert-2026/",
+    "Social profile": "",
+    "Extra notes": "Some folding chairs and free parking were provided. Pets are not permitted.",
+    "categories": [
+      "Live Music & Performance"
+    ],
+    "sourceCategories": [
+      "Live Music & Performance"
+    ],
+    "sourceRegion": "Eastern Utah",
+    "publicRegion": "Eastern Utah",
+    "publicTypes": [
+      "Live Music & Performance"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Labor Day",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-07",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-07"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://moabmusicfest.org/events/rmp-community-concert-2026/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 613
+  },
+  {
+    "id": "history-of-camp-floyd-day-2026",
+    "Event / attraction": "History of Camp Floyd Day",
+    "Region": "Utah County",
+    "Category": "Community & Culture",
+    "First date": "2026-09-07",
+    "2026 schedule": "2026-09-07",
+    "Times": "10 AM–4 PM",
+    "Price": "$5 per person or $15 per immediate family",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Camp Floyd State Park Museum, 69 W Main St, Fairfield",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Living history demonstrations, cannon and musket firing, museum exhibits and the Stagecoach Inn illustrate camp life in Utah Territory.",
+    "Website": "https://stateparks.utah.gov/event/history-of-camp-floyd-day-2/",
+    "Social profile": "",
+    "Extra notes": "Food sold separately.",
+    "categories": [
+      "Community & Culture"
+    ],
+    "sourceCategories": [
+      "Community & Culture"
+    ],
+    "sourceRegion": "Utah County",
+    "publicRegion": "Utah County",
+    "publicTypes": [
+      "Community & Culture"
+    ],
+    "ghostCount": 0,
+    "costCount": 2,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Labor Day",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-07",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-07"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://stateparks.utah.gov/event/history-of-camp-floyd-day-2/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 614
+  },
+  {
+    "id": "afro-utah-festival-2026",
+    "Event / attraction": "Afro Utah Festival",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-05",
+    "2026 schedule": "2026-09-05",
+    "Times": "Starts at noon",
+    "Price": "Free admission; free RSVP requested",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Salt Lake City Public Library, 210 E 400 S, Salt Lake City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A public celebration of African and diaspora cultures with music, dance, fashion, food and family activities at the city library.",
+    "Website": "https://afroutah.org/festival",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Labor Day",
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Registration requested",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-05"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "Black / African diaspora"
+    ],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://afroutah.org/festival",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 615
+  },
+  {
+    "id": "railroaders-festival-at-golden-spike-2026",
+    "Event / attraction": "Railroaders Festival at Golden Spike",
+    "Region": "Box Elder County",
+    "Category": "Community & Culture",
+    "First date": "2026-09-05",
+    "2026 schedule": "2026-09-05",
+    "Times": "9 AM–5 PM",
+    "Price": "$20 per vehicle; federal interagency passes accepted",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Golden Spike National Historical Park, Promontory Summit",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Historic locomotives, motor-car demonstrations, frontier games and ranger programs explore the railroad’s history at Promontory Summit.",
+    "Website": "https://www.nps.gov/planyourvisit/event-details.htm?id=0A88586A-E5A1-B17A-34C329320B31F707",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture"
+    ],
+    "sourceCategories": [
+      "Community & Culture"
+    ],
+    "sourceRegion": "Box Elder County",
+    "publicRegion": "Box Elder County",
+    "publicTypes": [
+      "Community & Culture"
+    ],
+    "ghostCount": 0,
+    "costCount": 2,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Labor Day",
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-05"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.nps.gov/planyourvisit/event-details.htm?id=0A88586A-E5A1-B17A-34C329320B31F707",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 616
+  },
+  {
+    "id": "utah-state-fair-2026",
+    "Event / attraction": "Utah State Fair",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-10",
+    "2026 schedule": "2026-09-10, 2026-09-11, 2026-09-12, 2026-09-13, 2026-09-14, 2026-09-15, 2026-09-16, 2026-09-17, 2026-09-18, 2026-09-19, 2026-09-20",
+    "Times": "Hours vary by day; see archived fair FAQ",
+    "Price": "Paid gate admission; rides, parking and some arena events extra. Archived gate tariff needs confirmation",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Utah State Fairpark, 155 N 1000 W, Salt Lake City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Livestock exhibits, competitions, fair food, carnival rides, concerts and arena shows fill the Fairpark. Gate admission and individual attractions have separate pricing.",
+    "Website": "https://www.utahstatefair.com/events/2026/utah-state-fair",
+    "Social profile": "",
+    "Extra notes": "Scooter rentals were available inside Gate Y; arena admission may include same-day fair entry.",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-20",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-12",
+      "2026-09-13",
+      "2026-09-14",
+      "2026-09-15",
+      "2026-09-16",
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-19",
+      "2026-09-20"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.utahstatefair.com/events/2026/utah-state-fair",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 617
+  },
+  {
+    "id": "draper-international-arts-crafts-festival-2026",
+    "Event / attraction": "Draper International Arts & Crafts Festival",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-12",
+    "2026 schedule": "2026-09-12",
+    "Times": "10 AM–4 PM",
+    "Price": "Free admission and parking",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Draper Park, Draper",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Handmade artisan booths share the park with cultural dance and music performances, food vendors, storytelling, puppet shows and free children’s crafts.",
+    "Website": "https://www.draperutah.gov/events-programs/community-events/international-arts-crafts-festival/",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-12"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.draperutah.gov/events-programs/community-events/international-arts-crafts-festival/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 618
+  },
+  {
+    "id": "9th-9th-street-festival-2026",
+    "Event / attraction": "9th & 9th Street Festival",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-19",
+    "2026 schedule": "2026-09-19",
+    "Times": "10 AM–6 PM",
+    "Price": "Free admission; food and purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "900 East and 900 South, Salt Lake City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A neighborhood street festival with local artists, vendors, food and live music at the 9th & 9th intersection.",
+    "Website": "https://9thand9thstreetfestival.com/",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-19"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://9thand9thstreetfestival.com/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 619
+  },
+  {
+    "id": "old-capitol-arts-living-history-festival-2026",
+    "Event / attraction": "Old Capitol Arts & Living History Festival",
+    "Region": "Statewide / Other",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-11",
+    "2026 schedule": "2026-09-11, 2026-09-12",
+    "Times": "See archived festival program",
+    "Price": "Free admission; food and purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Territorial Statehouse State Park, Fillmore",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Living history demonstrations, art vendors, music, Native American dance and family activities take place beside Utah’s historic Territorial Statehouse.",
+    "Website": "https://stateparks.utah.gov/event/old-capitol-arts-and-living-history-festival/",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Statewide / Other",
+    "publicRegion": "Statewide / Other",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-12",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-11",
+      "2026-09-12"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://stateparks.utah.gov/event/old-capitol-arts-and-living-history-festival/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 620
+  },
+  {
+    "id": "freedom-s-light-festival-2026",
+    "Event / attraction": "Freedom’s Light Festival",
+    "Region": "Davis County",
+    "Category": "Community & Culture",
+    "First date": "2026-09-17",
+    "2026 schedule": "2026-09-17, 2026-09-18, 2026-09-19",
+    "Times": "Thu 9 AM–4 PM; Fri 9 AM–9 PM; Sat 9 AM–4 PM",
+    "Price": "Free admission",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Bountiful City Park, Bountiful",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Costumed historical presenters and hands-on activities introduce the American Constitution and the people involved in its creation.",
+    "Website": "https://kaysville.gov/Calendar.aspx?EID=2839",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture"
+    ],
+    "sourceCategories": [
+      "Community & Culture"
+    ],
+    "sourceRegion": "Davis County",
+    "publicRegion": "Davis County",
+    "publicTypes": [
+      "Community & Culture"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-19",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-19"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://kaysville.gov/Calendar.aspx?EID=2839",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "hoursByDate": {
+      "2026-09-17": "9 AM–4 PM",
+      "2026-09-18": "9 AM–9 PM",
+      "2026-09-19": "9 AM–4 PM"
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 621
+  },
+  {
+    "id": "logan-pride-festival-2026",
+    "Event / attraction": "Logan Pride Festival",
+    "Region": "Cache / Box Elder",
+    "Category": "Community & Culture / Live Music & Performance",
+    "First date": "2026-09-19",
+    "2026 schedule": "2026-09-19",
+    "Times": "Performances start 10 AM",
+    "Price": "See archived festival admission information",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Federal Avenue, downtown Logan",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "An LGBTQ+ community festival with live musicians, drag performers and community gathering on Federal Avenue.",
+    "Website": "https://loganpride.org/festival-performers/",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Live Music & Performance"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Live Music & Performance"
+    ],
+    "sourceRegion": "Cache / Box Elder",
+    "publicRegion": "Cache / Box Elder",
+    "publicTypes": [
+      "Community & Culture",
+      "Live Music & Performance"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Pride"
+    ],
+    "primaryHoliday": "Pride",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-19"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "LGBTQ+"
+    ],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://loganpride.org/festival-performers/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 622
+  },
+  {
+    "id": "pride-of-southern-utah-pride-in-the-park-2026",
+    "Event / attraction": "Pride of Southern Utah: Pride in the Park",
+    "Region": "Southern Utah",
+    "Category": "Community & Culture / Markets & Shopping / Live Music & Performance / Food & Drink",
+    "First date": "2026-09-26",
+    "2026 schedule": "2026-09-26",
+    "Times": "11 AM–5 PM",
+    "Price": "Free admission; free ticket required",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "JC Snow Park, St. George",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "An all-ages LGBTQ+ festival with local performers, vendors and food trucks, headlined by Lyndy Butler and the Moonflowers. Entry includes bag checks and metal detectors.",
+    "Website": "https://www.prideofsouthernutah.org/events/posu/pride2024-h8df4-3tbhd",
+    "Social profile": "",
+    "Extra notes": "Accessible drop-off is available at the entrance; general parking is in neighboring lots.",
+    "categories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Southern Utah",
+    "publicRegion": "Southern Utah",
+    "publicTypes": [
+      "Community & Culture",
+      "Markets & Shopping",
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Pride"
+    ],
+    "primaryHoliday": "Pride",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Registration required",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-26"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "LGBTQ+"
+    ],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": {
+      "summary": "Entrance drop-off permitted for attendees with disabilities or mobility limitations.",
+      "sourceUrl": "https://www.prideofsouthernutah.org/events/posu/pride2024-h8df4-3tbhd"
+    },
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.prideofsouthernutah.org/events/posu/pride2024-h8df4-3tbhd",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 623
+  },
+  {
+    "id": "fiestas-am-ricas-at-utah-state-university-2026",
+    "Event / attraction": "Fiestas Américas at Utah State University",
+    "Region": "Cache / Box Elder",
+    "Category": "Community & Culture / Live Music & Performance",
+    "First date": "2026-10-02",
+    "2026 schedule": "2026-10-02",
+    "Times": "6–10 PM",
+    "Price": "See archived university event information",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Evan N. Stevenson Ballroom, Taggart Student Center, Logan",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A Latin American heritage celebration with a photo and flag display, a flag parade, cultural performances and Ballet Folklórico de Efraín Villalobos. Everyone is welcome.",
+    "Website": "https://huntsman.usu.edu/focusedfridays/calendar/?audience=5&id=104755",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Live Music & Performance"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Live Music & Performance"
+    ],
+    "sourceRegion": "Cache / Box Elder",
+    "publicRegion": "Cache / Box Elder",
+    "publicTypes": [
+      "Community & Culture",
+      "Live Music & Performance"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Hispanic Heritage Month"
+    ],
+    "primaryHoliday": "Hispanic Heritage Month",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-02",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-10-02"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "Latino / Hispanic"
+    ],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://huntsman.usu.edu/focusedfridays/calendar/?audience=5&id=104755",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 624
+  },
+  {
+    "id": "utah-symphony-celebraci-n-sinf-nica-2026",
+    "Event / attraction": "Utah Symphony: Celebración Sinfónica",
+    "Region": "Salt Lake Metro",
+    "Category": "Live Music & Performance / Community & Culture",
+    "First date": "2026-09-21",
+    "2026 schedule": "2026-09-21",
+    "Times": "7 PM",
+    "Price": "Ticketed; archived ArtTix checkout is blocked, so the 2026 tariff is unverified",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Abravanel Hall, Salt Lake City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "The Utah Symphony performs Latin American classical and popular music with conductor Enrico Lopez-Yañez, soprano Mónica Ábrego and Ballet Las Americas de Utah.",
+    "Website": "https://www.saltlakecountyarts.org/events/celebracion-sinfonica/",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Live Music & Performance",
+      "Community & Culture"
+    ],
+    "sourceCategories": [
+      "Live Music & Performance",
+      "Community & Culture"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Live Music & Performance",
+      "Community & Culture"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Hispanic Heritage Month"
+    ],
+    "primaryHoliday": "Hispanic Heritage Month",
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-21",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-21"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [
+      "Latino / Hispanic"
+    ],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.saltlakecountyarts.org/events/celebracion-sinfonica/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 625
+  },
+  {
+    "id": "red-rock-arts-festival-2026",
+    "Event / attraction": "Red Rock Arts Festival",
+    "Region": "Eastern Utah",
+    "Category": "Community & Culture / Workshops & Learning / Markets & Shopping / Live Music & Performance",
+    "First date": "2026-09-25",
+    "2026 schedule": "2026-09-25, 2026-09-26, 2026-09-27",
+    "Times": "Workshop and street-festival schedules vary",
+    "Price": "Free community workshops and street-festival activities; purchases extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Moab Arts Center, 111 E 100 N, Moab",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "An arts weekend with hands-on workshops, a street festival, live music, artisan vendors and a chalk competition.",
+    "Website": "https://moabcity.gov/Calendar.aspx?EID=1323",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Workshops & Learning",
+      "Markets & Shopping",
+      "Live Music & Performance"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Workshops & Learning",
+      "Markets & Shopping",
+      "Live Music & Performance"
+    ],
+    "sourceRegion": "Eastern Utah",
+    "publicRegion": "Eastern Utah",
+    "publicTypes": [
+      "Community & Culture",
+      "Workshops & Learning",
+      "Markets & Shopping",
+      "Live Music & Performance"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-27",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://moabcity.gov/Calendar.aspx?EID=1323",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 626
+  },
+  {
+    "id": "red-rock-film-festival-2026",
+    "Event / attraction": "Red Rock Film Festival",
+    "Region": "Southern Utah",
+    "Category": "Community & Culture / Live Music & Performance",
+    "First date": "2026-09-23",
+    "2026 schedule": "2026-09-23, 2026-09-24, 2026-09-25, 2026-09-26",
+    "Times": "Screening times vary; see archived Eventive program",
+    "Price": "Paid passes and individual screenings; archived prices need confirmation",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "The PAC, St. George",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Independent film screenings, premieres, filmmaker conversations and panels make up this Southern Utah film festival.",
+    "Website": "https://www.redrockfilmfestival.com/index.html",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Live Music & Performance"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Live Music & Performance"
+    ],
+    "sourceRegion": "Southern Utah",
+    "publicRegion": "Southern Utah",
+    "publicTypes": [
+      "Community & Culture",
+      "Live Music & Performance"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-26",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-23",
+      "2026-09-24",
+      "2026-09-25",
+      "2026-09-26"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.redrockfilmfestival.com/index.html",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 627
+  },
+  {
+    "id": "phenomecon-2026",
+    "Event / attraction": "PhenomeCon",
+    "Region": "Eastern Utah",
+    "Category": "Community & Culture / Workshops & Learning",
+    "First date": "2026-09-09",
+    "2026 schedule": "2026-09-09, 2026-09-10, 2026-09-11, 2026-09-12",
+    "Times": "Talks and activities follow the conference agenda",
+    "Price": "2026: single day $50; two days $100; four days $149; VIP $349; optional activities extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Uintah Conference Center, 313 E 200 S, Vernal",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A paranormal-themed conference with speakers, presentations, vendors, socials and optional field activities. Expect discussion of unexplained phenomena rather than a haunted-house experience.",
+    "Website": "https://www.phenomecon.net/pricing",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Workshops & Learning"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Workshops & Learning"
+    ],
+    "sourceRegion": "Eastern Utah",
+    "publicRegion": "Eastern Utah",
+    "publicTypes": [
+      "Community & Culture",
+      "Workshops & Learning"
+    ],
+    "ghostCount": 0,
+    "costCount": 3,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-09",
+    "endDate": "2026-09-12",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-09",
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-12"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.phenomecon.net/pricing",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 628
+  },
+  {
+    "id": "timpanogos-storytelling-festival-2026",
+    "Event / attraction": "Timpanogos Storytelling Festival",
+    "Region": "Utah County",
+    "Category": "Live Music & Performance / Community & Culture",
+    "First date": "2026-09-10",
+    "2026 schedule": "2026-09-10, 2026-09-11, 2026-09-12",
+    "Times": "Thu 3–9 PM; Fri and Sat programs throughout day and evening",
+    "Price": "2026 full event: adult $85, senior/student $75, ages 3–12 $50. Adult Fri/Sat day $60; evening tickets $5–$20",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Ashton Gardens, Lehi",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Professional storytellers perform personal stories, folktales, humorous tales and evening showcases in garden venues. Day and evening tickets offer different ways to attend.",
+    "Website": "https://timpfest.org/tickets/",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Live Music & Performance",
+      "Community & Culture"
+    ],
+    "sourceCategories": [
+      "Live Music & Performance",
+      "Community & Culture"
+    ],
+    "sourceRegion": "Utah County",
+    "publicRegion": "Utah County",
+    "publicTypes": [
+      "Live Music & Performance",
+      "Community & Culture"
+    ],
+    "ghostCount": 0,
+    "costCount": 4,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-12",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Advance booking"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-12"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://timpfest.org/tickets/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 629
+  },
+  {
+    "id": "garden-of-quilts-2026",
+    "Event / attraction": "Garden of Quilts",
+    "Region": "Utah County",
+    "Category": "Community & Culture / Workshops & Learning / Markets & Shopping",
+    "First date": "2026-09-18",
+    "2026 schedule": "2026-09-18, 2026-09-19",
+    "Times": "Fri 9 AM–4 PM; Sat 9 AM–6 PM",
+    "Price": "2026 one-day exhibition $35; two days $60; member rates $10/$18; classes extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Ashton Gardens, 3900 N Garden Dr, Lehi",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Hundreds of quilts displayed outdoors turn Ashton Gardens into a textile-art exhibition, with trunk shows, demonstrations and a separate vendor marketplace.",
+    "Website": "https://thanksgivingpoint.org/events/garden-of-quilts/",
+    "Social profile": "",
+    "Extra notes": "Friday exhibition closed early for severe weather. Meet the Maker was cancelled. Classes ran Sep 16–19 and used separate registration.",
+    "categories": [
+      "Community & Culture",
+      "Workshops & Learning",
+      "Markets & Shopping"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Workshops & Learning",
+      "Markets & Shopping"
+    ],
+    "sourceRegion": "Utah County",
+    "publicRegion": "Utah County",
+    "publicTypes": [
+      "Community & Culture",
+      "Workshops & Learning",
+      "Markets & Shopping"
+    ],
+    "ghostCount": 0,
+    "costCount": 3,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-19",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-18",
+      "2026-09-19"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://thanksgivingpoint.org/events/garden-of-quilts/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "hoursByDate": {
+      "2026-09-18": "9 AM–4 PM",
+      "2026-09-19": "9 AM–6 PM"
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 630
+  },
+  {
+    "id": "woodshed-music-festival-2026",
+    "Event / attraction": "Woodshed Music Festival",
+    "Region": "Cedar / Iron County",
+    "Category": "Live Music & Performance / Food & Drink",
+    "First date": "2026-09-18",
+    "2026 schedule": "2026-09-18, 2026-09-19",
+    "Times": "See archived stage schedule",
+    "Price": "Ticketed; children 12 and under, veterans and first responders with valid ID admitted free at door; paid tariff unverified",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Willow Glen Resort, Cedar City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Two days of live music across three stages, with Ben Haggard headlining Saturday, plus food, vendors and optional camping.",
+    "Website": "https://willowglen.ticketspice.com/woodshed-festival",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceCategories": [
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "sourceRegion": "Cedar / Iron County",
+    "publicRegion": "Cedar / Iron County",
+    "publicTypes": [
+      "Live Music & Performance",
+      "Food & Drink"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-19",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-18",
+      "2026-09-19"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://willowglen.ticketspice.com/woodshed-festival",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 631
+  },
+  {
+    "id": "deer-valley-mountain-beer-festival-2026",
+    "Event / attraction": "Deer Valley Mountain Beer Festival",
+    "Region": "Park City & Wasatch Back",
+    "Category": "Food & Drink / Live Music & Performance / Active & Outdoors",
+    "First date": "2026-09-19",
+    "2026 schedule": "2026-09-19, 2026-09-20",
+    "Times": "Noon–5 PM",
+    "Price": "2026 ages 21+: admission $45; tasting packages $70/$90/$155. Under-21 non-drinking entry $20",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Silver Lake Lodge; check-in at Snow Park Lodge, Deer Valley",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Utah brewery tastings, scenic chairlift access, live music and a children’s zone share the mountain setting. The Friday Brewmaster Dinner is a separate event.",
+    "Website": "https://www.deervalley.com/things-to-do/activities/mountain-beer-festival",
+    "Social profile": "",
+    "Extra notes": "Alcohol service requires age 21+; the festival itself permits non-drinking younger guests. Dogs not permitted.",
+    "categories": [
+      "Food & Drink",
+      "Live Music & Performance",
+      "Active & Outdoors"
+    ],
+    "sourceCategories": [
+      "Food & Drink",
+      "Live Music & Performance",
+      "Active & Outdoors"
+    ],
+    "sourceRegion": "Park City & Wasatch Back",
+    "publicRegion": "Park City & Wasatch Back",
+    "publicTypes": [
+      "Food & Drink",
+      "Live Music & Performance",
+      "Active & Outdoors"
+    ],
+    "ghostCount": 0,
+    "costCount": 3,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-19",
+      "2026-09-20"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.deervalley.com/things-to-do/activities/mountain-beer-festival",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 632
+  },
+  {
+    "id": "rocky-mountain-atv-jamboree-2026",
+    "Event / attraction": "Rocky Mountain ATV Jamboree",
+    "Region": "Statewide / Other",
+    "Category": "Active & Outdoors",
+    "First date": "2026-09-14",
+    "2026 schedule": "2026-09-14, 2026-09-15, 2026-09-16, 2026-09-17, 2026-09-18",
+    "Times": "Guided departures vary by selected ride",
+    "Price": "$150 per rider for 2026 registration",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Richfield City Park staging area and regional trails, Richfield",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Five days of guided ATV and UTV rides explore trails around Richfield. Registration includes a shirt and scheduled group meals; riders choose routes suited to their experience.",
+    "Website": "https://richfieldutah.com/rocky-mountain-jamboree/",
+    "Social profile": "",
+    "Extra notes": "Bring the required vehicle and riding equipment. Registration closed Sep 1.",
+    "categories": [
+      "Active & Outdoors"
+    ],
+    "sourceCategories": [
+      "Active & Outdoors"
+    ],
+    "sourceRegion": "Statewide / Other",
+    "publicRegion": "Statewide / Other",
+    "publicTypes": [
+      "Active & Outdoors"
+    ],
+    "ghostCount": 0,
+    "costCount": 5,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-18",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Registration required"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-14",
+      "2026-09-15",
+      "2026-09-16",
+      "2026-09-17",
+      "2026-09-18"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://richfieldutah.com/rocky-mountain-jamboree/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 633
+  },
+  {
+    "id": "lotoja-classic-2026",
+    "Event / attraction": "LoToJa Classic",
+    "Region": "Cache / Box Elder",
+    "Category": "Active & Outdoors",
+    "First date": "2026-09-12",
+    "2026 schedule": "2026-09-12",
+    "Times": "Start waves 5:30–6:58 AM",
+    "Price": "Participant registration required; archived entry tariff needs confirmation",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Start: 150 N 100 E, Logan; finish in Jackson, Wyoming",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "An endurance cycling event begins in Logan and travels to Jackson through Utah, Idaho and Wyoming. This is a demanding registered ride, with race and recreational categories.",
+    "Website": "https://lotoja.com/eventinfo/EventSchedule",
+    "Social profile": "",
+    "Extra notes": "Route crosses state lines; the Utah listing covers its Logan start.",
+    "categories": [
+      "Active & Outdoors"
+    ],
+    "sourceCategories": [
+      "Active & Outdoors"
+    ],
+    "sourceRegion": "Cache / Box Elder",
+    "publicRegion": "Cache / Box Elder",
+    "publicTypes": [
+      "Active & Outdoors"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Registration required"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-12"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://lotoja.com/eventinfo/EventSchedule",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 634
+  },
+  {
+    "id": "nature-rhythm-drum-circle-2026",
+    "Event / attraction": "Nature & Rhythm Drum Circle",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Workshops & Learning",
+    "First date": "2026-09-04",
+    "2026 schedule": "2026-09-04",
+    "Times": "7–8 PM",
+    "Price": "Free admission",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Pioneer Crossing Regional Park, West Valley City",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A guided outdoor drum circle combines percussion and river sounds. Instruments are provided and people of all ages and abilities are welcome.",
+    "Website": "https://jordanrivercommission.gov/event/nature-rhythm-drum-circle-september-4-2026/",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Workshops & Learning"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Workshops & Learning"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Workshops & Learning"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-04",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-04"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "one-off",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://jordanrivercommission.gov/event/nature-rhythm-drum-circle-september-4-2026/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 635
+  },
+  {
+    "id": "cycle-of-life-plein-air-festival-2026",
+    "Event / attraction": "Cycle of Life Plein Air Festival",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Workshops & Learning",
+    "First date": "2026-09-26",
+    "2026 schedule": "2026-09-26",
+    "Times": "10 AM–4 PM",
+    "Price": "Free admission",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Conservation Garden Park, West Jordan",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "Artists of all ages create outdoors using the garden’s plants, water, pollinators and visitors as subjects. This is participatory art-making rather than an art market.",
+    "Website": "https://jordanrivercommission.gov/event/cycle-of-life-plein-air-festival-september-26-2026/",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture",
+      "Workshops & Learning"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Workshops & Learning"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Workshops & Learning"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-26"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "one-off",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://jordanrivercommission.gov/event/cycle-of-life-plein-air-festival-september-26-2026/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 636
+  },
+  {
+    "id": "bluffdale-get-to-the-river-family-festival-safety-fair-2026",
+    "Event / attraction": "Bluffdale Get to the River Family Festival & Safety Fair",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture",
+    "First date": "2026-09-15",
+    "2026 schedule": "2026-09-15",
+    "Times": "6:30–8 PM",
+    "Price": "See archived city event information",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Day Ranch Park, Bluffdale",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A family gathering with an art project, food trucks, bike and e-bike safety, car-seat checks and CarFit checks for older adults.",
+    "Website": "https://bluffdale.gov/river",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Community & Culture"
+    ],
+    "sourceCategories": [
+      "Community & Culture"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-15",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-15"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "annual",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://bluffdale.gov/river",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 637
+  },
+  {
+    "id": "bird-walk-at-fielding-garr-ranch-2026",
+    "Event / attraction": "Bird Walk at Fielding Garr Ranch",
+    "Region": "Davis County",
+    "Category": "Active & Outdoors",
+    "First date": "2026-09-09",
+    "2026 schedule": "2026-09-09",
+    "Times": "9–10 AM",
+    "Price": "No additional activity charge; regular park entry applies",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Fielding Garr Ranch picnic area, Antelope Island State Park",
+    "Status": "Confirmed 2026; past",
+    "Why / thoughts": "A guided walk through the ranch’s wetland habitat looks for local birds. Binoculars are available to borrow.",
+    "Website": "https://stateparks.utah.gov/event/bird-walk-at-fielding-garr-ranch-22/",
+    "Social profile": "",
+    "Extra notes": "",
+    "categories": [
+      "Active & Outdoors"
+    ],
+    "sourceCategories": [
+      "Active & Outdoors"
+    ],
+    "sourceRegion": "Davis County",
+    "publicRegion": "Davis County",
+    "publicTypes": [
+      "Active & Outdoors"
+    ],
+    "ghostCount": 0,
+    "costCount": 0,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall"
+    ],
+    "primaryHoliday": "Fall",
+    "startDate": "2026-09-09",
+    "endDate": "2026-09-09",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor"
+    ],
+    "isFree": false,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-09-09"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": false,
+    "recurrence": "recurring",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://stateparks.utah.gov/event/bird-walk-at-fielding-garr-ranch-22/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "seasons": [
+      "Fall"
+    ],
+    "sourceRow": 638
+  },
+  {
+    "id": "snowbird-oktoberfest-2026",
+    "Event / attraction": "Snowbird Oktoberfest",
+    "Region": "Salt Lake Metro",
+    "Category": "Community & Culture / Food & Drink / Live Music & Performance / Markets & Shopping",
+    "First date": "2026-08-08",
+    "2026 schedule": "2026-08-08, 2026-08-09, 2026-08-15, 2026-08-16, 2026-08-22, 2026-08-23, 2026-08-29, 2026-08-30, 2026-09-05, 2026-09-06, 2026-09-07, 2026-09-12, 2026-09-13, 2026-09-19, 2026-09-20, 2026-09-26, 2026-09-27, 2026-10-03, 2026-10-04, 2026-10-10, 2026-10-11",
+    "Times": "Saturdays and Sundays, plus Labor Day; noon–6 PM",
+    "Price": "Free admission; parking $15 in designated lots, valet $30; food, drinks and activities extra",
+    "Cost": "",
+    "Age": "All ages / general audience",
+    "Intensity": "",
+    "Location": "Snowbird Center, Snowbird",
+    "Status": "Confirmed 2026",
+    "Why / thoughts": "Bavarian music, food, beer tastings and local vendors fill the Snowbird Center and festival tent. Families can visit together; alcohol purchases require proof of legal drinking age.",
+    "Website": "https://www.snowbird.com/activities-events/oktoberfest/snowbird-oktoberfest/",
+    "Social profile": "",
+    "Extra notes": "Free shuttles depart from the park-and-ride at 9400 S Highland Dr. Reservations guarantee a ride; walk-up seats depend on availability.",
+    "categories": [
+      "Community & Culture",
+      "Food & Drink",
+      "Live Music & Performance",
+      "Markets & Shopping"
+    ],
+    "sourceCategories": [
+      "Community & Culture",
+      "Food & Drink",
+      "Live Music & Performance",
+      "Markets & Shopping"
+    ],
+    "sourceRegion": "Salt Lake Metro",
+    "publicRegion": "Salt Lake Metro",
+    "publicTypes": [
+      "Community & Culture",
+      "Food & Drink",
+      "Live Music & Performance",
+      "Markets & Shopping"
+    ],
+    "ghostCount": 0,
+    "costCount": 1,
+    "isWatch": false,
+    "artKey": "community",
+    "socials": [],
+    "photo": null,
+    "sponsored": false,
+    "holidays": [
+      "Fall",
+      "Oktoberfest",
+      "Labor Day"
+    ],
+    "primaryHoliday": "Oktoberfest",
+    "startDate": "2026-08-08",
+    "endDate": "2026-10-11",
+    "travelTier": "Utah outing",
+    "lastVerified": "2026-10-06",
+    "qaFlags": "",
+    "timezone": "America/Denver",
+    "flags": [
+      "Outdoor",
+      "Free admission"
+    ],
+    "isFree": true,
+    "rating": null,
+    "occurrenceDates": [
+      "2026-08-08",
+      "2026-08-09",
+      "2026-08-15",
+      "2026-08-16",
+      "2026-08-22",
+      "2026-08-23",
+      "2026-08-29",
+      "2026-08-30",
+      "2026-09-05",
+      "2026-09-06",
+      "2026-09-07",
+      "2026-09-12",
+      "2026-09-13",
+      "2026-09-19",
+      "2026-09-20",
+      "2026-09-26",
+      "2026-09-27",
+      "2026-10-03",
+      "2026-10-04",
+      "2026-10-10",
+      "2026-10-11"
+    ],
+    "scheduleConfidence": "verified-dates",
+    "scheduleNote": "",
+    "communities": [],
+    "theme": "thanksgiving",
+    "placeholder": "assets/art/community.svg",
+    "notable_event": true,
+    "recurrence": "seasonal",
+    "accessibility": null,
+    "researchEvidence": {
+      "checkedOn": "2026-10-06",
+      "sourceUrl": "https://www.snowbird.com/activities-events/oktoberfest/snowbird-oktoberfest/",
+      "method": "Read dated primary organizer, venue or government archive; followed program and ticket links where reachable. Historical edition, not a future-date estimate."
+    },
+    "sourceRow": 639
+  }
+]
