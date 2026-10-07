@@ -83,8 +83,9 @@ The permanent brand layer lives in `assets/brand.css`. Seasonal palette variable
 2. Open `/toolkit/`.
 3. Choose the editorial series and event.
 4. Choose the current season palette.
-5. Adjust headline/details; upload a stronger image if needed.
-6. Export the PNG.
-7. Edit/copy the caption starter.
-8. Add platform-native alt text/captions when publishing.
-9. Point people back to the relevant filtered page or event page rather than only the homepage.
+5. If the event has no real photo, the toolkit automatically uses its Field Plate. Keep it or upload a stronger event image.
+6. Adjust the headline/details.
+7. Export the PNG.
+8. Edit/copy the caption starter.
+9. Add platform-native alt text/captions when publishing.
+10. Point people back to the relevant filtered page or event page rather than only the homepage.
