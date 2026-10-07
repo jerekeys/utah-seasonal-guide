@@ -40,7 +40,7 @@ permissions:
 
 concurrency:
   group: social-content-${{ github.ref }}
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   render:
@@ -51,14 +51,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Install renderer
-        run: npm install --no-save sharp
-      - name: Install video encoder
-        run: |
-          if ! command -v ffmpeg >/dev/null 2>&1; then
-            sudo apt-get update
-            sudo apt-get install -y ffmpeg
-          fi
+      - name: Install renderer and video encoder
+        run: npm install --no-save sharp ffmpeg-static
       - name: Build carousel and vertical video
         env:
           REQUESTED_SERIES: ${{ inputs.series || 'auto' }}
@@ -66,6 +60,7 @@ jobs:
           REQUESTED_COUNT: ${{ inputs.event_count || '6' }}
           REQUESTED_PALETTE: ${{ inputs.palette || 'auto' }}
         run: |
+          export FFMPEG_PATH="$(node -p "require('ffmpeg-static')")"
           args=("--series=$REQUESTED_SERIES" "--count=$REQUESTED_COUNT" "--palette=$REQUESTED_PALETTE" "--output=artifacts/social-kit")
           if [ -n "$REQUESTED_DATE" ]; then args+=("--date=$REQUESTED_DATE"); fi
           node scripts/generate-social-kit.cjs "${args[@]}"
