@@ -317,3 +317,27 @@ main{max-width:1320px}
   .media-brand-lockup img{width:16px!important;height:16px!important}
   .media-brand-bottom{font-size:.52rem;padding-top:20px}
 }
+
+/* Media attribution is deliberately outside the branded image frame. */
+.card-media{aspect-ratio:auto!important;background:var(--ues-paper)}
+.card-media>.event-image-link{aspect-ratio:16/9}
+.event-hero-media{background:var(--ues-paper)}
+.event-hero-media>.media-visual{aspect-ratio:16/9}
+.card-media>.photo-credit,.event-hero-media>.photo-credit{
+  margin:0;
+  padding:6px 9px 7px;
+  min-height:28px;
+  background:var(--ues-paper);
+  color:var(--ues-ink);
+  border-top:1px solid color-mix(in srgb,var(--ues-ink) 28%,transparent);
+  font-family:var(--ues-mono);
+  font-size:.66rem;
+  line-height:1.25;
+  position:relative;
+  z-index:4;
+}
+.card-media>.photo-credit a,.event-hero-media>.photo-credit a{
+  color:inherit;
+  text-decoration:underline;
+  text-underline-offset:2px;
+}
