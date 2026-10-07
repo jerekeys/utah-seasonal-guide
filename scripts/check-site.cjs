@@ -46,3 +46,12 @@ assert(d.events.filter(e=>e.photo).length>=Math.ceil(d.events.length/2),'At leas
 console.log('Photo coverage meets the requested halfway threshold');
 
 const seasonSource=fs.readFileSync('assets/site.js','utf8').match(/function currentSeasonTheme[^\n]+/)[0];const themeForMonth=vm.runInNewContext('('+seasonSource+')');for(const [month,theme] of [[1,'winter'],[3,'spring'],[6,'summer'],[9,'thanksgiving'],[12,'winter']])assert(themeForMonth(month)===theme);console.log('Current-season default and separate spring/summer artwork passed');
+
+const explorePage=fs.readFileSync('index.html','utf8');
+assert(!explorePage.includes('Queer community'));
+assert(!explorePage.includes('Give a little back'));
+for(const pagePath of ['weekend.html','weekend/index.html','vibes.html','vibes/index.html']){
+ const pageSource=fs.readFileSync(pagePath,'utf8');
+ assert(!pageSource.includes('class="quick-picks"'),pagePath+' still has distracting shortcut buttons');
+}
+console.log('Contextual pages are free of redundant shortcut rows');
