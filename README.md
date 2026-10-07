@@ -1,6 +1,6 @@
-# Utah Halloween & Fall Guide 2026 — Website v2
+# Utah Every Season
 
-A multi-page, static public website backed by the Google Sheet **Utah Seasonal Event Discovery Backend — 2026–27**. The older Halloween/Fall workbook remains a research baseline, but the canonical detailed event source is now the backend workbook’s **Event Database** tab.
+A multi-page static field guide to Utah events, traditions and temporary experiences, backed by the Google Sheet **Utah Seasonal Event Discovery Backend — 2026–27**. The public identity is **Utah Every Season** — *Utah’s obsessive guide to what to do next.* The older Halloween/Fall workbook remains a research baseline, but the canonical detailed event source is the backend workbook’s **Event Database** tab.
 
 ## Development workflow
 - `main` is production and should only receive reviewed release batches.
@@ -77,3 +77,13 @@ A research pass expanded social-link coverage across event listings. Supported p
 - Prefer a genuinely event-specific image over generic stock photography.
 - Use the bold category SVG artwork when no suitable official event image is available.
 - Category SVGs use a 16:9 composition with the primary subject kept in the center safe area for square crops.
+
+
+## Brand system & social toolkit
+- The permanent publication identity lives in `assets/brand.css` and `assets/brand/`.
+- Core concept: **modern field guide + road atlas + cultural almanac**.
+- Seasonal themes change accent colors, not the underlying identity.
+- Editorial metadata such as **FIELD NOTE**, **VERIFIED**, region, date and price is intentionally part of the visual language.
+- The complete usage guide is in `docs/brand-toolkit.md`.
+- The internal, no-index social card maker is available at `/toolkit/`. It can pull from current event data, use event or uploaded photography, and export 1080×1350, 1080×1920 and 1080×1080 PNGs without a paid design service.
+- Recurring social franchises: **The Weekend File**, **Worth the Drive**, **Found It**, **Tonight**, **Free This Weekend**, and **The Field Guide**.
