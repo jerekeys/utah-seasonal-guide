@@ -2,6 +2,40 @@
 (()=>{"use strict";
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function code(e){let h=2166136261;for(const ch of String(e?.id||e?.["Event / attraction"]||"field")){h^=ch.charCodeAt(0);h=Math.imul(h,16777619)}return Math.abs(h)>>>0}
+const PLATE_PALETTES={
+ halloween:{paper:"#fff5e6",ink:"#211b22",accent:"#ef5a29",season:"#a92d34"},
+ fall:{paper:"#fcf5e8",ink:"#352818",accent:"#d87a2d",season:"#794521"},
+ thanksgiving:{paper:"#fcf5e8",ink:"#352818",accent:"#d87a2d",season:"#794521"},
+ christmas:{paper:"#f5f7ee",ink:"#132f25",accent:"#ef5a29",season:"#a32c3a"},
+ winter:{paper:"#f0f7fb",ink:"#172e41",accent:"#ef5a29",season:"#38627a"},
+ hanukkah:{paper:"#f0f5fc",ink:"#172d4a",accent:"#e7cd7a",season:"#265386"},
+ diwali:{paper:"#fff4ee",ink:"#3b1931",accent:"#ffc459",season:"#973d68"},
+ yule:{paper:"#f2f5e9",ink:"#23372b",accent:"#ddce81",season:"#3e6350"},
+ newyear:{paper:"#f7f2fa",ink:"#292037",accent:"#f5d981",season:"#694983"},
+ kwanzaa:{paper:"#f7f5eb",ink:"#222720",accent:"#acd184",season:"#a63436"},
+ pride:{paper:"#f7f2fa",ink:"#292037",accent:"#ef5a29",season:"#694983"},
+ dayofdead:{paper:"#fbf1f8",ink:"#34213f",accent:"#f7b64d",season:"#7c3658"},
+ spring:{paper:"#f0f7eb",ink:"#193426",accent:"#ef5a29",season:"#6f8e4f"},
+ summer:{paper:"#f8f5e8",ink:"#163b4e",accent:"#ef5a29",season:"#2e7287"},
+ core:{paper:"#f5f0e4",ink:"#17221d",accent:"#ef5a29",season:"#785466"}
+};
+function paletteFor(e){
+ const occasion=[e?.primaryHoliday,...(e?.holidays||[]),...(e?.seasons||[])].filter(Boolean).join(" · ").toLowerCase();
+ if(/d[ií]a de los muertos|day of the dead/.test(occasion))return PLATE_PALETTES.dayofdead;
+ if(/halloween/.test(occasion))return PLATE_PALETTES.halloween;
+ if(/hanukkah/.test(occasion))return PLATE_PALETTES.hanukkah;
+ if(/diwali/.test(occasion))return PLATE_PALETTES.diwali;
+ if(/yule|solstice/.test(occasion))return PLATE_PALETTES.yule;
+ if(/kwanzaa/.test(occasion))return PLATE_PALETTES.kwanzaa;
+ if(/new year/.test(occasion))return PLATE_PALETTES.newyear;
+ if(/pride/.test(occasion))return PLATE_PALETTES.pride;
+ if(/christmas|advent/.test(occasion))return PLATE_PALETTES.christmas;
+ if(/thanksgiving|fall|autumn/.test(occasion))return PLATE_PALETTES.fall;
+ if(/winter/.test(occasion))return PLATE_PALETTES.winter;
+ if(/spring/.test(occasion))return PLATE_PALETTES.spring;
+ if(/summer/.test(occasion))return PLATE_PALETTES.summer;
+ return PLATE_PALETTES.core;
+}
 const SPECIAL=[
   [/d[ií]a de los muertos|day of the dead/i,["marigold","MARIGOLD / REMEMBRANCE"]],
   [/diwali/i,["diya","DIYA / LIGHT"]],
@@ -68,9 +102,10 @@ function svg(e,colors={}){
  return `<svg class="field-plate-art" viewBox="0 0 160 120" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg"><rect width="160" height="120" fill="${paper}"/><g fill="none" stroke="${season}" stroke-width=".7" opacity=".22">${CONTOURS[variant]}</g><g fill="none" stroke="${ink}" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">${DRAW[s.id]||DRAW.wildflower}</g><circle cx="145" cy="16" r="6" fill="${accent}"/><circle cx="145" cy="16" r="2" fill="${paper}"/><path d="M145 5v22M134 16h22" stroke="${ink}" stroke-width=".8" opacity=".65"/></svg>`;
 }
 function html(e){
- const s=specimen(e),plate=String(code(e)%10000).padStart(4,"0"),occasion=e?.primaryHoliday||e?.seasons?.[0]||"UTAH",region=e?.publicRegion||e?.Region||"UTAH";
- return `<div class="field-plate" data-specimen="${esc(s.id)}"><span class="sr-only">No event photograph is available. Illustrated Utah Every Season field plate.</span><div class="field-plate-top"><span>FIELD PLATE / ${plate}</span><span>NO EVENT PHOTO</span></div>${svg(e)}<div class="field-plate-bottom"><strong>${esc(s.label)}</strong><span>${esc(occasion)} · ${esc(region)}</span></div></div>`;
+ const s=specimen(e),plate=String(code(e)%10000).padStart(4,"0"),occasion=e?.primaryHoliday||e?.seasons?.[0]||"UTAH",region=e?.publicRegion||e?.Region||"UTAH",p=paletteFor(e);
+ const style=`--plate-paper:${p.paper};--plate-ink:${p.ink};--plate-accent:${p.accent};--plate-season:${p.season}`;
+ return `<div class="field-plate" data-specimen="${esc(s.id)}" style="${style}"><span class="sr-only">No event photograph is available. Illustrated Utah Every Season field plate.</span><div class="field-plate-top"><span>FIELD PLATE / ${plate}</span><span>NO EVENT PHOTO</span></div>${svg(e)}<div class="field-plate-bottom"><strong>${esc(s.label)}</strong><span>${esc(occasion)} · ${esc(region)}</span></div></div>`;
 }
 function dataUrl(e,colors){return "data:image/svg+xml;charset=utf-8,"+encodeURIComponent(svg(e,colors))}
-window.FIELD_PLATES={specimen,svg,html,dataUrl,code};
+window.FIELD_PLATES={specimen,svg,html,dataUrl,code,paletteFor};
 })();
