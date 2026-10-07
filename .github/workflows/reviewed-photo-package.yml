@@ -12,7 +12,7 @@ concurrency:
 jobs:
   package:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
@@ -32,6 +32,24 @@ jobs:
           node scripts/check-site.cjs
           python scripts/check-links.py
           python scripts/stage-site.py
+      - name: Install browser review dependencies
+        run: npm install --no-save playwright axe-core
+      - name: Install test browsers
+        timeout-minutes: 4
+        run: npx playwright install --with-deps chromium webkit
+      - name: Review devices, accessibility and app flows
+        run: |
+          python3 -m http.server 8765 --bind 127.0.0.1 > /tmp/guide-server.log 2>&1 &
+          node scripts/qa-browser.cjs
+          node scripts/qa-app.cjs
+      - name: Upload browser review evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-responsive-review-${{ github.run_id }}
+          path: research/qa/
+          if-no-files-found: warn
+          retention-days: 30
       - name: Advance development only
         run: |
           case "$GITHUB_REF_NAME" in coverage-rebuild-*) ;; *) echo "Use a coverage rebuild branch"; exit 1;; esac

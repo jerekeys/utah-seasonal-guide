@@ -10,6 +10,13 @@ def build(item):
     destination = ROOT / item['destination']
     if not destination.resolve().is_relative_to((ROOT / 'assets/photos').resolve()):
         raise ValueError('Image destination is outside the photo directory')
+    if destination.exists():
+        image = Image.open(destination)
+        image.verify()
+        image = Image.open(destination)
+        if (dhash(image) ^ int(item['reviewHash'], 16)).bit_count() > 10:
+            raise ValueError('Existing asset differs from the reviewed subject')
+        return item['destination']
     for attempt in range(3):
         try:
             request = urllib.request.Request(item['url'], headers={'User-Agent': 'Mozilla/5.0 (UtahSeasonalGuide editorial photo package)'})
