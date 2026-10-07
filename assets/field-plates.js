@@ -1,3 +1,4 @@
+/* Utah Every Season generative Field Plates: reusable taxonomy-driven no-photo artwork. */
 (()=>{"use strict";
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function code(e){let h=2166136261;for(const ch of String(e?.id||e?.["Event / attraction"]||"field")){h^=ch.charCodeAt(0);h=Math.imul(h,16777619)}return Math.abs(h)>>>0}
