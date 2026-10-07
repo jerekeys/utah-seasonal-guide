@@ -14,7 +14,7 @@ for path in root.glob('*.html'):
     shutil.copy2(path, out / path.name)
 for name in ['_redirects', 'robots.txt', 'sitemap.xml', 'sw.js', 'manifest.webmanifest']:
     shutil.copy2(root / name, out / name)
-for name in ['events', 'about', 'weekend', 'itineraries', 'vibes', 'standouts', 'submit', 'thanks', 'image-credits', 'saved', 'app', 'contact', 'terms', 'privacy', 'offline']:
+for name in ['events', 'about', 'weekend', 'itineraries', 'vibes', 'standouts', 'submit', 'thanks', 'image-credits', 'saved', 'app', 'contact', 'terms', 'privacy', 'offline', 'toolkit']:
     shutil.copytree(root / name, out / name)
 for path in (root / 'assets').rglob('*'):
     if path.is_file() and path.suffix.lower() in ['.js', '.css', '.svg', '.png', '.jpg', '.jpeg', '.webp', '.avif', '.woff', '.woff2']:
