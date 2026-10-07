@@ -1,0 +1,47 @@
+name: Rebuild generated static pages
+on:
+  workflow_dispatch:
+  push:
+    branches: [development]
+    paths:
+      - 'scripts/build-pages.py'
+      - 'scripts/page-templates/**'
+      - 'assets/brand.css'
+      - 'assets/brand/**'
+      - '.github/workflows/rebuild-static-site.yml'
+permissions:
+  contents: write
+concurrency:
+  group: static-site-rebuild-development
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Generate public pages
+        run: python scripts/build-pages.py
+      - name: Validate generated site
+        run: |
+          node scripts/check-site.cjs
+          python scripts/check-links.py
+      - name: Commit generated pages
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A -- index.html event.html about.html weekend.html itineraries.html vibes.html standouts.html image-credits.html submit.html thanks.html saved.html app.html contact.html terms.html privacy.html offline.html about weekend itineraries vibes standouts image-credits submit thanks saved app contact terms privacy offline events sitemap.xml _redirects robots.txt
+          if git diff --cached --quiet; then
+            echo 'Generated pages are already current'
+            exit 0
+          fi
+          git commit -m 'Rebuild static pages for Utah Every Season'
+          git push origin HEAD:development
