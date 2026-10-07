@@ -96,16 +96,44 @@ const CONTOURS=[
  `<path d="M-8 27c38 13 53 40 47 61s10 34 42 36M9 15c40 18 56 47 49 71s8 37 41 42M116-9c-24 25-25 49-5 68s23 39 5 69M136-5c-20 23-19 45 2 62s26 36 13 61"/>`,
  `<path d="M18-5c-8 28 4 48 36 58s46 29 39 59M38-8c-4 23 8 39 37 49s45 27 42 54M102 6c27 11 41 31 36 54s4 40 28 52M112 23c18 8 27 21 24 38s5 29 23 38"/>`
 ];
-function svg(e,colors={}){
- const s=specimen(e),variant=code(e)%CONTOURS.length;
+const PRESETS={
+ card:{width:1600,height:900},
+ hero:{width:1600,height:900},
+ square:{width:1080,height:1080},
+ portrait:{width:1080,height:1350},
+ story:{width:1080,height:1920}
+};
+function seeded(seed,n){const x=Math.sin((seed+1)*(n+17)*12.9898)*43758.5453;return x-Math.floor(x)}
+function contourField(seed,w,h){
+ const cx=w*(.22+seeded(seed,1)*.56),cy=h*(.2+seeded(seed,2)*.6),paths=[];
+ const rings=9;
+ for(let i=0;i<rings;i++){
+  const t=(i+2)/(rings+2),rx=w*(.10+t*.48),ry=h*(.08+t*.42);
+  const j1=(seeded(seed,i*5+3)-.5)*.12,j2=(seeded(seed,i*5+4)-.5)*.12,j3=(seeded(seed,i*5+5)-.5)*.12,j4=(seeded(seed,i*5+6)-.5)*.12;
+  const x0=cx-rx,y0=cy;
+  paths.push(`<path d="M${x0.toFixed(1)} ${y0.toFixed(1)} C${(cx-rx*.78).toFixed(1)} ${(cy-ry*(1+j1)).toFixed(1)} ${(cx+rx*.64).toFixed(1)} ${(cy-ry*(1+j2)).toFixed(1)} ${(cx+rx).toFixed(1)} ${cy.toFixed(1)} C${(cx+rx*.74).toFixed(1)} ${(cy+ry*(1+j3)).toFixed(1)} ${(cx-rx*.62).toFixed(1)} ${(cy+ry*(1+j4)).toFixed(1)} ${x0.toFixed(1)} ${y0.toFixed(1)}Z"/> `);
+ }
+ return paths.join("");
+}
+function dims(options={}){
+ if(typeof options==="string")return PRESETS[options]||PRESETS.card;
+ if(options.preset&&PRESETS[options.preset])return PRESETS[options.preset];
+ const width=Math.max(240,Number(options.width)||PRESETS.card.width),height=Math.max(180,Number(options.height)||PRESETS.card.height);
+ return {width,height};
+}
+function svg(e,colors={},options={}){
+ const s=specimen(e),seed=code(e),{width:w,height:h}=dims(options),ratio=w/h;
  const paper=colors.paper||"var(--plate-paper,#f5f0e4)",ink=colors.ink||"var(--plate-ink,#17221d)",accent=colors.accent||"var(--plate-accent,#ef5a29)",season=colors.season||"var(--plate-season,#785466)";
- return `<svg class="field-plate-art" viewBox="0 0 160 120" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg"><rect width="160" height="120" fill="${paper}"/><g fill="none" stroke="${season}" stroke-width=".7" opacity=".22">${CONTOURS[variant]}</g><g fill="none" stroke="${ink}" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">${DRAW[s.id]||DRAW.wildflower}</g><circle cx="145" cy="16" r="6" fill="${accent}"/><circle cx="145" cy="16" r="2" fill="${paper}"/><path d="M145 5v22M134 16h22" stroke="${ink}" stroke-width=".8" opacity=".65"/></svg>`;
+ const targetW=w*(ratio>1.35?.31:.46),targetH=h*(ratio>1.35?.53:.34),scale=Math.min(targetW/160,targetH/120);
+ const tx=w/2-80*scale,ty=h/2-60*scale;
+ const cross=Math.max(12,Math.min(w,h)*.018);
+ return `<svg class="field-plate-art" viewBox="0 0 ${w} ${h}" preserveAspectRatio="xMidYMid meet" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg"><rect width="${w}" height="${h}" fill="${paper}"/><g fill="none" stroke="${season}" stroke-width="${Math.max(1.5,Math.min(w,h)*.0022)}" opacity=".24">${contourField(seed,w,h)}</g><g fill="none" stroke="${ink}" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(${tx.toFixed(2)} ${ty.toFixed(2)}) scale(${scale.toFixed(4)})">${DRAW[s.id]||DRAW.wildflower}</g><g opacity=".5" stroke="${ink}" stroke-width="${Math.max(1,Math.min(w,h)*.0014)}"><path d="M${(w*.08-cross).toFixed(1)} ${(h*.82).toFixed(1)}h${(cross*2).toFixed(1)}M${(w*.08).toFixed(1)} ${(h*.82-cross).toFixed(1)}v${(cross*2).toFixed(1)}"/></g><circle cx="${(w*.08).toFixed(1)}" cy="${(h*.82).toFixed(1)}" r="${Math.max(3,Math.min(w,h)*.005)}" fill="${accent}"/></svg>`;
 }
-function html(e){
- const s=specimen(e),plate=String(code(e)%10000).padStart(4,"0"),occasion=e?.primaryHoliday||e?.seasons?.[0]||"UTAH",region=e?.publicRegion||e?.Region||"UTAH",p=paletteFor(e);
+function html(e,options="card"){
+ const p=paletteFor(e);
  const style=`--plate-paper:${p.paper};--plate-ink:${p.ink};--plate-accent:${p.accent};--plate-season:${p.season}`;
- return `<div class="field-plate" data-specimen="${esc(s.id)}" style="${style}"><span class="sr-only">No event photograph is available. Illustrated Utah Every Season field plate.</span><div class="field-plate-top"><span>FIELD PLATE / ${plate}</span><span>NO EVENT PHOTO</span></div>${svg(e)}<div class="field-plate-bottom"><strong>${esc(s.label)}</strong><span>${esc(occasion)} · ${esc(region)}</span></div></div>`;
+ return `<div class="field-plate" data-specimen="${esc(specimen(e).id)}" style="${style}"><span class="sr-only">No event photograph is available. Illustrated Utah Every Season field artwork.</span>${svg(e,{},options)}</div>`;
 }
-function dataUrl(e,colors){return "data:image/svg+xml;charset=utf-8,"+encodeURIComponent(svg(e,colors))}
-window.FIELD_PLATES={specimen,svg,html,dataUrl,code,paletteFor};
+function dataUrl(e,colors,options){return "data:image/svg+xml;charset=utf-8,"+encodeURIComponent(svg(e,colors,options))}
+window.FIELD_PLATES={specimen,svg,html,dataUrl,code,paletteFor,PRESETS};
 })();
