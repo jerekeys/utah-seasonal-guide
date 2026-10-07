@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   "meta": {
-    "title": "Utah Seasonal Guide · 2026–27",
+    "title": "Utah Every Season · 2026–27",
     "updated": "October 6, 2026",
     "eventCount": 572,
     "confirmedCount": 564,
