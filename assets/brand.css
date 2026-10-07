@@ -341,3 +341,51 @@ main{max-width:1320px}
   text-decoration:underline;
   text-underline-offset:2px;
 }
+
+/* Structural media layout: the frame owns overlays; attribution is a sibling outside it. */
+.card-media,.event-hero-media{
+  display:block;
+  height:auto!important;
+  aspect-ratio:auto!important;
+  overflow:visible!important;
+}
+.media-frame{
+  position:relative;
+  width:100%;
+  aspect-ratio:16/9;
+  overflow:hidden;
+  background:var(--ues-ink);
+}
+.media-frame>.event-image-link,
+.media-frame>.media-visual{
+  position:relative;
+  display:block;
+  width:100%;
+  height:100%;
+  aspect-ratio:auto!important;
+  overflow:hidden;
+}
+.media-frame>.event-image-link>img,
+.media-frame>.media-visual>img{
+  display:block;
+  width:100%;
+  height:100%;
+  aspect-ratio:auto!important;
+  object-fit:cover;
+}
+.media-frame .field-plate{
+  width:100%;
+  height:100%;
+  aspect-ratio:auto!important;
+}
+.card-media>.photo-credit,.event-hero-media>.photo-credit{
+  display:block;
+  position:static!important;
+  inset:auto!important;
+  width:100%;
+  height:auto!important;
+  overflow:visible!important;
+  margin:0!important;
+  box-sizing:border-box;
+  border-top:1px solid var(--ues-ink);
+}
