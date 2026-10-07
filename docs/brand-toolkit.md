@@ -89,3 +89,23 @@ The permanent brand layer lives in `assets/brand.css`. Seasonal palette variable
 8. Edit/copy the caption starter.
 9. Add platform-native alt text/captions when publishing.
 10. Point people back to the relevant filtered page or event page rather than only the homepage.
+
+
+## Media frame + no-photo artwork
+Event photography and generated no-photo artwork use the same publication frame:
+- inset keyline;
+- field glyph + **UTAH EVERY SEASON** tab;
+- **FIELD NOTE** identifier;
+- occasion/season label.
+
+The frame is the brand. The underlying image is the subject. Do not repeat the event title or dense metadata inside website-card media.
+
+When no trustworthy event photograph exists, `assets/field-plates.js` generates a restrained specimen illustration over a topographic-inspired contour field. The illustration itself stays centered and fully visible; the contour field is recomposed to the destination dimensions rather than cropping a single master.
+
+Built-in field-art presets:
+- `card` / `hero`: 1600×900
+- `square`: 1080×1080
+- `portrait`: 1080×1350
+- `story`: 1080×1920
+
+The social toolkit also requests field artwork at the exact dimensions of its media region, so changing from feed portrait to square or Story/Reel recomposes the contour field while preserving the central specimen.
