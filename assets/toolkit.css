@@ -30,6 +30,7 @@
 .lineup-panel,
 .preview-panel,
 .publishing-panel {
+  min-width: 0;
   background: var(--ues-panel);
   border: 1px solid var(--ues-ink);
   box-shadow: 5px 5px 0 var(--ues-ink);
@@ -78,6 +79,7 @@
 .campaign-settings input,
 .add-event-row select,
 .publishing-panel textarea {
+  min-width: 0;
   width: 100%;
   min-height: 44px;
   border: 1px solid var(--ues-ink);
@@ -212,7 +214,7 @@
 }
 .add-event-row > div {
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: minmax(0, 1fr) auto;
   gap: 9px;
 }
 .slide-tabs {
@@ -305,7 +307,7 @@
 @media (max-width: 1100px) {
   .campaign-command,
   .toolkit-workspace {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
   .campaign-settings {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -329,7 +331,7 @@
   }
   .campaign-settings,
   .publishing-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
   .generate-campaign,
   .video-panel {
