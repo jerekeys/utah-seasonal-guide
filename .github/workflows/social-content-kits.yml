@@ -1,6 +1,13 @@
 name: Generate ready-to-post social kits
 
 on:
+  push:
+    branches: [development]
+    paths:
+      - 'assets/data.js'
+      - 'assets/social-campaign.js'
+      - 'scripts/generate-social-kit.cjs'
+      - '.github/workflows/social-content-kits.yml'
   workflow_dispatch:
     inputs:
       series:
