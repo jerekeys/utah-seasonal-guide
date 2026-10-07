@@ -16,6 +16,7 @@ on:
       - 'assets/brand.css'
       - 'assets/brand/**'
       - 'assets/toolkit.css'
+      - 'assets/social-campaign.js'
       - 'assets/social-toolkit.js'
       - 'assets/field-plates.js'
       - 'toolkit/**'
@@ -25,6 +26,7 @@ on:
       - 'scripts/page-templates/**'
       - 'scripts/qa-browser.cjs'
       - 'scripts/qa-app.cjs'
+      - 'scripts/qa-social-toolkit.cjs'
       - '.github/workflows/responsive-qa.yml'
 concurrency:
   group: seasonal-guide-browser-${{ github.ref }}
@@ -51,6 +53,7 @@ jobs:
           python3 -m http.server 8765 --bind 127.0.0.1 > /tmp/guide-server.log 2>&1 &
           node scripts/qa-browser.cjs
           node scripts/qa-app.cjs
+          node scripts/qa-social-toolkit.cjs
       - name: Upload review evidence
         if: always()
         uses: actions/upload-artifact@v4

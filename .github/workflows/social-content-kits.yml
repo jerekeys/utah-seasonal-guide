@@ -1,0 +1,71 @@
+name: Generate ready-to-post social kits
+
+on:
+  workflow_dispatch:
+    inputs:
+      series:
+        description: Editorial series
+        required: true
+        default: auto
+        type: choice
+        options: [auto, weekend, tonight, free, topical, lastchance, drive, found, field]
+      publish_date:
+        description: Publish date (YYYY-MM-DD); leave blank for today in Utah
+        required: false
+        type: string
+      event_count:
+        description: Number of events
+        required: true
+        default: '6'
+        type: choice
+        options: ['4', '5', '6', '7', '8']
+      palette:
+        description: Visual palette
+        required: true
+        default: auto
+        type: choice
+        options: [auto, current, halloween, fall, winter, christmas, spring, summer, pride]
+  schedule:
+    - cron: '15 13 * * 1,4'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: social-content-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install renderer
+        run: npm install --no-save sharp
+      - name: Install video encoder
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y ffmpeg
+          fi
+      - name: Build carousel and vertical video
+        env:
+          REQUESTED_SERIES: ${{ inputs.series || 'auto' }}
+          REQUESTED_DATE: ${{ inputs.publish_date }}
+          REQUESTED_COUNT: ${{ inputs.event_count || '6' }}
+          REQUESTED_PALETTE: ${{ inputs.palette || 'auto' }}
+        run: |
+          args=("--series=$REQUESTED_SERIES" "--count=$REQUESTED_COUNT" "--palette=$REQUESTED_PALETTE" "--output=artifacts/social-kit")
+          if [ -n "$REQUESTED_DATE" ]; then args+=("--date=$REQUESTED_DATE"); fi
+          node scripts/generate-social-kit.cjs "${args[@]}"
+      - name: Upload ready-to-post package
+        uses: actions/upload-artifact@v4
+        with:
+          name: utah-every-season-social-kit-${{ github.run_id }}
+          path: artifacts/social-kit/
+          if-no-files-found: error
+          retention-days: 30

@@ -17,4 +17,5 @@ jobs:
         with:
           python-version: '3.12'
       - run: node scripts/check-site.cjs
+      - run: node scripts/check-social-campaign.cjs
       - run: python scripts/check-links.py
