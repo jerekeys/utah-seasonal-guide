@@ -1,13 +1,13 @@
 {
   "id": "/",
-  "name": "Utah Seasonal Guide",
-  "short_name": "Utah Guide",
-  "description": "Find Utah celebrations, seasonal experiences and your saved events.",
+  "name": "Utah Every Season",
+  "short_name": "Every Season",
+  "description": "Utah’s obsessive guide to what to do next — verified events, traditions and local experiences.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#f0f7fb",
-  "theme_color": "#19201d",
+  "background_color": "#f5f0e4",
+  "theme_color": "#17221d",
   "lang": "en-US",
   "icons": [
     {
