@@ -28,4 +28,12 @@ Local full-list checks passed for asset paths, Utah dates, weekday schedules, ov
 
 Default order: notable events with an upcoming occurrence within 45 days, chronological by start date; then genuinely single-day annual or one-off events, chronological; then remaining events, chronological. Explicit name, date or cost sorts take precedence. Vibes retain their explanations and exploration links, with examples removed. Credits begin with the camera marker. Event card images link to event pages.
 
-Browser and deployment evidence will be recorded after the complete development package is built. Production remains untouched.
+The complete development package passed its GitHub Actions review at source commit `d93a9a51f1d131cea4b36ff4c822ba39521cb6bf` (workflow run `37553949249`) and advanced the `development` branch to that exact commit. The package regenerated and verified all 131 new reviewed photo assets before testing.
+
+Browser checks passed at 390, 768 and 1440 CSS pixels. They covered the current-season default, distinct spring/summer/winter themes, Ogden holiday filtering, image-to-event navigation, the three-tier default sort, explicit sort overrides, archive visibility and persistence, date searches, saved events, calendar generation, vibe explanations, form validation, photo-permission acknowledgement, responsive overflow, broken images and automated accessibility checks. No browser errors, broken listing images, horizontal overflow or automated accessibility violations were reported on the tested pages.
+
+The final visual review corrected the generic October view to use fall artwork, added distinct spring and summer illustrations, removed unintended fills from the winter snowflake and restored a compact desktop hero so the search controls remain visible. The import path now recognizes both slash- and pipe-separated category fields, preventing valid holiday/season overlaps from being dropped during future imports.
+
+Installable-app checks passed in Chromium and WebKit device emulation, including manifest validity, saved-event persistence, list export/import, offline search, cached event pages, offline fallback behavior and preservation of a failed submission. These are automated browser/device-emulation checks; physical installation on an Android phone and an iPhone remains a launch check.
+
+The Netlify development URL is protected by team authentication. The development branch and deployable package are verified, but an unauthenticated browser cannot independently inspect the hosted result. Production remains untouched.
