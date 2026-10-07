@@ -44,3 +44,5 @@ console.log('Chronological tiers, recurrence, additive seasons, archive backfill
 
 assert(d.events.filter(e=>e.photo).length>=Math.ceil(d.events.length/2),'At least half of listings have reviewed photos');
 console.log('Photo coverage meets the requested halfway threshold');
+
+const seasonSource=fs.readFileSync('assets/site.js','utf8').match(/function currentSeasonTheme[^\n]+/)[0];const themeForMonth=vm.runInNewContext('('+seasonSource+')');for(const [month,theme] of [[1,'winter'],[3,'spring'],[6,'summer'],[9,'thanksgiving'],[12,'winter']])assert(themeForMonth(month)===theme);console.log('Current-season default and separate spring/summer artwork passed');

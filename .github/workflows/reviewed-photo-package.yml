@@ -60,5 +60,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/photos assets/data.js events sitemap.xml
-          git commit -m "Include complete reviewed event photo package"
+          if ! git diff --cached --quiet; then git commit -m "Include complete reviewed event photo package"; fi
           git push origin HEAD:development

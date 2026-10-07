@@ -30,3 +30,8 @@ body[data-theme=pride]{--accent:#f0d687;--accent-dark:#574268;--season-red:#6949
 .nav a.submit-link[aria-current=page],.nav a.submit-link:hover{color:#fff}
 
 .archive-control{margin-top:1rem;display:flex;gap:.65rem;align-items:center}.archive-control input{width:1.25rem;height:1.25rem}.tag.past{background:#e0e7ed;color:#173042;border:1px solid #173042}
+
+body[data-theme=spring]{--accent:#dbedb5;--accent-dark:#285738;--season-red:#785466;--paper:#f0f7eb;--ink:#193426}
+body[data-theme=summer]{--accent:#f1cf7c;--accent-dark:#245971;--season-red:#956636;--paper:#f9f7ed;--ink:#163b4e}
+
+.hero-art img{height:auto;display:block}

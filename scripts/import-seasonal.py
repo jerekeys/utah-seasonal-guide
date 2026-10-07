@@ -12,7 +12,8 @@ holidays=old['holidays']
 def tags(s):
  # Use the canonical roster, including deliberately untagged notable events.
  out=[]
- for token in re.split(r'\s*[|]\s*',str(s or '')):
+ if str(s or '') in holidays:return [str(s)]
+ for token in re.split(r'\s*\|\s*|\s+/\s+',str(s or '')):
   if token in holidays:out.append(token)
   elif token=='Halloween & Fall':out.extend(['Halloween','Fall'])
  return list(dict.fromkeys(out))
@@ -21,7 +22,7 @@ def types(c):
 events=old['events'];index={norm(e['Event / attraction']):e for e in events};research=[]
 for n,row in enumerate(rows[1:],2):
  if not row or not row[0]:continue
- r={h:(row[i] if i<len(row) and row[i]!=None else '') for i,h in enumerate(headers)};status=r['2026 status'];key=norm(r['Event']);start=r['Start date'];end=r['End date'];holiday=tags(r['Normalized Holiday Tags'] or r['Holiday / Season'])
+ r={h:(row[i] if i<len(row) and row[i]!=None else '') for i,h in enumerate(headers)};status=r['2026 status'];key=norm(r['Event']);start=r['Start date'];end=r['End date'];holiday=tags(r['Normalized Holiday Tags']) or tags(r['Holiday / Season'])
  if 'Discovery lead' in status or not status:research.append(r);continue
  e=index.get(key)
  if not e:
