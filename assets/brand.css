@@ -1,0 +1,229 @@
+/* Utah Every Season — permanent brand layer
+   Seasonal palettes still come from seasonal.css; this file controls the publication identity. */
+:root{
+  --ues-ink:#17221d;
+  --ues-paper:#f5f0e4;
+  --ues-panel:#fffdf8;
+  --ues-signal:#ef5a29;
+  --ues-signal-dark:#a83b1c;
+  --ues-grid:rgba(23,34,29,.075);
+  --ues-hairline:rgba(23,34,29,.7);
+  --ues-display:ui-serif,Iowan Old Style,Palatino Linotype,Book Antiqua,Georgia,serif;
+  --ues-sans:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  --ues-mono:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+  --brand-accent:var(--accent,#f1cf7c);
+  --brand-season:var(--season-red,#785466);
+}
+body{
+  font-family:var(--ues-sans);
+  background-color:var(--paper);
+  background-image:
+    linear-gradient(var(--ues-grid) 1px,transparent 1px),
+    linear-gradient(90deg,var(--ues-grid) 1px,transparent 1px);
+  background-size:32px 32px;
+}
+body:before{height:5px;background:var(--ues-signal)}
+.site-header{
+  background:var(--ues-ink);
+  border-bottom:1px solid rgba(255,255,255,.22);
+  box-shadow:0 1px 0 rgba(23,34,29,.45);
+}
+.nav-wrap{max-width:1320px}
+.brand{
+  display:inline-flex;
+  align-items:center;
+  gap:.7rem;
+  color:#fff;
+  font:850 .9rem/1 var(--ues-mono);
+  letter-spacing:.075em;
+  text-transform:uppercase;
+}
+.brand:hover{text-decoration:none}
+.brand-mark{width:30px;height:30px;flex:0 0 auto}
+.brand-name{display:grid;gap:1px}
+.brand-name strong{font:900 1.03rem/1 var(--ues-sans);letter-spacing:.02em}
+.brand-name small{font:650 .62rem/1.1 var(--ues-mono);letter-spacing:.12em;color:#cfd8d2}
+.nav a{
+  font-family:var(--ues-mono);
+  font-size:.78rem;
+  letter-spacing:.02em;
+  border-radius:2px;
+}
+.nav a:hover,.nav a[aria-current=page]{background:var(--brand-season)}
+.nav a.submit-link{background:var(--ues-signal);color:#fff;border-color:var(--ues-signal)}
+.hero{
+  background:var(--ues-ink);
+  border-bottom:1px solid var(--ues-ink);
+  isolation:isolate;
+}
+.hero:before{
+  content:"";
+  position:absolute;inset:0;
+  background:
+    radial-gradient(circle at 18% 35%,transparent 0 86px,rgba(255,255,255,.055) 87px 88px,transparent 89px 118px,rgba(255,255,255,.04) 119px 120px,transparent 121px),
+    linear-gradient(90deg,transparent 49.8%,rgba(255,255,255,.04) 50%,transparent 50.2%);
+  pointer-events:none;
+  z-index:-1;
+}
+.hero-inner{max-width:1320px;padding-top:58px;padding-bottom:52px}
+.eyebrow,.season-chip,.section-kicker{
+  font-family:var(--ues-mono);
+  letter-spacing:.11em;
+  text-transform:uppercase;
+}
+.eyebrow{
+  background:transparent;
+  color:var(--brand-accent);
+  border:0;
+  border-left:5px solid var(--ues-signal);
+  padding:2px 0 2px 10px;
+  border-radius:0;
+}
+.hero h1,
+.page-head h1,.page-head h2,
+.detail-panel h1,
+.group h2,
+.prose h2{
+  font-family:var(--ues-display);
+  text-transform:none;
+  letter-spacing:-.035em;
+}
+.hero h1{font-weight:800;line-height:.98}
+.hero p{font-size:1.1rem;max-width:720px;color:#edf2ee}
+.hero-art{
+  position:relative;
+  transform:none;
+  border:1px solid #e8e0d0;
+  border-radius:0;
+  background:var(--ues-paper);
+  padding:10px 10px 34px;
+  box-shadow:8px 8px 0 var(--ues-signal);
+}
+.hero-art:after{
+  content:"FIELD PLATE / CURRENT SEASON";
+  position:absolute;
+  left:12px;right:12px;bottom:8px;
+  color:var(--ues-ink);
+  font:750 .62rem/1 var(--ues-mono);
+  letter-spacing:.12em;
+}
+.hero-art img{border:1px solid rgba(23,34,29,.25)}
+.hero-stats{border-top:1px solid rgba(255,255,255,.25);padding-top:18px}
+.stat b{font-family:var(--ues-mono);color:var(--brand-accent)}
+.stat span{font-family:var(--ues-mono);text-transform:uppercase;letter-spacing:.045em}
+main{max-width:1320px}
+.page-head{max-width:900px}
+.page-head h1,.page-head h2{font-weight:780}
+.page-head p{font-size:1.06rem}
+.season-chip{
+  color:var(--ues-ink);
+  background:var(--brand-accent);
+  border:1px solid var(--ues-ink);
+  box-shadow:3px 3px 0 var(--ues-ink);
+}
+.controls,.planner-item,.route,.vibe-card,.standout-card,.info-card,.detail-panel{
+  border:1px solid var(--ues-ink);
+  border-radius:2px;
+  box-shadow:5px 5px 0 rgba(23,34,29,.92);
+  background:color-mix(in srgb,var(--panel) 94%,white);
+}
+.search,select,.btn-filter,.field input,.field textarea,.field select,.fieldset{
+  border-width:1px;
+  border-radius:2px;
+}
+.filter-control>span,.field label,.field legend{
+  font-family:var(--ues-mono);
+  text-transform:uppercase;
+  letter-spacing:.045em;
+  font-size:.72rem;
+}
+.quick-picks a{
+  border-width:1px;
+  border-radius:2px;
+  font-family:var(--ues-mono);
+  font-size:.78rem;
+  letter-spacing:.015em;
+}
+.card{
+  border:1px solid var(--ues-ink);
+  border-radius:2px;
+  box-shadow:5px 5px 0 rgba(23,34,29,.92);
+  background:var(--ues-panel);
+}
+.card:hover{transform:translate(-2px,-2px);box-shadow:8px 8px 0 rgba(23,34,29,.92)}
+.card-media{border-bottom:1px solid var(--ues-ink)}
+.card-body{padding:16px 17px 18px}
+.field-strip{
+  display:flex;
+  justify-content:space-between;
+  gap:8px;
+  padding:0 0 8px;
+  margin:0 0 8px;
+  border-bottom:1px dashed rgba(23,34,29,.35);
+  color:var(--muted);
+  font:700 .64rem/1.2 var(--ues-mono);
+  letter-spacing:.065em;
+  text-transform:uppercase;
+}
+.field-strip span:last-child{text-align:right}
+.card h2,.card h3{font-family:var(--ues-display);font-weight:800;font-size:1.34rem;line-height:1.12}
+.tags{gap:5px}
+.tag,.practical-flag{
+  border:1px solid var(--ues-ink);
+  border-radius:2px;
+  font-family:var(--ues-mono);
+  letter-spacing:.015em;
+}
+.tag{padding:3px 6px}
+.meta{border-top:1px solid rgba(23,34,29,.18);padding-top:9px}
+.meta-row{grid-template-columns:68px 1fr}
+.meta-row b{
+  font:750 .69rem/1.45 var(--ues-mono);
+  text-transform:uppercase;
+  letter-spacing:.04em;
+}
+.why{color:#3e4741}
+.button,.save-button,.loadmore{
+  border-width:1px;
+  border-radius:2px;
+  box-shadow:3px 3px 0 var(--ues-ink);
+}
+.button.primary{background:var(--ues-ink)}
+.button.primary:hover{background:var(--ues-signal)}
+.button.secondary,.loadmore{background:var(--brand-accent)}
+.save-button[aria-pressed=true]{background:var(--brand-accent)}
+.photo-credit{font-family:var(--ues-mono);letter-spacing:.01em}
+.fact{border:1px solid var(--ues-ink);border-radius:0}
+.fact small{
+  font-family:var(--ues-mono);
+  text-transform:uppercase;
+  letter-spacing:.04em;
+  font-size:.67rem;
+}
+.site-footer{
+  background:var(--ues-ink);
+  border-top:5px solid var(--ues-signal);
+}
+.site-footer b{font-family:var(--ues-display);font-size:1.14rem}
+.site-footer a{color:var(--brand-accent)}
+.brand-proof{
+  margin-top:1rem;
+  padding-top:.75rem;
+  border-top:1px solid rgba(255,255,255,.25);
+  font:650 .68rem/1.45 var(--ues-mono);
+  letter-spacing:.035em;
+  text-transform:uppercase;
+  color:#cfd8d2;
+}
+@media(max-width:900px){
+  .hero-art{display:none}
+  .brand-name small{display:none}
+}
+@media(max-width:560px){
+  body{background-size:24px 24px}
+  .brand-mark{width:26px;height:26px}
+  .brand-name strong{font-size:.92rem}
+  .hero h1{font-size:2.35rem}
+  .field-strip{font-size:.58rem}
+}
+@media(prefers-reduced-motion:reduce){.card:hover{transform:none}}
