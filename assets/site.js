@@ -15,8 +15,30 @@ let favorites;try{favorites=new Set(JSON.parse(localStorage.getItem('utahFallFav
 const today=()=>window.DATE_TOOLS.today();
 function save(){try{localStorage.setItem('utahFallFavorites',JSON.stringify([...favorites]))}catch{const note=$('#savedStorageNote');if(note)note.textContent='Browser storage is unavailable. Your list will last only for this session; export it to keep a copy.'}window.dispatchEvent(new CustomEvent('favoriteschanged'))}
 function mediaOccasion(e){return e.primaryHoliday||e.holidays?.[0]||e.seasons?.[0]||e.publicTypes?.[0]||'UTAH'}
-function mediaOverlayHTML(e){return `<span class="media-brand-overlay" aria-hidden="true"><span class="media-brand-top"><span class="media-brand-lockup"><img src="/assets/brand/field-mark.svg" alt=""><b>UTAH EVERY SEASON</b></span></span><span class="media-brand-bottom"><span>FIELD NOTE ${fieldCode(e)}</span><span>${esc(mediaOccasion(e))}</span></span></span>`}
-function mediaHTML(e,detail=false){const p=e.photo,hasPhoto=!!(p&&/^assets\/photos\//.test(p.src));const visual=hasPhoto?`<img src="/${esc(p.src)}" alt="${esc(p.alt||'')}" loading="${detail?'eager':'lazy'}" decoding="async" width="1600" height="900">`:window.FIELD_PLATES.html(e,detail?'hero':'card'),overlay=mediaOverlayHTML(e);return `<div class="${detail?'event-hero-media':'card-media'}">${detail?`<div class="media-visual">${visual}${overlay}</div>`:`<a class="event-image-link" href="${eventURL(e.id)}" aria-label="View ${esc(e['Event / attraction'])}">${visual}${overlay}</a>`}${hasPhoto?`<div class="photo-credit"><span aria-hidden="true">📷:</span> <span class="sr-only">Photo credit: </span>${p.creditUrl||p.sourceUrl?`<a href="${esc(safeURL(p.creditUrl||p.sourceUrl))}" target="_blank" rel="noopener noreferrer">${esc(p.credit||'Image source')}</a>`:esc(p.credit||'Image source')}${p.license?' · '+(p.licenseUrl?`<a href="${esc(safeURL(p.licenseUrl))}" target="_blank" rel="noopener noreferrer">${esc(p.license)}</a>`:esc(p.license)):''}${p.caption?' · '+esc(p.caption):''}</div>`:''}</div>`}
+function mediaOverlayHTML(e){
+ return `<span class="media-brand-overlay" aria-hidden="true"><span class="media-brand-top"><span class="media-brand-lockup"><img src="/assets/brand/field-mark.svg" alt=""><b>UTAH EVERY SEASON</b></span></span><span class="media-brand-bottom"><span>FIELD NOTE ${fieldCode(e)}</span><span>${esc(mediaOccasion(e))}</span></span></span>`;
+}
+function photoCreditHTML(p){
+ if(!p)return '';
+ const source=p.creditUrl||p.sourceUrl
+  ?`<a href="${esc(safeURL(p.creditUrl||p.sourceUrl))}" target="_blank" rel="noopener noreferrer">${esc(p.credit||'Image source')}</a>`
+  :esc(p.credit||'Image source');
+ const license=p.license
+  ?' · '+(p.licenseUrl?`<a href="${esc(safeURL(p.licenseUrl))}" target="_blank" rel="noopener noreferrer">${esc(p.license)}</a>`:esc(p.license))
+  :'';
+ const caption=p.caption?' · '+esc(p.caption):'';
+ return `<div class="photo-credit"><span class="photo-credit-label">Photo</span><span class="sr-only"> credit: </span><span class="photo-credit-copy">${source}${license}${caption}</span></div>`;
+}
+function mediaHTML(e,detail=false){
+ const p=e.photo,hasPhoto=!!(p&&/^assets\/photos\//.test(p.src));
+ const visual=hasPhoto
+  ?`<img src="/${esc(p.src)}" alt="${esc(p.alt||'')}" loading="${detail?'eager':'lazy'}" decoding="async" width="1600" height="900">`
+  :window.FIELD_PLATES.html(e,detail?'hero':'card');
+ const framed=detail
+  ?`<div class="media-frame"><div class="media-visual">${visual}${mediaOverlayHTML(e)}</div></div>`
+  :`<div class="media-frame"><a class="event-image-link" href="${eventURL(e.id)}" aria-label="View ${esc(e['Event / attraction'])}">${visual}${mediaOverlayHTML(e)}</a></div>`;
+ return `<div class="${detail?'event-hero-media':'card-media'}">${framed}${hasPhoto?photoCreditHTML(p):''}</div>`;
+}
 function socials(e){return(e.socials||[]).filter(s=>safeURL(s.url)).map(s=>`<a class="social-link" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(s.platform)} for ${esc(e['Event / attraction'])}"><svg aria-hidden="true"><use href="#i-${esc(s.platform)}"></use></svg><span class="sr-only">${esc(s.platform)}</span></a>`).join('')}
 function accessibilityHTML(e){const a=e.accessibility;if(!a||!safeURL(a.url))return '';return `<a class="access-pill ${esc(a.tone||'positive')}" href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.summary)} <span class="sr-only"> — organizer accessibility information, opens a new tab</span></a>`}
 function ratingHTML(e){const r=e.rating;return r?.value?`<div class="rating" title="${esc(r.basis)}"><b>${esc(r.type)}</b> ${esc(r.value)}/5 <span class="sr-only">Editorial guidance, not a customer review</span></div>`:''}
