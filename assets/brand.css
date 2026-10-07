@@ -50,7 +50,8 @@ body:before{height:5px;background:var(--ues-signal)}
   border-radius:2px;
 }
 .nav a:hover,.nav a[aria-current=page]{background:var(--brand-season)}
-.nav a.submit-link{background:var(--ues-signal);color:#fff;border-color:var(--ues-signal)}
+.nav a.submit-link{background:var(--ues-signal);color:var(--ues-ink);border-color:var(--ues-signal)}
+.nav a.submit-link:hover,.nav a.submit-link[aria-current=page]{background:var(--ues-signal);color:var(--ues-ink);border-color:#fff}
 .hero{
   background:var(--ues-ink);
   border-bottom:1px solid var(--ues-ink);
