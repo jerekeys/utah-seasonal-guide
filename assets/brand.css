@@ -222,6 +222,7 @@ main{max-width:1320px}
 }
 @media(max-width:560px){
   body{background-size:24px 24px}
+  .brand{display:inline-flex;width:auto;max-width:100%;margin-bottom:7px}
   .brand-mark{width:26px;height:26px}
   .brand-name strong{font-size:.92rem}
   .hero h1{font-size:2.35rem}
