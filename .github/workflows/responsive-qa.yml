@@ -17,6 +17,7 @@ on:
       - 'assets/brand/**'
       - 'assets/toolkit.css'
       - 'assets/social-campaign.js'
+      - 'assets/social-editorial.js'
       - 'assets/social-toolkit.js'
       - 'assets/field-plates.js'
       - 'toolkit/**'

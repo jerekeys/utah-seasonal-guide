@@ -86,5 +86,5 @@ A research pass expanded social-link coverage across event listings. Supported p
 - Editorial metadata such as **FIELD NOTE**, **VERIFIED**, region, date and price is intentionally part of the visual language.
 - The complete usage guide is in `docs/brand-toolkit.md`.
 - The internal, no-index social card maker is available at `/toolkit/`. It can pull from current event data, use event or uploaded photography, and export 1080×1350, 1080×1920 and 1080×1080 PNGs without a paid design service.
-- Recurring social franchises: **The Weekend File**, **Worth the Drive**, **Found It**, **Tonight**, **Free This Weekend**, and **The Field Guide**.
+- Recurring social franchises: **The Weekend File**, **Tonight**, **Free This Weekend**, **Right Now**, **Last Chance**, **Worth the Drive**, **Adults Focused**, **Events for Kids**, **Found It**, and **Editor's Field Guide**. Each has a distinct editorial brief; dated human-curated leads and exclusions live in `assets/social-editorial.js`.
 - Generative **Field Plates** replace generic placeholder images. They are selected automatically from event taxonomy + occasion and require no per-event artwork; see `assets/field-plates.js` and `docs/brand-toolkit.md`.

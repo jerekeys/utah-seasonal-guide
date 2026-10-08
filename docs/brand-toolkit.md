@@ -57,14 +57,20 @@ Field Plates deliberately say **NO EVENT PHOTO**. They should never be mistaken 
 
 ## Social editorial franchises
 Use these repeatedly so followers learn the formats:
-1. **The Weekend File** — weekly roundup / carousel cover.
-2. **Worth the Drive** — one destination event worth traveling for.
-3. **Found It** — obscure, strange, or easy-to-miss discovery.
-4. **Tonight** — timely same-day recommendation.
-5. **Free This Weekend** — saveable free-event roundup.
-6. **The Field Guide** — thematic collection (pumpkin patches, lights, Pride, film festivals, etc.).
+1. **The Weekend File** — Salt Lake-first weekly shortlist led by major moments and one-day events.
+2. **Tonight** — low-friction same-day plans with concrete hours and a live/one-night bias.
+3. **Free This Weekend** — genuinely free, community-minded plans; it may return a shorter set rather than pad the post with weak regional matches.
+4. **Right Now** — one coherent current holiday or cultural story told through meaningfully different event types.
+5. **Last Chance** — limited runs that are actually ending soon, ordered by urgency.
+6. **Worth the Drive** — destination experiences where leaving the Wasatch Front is part of the premise.
+7. **Adults Focused** — verified 21+, nightlife, drinks and distinctly grown-up programming.
+8. **Events for Kids** — child-specific programming screened for age fit, intensity and practical timing.
+9. **Found It** — unusual, specific and under-the-radar discoveries rather than another roundup of major attractions.
+10. **Editor's Field Guide** — a Salt Lake-first forward-looking sampler that balances a headline, a timely one-off and different ways to go out.
 
-The internal browser tool lives at `/toolkit/` and exports 1080×1350, 1080×1920, and 1080×1080 PNGs. It can pull directly from `assets/data.js` or use manual copy and a local uploaded image.
+Each franchise has a separate selection policy. Ordinary series reserve at least two-thirds of available slots for Salt Lake Metro events; **Worth the Drive** reverses that rule. Explicit selections, exclusions and dated lead choices live in `assets/social-editorial.js` and outrank automated scoring. The toolkit displays a short rationale for every selection. Events used in a downloaded browser-generated package are deprioritized for 14 days so consecutive posts rotate when qualified alternatives exist.
+
+The internal browser tool lives at `/toolkit/` and exports a complete 1080×1350 carousel plus a matching vertical-video production request. It pulls directly from `assets/data.js` and leaves every selection reorderable, replaceable or removable.
 
 ## Editorial visual rules
 - One strong headline; do not cram full event descriptions into a graphic.

@@ -1,4 +1,4 @@
-const VERSION = 'utah-guide-2026-10-07-social-studio-1';
+const VERSION = 'utah-guide-2026-10-08-editorial-series-2';
 const CORE = VERSION + '-core', PAGES = VERSION + '-pages', IMAGES = VERSION + '-images';
 const SHELL = ['/', '/saved/', '/app/', '/offline/', '/assets/data.js', '/assets/site.js', '/assets/vibes.js', '/assets/date-tools.js', '/assets/event-enhancements.js', '/assets/app.js', '/assets/styles.css', '/assets/date-tools.css', '/assets/seasonal.css', '/assets/favicon.svg', '/assets/art/seasonal/winter-community.svg', '/manifest.webmanifest', '/assets/app/icon-192.png', '/assets/app/icon-512.png', '/assets/app/icon-180.png', '/assets/app/icon-maskable-512.png'];
 self.addEventListener('install', event => event.waitUntil(caches.open(CORE).then(cache => cache.addAll(SHELL))));

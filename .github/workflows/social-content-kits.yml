@@ -6,6 +6,8 @@ on:
     paths:
       - 'assets/data.js'
       - 'assets/social-campaign.js'
+      - 'assets/social-editorial.js'
+      - 'assets/social-toolkit.js'
       - 'scripts/generate-social-kit.cjs'
       - '.github/workflows/social-content-kits.yml'
   workflow_dispatch:
@@ -15,7 +17,7 @@ on:
         required: true
         default: auto
         type: choice
-        options: [auto, weekend, tonight, free, topical, lastchance, drive, adults, found, field]
+        options: [auto, weekend, tonight, free, topical, lastchance, drive, adults, kids, found, field]
       publish_date:
         description: Publish date (YYYY-MM-DD); leave blank for today in Utah
         required: false

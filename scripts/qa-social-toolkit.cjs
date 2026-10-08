@@ -39,6 +39,13 @@ async function audit(page,label){
     const caption=await page.locator('#caption').inputValue();
     for(const name of finalNames)if(!caption.includes(name))throw new Error(`${width}: detailed caption missing ${name}`);
     if(!caption.includes('Plan your visit:'))throw new Error(`${width}: planning links missing from caption`);
+    await page.locator('#campaignDate').fill('2026-10-08');
+    await page.locator('#series').selectOption('kids');
+    await page.getByRole('button',{name:'Generate my next post'}).click();
+    const kidNames=await page.locator('.lineup-item strong').allTextContents();
+    if(kidNames[0]!=='Little Haunts — This Is The Place')throw new Error(`${width}: kids editorial lead was not first`);
+    if(await page.locator('.selection-reason').count()!==kidNames.length)throw new Error(`${width}: selection rationales are missing`);
+    if(!/intentionally made for children/i.test(await page.locator('#seriesBrief').textContent()))throw new Error(`${width}: kids brief is not visible`);
     const overflow=await page.evaluate(()=>document.documentElement.scrollWidth-document.documentElement.clientWidth);
     if(overflow>1)throw new Error(`${width}: horizontal overflow by ${overflow}px`);
     await audit(page,`social-toolkit-${width}`);

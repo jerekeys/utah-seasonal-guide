@@ -26,10 +26,10 @@
       <div class="campaign-command">
         <div>
           <h2 id="campaignHeading">Generate a campaign</h2>
-          <p>“Best timely story” automatically chooses the strongest current angle from the event database.</p>
+          <p>Each series now follows its own editorial brief. “Editor's next post” chooses the most useful brief for the publish day.</p>
         </div>
         <div class="campaign-settings">
-          <label><span>Editorial series</span><select id="series"><option value="auto">Best timely story</option><option value="weekend">The Weekend File</option><option value="tonight">Tonight</option><option value="free">Free This Weekend</option><option value="topical">Current holiday / topical</option><option value="lastchance">Last Chance</option><option value="drive">Worth the Drive</option><option value="adults">Adults Focused</option><option value="found">Found It</option><option value="field">The Field Guide</option></select></label>
+          <label><span>Editorial series</span><select id="series"><option value="auto">Editor's next post</option><option value="weekend">The Weekend File</option><option value="tonight">Tonight</option><option value="free">Free This Weekend</option><option value="topical">Right Now: holiday / topical</option><option value="lastchance">Last Chance</option><option value="drive">Worth the Drive</option><option value="adults">Adults Focused</option><option value="kids">Events for Kids</option><option value="found">Found It</option><option value="field">Editor's Field Guide</option></select></label>
           <label><span>Publish date</span><input id="campaignDate" type="date"></label>
           <label><span>Number of events</span><select id="campaignCount"><option>4</option><option>5</option><option selected>6</option><option>7</option><option>8</option></select></label>
           <label><span>Season palette</span><select id="palette"><option value="auto">Automatic</option><option value="current">Core field guide</option><option value="halloween">Halloween</option><option value="fall">Fall</option><option value="winter">Winter</option><option value="christmas">Christmas</option><option value="spring">Spring</option><option value="summer">Summer</option><option value="pride">Pride</option></select></label>
@@ -42,7 +42,7 @@
     <div class="toolkit-workspace">
       <section class="lineup-panel" aria-labelledby="lineupHeading">
         <div class="panel-heading"><div><p class="section-kicker">Automatically selected</p><h2 id="lineupHeading">Campaign lineup</h2></div><span class="lineup-count" id="lineupCount"></span></div>
-        <p class="panel-help">Most series favor Salt Lake City and nearby outings; Worth the Drive reverses that priority. Adults Focused favors verified 21+ events and nightlife. The studio still balances timing, documentation, photographs and variety. Reorder, replace or remove anything.</p>
+        <p class="panel-help" id="seriesBrief">The active series brief appears here. Explicit editorial leads and picks are labeled below; the remaining slots follow that brief. Reorder, replace or remove anything.</p>
         <ol class="campaign-lineup" id="campaignLineup"></ol>
         <div class="add-event-row"><label for="addEvent">Add another event</label><div><select id="addEvent"></select><button class="button secondary" id="addEventButton" type="button">Add</button></div></div>
       </section>
@@ -84,6 +84,7 @@
   <script src="/assets/data.js"></script>
   <script src="/assets/date-tools.js"></script>
   <script src="/assets/field-plates.js"></script>
+  <script src="/assets/social-editorial.js"></script>
   <script src="/assets/social-campaign.js"></script>
   <script src="/assets/social-toolkit.js"></script>
 </body>

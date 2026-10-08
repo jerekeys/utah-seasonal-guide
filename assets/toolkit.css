@@ -177,6 +177,21 @@
   color: var(--muted);
   font-size: 0.78rem;
 }
+.selection-reason {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 3px 6px;
+  border: 1px solid rgba(23, 34, 29, 0.45);
+  background: var(--ues-paper);
+  color: var(--ues-ink);
+  font: 750 0.64rem/1.2 var(--ues-mono);
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+.selection-reason.editorial {
+  background: var(--ues-accent);
+  border-color: var(--ues-ink);
+}
 .lineup-actions {
   display: flex;
   gap: 5px;
