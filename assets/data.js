@@ -1,9 +1,9 @@
 window.SITE_DATA = {
   "meta": {
     "title": "Utah Every Season · 2026–27",
-    "updated": "October 6, 2026",
-    "eventCount": 572,
-    "confirmedCount": 564,
+    "updated": "October 8, 2026",
+    "eventCount": 584,
+    "confirmedCount": 576,
     "watchCount": 8,
     "publicRegionCount": 12,
     "publicTypeCount": 12,
@@ -20,9 +20,9 @@ window.SITE_DATA = {
     "socialPolicy": "Verified organizer/event accounts only; Instagram, Facebook, TikTok, Bluesky, and LinkedIn supported. X/Twitter intentionally excluded.",
     "imagePolicyUpdated": "October 6, 2026",
     "imagePolicy": "Use locally hosted imagery only when it clearly depicts the listed event, attraction, venue experience, or exact subject. Official-site provenance alone is not sufficient; generic stock, logos, unrelated page images and low-quality thumbnails are rejected. Category art remains the fallback.",
-    "realImageCount": 289,
-    "accessibilityListings": 19,
-    "localPhotoListings": 289,
+    "realImageCount": 296,
+    "accessibilityListings": 31,
+    "localPhotoListings": 296,
     "zeroHotlinks": true,
     "ccCandidates": 7,
     "siteVersion": "v9-year-round",
@@ -3803,7 +3803,7 @@ window.SITE_DATA = {
       "First date": "2026-10-24",
       "2026 schedule": "Oct 24",
       "Times": "Noon–6 PM",
-      "Price": "$7 adults / $3 children 4–12",
+      "Price": "$7 adults; $5 West Valley City residents; $3 ages 4–12; ages 3 and younger free; $20 family pass for up to six",
       "Cost": "",
       "Age": "all ages",
       "Intensity": "👻",
@@ -3849,11 +3849,16 @@ window.SITE_DATA = {
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
-      "lastVerified": "2026-10-06",
+      "lastVerified": "2026-10-08",
       "qaFlags": "",
       "timezone": "America/Denver",
       "sourceRow": 298,
-      "flags": [],
+      "flags": [
+        "Ages 3 and younger free",
+        "$20 family pass",
+        "West Valley City resident discount",
+        "All ages"
+      ],
       "isFree": false,
       "rating": null,
       "occurrenceDates": [
@@ -3866,10 +3871,22 @@ window.SITE_DATA = {
       ],
       "theme": "dayofdead",
       "placeholder": "assets/art/seasonal/dayofdead-community.svg",
-      "notable_event": false,
+      "notable_event": true,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "evidence": {
+        "schedule": {
+          "url": "https://www.culturalcelebration.org/dayofthedead",
+          "method": "Official venue page",
+          "checked": "2026-10-08"
+        },
+        "price": {
+          "url": "https://www.culturalcelebration.org/dayofthedead",
+          "method": "Official venue page",
+          "checked": "2026-10-08"
+        }
+      }
     },
     {
       "Event / attraction": "Dibble Farms Fall Festival",
@@ -12621,8 +12638,8 @@ window.SITE_DATA = {
       "Category": "Market / Shopping, Cultural / Día",
       "First date": "2026-10-11",
       "2026 schedule": "Oct 11",
-      "Times": "Noon–8 PM",
-      "Price": "Check admission details; food and shopping cost extra",
+      "Times": "Noon–8 PM; Las Cafeteras perform at 5:45 PM",
+      "Price": "Free admission; food and shopping extra",
       "Cost": "",
       "Age": "all ages",
       "Intensity": "👻",
@@ -12637,7 +12654,7 @@ window.SITE_DATA = {
         "Market / Shopping, Cultural / Día"
       ],
       "ghostCount": 0,
-      "costCount": 0,
+      "costCount": 1,
       "isWatch": false,
       "artKey": "market",
       "socials": [],
@@ -12676,15 +12693,18 @@ window.SITE_DATA = {
       "startDate": "2026-10-11",
       "endDate": "2026-10-11",
       "travelTier": "Core / easy day trip",
-      "lastVerified": "2026-10-06",
+      "lastVerified": "2026-10-08",
       "qaFlags": "",
       "timezone": "America/Denver",
       "sourceRow": 404,
       "flags": [
+        "Free admission",
         "Outdoor",
-        "Community celebration"
+        "Community altar",
+        "Food and vendors",
+        "All ages"
       ],
-      "isFree": false,
+      "isFree": true,
       "rating": null,
       "occurrenceDates": [
         "2026-10-11"
@@ -12699,11 +12719,16 @@ window.SITE_DATA = {
       "evidence": {
         "schedule": {
           "url": "https://ofoam.org/dia-de-los-muertos",
-          "method": "Organizer page",
-          "checked": "2026-10-06"
+          "method": "Official organizer page and current local reporting",
+          "checked": "2026-10-08"
+        },
+        "price": {
+          "url": "https://krcl.org/events/?event=871416",
+          "method": "Current community-calendar listing",
+          "checked": "2026-10-08"
         }
       },
-      "notable_event": false,
+      "notable_event": true,
       "seasons": [
         "Fall"
       ]
@@ -39743,7 +39768,8 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "sourceRow": 640
     },
     {
       "id": "eve-halloween-crawl",
@@ -39799,7 +39825,8 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "sourceRow": 641
     },
     {
       "id": "salt-lake-men-s-choir-somewhere-in-my-memory",
@@ -39890,7 +39917,8 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Winter"
-      ]
+      ],
+      "sourceRow": 642
     },
     {
       "id": "winter-craftacular",
@@ -39948,7 +39976,8 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Winter"
-      ]
+      ],
+      "sourceRow": 643
     },
     {
       "id": "jane-austen-yule-ball-2026",
@@ -40021,7 +40050,8 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Winter"
-      ]
+      ],
+      "sourceRow": 644
     },
     {
       "Event / attraction": "Witches Tea — Grand America",
@@ -40079,7 +40109,7 @@ window.SITE_DATA = {
       "lastVerified": "2026-10-06",
       "qaFlags": "",
       "timezone": "America/Denver",
-      "sourceRow": null,
+      "sourceRow": 645,
       "flags": [
         "Indoor",
         "Reservations required"
@@ -40211,7 +40241,7 @@ window.SITE_DATA = {
       "lastVerified": "2026-10-06",
       "qaFlags": "",
       "timezone": "America/Denver",
-      "sourceRow": null,
+      "sourceRow": 646,
       "flags": [
         "Outdoor",
         "Dog-friendly",
@@ -43858,6 +43888,1106 @@ window.SITE_DATA = {
       "seasons": [
         "Fall",
         "Summer"
+      ]
+    },
+    {
+      "Event / attraction": "Día de los Muertos — Ogden Union Station",
+      "Region": "Ogden / Weber",
+      "Category": "Community Festival, Market / Shopping, Cultural / Día",
+      "First date": "2026-10-24",
+      "2026 schedule": "Oct 24",
+      "Times": "1–7 PM",
+      "Price": "Free admission; food and shopping extra",
+      "Cost": "",
+      "Age": "all ages",
+      "Intensity": "👻",
+      "Location": "Ogden Union Station, 2501 Wall Avenue, Ogden",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A full afternoon of remembrance and celebration with a community altar, live music, dancers, a craft market, car show and food at historic Union Station.",
+      "Website": "https://culturaandcraft.com/",
+      "Social profile": "https://www.instagram.com/culturaandcraft/",
+      "Extra notes": "",
+      "id": "dia-de-los-muertos-ogden-union-station",
+      "categories": [
+        "Community Festival, Market / Shopping, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "market",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/culturaandcraft/"
+        }
+      ],
+      "photo": {
+        "src": "assets/photos/dia-de-los-muertos-union-station-2026.webp",
+        "alt": "Historic Ogden Union Station and its front garden.",
+        "credit": "Ogden Union Station",
+        "creditUrl": "https://theunionstation.org/",
+        "sourceUrl": "https://theunionstation.org/wp-content/uploads/UnionStation.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1025,
+        "height": 342,
+        "rightsNote": "Selected from an official organizer or venue website for editorial event-listing use."
+      },
+      "sourceRegion": "Ogden / Weber",
+      "publicRegion": "Ogden, Weber & Morgan",
+      "sourceCategories": [
+        "Community Festival, Market / Shopping, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Community & Culture",
+        "Markets & Shopping",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 647,
+      "flags": [
+        "Free admission",
+        "Community altar",
+        "Food and vendors",
+        "All ages"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-24"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://culturaandcraft.com/",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": true,
+      "seasons": [
+        "Fall"
+      ]
+    },
+    {
+      "Event / attraction": "Día de los Muertos Ofrenda — Millcreek Common",
+      "Region": "Salt Lake Valley",
+      "Category": "Art / Exhibit, Cultural / Día",
+      "First date": "2026-10-19",
+      "2026 schedule": "Oct 19–31",
+      "Times": "Daily 9 AM–5 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "all ages",
+      "Intensity": "👻",
+      "Location": "Grandview, sixth floor of Millcreek City Hall, 1330 E Chambers Avenue, Millcreek",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Visit a community ofrenda in the Grandview event space, with photographs, marigolds and objects honoring people who have died.",
+      "Website": "https://millcreekcommon.org/",
+      "Social profile": "https://www.instagram.com/millcreekcommon/",
+      "Extra notes": "",
+      "id": "dia-de-los-muertos-ofrenda-millcreek-common",
+      "categories": [
+        "Art / Exhibit, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/millcreekcommon/"
+        }
+      ],
+      "photo": {
+        "src": "assets/photos/millcreek-common-dia-2026.webp",
+        "alt": "Millcreek Common’s illuminated plaza and skating loop at night.",
+        "credit": "Millcreek Common",
+        "creditUrl": "https://millcreekcommon.org/",
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/654a9a06484490657b8414bc/7dc87002-d739-4488-83b1-c872972d6c00/DJI_20241207181331_0018_D.jpg?format=1500w",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1500,
+        "height": 840,
+        "rightsNote": "Selected from an official organizer or venue website for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "sourceCategories": [
+        "Art / Exhibit, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-31",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 648,
+      "flags": [
+        "Free admission",
+        "Indoor",
+        "Community altar",
+        "All ages"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://millcreekcommon.org/",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ]
+    },
+    {
+      "Event / attraction": "Día de los Muertos Workshops — Millcreek Common",
+      "Region": "Salt Lake Valley",
+      "Category": "Workshop / Class, Cultural / Día",
+      "First date": "2026-10-23",
+      "2026 schedule": "Oct 23, 27 and 28",
+      "Times": "6:30–8:30 PM",
+      "Price": "Registration details not posted",
+      "Cost": "",
+      "Age": "Audience details not posted",
+      "Intensity": "👻",
+      "Location": "Millcreek Common, 1330 E Chambers Avenue, Millcreek",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Three evening workshops explore mini altars, alebrijes and sugar-skull traditions through hands-on artmaking.",
+      "Website": "https://millcreekcommon.org/",
+      "Social profile": "",
+      "Extra notes": "",
+      "id": "dia-de-los-muertos-workshops-millcreek-common",
+      "categories": [
+        "Workshop / Class, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "workshop",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/millcreek-common-dia-2026.webp",
+        "alt": "Millcreek Common’s illuminated plaza and skating loop at night.",
+        "credit": "Millcreek Common",
+        "creditUrl": "https://millcreekcommon.org/",
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/654a9a06484490657b8414bc/7dc87002-d739-4488-83b1-c872972d6c00/DJI_20241207181331_0018_D.jpg?format=1500w",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1500,
+        "height": 840,
+        "rightsNote": "Selected from an official organizer or venue website for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "sourceCategories": [
+        "Workshop / Class, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Workshops & Learning",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-28",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 649,
+      "flags": [
+        "Three workshop dates",
+        "Hands-on art",
+        "Registration may be required"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-23",
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://millcreekcommon.org/",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ]
+    },
+    {
+      "Event / attraction": "An Evening with La Catrina — Millcreek Common",
+      "Region": "Salt Lake Valley",
+      "Category": "Film / Theater / Performance, Cultural / Día",
+      "First date": "2026-10-30",
+      "2026 schedule": "Oct 30",
+      "Times": "Shows at 7:30 and 9 PM",
+      "Price": "Admission details not posted",
+      "Cost": "",
+      "Age": "Audience details not posted",
+      "Intensity": "👻",
+      "Location": "Grandview at Millcreek Common, 1330 E Chambers Avenue, Millcreek",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A staged evening centered on La Catrina, the elegant skeletal figure closely associated with modern Día de los Muertos imagery.",
+      "Website": "https://millcreekcommon.org/",
+      "Social profile": "",
+      "Extra notes": "",
+      "id": "an-evening-with-la-catrina-millcreek",
+      "categories": [
+        "Film / Theater / Performance, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "performance",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/millcreek-common-dia-2026.webp",
+        "alt": "Millcreek Common’s illuminated plaza and skating loop at night.",
+        "credit": "Millcreek Common",
+        "creditUrl": "https://millcreekcommon.org/",
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/654a9a06484490657b8414bc/7dc87002-d739-4488-83b1-c872972d6c00/DJI_20241207181331_0018_D.jpg?format=1500w",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1500,
+        "height": 840,
+        "rightsNote": "Selected from an official organizer or venue website for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "sourceCategories": [
+        "Film / Theater / Performance, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 650,
+      "flags": [
+        "Two performances",
+        "Indoor"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-30"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://millcreekcommon.org/",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ]
+    },
+    {
+      "Event / attraction": "Gran Día de los Muertos Celebration & La Catrina Parade",
+      "Region": "Salt Lake Valley",
+      "Category": "Community Festival, Active / Outdoors / Sports, Cultural / Día",
+      "First date": "2026-10-31",
+      "2026 schedule": "Oct 31",
+      "Times": "5–10 PM; free face painting during the first two hours",
+      "Price": "Free admission and skating; skate rentals $5",
+      "Cost": "",
+      "Age": "all ages",
+      "Intensity": "👻",
+      "Location": "Millcreek Common Plaza, 1330 E Chambers Avenue, Millcreek",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Millcreek Common closes its Día de los Muertos series with a La Catrina parade, face painting, costumes, prizes and the season’s final roller-skating night.",
+      "Website": "https://www.millcreekut.gov/Calendar.aspx?EID=2413&calType=0&day=8&month=10&year=2026",
+      "Social profile": "https://www.instagram.com/millcreekcommon/",
+      "Extra notes": "",
+      "id": "gran-dia-de-los-muertos-millcreek-common",
+      "categories": [
+        "Community Festival, Active / Outdoors / Sports, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/millcreekcommon/"
+        }
+      ],
+      "photo": {
+        "src": "assets/photos/millcreek-common-dia-2026.webp",
+        "alt": "Millcreek Common’s illuminated plaza and skating loop at night.",
+        "credit": "Millcreek Common",
+        "creditUrl": "https://millcreekcommon.org/",
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/654a9a06484490657b8414bc/7dc87002-d739-4488-83b1-c872972d6c00/DJI_20241207181331_0018_D.jpg?format=1500w",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1500,
+        "height": 840,
+        "rightsNote": "Selected from an official organizer or venue website for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "sourceCategories": [
+        "Community Festival, Active / Outdoors / Sports, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Community & Culture",
+        "Active & Outdoors",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Halloween",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 651,
+      "flags": [
+        "Free admission",
+        "Free skating",
+        "$5 rentals",
+        "Costumes encouraged",
+        "Outdoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-31"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://www.millcreekut.gov/Calendar.aspx?EID=2413&calType=0&day=8&month=10&year=2026",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ]
+    },
+    {
+      "Event / attraction": "Día de los Muertos — Thanksgiving Point",
+      "Region": "Utah County",
+      "Category": "Community Festival, Cultural / Día",
+      "First date": "2026-10-24",
+      "2026 schedule": "Oct 24",
+      "Times": "10 AM–8 PM; Catrina and Catrin contest at 3:30 PM",
+      "Price": "$16 adults; $5 ages 3–12; ages 2 and younger free; members save 10%",
+      "Cost": "",
+      "Age": "all ages",
+      "Intensity": "👻",
+      "Location": "Show Barn at Thanksgiving Point, 2476 Sycamore Lane, Lehi",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A daylong celebration with community ofrendas, mariachi, singers, storytelling, vendors and a Catrina and Catrin costume contest.",
+      "Website": "https://thanksgivingpoint.org/events/dia-de-muertos/",
+      "Social profile": "https://www.instagram.com/thanksgivingpoint/",
+      "Extra notes": "",
+      "id": "dia-de-los-muertos-thanksgiving-point",
+      "categories": [
+        "Community Festival, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 2,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thanksgivingpoint/"
+        }
+      ],
+      "photo": null,
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "sourceCategories": [
+        "Community Festival, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Markets & Shopping"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 652,
+      "flags": [
+        "Children 2 and younger free",
+        "Member discount",
+        "Costume contest",
+        "Food and vendors",
+        "All ages"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-24"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://thanksgivingpoint.org/events/dia-de-muertos/",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": true,
+      "seasons": [
+        "Fall"
+      ]
+    },
+    {
+      "Event / attraction": "Día de los Muertos — Park City",
+      "Region": "Summit / Wasatch",
+      "Category": "Community Festival, Art / Exhibit, Cultural / Día",
+      "First date": "2026-11-01",
+      "2026 schedule": "Nov 1",
+      "Times": "2–5 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "all ages",
+      "Intensity": "👻",
+      "Location": "CREATE PC, 1500 Kearns Boulevard, Suite F110, Park City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Gather around a public ofrenda with tamales, pan de muerto, face painting, crafts and Catrinas. Community members may contribute photographs and mementos beginning October 20.",
+      "Website": "https://www.pcscarts.org/dia-de-los-muertos",
+      "Social profile": "https://www.instagram.com/pcscarts/",
+      "Extra notes": "ASL interpreting, Spanish translation, large-print materials and sensory kits are available. For accommodation questions, contact emma@pcscarts.org.",
+      "id": "dia-de-los-muertos-park-city",
+      "categories": [
+        "Community Festival, Art / Exhibit, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/pcscarts/"
+        }
+      ],
+      "photo": {
+        "src": "assets/photos/dia-de-los-muertos-park-city-2026.webp",
+        "alt": "A colorful Día de los Muertos altar decorated with marigolds, candles, photographs, crafts and sugar skulls beneath papel picado banners.",
+        "credit": "Arts Council of Park City & Summit County",
+        "creditUrl": "https://www.pcscarts.org/dia-de-los-muertos",
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/673cdf69b75fe402092de85e/0d1ff941-e346-476e-8221-16aaf4ef8d16/4A3A8880.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Organizer photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1067,
+        "height": 1600,
+        "rightsNote": "Selected from an official organizer or venue website for editorial event-listing use."
+      },
+      "sourceRegion": "Summit / Wasatch",
+      "publicRegion": "Park City & Wasatch Back",
+      "sourceCategories": [
+        "Community Festival, Art / Exhibit, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "travelTier": "Extended day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 653,
+      "flags": [
+        "Free admission",
+        "Community altar",
+        "Food",
+        "All ages",
+        "ASL interpreting"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-01"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://www.pcscarts.org/dia-de-los-muertos",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": {
+        "summary": "ASL interpreting, Spanish translation, large-print materials and sensory kits are available.",
+        "url": "https://www.pcscarts.org/accessibility-accommodations",
+        "tone": "positive"
+      }
+    },
+    {
+      "Event / attraction": "Michelada Music Festival & Car Show — Día de los Muertos Edition",
+      "Region": "Salt Lake Valley",
+      "Category": "Live Music, Car Show, Cultural / Día",
+      "First date": "2026-11-01",
+      "2026 schedule": "Nov 1",
+      "Times": "Noon–10 PM",
+      "Price": "See ticket page for current admission",
+      "Cost": "",
+      "Age": "all ages",
+      "Intensity": "👻",
+      "Location": "801 Event Center, 1055 W North Temple, Salt Lake City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "An all-ages Día de los Muertos edition of the Michelada Music Festival pairs a full music program with a car show and food-and-drink vendors.",
+      "Website": "https://ticketeras.com/products/michelada-music-festival-car-show",
+      "Social profile": "",
+      "Extra notes": "",
+      "id": "michelada-music-festival-dia-de-los-muertos-edition",
+      "categories": [
+        "Live Music, Car Show, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "performance",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "sourceCategories": [
+        "Live Music, Car Show, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Live Music & Performance",
+        "Community & Culture",
+        "Food & Drink"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 654,
+      "flags": [
+        "All ages",
+        "Live music",
+        "Car show",
+        "Food and vendors"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-01"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://ticketeras.com/products/michelada-music-festival-car-show",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ]
+    },
+    {
+      "Event / attraction": "Día de los Muertos — Mi Preferida & La Ley",
+      "Region": "Salt Lake Valley",
+      "Category": "Community Festival, Live Music, Cultural / Día",
+      "First date": "2026-11-02",
+      "2026 schedule": "Nov 2",
+      "Times": "1–10 PM",
+      "Price": "Admission price not posted",
+      "Cost": "",
+      "Age": "Audience details not posted",
+      "Intensity": "👻",
+      "Location": "801 Event Center, 1055 W North Temple, Salt Lake City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Mi Preferida 104.7 and La Ley 107.1 host an afternoon and evening of food, live music and their fourth annual Catrina contest.",
+      "Website": "https://www.instagram.com/reel/Dd9blfkiXuB/",
+      "Social profile": "https://www.instagram.com/laley1071fm/",
+      "Extra notes": "",
+      "id": "dia-de-los-muertos-801-event-center",
+      "categories": [
+        "Community Festival, Live Music, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "performance",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/laley1071fm/"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/laley1071fm/"
+        }
+      ],
+      "photo": null,
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "sourceCategories": [
+        "Community Festival, Live Music, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 655,
+      "flags": [
+        "Live music",
+        "Catrina contest",
+        "Food available"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-02"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://www.instagram.com/reel/Dd9blfkiXuB/",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ]
+    },
+    {
+      "Event / attraction": "Día de los Muertos — Oquirrh Park Fitness Center",
+      "Region": "Salt Lake Valley",
+      "Category": "Community Festival, Cultural / Día",
+      "First date": "2026-11-02",
+      "2026 schedule": "Nov 2",
+      "Times": "6–8:30 PM",
+      "Price": "Admission price not posted",
+      "Cost": "",
+      "Age": "all ages",
+      "Intensity": "👻",
+      "Location": "Oquirrh Park Fitness Center, 5624 S Cougar Lane, Kearns",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A community evening with live entertainment, crafts and a shared altar. Guests are encouraged to dress for the celebration and bring a photograph or memento for the ofrenda.",
+      "Website": "https://www.oquirrhrec.gov/dia-de-los-muertos-c5316ac",
+      "Social profile": "https://www.instagram.com/oquirrhrec/",
+      "Extra notes": "",
+      "id": "dia-de-los-muertos-oquirrh-park-fitness-center",
+      "categories": [
+        "Community Festival, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/oquirrhrec/"
+        }
+      ],
+      "photo": {
+        "src": "assets/photos/dia-de-los-muertos-oquirrh-2026.webp",
+        "alt": "A vibrant Día de los Muertos altar with colorful decorations, photos, flowers and sugar skulls.",
+        "credit": "Oquirrh Recreation and Parks District",
+        "creditUrl": "https://www.oquirrhrec.gov/dia-de-los-muertos-c5316ac",
+        "sourceUrl": "https://streamline.imgix.net/9be7d580-ee10-457e-b190-a4c6692be86c/31fc5cec-3c8c-4404-879a-d224e21d8618/20251105_8238.png",
+        "usageType": "official_web_photo",
+        "caption": "Organizer photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1600,
+        "height": 1066,
+        "rightsNote": "Selected from an official organizer or venue website for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "sourceCategories": [
+        "Community Festival, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Community & Culture",
+        "Workshops & Learning",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 656,
+      "flags": [
+        "Community altar",
+        "Crafts",
+        "Live entertainment",
+        "All ages"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-02"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://www.oquirrhrec.gov/dia-de-los-muertos-c5316ac",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ]
+    },
+    {
+      "Event / attraction": "Día de Muertos — Orem City Center Park",
+      "Region": "Utah County",
+      "Category": "Community Festival, Cultural / Día",
+      "First date": "2026-11-02",
+      "2026 schedule": "Nov 2",
+      "Times": "6–8 PM",
+      "Price": "Free admission",
+      "Cost": "",
+      "Age": "all ages",
+      "Intensity": "👻",
+      "Location": "Orem City Center Park, 289 E Center Street, Orem",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Elevate Utah and Orem Public Library bring a community Día de Muertos celebration to City Center Park with cultural activities and performances.",
+      "Website": "https://www.instagram.com/elevateutahcenter/",
+      "Social profile": "https://www.instagram.com/elevateutahcenter/",
+      "Extra notes": "",
+      "id": "dia-de-muertos-orem-city-center",
+      "categories": [
+        "Community Festival, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/elevateutahcenter/"
+        }
+      ],
+      "photo": null,
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "sourceCategories": [
+        "Community Festival, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 657,
+      "flags": [
+        "Free admission",
+        "Outdoor",
+        "All ages"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-02"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "Current reporting lists 6–8 PM; check the organizer’s latest post before leaving because social listings may show a shorter end time.",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://www.instagram.com/elevateutahcenter/",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ]
+    },
+    {
+      "Event / attraction": "Day of the Dead — St. George Museum of Art",
+      "Region": "Southern Utah",
+      "Category": "Art / Exhibit, Community Festival, Cultural / Día",
+      "First date": "2026-11-02",
+      "2026 schedule": "Nov 2",
+      "Times": "5–8 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "all ages",
+      "Intensity": "👻",
+      "Location": "St. George Museum of Art, 47 E 200 N, St. George",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A free family and community art exhibition built around “Remember Me,” honoring people whose lives and influence continue to matter.",
+      "Website": "https://sgcityutah.gov/parksandrec/arts___culture/art_museum/events/day_of_the_dead.php",
+      "Social profile": "",
+      "Extra notes": "",
+      "id": "day-of-the-dead-st-george-museum-of-art",
+      "categories": [
+        "Art / Exhibit, Community Festival, Cultural / Día"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "museum",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Southern Utah",
+      "publicRegion": "Southern Utah",
+      "sourceCategories": [
+        "Art / Exhibit, Community Festival, Cultural / Día"
+      ],
+      "publicTypes": [
+        "Workshops & Learning",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "travelTier": "Overnight / destination",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "sourceRow": 658,
+      "flags": [
+        "Free admission",
+        "Indoor",
+        "Family art exhibition",
+        "All ages"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-02"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "evidence": {
+        "schedule": {
+          "url": "https://sgcityutah.gov/parksandrec/arts___culture/art_museum/events/day_of_the_dead.php",
+          "method": "Organizer, venue or official ticket page",
+          "checked": "2026-10-08"
+        }
+      },
+      "notable_event": false,
+      "seasons": [
+        "Fall"
       ]
     }
   ],

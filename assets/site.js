@@ -27,7 +27,7 @@ function photoCreditHTML(p){
   ?' · '+(p.licenseUrl?`<a href="${esc(safeURL(p.licenseUrl))}" target="_blank" rel="noopener noreferrer">${esc(p.license)}</a>`:esc(p.license))
   :'';
  const caption=p.caption?' · '+esc(p.caption):'';
- return `<div class="photo-credit"><span class="photo-credit-label">Photo</span><span class="sr-only"> credit: </span><span class="photo-credit-copy">${source}${license}${caption}</span></div>`;
+ return `<div class="photo-credit"><span class="photo-credit-label" aria-hidden="true">📷</span><span class="sr-only">Photo credit: </span><span class="photo-credit-copy">${source}${license}${caption}</span></div>`;
 }
 function mediaHTML(e,detail=false){
  const p=e.photo,hasPhoto=!!(p&&/^assets\/photos\//.test(p.src));
