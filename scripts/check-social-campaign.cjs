@@ -37,4 +37,15 @@ assert(free.events.every(event=>event.isFree),'Free campaign included a paid eve
 const late=checkCampaign('lastchance');
 assert(late.events.some(event=>event.endDate),'Last Chance campaign lacks an ending event');
 
-console.log('Social campaigns pass timing, eligibility, diversity, caption and accessibility checks');
+const field=checkCampaign('field');
+const nearby=field.events.filter(event=>CAMPAIGN.proximityLevel(event)>=3);
+assert(nearby.length>=Math.ceil(field.events.length/2),'Ordinary campaigns should be dominated by Salt Lake City and nearby events');
+
+const drive=checkCampaign('drive');
+assert(drive.events.reduce((sum,event)=>sum+CAMPAIGN.proximityLevel(event),0)/drive.events.length<field.events.reduce((sum,event)=>sum+CAMPAIGN.proximityLevel(event),0)/field.events.length,'Worth the Drive should favor events farther from Salt Lake City');
+
+const adults=checkCampaign('adults');
+assert(adults.events.every(event=>CAMPAIGN.adultProfile(event).focused),'Adults Focused included an event without an adult-oriented signal');
+assert(adults.events.filter(event=>{const profile=CAMPAIGN.adultProfile(event);return profile.age21||profile.nightlife}).length>=Math.ceil(adults.events.length/2),'Adults Focused should be dominated by 21+ or nightlife events');
+
+console.log('Social campaigns pass timing, proximity, adult focus, eligibility, diversity, caption and accessibility checks');

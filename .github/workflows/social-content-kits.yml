@@ -15,7 +15,7 @@ on:
         required: true
         default: auto
         type: choice
-        options: [auto, weekend, tonight, free, topical, lastchance, drive, found, field]
+        options: [auto, weekend, tonight, free, topical, lastchance, drive, adults, found, field]
       publish_date:
         description: Publish date (YYYY-MM-DD); leave blank for today in Utah
         required: false

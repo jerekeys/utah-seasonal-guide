@@ -12,6 +12,7 @@
     topical:{label:'Current holiday / topical',eyebrow:'RIGHT NOW'},
     lastchance:{label:'Last Chance',eyebrow:'LAST CHANCE'},
     drive:{label:'Worth the Drive',eyebrow:'WORTH THE DRIVE'},
+    adults:{label:'Adults Focused',eyebrow:'GROWN-UP PLANS'},
     found:{label:'Found It',eyebrow:'FOUND IT'},
     field:{label:'The Field Guide',eyebrow:'THE FIELD GUIDE'}
   };
@@ -56,8 +57,33 @@
     if(series==='tonight')return[anchor,anchor];
     if(series==='lastchance')return[anchor,addDays(anchor,10)];
     if(series==='drive'||series==='found')return[anchor,addDays(anchor,35)];
+    if(series==='adults')return[anchor,addDays(anchor,28)];
     if(series==='topical')return[anchor,addDays(anchor,28)];
     return[anchor,addDays(anchor,14)];
+  }
+  const PROXIMITY={
+    'Salt Lake Metro':4,
+    'Davis County':3,
+    'Park City & Wasatch Back':3,
+    'Tooele':3,
+    'Utah County':3,
+    'Ogden, Weber & Morgan':2,
+    'Cache / Box Elder':1,
+    'Box Elder County':1,
+    'Statewide / Other':1,
+    'Eastern Utah':0,
+    'Cedar / Iron County':0,
+    'Southern Utah':0
+  };
+  function proximityLevel(event){return PROXIMITY[event.publicRegion]??1}
+  function adultProfile(event){
+    const age=clean(event.Age),types=(event.publicTypes||[]).join(' '),text=[event['Event / attraction'],event['Why / thoughts'],event['Extra notes'],event.Times,event.Location,age,types,event.artKey].map(clean).join(' ');
+    const age21=/\b21\s*\+|21 and (?:over|older)|ages? 21|must be 21/i.test(age);
+    const age18=!age21&&(/\b18\s*\+|18 and (?:over|older)|ages? 18|adults?[- ]only/i.test(age));
+    const nightlife=/Nightlife & Parties/i.test(types)||event.artKey==='nightlife'||/\bnightlife\b|\bnight ?club\b|\brave\b|\bDJ\b|late[- ]night|goth|burlesque|drag (?:show|brunch|performance)/i.test(text);
+    const drinks=/cocktail|tequila|beer|wine|brewery|brewing|\bbar\b|spirits|tasting menu/i.test(text);
+    const family=/all ages|family|families|children|kids?|youth|santa/i.test(age+' '+types);
+    return{age21,age18,nightlife,drinks,family,focused:age21||age18||nightlife||drinks};
   }
   function eventMatches(event,series,start,end,topic){
     if(event.isWatch)return false;
@@ -65,7 +91,7 @@
     if(series==='free'&&!event.isFree)return false;
     if(series==='topical'&&topic&&!(event.holidays||[]).includes(topic))return false;
     if(series==='lastchance'&&!(event.endDate&&inRange(event.endDate,start,end)))return false;
-    if(series==='drive'&&/Core \/ easy day trip/i.test(clean(event.travelTier)))return false;
+    if(series==='adults'&&!adultProfile(event).focused)return false;
     if(series==='found'&&!/(odd|unusual|unique|only|witch|paranormal|immersive|museum|animal|craft|workshop)/i.test([event['Event / attraction'],event['Why / thoughts'],...(event.publicTypes||[])].join(' ')))return false;
     return true;
   }
@@ -77,6 +103,22 @@
     if(event.scheduleConfidence==='verified-dates')value+=7;
     if(event.isFree)value+=series==='free'?24:4;
     if(topic&&(event.holidays||[]).includes(topic))value+=18;
+    const proximity=proximityLevel(event),travel=clean(event.travelTier);
+    if(series==='drive'){
+      value+=(4-proximity)*16;
+      if(/Overnight \/ destination/i.test(travel))value+=26;
+      else if(/Extended day trip/i.test(travel))value+=18;
+      else if(/Utah outing/i.test(travel))value+=10;
+      else if(/Core \/ easy day trip/i.test(travel))value-=12;
+    }else value+=proximity*9;
+    if(series==='adults'){
+      const adult=adultProfile(event);
+      if(adult.age21)value+=44;
+      else if(adult.age18)value+=24;
+      if(adult.nightlife)value+=28;
+      if(adult.drinks)value+=12;
+      if(adult.family&&!adult.age21&&!adult.age18)value-=16;
+    }
     if(event.accessibility?.summary)value+=3;
     if(/pending|unverified/i.test(clean(event.Status)))value-=20;
     return value;
@@ -110,6 +152,7 @@
     if(series==='topical')return`${topic}: ${count} Utah events to know about`;
     if(series==='lastchance')return`${count} Utah events ending soon`;
     if(series==='drive')return`${count} Utah events worth the drive`;
+    if(series==='adults')return`${count} grown-up Utah plans`;
     if(series==='found')return`${count} wonderfully specific Utah finds`;
     return`${count} timely Utah ideas worth leaving the house for`;
   }
@@ -135,12 +178,11 @@
     const [start,end]=windowFor(series,events,anchor);
     const [topic,topicCount]=strongestTopic(events,anchor,28);
     let candidates=events.filter(event=>eventMatches(event,series,start,end,series==='topical'?topic:''));
-    if(candidates.length<(options.count||6)&&series!=='field')candidates=upcoming(events,anchor,35);
     const selected=selectDiverse(candidates,Math.max(3,Math.min(9,Number(options.count)||6)),series,anchor,series==='topical'?topic:'');
     const campaign={anchor,series,seriesLabel:SERIES[series].label,eyebrow:series==='topical'&&topic?topic.toUpperCase():SERIES[series].eyebrow,topic:series==='topical'?topic:'',topicCount,start,end,events:selected,candidates:candidates.sort((a,b)=>score(b,series,anchor,topic)-score(a,series,anchor,topic)),generatedAt:new Date().toISOString()};
     campaign.title=titleFor(series,campaign.topic,start,end,selected.length);
     campaign.caption=captionFor(campaign);campaign.altText=altTextFor(campaign);campaign.credits=creditsFor(campaign);
     return campaign;
   }
-  return{SERIES,clean,addDays,dayDiff,datesFor,nextDate,weekendRange,strongestTopic,resolveSeries,formatDate,compactSchedule,price,place,captionFor,altTextFor,creditsFor,generate};
+  return{SERIES,clean,addDays,dayDiff,datesFor,nextDate,weekendRange,strongestTopic,resolveSeries,proximityLevel,adultProfile,score,formatDate,compactSchedule,price,place,captionFor,altTextFor,creditsFor,generate};
 });
