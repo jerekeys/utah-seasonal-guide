@@ -509,7 +509,8 @@ def main():
     ledger = {
         "checked": CHECKED,
         "article": "https://www.ksl.com/article/51633661/ogden-salt-lake-city-park-city-st-george-and-other-locales-hosting-da-de-los-muertos-events",
-        "added": added,
+        "added": [item["id"] for item in new_events],
+        "newlyAddedThisRun": added,
         "updated": sorted(set(updated)),
         "notes": "The roundup was used for discovery; event records were checked against official organizer, venue, city or ticket pages where available.",
     }
