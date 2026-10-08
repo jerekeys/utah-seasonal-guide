@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Hispanic heritage community art</title>
+  <desc id="desc">A warm abstract sunburst and connected arches in coral, marigold and deep blue.</desc>
+  <rect width="1600" height="900" fill="#183653"/>
+  <circle cx="800" cy="450" r="330" fill="#e95745" opacity=".28"/>
+  <g fill="none" stroke="#f4bf55" stroke-width="34" stroke-linecap="round">
+    <path d="M540 610q0-250 260-250t260 250"/>
+    <path d="M625 610q0-165 175-165t175 165"/>
+    <path d="M710 610q0-80 90-80t90 80"/>
+  </g>
+  <g fill="#f4bf55">
+    <circle cx="800" cy="250" r="52"/>
+    <circle cx="470" cy="305" r="18"/><circle cx="1130" cy="305" r="18"/>
+    <circle cx="430" cy="620" r="13"/><circle cx="1170" cy="620" r="13"/>
+  </g>
+  <path d="M370 705h860" stroke="#e95745" stroke-width="28" stroke-linecap="round"/>
+</svg>

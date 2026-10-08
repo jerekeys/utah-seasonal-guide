@@ -1,0 +1,87 @@
+{
+  "checkedOn": "2026-10-08",
+  "scope": [
+    "Halloween",
+    "Día de los Muertos",
+    "Veterans Day",
+    "Columbus Day",
+    "Indigenous Peoples’ Day",
+    "Hispanic Heritage Month",
+    "Thanksgiving"
+  ],
+  "addedOrUpdatedIds": [
+    "owl-o-ween-eccles-wildlife-center-2026",
+    "bumbles-drone-spooktacular-2026",
+    "dia-de-los-muertos-tyler-library-2026",
+    "dia-de-los-muertos-west-valley-library-2026",
+    "oaxaca-en-utah-dia-de-los-muertos-2026",
+    "suu-community-ofrenda-2026",
+    "suu-day-of-the-dead-celebration-2026",
+    "moccwalk-steps-for-scholarships-2026",
+    "military-tribute-field-pleasant-view-2026",
+    "veterans-day-devotional-north-ogden-2026",
+    "veterans-memorial-blood-drive-pleasant-view-2026",
+    "memorial-ruck-march-north-ogden-2026",
+    "layton-veterans-parade-2026",
+    "draper-veterans-day-ceremony-2026",
+    "sunriver-veterans-day-service-2026",
+    "cottonwood-heights-star-spangled-finale-2026",
+    "northeastern-utah-veterans-wellness-fair-2026",
+    "china-poblana-dress-exhibit-2026",
+    "health-heritage-fair-utah-2026",
+    "beisbol-en-salt-lake-2026",
+    "mi-gente-millcreek-2026",
+    "latinarte-nuestras-raices-2026",
+    "latinarte-artist-panel-2026",
+    "clinton-city-turkey-trot-2026",
+    "moab-city-turkey-trot-2026",
+    "k-town-turkey-trot-2026",
+    "west-point-turkey-trot-benefit-run-2026",
+    "hunger-fight-utah-thanksgiving-outreach-2026"
+  ],
+  "result": {
+    "newOrUpdated": 28,
+    "totalEvents": 612,
+    "realImageListings": 307,
+    "columbusDayPublicEventsConfirmed": 0,
+    "note": "Columbus Day was added as a filterable observance. Government office closures were not treated as public events, and no current Utah public celebration was promoted without evidence."
+  },
+  "sources": [
+    "https://calendar.slcc.edu/event/latinarte-nuestra-raices-our-roots-artist-panel",
+    "https://culture.utah.edu/events/latine-heritage-month.php",
+    "https://give.hungerfight.org/campaigns/45485-4th-annual-utah-thanksgiving-community-outreach-event",
+    "https://majorbrenttaylor.com/event/layton-veterans-parade/",
+    "https://majorbrenttaylor.com/event/memorial-ruck-march-2/",
+    "https://majorbrenttaylor.com/event/military-tribute-field/",
+    "https://majorbrenttaylor.com/event/veterans-blood-drive/",
+    "https://majorbrenttaylor.com/event/veterans-day-devotional/",
+    "https://moabcity.gov/Calendar.aspx?EID=1324",
+    "https://recreation.utah.gov/event/owl-o-ween/",
+    "https://secure.qgiv.com/event/moccwalk26/",
+    "https://slcls.libnet.info/event/17322841",
+    "https://slcls.libnet.info/event/17477322",
+    "https://takecareutah.org/health-heritage-fair/",
+    "https://veterans.utah.gov/event/sunriver-veterans-honor-park-veterans-day-service/",
+    "https://veterans.utah.gov/events/list/page/2/",
+    "https://www.clintoncity.net/2348/Special-Events",
+    "https://www.draperutah.gov/events-programs/community-events/veterans-day-ceremony/",
+    "https://www.eventbrite.com/e/2026-turkey-trot-benefit-run-tickets-2002847650237",
+    "https://www.eventeny.com/events/migente-33264/",
+    "https://www.mlb.com/milb/salt-lake/news/beisbol-en-salt-lake-returns-to-the-ballpark-at-america-first-square",
+    "https://www.playeasy.com/events/01a0fb6b-8bee-7850-8bcd-93d70c43dd56",
+    "https://www.slcc.edu/exhibitions-collections/exhibitions/previous-exhibitions/latinarte.aspx",
+    "https://www.suu.edu/suma/dotd/",
+    "https://www.ticketmaster.com/the-ballpark-at-america-first-square-tickets-south-jordan/venue/247103",
+    "https://www.visitsouthernutah.com/events/k-town-turkey-trot-5k/"
+  ],
+  "excluded": [
+    {
+      "name": "St. George Turkey Trot & Harvest Festival",
+      "reason": "Official city page says the 2026 event is cancelled."
+    },
+    {
+      "name": "Columbus Day office closures",
+      "reason": "Administrative closures are not public events."
+    }
+  ]
+}

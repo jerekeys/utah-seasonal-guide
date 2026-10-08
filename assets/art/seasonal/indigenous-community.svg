@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Indigenous community observance art</title>
+  <desc id="desc">An abstract sunrise over a stepped Utah landscape in turquoise, copper and cream.</desc>
+  <rect width="1600" height="900" fill="#17343b"/>
+  <circle cx="800" cy="380" r="190" fill="#d9aa62"/>
+  <g stroke="#f1e2c2" stroke-width="22" stroke-linecap="round">
+    <path d="M800 120v90M560 210l65 65M1040 210l-65 65M470 390h95M1035 390h95"/>
+  </g>
+  <path d="M300 690h245v-85h170v-95h170v95h170v85h245" fill="none" stroke="#4f91a0" stroke-width="72" stroke-linejoin="round"/>
+  <path d="M300 735h1000" stroke="#d9aa62" stroke-width="28" stroke-linecap="round"/>
+</svg>

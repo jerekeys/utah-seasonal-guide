@@ -2,8 +2,8 @@ window.SITE_DATA = {
   "meta": {
     "title": "Utah Every Season · 2026–27",
     "updated": "October 8, 2026",
-    "eventCount": 584,
-    "confirmedCount": 576,
+    "eventCount": 612,
+    "confirmedCount": 604,
     "watchCount": 8,
     "publicRegionCount": 12,
     "publicTypeCount": 12,
@@ -20,9 +20,9 @@ window.SITE_DATA = {
     "socialPolicy": "Verified organizer/event accounts only; Instagram, Facebook, TikTok, Bluesky, and LinkedIn supported. X/Twitter intentionally excluded.",
     "imagePolicyUpdated": "October 6, 2026",
     "imagePolicy": "Use locally hosted imagery only when it clearly depicts the listed event, attraction, venue experience, or exact subject. Official-site provenance alone is not sufficient; generic stock, logos, unrelated page images and low-quality thumbnails are rejected. Category art remains the fallback.",
-    "realImageCount": 296,
-    "accessibilityListings": 31,
-    "localPhotoListings": 296,
+    "realImageCount": 307,
+    "accessibilityListings": 35,
+    "localPhotoListings": 307,
     "zeroHotlinks": true,
     "ccCandidates": 7,
     "siteVersion": "v9-year-round",
@@ -44989,6 +44989,2548 @@ window.SITE_DATA = {
       "seasons": [
         "Fall"
       ]
+    },
+    {
+      "id": "owl-o-ween-eccles-wildlife-center-2026",
+      "Event / attraction": "OWL-o-ween at Eccles Wildlife Education Center",
+      "Region": "Davis County",
+      "Category": "Wildlife program, Halloween festival",
+      "First date": "2026-10-10",
+      "2026 schedule": "Oct 10",
+      "Times": "10 AM–1 PM; owl programs at 10 and 11:30 AM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "Families and all ages",
+      "Intensity": "",
+      "Location": "Eccles Wildlife Education Center, 1157 S Waterfowl Way, Farmington",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Meet live owls, learn about nocturnal wildlife, walk the nature trail and stop for games and trunk-or-treating.",
+      "Website": "https://recreation.utah.gov/event/owl-o-ween/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Wildlife program",
+        "Halloween festival"
+      ],
+      "sourceCategories": [
+        "Wildlife program",
+        "Halloween festival"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "family",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Davis County",
+      "publicRegion": "Davis County",
+      "publicTypes": [
+        "Community & Culture",
+        "Active & Outdoors",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ],
+      "primaryHoliday": "Halloween",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Live owls",
+        "Costumes welcome",
+        "Outdoor trail"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-10"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "halloween",
+      "placeholder": "assets/art/seasonal/halloween-family.svg",
+      "notable_event": true,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://recreation.utah.gov/event/owl-o-ween/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 585
+    },
+    {
+      "id": "bumbles-drone-spooktacular-2026",
+      "Event / attraction": "Bumble’s Drone Spooktacular",
+      "Region": "Salt Lake Valley",
+      "Category": "Drone show, Family Halloween",
+      "First date": "2026-10-16",
+      "2026 schedule": "Oct 16–17",
+      "Times": "6 PM both nights",
+      "Price": "Ticketed; current price is shown after choosing a date on the ticket page",
+      "Cost": "",
+      "Age": "All ages; children under 2 do not need a ticket",
+      "Intensity": "",
+      "Location": "The Ballpark at America First Square, 11131 S Ballpark Way, South Jordan",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A two-night Halloween program at the ballpark built around a coordinated drone-light show and family entertainment.",
+      "Website": "https://www.ticketmaster.com/the-ballpark-at-america-first-square-tickets-south-jordan/venue/247103",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Drone show",
+        "Family Halloween"
+      ],
+      "sourceCategories": [
+        "Drone show",
+        "Family Halloween"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "performance",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/america-first-square-ballpark.webp",
+        "alt": "The green baseball field and seating at The Ballpark at America First Square.",
+        "credit": "America First Square",
+        "creditUrl": "https://www.americafirstsquare.com/",
+        "sourceUrl": "https://media.americafirstsquare.com/wp-content/uploads/baseball-field-rendering.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Venue image",
+        "reviewedOn": "2026-10-08",
+        "width": 596,
+        "height": 440,
+        "rightsNote": "Selected from an official organizer, government or venue page for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ],
+      "primaryHoliday": "Halloween",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-17",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Two nights",
+        "Outdoor stadium",
+        "Ticketed"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-16",
+        "2026-10-17"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "halloween",
+      "placeholder": "assets/art/seasonal/halloween-performance.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": {
+        "summary": "The venue welcomes service animals; contact the ticket office for accessible seating and route details."
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.ticketmaster.com/the-ballpark-at-america-first-square-tickets-south-jordan/venue/247103",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 586
+    },
+    {
+      "id": "dia-de-los-muertos-tyler-library-2026",
+      "Event / attraction": "Día de los Muertos at Tyler Library",
+      "Region": "Salt Lake Valley",
+      "Category": "Library program, Cultural celebration",
+      "First date": "2026-11-02",
+      "2026 schedule": "Nov 2",
+      "Times": "6–8 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Ruth Vine Tyler Library, 8041 S Wood Street, Midvale",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "An evening of performances, crafts, music and treats centered on a community ofrenda and remembrance.",
+      "Website": "https://slcls.libnet.info/event/17322841",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Library program",
+        "Cultural celebration"
+      ],
+      "sourceCategories": [
+        "Library program",
+        "Cultural celebration"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Community ofrenda",
+        "Crafts",
+        "Indoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-02"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": {
+        "summary": "Library program; contact the branch for accommodation or seating requests."
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://slcls.libnet.info/event/17322841",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 587
+    },
+    {
+      "id": "dia-de-los-muertos-west-valley-library-2026",
+      "Event / attraction": "Día de los Muertos Party — West Valley Library",
+      "Region": "Salt Lake Valley",
+      "Category": "Library program, Cultural celebration",
+      "First date": "2026-11-02",
+      "2026 schedule": "Nov 2",
+      "Times": "6–7 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "Families and all ages",
+      "Intensity": "",
+      "Location": "West Valley Library, West Valley City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A one-hour library celebration with face painting and hands-on activities connected to Día de los Muertos.",
+      "Website": "https://slcls.libnet.info/event/17477322",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Library program",
+        "Cultural celebration"
+      ],
+      "sourceCategories": [
+        "Library program",
+        "Cultural celebration"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "family",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Face painting",
+        "Indoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-02"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-family.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": {
+        "summary": "Library program; contact the branch for accommodation or seating requests."
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://slcls.libnet.info/event/17477322",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 588
+    },
+    {
+      "id": "oaxaca-en-utah-dia-de-los-muertos-2026",
+      "Event / attraction": "Oaxaca en Utah Día de los Muertos — Ogden",
+      "Region": "Ogden / Weber",
+      "Category": "Community festival, Cultural celebration",
+      "First date": "2026-11-02",
+      "2026 schedule": "Nov 2",
+      "Times": "5–9 PM",
+      "Price": "Free admission; food purchases extra",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Myers Evergreen Memorial Park, 100 N Monroe Boulevard, Ogden",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A remembrance walk, community photo display and ofrenda share the evening with mariachi, folklórico, face painting, a Catrina contest and food trucks.",
+      "Website": "https://www.playeasy.com/events/01a0fb6b-8bee-7850-8bcd-93d70c43dd56",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community festival",
+        "Cultural celebration"
+      ],
+      "sourceCategories": [
+        "Community festival",
+        "Cultural celebration"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Ogden / Weber",
+      "publicRegion": "Ogden, Weber & Morgan",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Mariachi",
+        "Catrina contest",
+        "Food trucks"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-02"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.playeasy.com/events/01a0fb6b-8bee-7850-8bcd-93d70c43dd56",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 589
+    },
+    {
+      "id": "suu-community-ofrenda-2026",
+      "Event / attraction": "Community Ofrenda at Southern Utah Museum of Art",
+      "Region": "Cedar / Iron County",
+      "Category": "Art exhibit, Community ofrenda",
+      "First date": "2026-10-18",
+      "2026 schedule": "Oct 18–Nov 7",
+      "Times": "During museum hours",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Southern Utah Museum of Art, 13 S 300 W, Cedar City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A community altar at SUMA invites visitors to remember loved ones through photographs, names and traditional Día de los Muertos imagery.",
+      "Website": "https://www.suu.edu/suma/dotd/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Art exhibit",
+        "Community ofrenda"
+      ],
+      "sourceCategories": [
+        "Art exhibit",
+        "Community ofrenda"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/suu-dia-de-los-muertos-2026.webp",
+        "alt": "A Día de los Muertos dancer in bright traditional dress performs outdoors at Southern Utah University.",
+        "credit": "Southern Utah Museum of Art",
+        "creditUrl": "https://www.suu.edu/suma/dotd/",
+        "sourceUrl": "https://www.suu.edu/suma/dotd/dotd-banner.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Previous celebration photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1200,
+        "height": 452,
+        "rightsNote": "Selected from an official organizer, government or venue page for editorial event-listing use."
+      },
+      "sourceRegion": "Cedar / Iron County",
+      "publicRegion": "Cedar / Iron County",
+      "publicTypes": [
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-10-18",
+      "endDate": "2026-11-07",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Community ofrenda",
+        "Indoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.suu.edu/suma/dotd/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 590
+    },
+    {
+      "id": "suu-day-of-the-dead-celebration-2026",
+      "Event / attraction": "Day of the Dead Celebration — Southern Utah University",
+      "Region": "Cedar / Iron County",
+      "Category": "Cultural festival, Music and dance",
+      "First date": "2026-11-07",
+      "2026 schedule": "Nov 7",
+      "Times": "11 AM–3 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Eccles Music Center and Southern Utah Museum of Art, Cedar City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Southern Utah’s large public Día de los Muertos celebration brings together music, dance, food, art activities and cultural history.",
+      "Website": "https://www.suu.edu/suma/dotd/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Cultural festival",
+        "Music and dance"
+      ],
+      "sourceCategories": [
+        "Cultural festival",
+        "Music and dance"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "performance",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/suu-dia-de-los-muertos-2026.webp",
+        "alt": "A Día de los Muertos dancer in bright traditional dress performs outdoors at Southern Utah University.",
+        "credit": "Southern Utah Museum of Art",
+        "creditUrl": "https://www.suu.edu/suma/dotd/",
+        "sourceUrl": "https://www.suu.edu/suma/dotd/dotd-banner.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Previous celebration photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1200,
+        "height": 452,
+        "rightsNote": "Selected from an official organizer, government or venue page for editorial event-listing use."
+      },
+      "sourceRegion": "Cedar / Iron County",
+      "publicRegion": "Cedar / Iron County",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Día de los Muertos",
+        "Fall"
+      ],
+      "primaryHoliday": "Día de los Muertos",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Live performance",
+        "Art activities",
+        "Complimentary pan de muerto"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-07"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Mexican / Latino"
+      ],
+      "theme": "dayofdead",
+      "placeholder": "assets/art/seasonal/dayofdead-performance.svg",
+      "notable_event": true,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.suu.edu/suma/dotd/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 591
+    },
+    {
+      "id": "moccwalk-steps-for-scholarships-2026",
+      "Event / attraction": "MoccWalk — Steps for Scholarships",
+      "Region": "Salt Lake Valley",
+      "Category": "Community walk, Native culture",
+      "First date": "2026-10-12",
+      "2026 schedule": "Oct 12",
+      "Times": "Check-in 4:30–5:30 PM; walk 5:30–6:30 PM",
+      "Price": "Free registration and participation",
+      "Cost": "",
+      "Age": "All ages; everyone welcome",
+      "Intensity": "",
+      "Location": "Wardle Fields Regional Park, 14148 S 2700 W, Bluffdale",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Walk in moccasins or sneakers at this annual celebration of Native culture, education and scholarship support for Native students.",
+      "Website": "https://secure.qgiv.com/event/moccwalk26/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community walk",
+        "Native culture"
+      ],
+      "sourceCategories": [
+        "Community walk",
+        "Native culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "active",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/moccwalk-2026.webp",
+        "alt": "MoccWalk participants follow a paved park path beneath an American Indian Services arch.",
+        "credit": "American Indian Services",
+        "creditUrl": "https://secure.qgiv.com/event/moccwalk26/",
+        "sourceUrl": "https://96f8f4f60d478d4da507-33b0735e1ef87c51ff6ab3f3c71c7652.ssl.cf1.rackcdn.com/img_3698-1784737051",
+        "usageType": "official_web_photo",
+        "caption": "Previous MoccWalk photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1200,
+        "height": 1500,
+        "rightsNote": "Selected from an official organizer, government or venue page for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Active & Outdoors",
+        "Giving & Volunteering"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Indigenous Peoples’ Day",
+        "Fall"
+      ],
+      "primaryHoliday": "Indigenous Peoples’ Day",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-12",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Free registration",
+        "Family-friendly",
+        "Outdoor walk",
+        "Fundraiser"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-12"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Native / Indigenous"
+      ],
+      "theme": "indigenous",
+      "placeholder": "assets/art/seasonal/indigenous-active.svg",
+      "notable_event": true,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://secure.qgiv.com/event/moccwalk26/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 592
+    },
+    {
+      "id": "military-tribute-field-pleasant-view-2026",
+      "Event / attraction": "Military Tribute Field — Pleasant View",
+      "Region": "Ogden / Weber",
+      "Category": "Outdoor memorial, Veterans Week",
+      "First date": "2026-11-01",
+      "2026 schedule": "Nov 1–14",
+      "Times": "Open-air display; no daily visiting hours posted",
+      "Price": "Free to visit; optional flag sponsorship supports the foundation",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Pleasant View City Hall, 520 W Elberta Drive, Pleasant View",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Hundreds of flags form a walk-through memorial for veterans, active-duty service members and first responders, many with personal tribute tags.",
+      "Website": "https://majorbrenttaylor.com/event/military-tribute-field/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Outdoor memorial",
+        "Veterans Week"
+      ],
+      "sourceCategories": [
+        "Outdoor memorial",
+        "Veterans Week"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Ogden / Weber",
+      "publicRegion": "Ogden, Weber & Morgan",
+      "publicTypes": [
+        "Community & Culture",
+        "Giving & Volunteering"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ],
+      "primaryHoliday": "Veterans Day",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-14",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Free to visit",
+        "Outdoor memorial",
+        "Volunteer opportunities"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-community.svg",
+      "notable_event": true,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://majorbrenttaylor.com/event/military-tribute-field/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 593
+    },
+    {
+      "id": "veterans-day-devotional-north-ogden-2026",
+      "Event / attraction": "Veterans Day Devotional — North Ogden",
+      "Region": "Ogden / Weber",
+      "Category": "Community gathering, Interfaith observance",
+      "First date": "2026-11-01",
+      "2026 schedule": "Nov 1",
+      "Times": "Time not yet posted",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "Family-friendly; all faiths welcome",
+      "Intensity": "",
+      "Location": "Barker Park Amphitheater, 2375 Fruitland Drive, North Ogden",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A non-denominational outdoor gathering uses music, brief messages and prayer to honor veterans and reflect on military service.",
+      "Website": "https://majorbrenttaylor.com/event/veterans-day-devotional/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community gathering",
+        "Interfaith observance"
+      ],
+      "sourceCategories": [
+        "Community gathering",
+        "Interfaith observance"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "performance",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Ogden / Weber",
+      "publicRegion": "Ogden, Weber & Morgan",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ],
+      "primaryHoliday": "Veterans Day",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Outdoor",
+        "Bring a chair or blanket"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-01"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-performance.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://majorbrenttaylor.com/event/veterans-day-devotional/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 594
+    },
+    {
+      "id": "veterans-memorial-blood-drive-pleasant-view-2026",
+      "Event / attraction": "Veterans Memorial Blood Drive — Pleasant View",
+      "Region": "Ogden / Weber",
+      "Category": "Blood drive, Veterans Week",
+      "First date": "2026-11-05",
+      "2026 schedule": "Nov 5",
+      "Times": "Begins 1 PM; appointment times vary",
+      "Price": "Free; blood-donor eligibility rules apply",
+      "Cost": "",
+      "Age": "Eligible blood donors",
+      "Intensity": "",
+      "Location": "Pleasant View LDS Church, 2250 W Elberta Drive, Pleasant View",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A community blood drive offers a practical way to mark Veterans Week; walk-ins are welcome and appointments are encouraged.",
+      "Website": "https://majorbrenttaylor.com/event/veterans-blood-drive/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Blood drive",
+        "Veterans Week"
+      ],
+      "sourceCategories": [
+        "Blood drive",
+        "Veterans Week"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Ogden / Weber",
+      "publicRegion": "Ogden, Weber & Morgan",
+      "publicTypes": [
+        "Giving & Volunteering",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ],
+      "primaryHoliday": "Veterans Day",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Appointments encouraged",
+        "Walk-ins welcome",
+        "Indoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-05"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://majorbrenttaylor.com/event/veterans-blood-drive/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 595
+    },
+    {
+      "id": "memorial-ruck-march-north-ogden-2026",
+      "Event / attraction": "Memorial Ruck March — North Ogden",
+      "Region": "Ogden / Weber",
+      "Category": "Memorial walk, Veterans Week",
+      "First date": "2026-11-07",
+      "2026 schedule": "Nov 7",
+      "Times": "7 AM",
+      "Price": "Participation details on organizer page",
+      "Cost": "",
+      "Age": "General audience; choose a pace appropriate to the route",
+      "Intensity": "",
+      "Location": "Starts at Ben Lomond Cemetery, 526 E 2850 N, North Ogden",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Participants ruck, walk or run from Ben Lomond Cemetery toward Coldwater Canyon while carrying a pack, flag or the name of someone they wish to honor.",
+      "Website": "https://majorbrenttaylor.com/event/memorial-ruck-march-2/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Memorial walk",
+        "Veterans Week"
+      ],
+      "sourceCategories": [
+        "Memorial walk",
+        "Veterans Week"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "active",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Ogden / Weber",
+      "publicRegion": "Ogden, Weber & Morgan",
+      "publicTypes": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ],
+      "primaryHoliday": "Veterans Day",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Outdoor route",
+        "Walk, run or ruck"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-07"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-active.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://majorbrenttaylor.com/event/memorial-ruck-march-2/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 596
+    },
+    {
+      "id": "layton-veterans-parade-2026",
+      "Event / attraction": "Layton Veterans Parade",
+      "Region": "Davis County",
+      "Category": "Parade, Veterans Week",
+      "First date": "2026-11-07",
+      "2026 schedule": "Nov 7",
+      "Times": "11:11 AM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Layton Commons area; volunteer staging at 789 N Wasatch Drive, Layton",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Veterans, families and community groups parade through Layton, including volunteers carrying the foundation’s 30-by-60-foot flag.",
+      "Website": "https://majorbrenttaylor.com/event/layton-veterans-parade/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Parade",
+        "Veterans Week"
+      ],
+      "sourceCategories": [
+        "Parade",
+        "Veterans Week"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/reviewed-laytoncommons-35.webp",
+        "alt": "A playground among the trees at Layton Commons Park.",
+        "credit": "laytoncityutah.gov",
+        "creditUrl": "https://www.laytoncityutah.gov/LC/Parks/Park/Layton%20Commons%20Park",
+        "sourceUrl": "https://www.laytoncityutah.gov/photoGallery/Parks/LaytonCommons/pic06.png",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-06"
+      },
+      "sourceRegion": "Davis County",
+      "publicRegion": "Davis County",
+      "publicTypes": [
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ],
+      "primaryHoliday": "Veterans Day",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Outdoor parade",
+        "Volunteer opportunity"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-07"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://majorbrenttaylor.com/event/layton-veterans-parade/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 597
+    },
+    {
+      "id": "draper-veterans-day-ceremony-2026",
+      "Event / attraction": "Draper Veterans Day Ceremony",
+      "Region": "Salt Lake Valley",
+      "Category": "Civic ceremony, Veterans Day",
+      "First date": "2026-11-11",
+      "2026 schedule": "Nov 11",
+      "Times": "11–11:30 AM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Gold Star Families Memorial Monument at Draper Park, 12500 S 1300 E, Draper",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A concise civic ceremony includes the posting of colors, musical performances and a keynote address at Draper’s Gold Star Families memorial.",
+      "Website": "https://www.draperutah.gov/events-programs/community-events/veterans-day-ceremony/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Civic ceremony",
+        "Veterans Day"
+      ],
+      "sourceCategories": [
+        "Civic ceremony",
+        "Veterans Day"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/reviewed-draper-historic-park-31.webp",
+        "alt": "Landscaped grounds at Draper Historic Park.",
+        "credit": "Scott Catron",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:0807_Draper_Historic_Park.jpg",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/0807_Draper_Historic_Park.jpg/1280px-0807_Draper_Historic_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "usageType": "creative_commons",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-06",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Resized and converted to WebP; responsive display crop."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ],
+      "primaryHoliday": "Veterans Day",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Outdoor ceremony",
+        "Refreshments"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-11"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.draperutah.gov/events-programs/community-events/veterans-day-ceremony/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 598
+    },
+    {
+      "id": "sunriver-veterans-day-service-2026",
+      "Event / attraction": "SunRiver Veterans Honor Park Service",
+      "Region": "Southwest Utah",
+      "Category": "Memorial service, Veterans Day",
+      "First date": "2026-11-11",
+      "2026 schedule": "Nov 11",
+      "Times": "9 AM–noon",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "SunRiver Veterans Honor Park, 1766 W Wide River Drive, St. George",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A Veterans Day service at SunRiver’s honor park brings the community together for remembrance and recognition of military service.",
+      "Website": "https://veterans.utah.gov/event/sunriver-veterans-honor-park-veterans-day-service/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Memorial service",
+        "Veterans Day"
+      ],
+      "sourceCategories": [
+        "Memorial service",
+        "Veterans Day"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Southwest Utah",
+      "publicRegion": "Southern Utah",
+      "publicTypes": [
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ],
+      "primaryHoliday": "Veterans Day",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Outdoor",
+        "Bring a chair; seating is limited"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-11"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://veterans.utah.gov/event/sunriver-veterans-honor-park-veterans-day-service/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 599
+    },
+    {
+      "id": "cottonwood-heights-star-spangled-finale-2026",
+      "Event / attraction": "Cottonwood Heights Star-Spangled Finale",
+      "Region": "Salt Lake Valley",
+      "Category": "Student performance, Veterans recognition",
+      "First date": "2026-11-12",
+      "2026 schedule": "Nov 12",
+      "Times": "7–8 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "Veterans, families and community members",
+      "Intensity": "",
+      "Location": "Butler Middle School, 7530 S 2700 E, Cottonwood Heights",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Ridgecrest Elementary students perform the songs of each military branch in an evening created to recognize local veterans and their families.",
+      "Website": "https://veterans.utah.gov/events/list/page/2/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Student performance",
+        "Veterans recognition"
+      ],
+      "sourceCategories": [
+        "Student performance",
+        "Veterans recognition"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "performance",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ],
+      "primaryHoliday": "Veterans Day",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Student performance",
+        "Indoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-12"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-performance.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://veterans.utah.gov/events/list/page/2/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 600
+    },
+    {
+      "id": "northeastern-utah-veterans-wellness-fair-2026",
+      "Event / attraction": "Northeastern Utah Military & Veterans Wellness Fair",
+      "Region": "Eastern Utah",
+      "Category": "Resource fair, Veterans support",
+      "First date": "2026-11-13",
+      "2026 schedule": "Nov 13",
+      "Times": "2–6 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "Military members, veterans and families",
+      "Intensity": "",
+      "Location": "Vernal Utah National Guard Armory, 220 S 500 E, Vernal",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A practical resource fair connects military households with veteran-service groups, health and mental-health providers, benefits specialists and career support.",
+      "Website": "https://veterans.utah.gov/events/list/page/2/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Resource fair",
+        "Veterans support"
+      ],
+      "sourceCategories": [
+        "Resource fair",
+        "Veterans support"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "learning",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Eastern Utah",
+      "publicRegion": "Eastern Utah",
+      "publicTypes": [
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Veterans Day",
+        "Fall"
+      ],
+      "primaryHoliday": "Veterans Day",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "travelTier": "Worth the drive",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Resource fair",
+        "Indoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-13"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-learning.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://veterans.utah.gov/events/list/page/2/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 601
+    },
+    {
+      "id": "china-poblana-dress-exhibit-2026",
+      "Event / attraction": "La China Poblana Dress Exhibit",
+      "Region": "Salt Lake City",
+      "Category": "Museum exhibit, Latine heritage",
+      "First date": "2026-09-01",
+      "2026 schedule": "Sep 1–Dec 31",
+      "Times": "During Marriott Library hours",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "General audience",
+      "Intensity": "",
+      "Location": "J. Willard Marriott Library, 295 S 1500 E, Salt Lake City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Historic China Poblana ensembles, recorded performances and borderlands stories explore clothing as an archive of identity, migration and tradition.",
+      "Website": "https://culture.utah.edu/events/latine-heritage-month.php",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Museum exhibit",
+        "Latine heritage"
+      ],
+      "sourceCategories": [
+        "Museum exhibit",
+        "Latine heritage"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "learning",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Hispanic Heritage Month",
+        "Fall",
+        "Winter"
+      ],
+      "primaryHoliday": "Hispanic Heritage Month",
+      "startDate": "2026-09-01",
+      "endDate": "2026-12-31",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Indoor exhibit",
+        "Extended run"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25",
+        "2026-11-26",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-11-30",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-08",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24",
+        "2026-12-25",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The university page’s detailed exhibit listing gives Sep. 1–Dec. 31; its page header uses a shorter range.",
+      "communities": [
+        "Latino / Hispanic"
+      ],
+      "theme": "hispanic",
+      "placeholder": "assets/art/seasonal/hispanic-learning.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://culture.utah.edu/events/latine-heritage-month.php",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 602
+    },
+    {
+      "id": "health-heritage-fair-utah-2026",
+      "Event / attraction": "Health & Heritage Fair",
+      "Region": "Salt Lake City",
+      "Category": "Community fair, Health services, Cultural festival",
+      "First date": "2026-09-26",
+      "2026 schedule": "Sep 26",
+      "Times": "Noon–8:30 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "All ages; everyone welcome",
+      "Intensity": "",
+      "Location": "Utah State Fairpark, 155 N 1000 W, Salt Lake City",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "A daylong fair combines free health screenings and vaccines with cultural performances, family activities, a parade of countries, vendors and food.",
+      "Website": "https://takecareutah.org/health-heritage-fair/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community fair",
+        "Health services",
+        "Cultural festival"
+      ],
+      "sourceCategories": [
+        "Community fair",
+        "Health services",
+        "Cultural festival"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/health-heritage-fair-2026.webp",
+        "alt": "A DJ performs from a decorated vehicle as people gather at an earlier Health & Heritage Fair.",
+        "credit": "Take Care Utah",
+        "creditUrl": "https://takecareutah.org/health-heritage-fair/",
+        "sourceUrl": "https://takecareutah.org/wp-content/uploads/2026/06/tcu-hhf-bringing-people-together-2-2048x1462.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Previous fair photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1600,
+        "height": 1142,
+        "rightsNote": "Selected from an official organizer, government or venue page for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Food & Drink",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Hispanic Heritage Month",
+        "Fall"
+      ],
+      "primaryHoliday": "Hispanic Heritage Month",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Free health services",
+        "Family activities",
+        "Cultural performances"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-26"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Latino / Hispanic",
+        "Immigrant / Refugee"
+      ],
+      "theme": "hispanic",
+      "placeholder": "assets/art/seasonal/hispanic-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://takecareutah.org/health-heritage-fair/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 603
+    },
+    {
+      "id": "beisbol-en-salt-lake-2026",
+      "Event / attraction": "Béisbol en Salt Lake",
+      "Region": "Salt Lake Valley",
+      "Category": "Baseball, Cultural festival",
+      "First date": "2026-09-26",
+      "2026 schedule": "Sep 26–27",
+      "Times": "Sat gates 4:30 PM, game 6:35 PM; Sun gates 11 AM, game 1:05 PM",
+      "Price": "Single-game tickets $15 or $20; suites $1,200",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "The Ballpark at America First Square, 11131 S Ballpark Way, South Jordan",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "Two professional baseball games add live Latin music and dance, youth activities and a Saturday drone show; Sunday closes with postgame mariachi and a family base walk.",
+      "Website": "https://www.mlb.com/milb/salt-lake/news/beisbol-en-salt-lake-returns-to-the-ballpark-at-america-first-square",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Baseball",
+        "Cultural festival"
+      ],
+      "sourceCategories": [
+        "Baseball",
+        "Cultural festival"
+      ],
+      "ghostCount": 0,
+      "costCount": 2,
+      "isWatch": false,
+      "artKey": "active",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/america-first-square-ballpark.webp",
+        "alt": "The green baseball field and seating at The Ballpark at America First Square.",
+        "credit": "America First Square",
+        "creditUrl": "https://www.americafirstsquare.com/",
+        "sourceUrl": "https://media.americafirstsquare.com/wp-content/uploads/baseball-field-rendering.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Venue image",
+        "reviewedOn": "2026-10-08",
+        "width": 596,
+        "height": 440,
+        "rightsNote": "Selected from an official organizer, government or venue page for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Active & Outdoors",
+        "Community & Culture",
+        "Food & Drink"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Hispanic Heritage Month",
+        "Fall"
+      ],
+      "primaryHoliday": "Hispanic Heritage Month",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-27",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Two games",
+        "Saturday drone show",
+        "Sunday mariachi",
+        "Kids clinic"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Latino / Hispanic"
+      ],
+      "theme": "hispanic",
+      "placeholder": "assets/art/seasonal/hispanic-active.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.mlb.com/milb/salt-lake/news/beisbol-en-salt-lake-returns-to-the-ballpark-at-america-first-square",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 604
+    },
+    {
+      "id": "mi-gente-millcreek-2026",
+      "Event / attraction": "Mi Gente — A Celebration of Latin & Hispanic Heritage",
+      "Region": "Salt Lake Valley",
+      "Category": "Cultural festival, Night market",
+      "First date": "2026-09-26",
+      "2026 schedule": "Sep 26",
+      "Times": "5–10 PM",
+      "Price": "Free admission; food and drink purchases extra",
+      "Cost": "",
+      "Age": "All ages; full bar for adults 21+",
+      "Intensity": "",
+      "Location": "Millcreek Common, 1354 E Chambers Avenue, Millcreek",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "An evening festival fills Millcreek Common with Latin and Hispanic performers, dancing, a makers market, food and family activities, with a separate full-bar service for adults.",
+      "Website": "https://www.eventeny.com/events/migente-33264/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Cultural festival",
+        "Night market"
+      ],
+      "sourceCategories": [
+        "Cultural festival",
+        "Night market"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/millcreek-common-dia-2026.webp",
+        "alt": "Millcreek Common’s illuminated plaza and skating loop at night.",
+        "credit": "Millcreek Common",
+        "creditUrl": "https://millcreekcommon.org/",
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/654a9a06484490657b8414bc/7dc87002-d739-4488-83b1-c872972d6c00/DJI_20241207181331_0018_D.jpg?format=1500w",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1500,
+        "height": 840,
+        "rightsNote": "Selected from an official organizer or venue website for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Markets & Shopping",
+        "Food & Drink"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Hispanic Heritage Month",
+        "Fall"
+      ],
+      "primaryHoliday": "Hispanic Heritage Month",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Live music and dance",
+        "Market",
+        "21+ bar area"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-26"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Latino / Hispanic"
+      ],
+      "theme": "hispanic",
+      "placeholder": "assets/art/seasonal/hispanic-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.eventeny.com/events/migente-33264/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 605
+    },
+    {
+      "id": "latinarte-nuestras-raices-2026",
+      "Event / attraction": "LatinArte: Nuestras Raíces",
+      "Region": "Salt Lake City",
+      "Category": "Art exhibit, Latine heritage",
+      "First date": "2026-08-13",
+      "2026 schedule": "Aug 13–Sep 25",
+      "Times": "During gallery hours",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "General audience",
+      "Intensity": "",
+      "Location": "George S. & Dolores Doré Eccles Gallery, SLCC South City Campus, 1575 S 200 E, Salt Lake City",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "The eighth juried exhibition gathers work by 37 Latino artists from Utah and western Wyoming alongside the Sor Juana Spanish Poetry Contest.",
+      "Website": "https://www.slcc.edu/exhibitions-collections/exhibitions/previous-exhibitions/latinarte.aspx",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Art exhibit",
+        "Latine heritage"
+      ],
+      "sourceCategories": [
+        "Art exhibit",
+        "Latine heritage"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "learning",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Hispanic Heritage Month",
+        "Summer",
+        "Fall"
+      ],
+      "primaryHoliday": "Hispanic Heritage Month",
+      "startDate": "2026-08-13",
+      "endDate": "2026-09-25",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "37 regional artists",
+        "Indoor gallery"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Latino / Hispanic"
+      ],
+      "theme": "hispanic",
+      "placeholder": "assets/art/seasonal/hispanic-learning.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall",
+        "Summer"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.slcc.edu/exhibitions-collections/exhibitions/previous-exhibitions/latinarte.aspx",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 606
+    },
+    {
+      "id": "latinarte-artist-panel-2026",
+      "Event / attraction": "LatinArte Artist Panel",
+      "Region": "Salt Lake City",
+      "Category": "Artist talk, Latine heritage",
+      "First date": "2026-09-24",
+      "2026 schedule": "Sep 24",
+      "Times": "6–7 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "General audience",
+      "Intensity": "",
+      "Location": "George S. & Dolores Doré Eccles Gallery, SLCC South City Campus, 1575 S 200 E, Salt Lake City",
+      "Status": "Confirmed 2026; past",
+      "Why / thoughts": "Award-winning artists Daniella Ortiz Ramírez, Bianca Velasquez and Andrea Cárdenas Arceo discuss their work, process and experiences as Utah artists.",
+      "Website": "https://calendar.slcc.edu/event/latinarte-nuestra-raices-our-roots-artist-panel",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Artist talk",
+        "Latine heritage"
+      ],
+      "sourceCategories": [
+        "Artist talk",
+        "Latine heritage"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "learning",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Workshops & Learning",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Hispanic Heritage Month",
+        "Fall"
+      ],
+      "primaryHoliday": "Hispanic Heritage Month",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Artist conversation",
+        "Indoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-09-24"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Latino / Hispanic"
+      ],
+      "theme": "hispanic",
+      "placeholder": "assets/art/seasonal/hispanic-learning.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://calendar.slcc.edu/event/latinarte-nuestra-raices-our-roots-artist-panel",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 607
+    },
+    {
+      "id": "clinton-city-turkey-trot-2026",
+      "Event / attraction": "Clinton City Turkey Trot",
+      "Region": "Davis County",
+      "Category": "5K, Community walk",
+      "First date": "2026-11-14",
+      "2026 schedule": "Nov 14",
+      "Times": "9 AM",
+      "Price": "$15 per participant",
+      "Cost": "",
+      "Age": "All ages; choose a 5K or 2-mile walk",
+      "Intensity": "",
+      "Location": "Clinton; start point provided with registration",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A low-cost city turkey trot offers a timed 5K option and a two-mile walk for families and casual participants.",
+      "Website": "https://www.clintoncity.net/2348/Special-Events",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "5K",
+        "Community walk"
+      ],
+      "sourceCategories": [
+        "5K",
+        "Community walk"
+      ],
+      "ghostCount": 0,
+      "costCount": 2,
+      "isWatch": false,
+      "artKey": "active",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/clinton-turkey-trot-2026.webp",
+        "alt": "A runner raises both arms while crossing a finish line.",
+        "credit": "Clinton City",
+        "creditUrl": "https://www.clintoncity.net/2348/Special-Events",
+        "sourceUrl": "https://www.clintoncity.net/ImageRepository/Document?documentId=4431",
+        "usageType": "official_web_photo",
+        "caption": "Organizer image",
+        "reviewedOn": "2026-10-08",
+        "width": 1499,
+        "height": 434,
+        "rightsNote": "Selected from an official organizer, government or venue page for editorial event-listing use."
+      },
+      "sourceRegion": "Davis County",
+      "publicRegion": "Davis County",
+      "publicTypes": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ],
+      "primaryHoliday": "Thanksgiving",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "5K",
+        "2-mile walk",
+        "Registration closes Nov 12"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-14"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "thanksgiving",
+      "placeholder": "assets/art/seasonal/thanksgiving-active.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.clintoncity.net/2348/Special-Events",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 608
+    },
+    {
+      "id": "moab-city-turkey-trot-2026",
+      "Event / attraction": "Moab City Turkey Trot 5K",
+      "Region": "Eastern Utah",
+      "Category": "5K, Community run",
+      "First date": "2026-11-21",
+      "2026 schedule": "Nov 21",
+      "Times": "9 AM–11:59 AM",
+      "Price": "Registration price not posted",
+      "Cost": "",
+      "Age": "Runners and walkers",
+      "Intensity": "",
+      "Location": "Moab Recreation and Aquatic Center / Swanny City Park, 400 N 100 W, Moab",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Moab’s annual community 5K welcomes runners, walkers and casual trotters for a Saturday morning route from the recreation center.",
+      "Website": "https://moabcity.gov/Calendar.aspx?EID=1324",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "5K",
+        "Community run"
+      ],
+      "sourceCategories": [
+        "5K",
+        "Community run"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "active",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Eastern Utah",
+      "publicRegion": "Eastern Utah",
+      "publicTypes": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ],
+      "primaryHoliday": "Thanksgiving",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "travelTier": "Worth the drive",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "5K",
+        "Runners and walkers",
+        "ADA-accessible park facilities"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-21"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "thanksgiving",
+      "placeholder": "assets/art/seasonal/thanksgiving-active.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": {
+        "summary": "Swanny City Park lists ADA access, parking, restrooms, water and picnic facilities."
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://moabcity.gov/Calendar.aspx?EID=1324",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 609
+    },
+    {
+      "id": "k-town-turkey-trot-2026",
+      "Event / attraction": "K-Town Turkey Trot 5K",
+      "Region": "Southwest Utah",
+      "Category": "5K, Fun run",
+      "First date": "2026-11-26",
+      "2026 schedule": "Nov 26",
+      "Times": "Start time not posted",
+      "Price": "Registration details not posted",
+      "Cost": "",
+      "Age": "All ages; families welcome",
+      "Intensity": "",
+      "Location": "Jackson Flat Reservoir, Sherry Belle Trail, Kanab",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A costume-friendly Thanksgiving morning 5K follows the three-mile Sherry Belle Trail around Jackson Flat Reservoir.",
+      "Website": "https://www.visitsouthernutah.com/events/k-town-turkey-trot-5k/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "5K",
+        "Fun run"
+      ],
+      "sourceCategories": [
+        "5K",
+        "Fun run"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "active",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/k-town-turkey-trot-2026.webp",
+        "alt": "Runners circle Jackson Flat Reservoir during the K-Town Turkey Trot.",
+        "credit": "Kane County Office of Tourism",
+        "creditUrl": "https://www.visitsouthernutah.com/events/k-town-turkey-trot-5k/",
+        "sourceUrl": "https://www.earthdiver.com/cdn-cgi/image/width=1500,quality=75,format=auto/http://assets.earthdiver.com/media/autosync-1000079-1747945201319-0.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Previous event photo",
+        "reviewedOn": "2026-10-08",
+        "width": 1500,
+        "height": 999,
+        "rightsNote": "Selected from an official organizer, government or venue page for editorial event-listing use."
+      },
+      "sourceRegion": "Southwest Utah",
+      "publicRegion": "Southern Utah",
+      "publicTypes": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ],
+      "primaryHoliday": "Thanksgiving",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "travelTier": "Worth the drive",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "5K fun run",
+        "Costumes encouraged",
+        "Reservoir trail"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-26"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "thanksgiving",
+      "placeholder": "assets/art/seasonal/thanksgiving-active.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.visitsouthernutah.com/events/k-town-turkey-trot-5k/",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 610
+    },
+    {
+      "id": "west-point-turkey-trot-benefit-run-2026",
+      "Event / attraction": "West Point Turkey Trot Benefit Run",
+      "Region": "Davis County",
+      "Category": "Benefit run, Community gathering",
+      "First date": "2026-11-26",
+      "2026 schedule": "Nov 26",
+      "Times": "8–10:30 AM; check-in from 7:30 AM",
+      "Price": "$20 per runner or $60 per family",
+      "Cost": "",
+      "Age": "All ages; runners and non-runners welcome",
+      "Intensity": "",
+      "Location": "Loy Blake Park, 550 N 3500 W, West Point",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "A community benefit run directs proceeds to a local family and adds a bonfire, prize drawing, scones, cocoa and a bake sale for supporters who are not racing.",
+      "Website": "https://www.eventbrite.com/e/2026-turkey-trot-benefit-run-tickets-2002847650237",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Benefit run",
+        "Community gathering"
+      ],
+      "sourceCategories": [
+        "Benefit run",
+        "Community gathering"
+      ],
+      "ghostCount": 0,
+      "costCount": 2,
+      "isWatch": false,
+      "artKey": "active",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Davis County",
+      "publicRegion": "Davis County",
+      "publicTypes": [
+        "Active & Outdoors",
+        "Giving & Volunteering",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ],
+      "primaryHoliday": "Thanksgiving",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Benefit run",
+        "Family rate",
+        "Registration closes Nov 13",
+        "Packet pickup Nov 25"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-26"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "thanksgiving",
+      "placeholder": "assets/art/seasonal/thanksgiving-active.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.eventbrite.com/e/2026-turkey-trot-benefit-run-tickets-2002847650237",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 611
+    },
+    {
+      "id": "hunger-fight-utah-thanksgiving-outreach-2026",
+      "Event / attraction": "Utah Thanksgiving Community Outreach — Hunger Fight",
+      "Region": "Utah County",
+      "Category": "Meal-packing volunteer event, Community service",
+      "First date": "2026-11-23",
+      "2026 schedule": "Nov 23–24",
+      "Times": "Starts Nov 23 at 5 PM; concludes Nov 24 at 8 PM",
+      "Price": "Free to volunteer; registration required",
+      "Cost": "",
+      "Age": "Groups, teams and community volunteers",
+      "Intensity": "",
+      "Location": "547 S Locust Avenue, Pleasant Grove",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Volunteer teams assemble shelf-stable meals during a two-day Thanksgiving outreach designed to support local food relief.",
+      "Website": "https://give.hungerfight.org/campaigns/45485-4th-annual-utah-thanksgiving-community-outreach-event",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Meal-packing volunteer event",
+        "Community service"
+      ],
+      "sourceCategories": [
+        "Meal-packing volunteer event",
+        "Community service"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "publicTypes": [
+        "Giving & Volunteering",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Thanksgiving",
+        "Fall"
+      ],
+      "primaryHoliday": "Thanksgiving",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-24",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Volunteer registration",
+        "Meal packing",
+        "Two-day project"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "thanksgiving",
+      "placeholder": "assets/art/seasonal/thanksgiving-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://give.hungerfight.org/campaigns/45485-4th-annual-utah-thanksgiving-community-outreach-event",
+        "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
+      },
+      "sourceRow": 612
     }
   ],
   "planner": [
@@ -46887,6 +49429,7 @@ window.SITE_DATA = {
     "Labor Day",
     "Veterans Day",
     "Indigenous Peoples’ Day",
+    "Columbus Day",
     "Lunar New Year",
     "Oktoberfest",
     "Samhain",
@@ -46972,6 +49515,7 @@ window.SITE_DATA = {
       "Labor Day",
       "Veterans Day",
       "Indigenous Peoples’ Day",
+      "Columbus Day",
       "Lunar New Year",
       "Oktoberfest"
     ],
@@ -47038,7 +49582,7 @@ window.SITE_DATA = {
     ]
   },
   "planningHorizon": {
-    "from": "2026-10-06",
+    "from": "2026-10-08",
     "through": "2027-10-31",
     "note": "Holiday dates are distinct from organizer-announced event dates. Religious observance dates can vary by tradition, sunset and local moon sighting."
   }
