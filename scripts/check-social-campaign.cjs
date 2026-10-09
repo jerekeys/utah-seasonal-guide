@@ -61,6 +61,15 @@ assert(kids.events.every(event=>CAMPAIGN.kidProfile(event).focused),'Events for 
 assert(kids.events.every(event=>!CAMPAIGN.adultProfile(event).age18&&!CAMPAIGN.adultProfile(event).age21),'Events for Kids included an adult-restricted event');
 assert.strictEqual(kids.events[0].id,'little-haunts-this-is-the-place','Kids editorial lead should appear first');
 
+const pets=CAMPAIGN.generate(events,{series:'pets',anchor:'2026-10-08',count:6,editorial:EDITORIAL});
+assert(pets.events.length>=4,'Pet-friendly campaign should produce a usable short list');
+assert(pets.events.every(event=>CAMPAIGN.petFriendly(event)),'Pet-friendly campaign included an event without explicit pet permission or a dedicated pet activity');
+assert(pets.caption.includes('Pet policy: Pets are welcome'),'Pet-friendly campaign caption should explain that policy details are event-specific');
+assert(pets.title.includes('pet-friendly'),'Pet-friendly campaign title should identify the series');
+assert(pets.events.every((event,index)=>index===0||CAMPAIGN.nextDate(pets.events[index-1],pets.anchor)<=CAMPAIGN.nextDate(event,pets.anchor)),'Pet-friendly campaign should be chronological');
+assert(pets.events.filter(event=>event.publicRegion==='Salt Lake Metro').length>=Math.ceil(pets.events.length*.5),'Pet-friendly campaign should keep a local majority when the verified candidate pool allows');
+assert(pets.candidates.slice(0,2).every(event=>event.publicRegion==='Salt Lake Metro'),'Pet-friendly scoring should rank Salt Lake Metro listings ahead of regional listings');
+
 const found=checkCampaign('found');
 assert(found.events.every(event=>{const profile=CAMPAIGN.adultProfile(event);return !profile.age18&&!profile.age21}),'Found It should not duplicate age-restricted adult programming');
 

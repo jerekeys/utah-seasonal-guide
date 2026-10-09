@@ -14,13 +14,14 @@
     drive:{label:'Worth the Drive',eyebrow:'WORTH THE DRIVE',description:'Destination-worthy Utah outings where distance is the point; Salt Lake convenience is deliberately deprioritized.'},
     adults:{label:'Adults Focused',eyebrow:'GROWN-UP PLANS',description:'Verified 21+, nightlife, drinks and distinctly grown-up programming—not merely all-ages events adults could attend.'},
     kids:{label:'Events for Kids',eyebrow:'FOR KIDS',description:'Programming intentionally made for children and families, with age fit, scare level and practical timing considered.'},
+    pets:{label:'Pet-friendly Outings',eyebrow:'OUT WITH YOUR DOG',description:'Outings with an explicit pet-friendly policy or a dedicated dog activity. Check each listing for leash, designated-area and event-specific rules.'},
     found:{label:'Found It',eyebrow:'FOUND IT',description:'Specific, unusual and under-the-radar discoveries that reward curiosity instead of repeating the biggest attractions.'},
     field:{label:"Editor's Field Guide",eyebrow:'THE FIELD GUIDE',description:'A Salt Lake-first editorial sampler balancing a headline, a timely one-off and several meaningfully different ways to go out.'}
   };
   const POLICY={
     weekend:{days:3,metroShare:.66},tonight:{days:0,metroShare:.66},free:{days:3,metroShare:.66},
     topical:{days:28,metroShare:.66},lastchance:{days:10,metroShare:.66},drive:{days:35,farShare:.80},
-    adults:{days:28,metroShare:.66},kids:{days:28,metroShare:.66},found:{days:35,metroShare:.66},field:{days:14,metroShare:.66,futureShare:.83}
+    adults:{days:28,metroShare:.66},kids:{days:28,metroShare:.66},pets:{days:35,metroShare:.66},found:{days:35,metroShare:.66},field:{days:14,metroShare:.66,futureShare:.83}
   };
   const clean=value=>String(value||'').replace(/\s+/g,' ').trim();
   const isoDate=value=>/^\d{4}-\d{2}-\d{2}$/.test(String(value||''))?String(value):'';
@@ -89,6 +90,7 @@
     const intensity=Number(event.ghostCount)||0;
     return{ageSuitable,childSpecific,teenOrAdult,intensity,focused:ageSuitable&&childSpecific&&!teenOrAdult&&!adultProfile(event).age18&&!adultProfile(event).age21};
   }
+  function petFriendly(event){return (event.flags||[]).some(flag=>/^pet-friendly$|^dog-friendly$/i.test(clean(flag)))}
   function editorialRule(event,series,anchor,editorial){
     const rules=editorial?.events?.[event.id]||[];
     return rules.filter(rule=>(rule.series||[]).includes(series)&&(!rule.from||anchor>=rule.from)&&(!rule.through||anchor<=rule.through)).sort((a,b)=>(a.rank||99)-(b.rank||99))[0]||null;
@@ -101,6 +103,7 @@
     if(series==='lastchance'&&!(event.endDate&&inRange(event.endDate,start,end)))return false;
     if(series==='adults'&&!adultProfile(event).focused)return false;
     if(series==='kids'&&!kidProfile(event).focused)return false;
+    if(series==='pets'&&!petFriendly(event))return false;
     if(series==='found'){
       const adult=adultProfile(event);
       if(adult.age21||adult.age18||/(Santa & Family)/i.test((event.publicTypes||[]).join(' ')))return false;
@@ -178,6 +181,12 @@
       if(kid.intensity<=2)value+=8;else if(kid.intensity>=4)value-=30;else value-=12;
       if(/\b(?:9|10|11)(?::\d\d)?\s*PM|midnight/i.test(clean(event.Times)))value-=14;
     }
+    if(series==='pets'){
+      if(petFriendly(event))value+=42;
+      if(/dog|canine|pet/i.test(eventText(event)))value+=18;
+      if(/designated|dog[- ]focused|dog parade|dog daze|hounds|hound/i.test(eventText(event)))value+=16;
+      if(event.publicRegion==='Salt Lake Metro')value+=54;else if(proximity>=3)value+=24;else if(proximity===2)value+=8;else value-=18;
+    }
     if(series==='found'){
       const discoveryText=[event['Event / attraction'],event.artKey,...(event.categories||[]),...(event.publicTypes||[])].map(clean).join(' ');
       if(/odd|unusual|paranormal|immersive|raptor|cemetery|secret|curious/i.test(discoveryText))value+=24;
@@ -245,6 +254,7 @@
     if(rule?.decision==='include')return rule.note||'Editorial pick';
     if(series==='drive')return proximityLevel(event)<=1?'Destination-worthy outing':'Strong regional exception';
     if(series==='kids')return event.isFree?'Made for kids · free':'Made specifically for kids';
+    if(series==='pets')return /dog|canine|pet/i.test(eventText(event))?'A dog-centered outing':'Organizer confirms pets are welcome';
     if(series==='adults'){const p=adultProfile(event);return p.age21?'Verified 21+':p.nightlife?'Nightlife pick':'Grown-up programming'}
     if(series==='free')return singleDay(event)?'Free one-day event':'Useful free plan';
     if(series==='lastchance')return`Ends ${formatDate(event.endDate)}`;
@@ -271,6 +281,7 @@
     if(series==='drive')return`${count} Utah events worth the drive`;
     if(series==='adults')return`${count} grown-up plans near Salt Lake`;
     if(series==='kids')return`${count} Salt Lake-area events made for kids`;
+    if(series==='pets')return`${count} pet-friendly Utah outings`;
     if(series==='found')return`${count} wonderfully specific Salt Lake finds`;
     return`${count} timely Salt Lake-area ideas worth leaving the house for`;
   }
@@ -279,7 +290,8 @@
     const entries=campaign.events.map((event,index)=>{
       const access=event.accessibility?.summary?`\nAccess: ${clean(event.accessibility.summary)}`:'';
       const notes=clean(event['Extra notes'])?`\nGood to know: ${clean(event['Extra notes'])}`:'';
-      return`${index+1}. ${clean(event['Event / attraction'])}\n${compactSchedule(event,campaign.anchor)} · ${clean(event.Times||'See schedule')}\n${place(event)}\n${price(event)}\n\n${clean(event['Why / thoughts'])}${notes}${access}\nPlan your visit: ${clean(event.Website)}`;
+      const petNote=campaign.series==='pets'?`\nPet policy: Pets are welcome; check the organizer’s leash and designated-area rules.`:'';
+      return`${index+1}. ${clean(event['Event / attraction'])}\n${compactSchedule(event,campaign.anchor)} · ${clean(event.Times||'See schedule')}\n${place(event)}\n${price(event)}${petNote}\n\n${clean(event['Why / thoughts'])}${notes}${access}\nPlan your visit: ${clean(event.Website)}`;
     }).join('\n\n');
     return`${intro}\n\n${entries}\n\nSave this list, share it with the person who always asks what you should do, and find the full guide at Utah Every Season.\n\n#UtahEvents #ThingsToDoInUtah #UtahEverySeason`;
   }
@@ -294,10 +306,11 @@
     const anchor=isoDate(options.anchor)||new Date().toISOString().slice(0,10),series=resolveSeries(options.series||'auto',events,anchor),[start,end]=windowFor(series,events,anchor),[topic,topicCount]=strongestTopic(events,anchor,28),editorial=options.editorial||globalThis.SOCIAL_EDITORIAL||{events:{}},recentIds=options.recentIds||[];
     const candidates=events.filter(event=>eventMatches(event,series,start,end,series==='topical'?topic:'',editorial,anchor));
     const selected=selectDiverse(candidates,Math.max(3,Math.min(9,Number(options.count)||6)),series,anchor,series==='topical'?topic:'',editorial,recentIds);
+    if(series==='pets')selected.sort((a,b)=>nextDate(a,anchor).localeCompare(nextDate(b,anchor))||clean(a['Event / attraction']).localeCompare(clean(b['Event / attraction'])));
     const campaign={anchor,series,seriesLabel:SERIES[series].label,seriesDescription:SERIES[series].description,eyebrow:series==='topical'&&topic?topic.toUpperCase():SERIES[series].eyebrow,topic:series==='topical'?topic:'',topicCount,start,end,events:selected,candidates:candidates.sort((a,b)=>score(b,series,anchor,topic,recentIds)-score(a,series,anchor,topic,recentIds)),editorial,recentIds,generatedAt:new Date().toISOString()};
     campaign.selectionNotes=Object.fromEntries(selected.map(event=>[event.id,selectionReason(event,series,anchor,campaign.topic,editorial)]));
     campaign.title=titleFor(series,campaign.topic,start,end,selected.length);campaign.caption=captionFor(campaign);campaign.altText=altTextFor(campaign);campaign.credits=creditsFor(campaign);
     return campaign;
   }
-  return{SERIES,POLICY,clean,addDays,dayDiff,datesFor,nextDate,weekendRange,strongestTopic,resolveSeries,proximityLevel,adultProfile,kidProfile,editorialRule,eventMatches,score,selectionReason,formatDate,compactSchedule,price,place,captionFor,altTextFor,creditsFor,generate};
+  return{SERIES,POLICY,clean,addDays,dayDiff,datesFor,nextDate,weekendRange,strongestTopic,resolveSeries,proximityLevel,adultProfile,kidProfile,petFriendly,editorialRule,eventMatches,score,selectionReason,formatDate,compactSchedule,price,place,captionFor,altTextFor,creditsFor,generate};
 });

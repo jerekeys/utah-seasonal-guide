@@ -2,9 +2,9 @@ window.SITE_DATA = {
   "meta": {
     "title": "Utah Every Season · 2026–27",
     "updated": "October 8, 2026",
-    "eventCount": 612,
-    "confirmedCount": 604,
-    "watchCount": 8,
+    "eventCount": 642,
+    "confirmedCount": 628,
+    "watchCount": 14,
     "publicRegionCount": 12,
     "publicTypeCount": 12,
     "taxonomyNote": "Public filters use simplified metro/region groupings and activity types; Salt Lake Metro includes Salt Lake City and the surrounding valley communities. Detailed research tags remain searchable.",
@@ -20,9 +20,9 @@ window.SITE_DATA = {
     "socialPolicy": "Verified organizer/event accounts only; Instagram, Facebook, TikTok, Bluesky, and LinkedIn supported. X/Twitter intentionally excluded.",
     "imagePolicyUpdated": "October 6, 2026",
     "imagePolicy": "Use locally hosted imagery only when it clearly depicts the listed event, attraction, venue experience, or exact subject. Official-site provenance alone is not sufficient; generic stock, logos, unrelated page images and low-quality thumbnails are rejected. Category art remains the fallback.",
-    "realImageCount": 307,
-    "accessibilityListings": 35,
-    "localPhotoListings": 307,
+    "realImageCount": 321,
+    "accessibilityListings": 45,
+    "localPhotoListings": 321,
     "zeroHotlinks": true,
     "ccCandidates": 7,
     "siteVersion": "v9-year-round",
@@ -4180,7 +4180,9 @@ window.SITE_DATA = {
       "qaFlags": "",
       "timezone": "America/Denver",
       "sourceRow": 302,
-      "flags": [],
+      "flags": [
+        "Pet-friendly"
+      ],
       "isFree": false,
       "rating": {
         "type": "Scare Rating",
@@ -4198,7 +4200,10 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "researchEvidence": {
+        "petPolicySource": "https://www.saltlakecounty.gov/wheeler-farm/events--program/"
+      }
     },
     {
       "Event / attraction": "Doomsday Disco — UMOCA Annual Halloween Bash",
@@ -10160,7 +10165,9 @@ window.SITE_DATA = {
       "qaFlags": "",
       "timezone": "America/Denver",
       "sourceRow": 373,
-      "flags": [],
+      "flags": [
+        "Pet-friendly"
+      ],
       "isFree": false,
       "rating": {
         "type": "Scare Rating",
@@ -10178,7 +10185,10 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "researchEvidence": {
+        "petPolicySource": "https://www.eventbrite.com/e/hounds-haunts-tickets-1999945899021"
+      }
     },
     {
       "Event / attraction": "Howl-O-Ween on Historic Main Street",
@@ -10243,7 +10253,8 @@ window.SITE_DATA = {
       "timezone": "America/Denver",
       "sourceRow": 374,
       "flags": [
-        "Free admission"
+        "Free admission",
+        "Pet-friendly"
       ],
       "isFree": true,
       "rating": {
@@ -10262,7 +10273,10 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "researchEvidence": {
+        "petPolicySource": "https://www.visitparkcity.com/blog/stories/post/tips-for-attending-howl-o-ween/"
+      }
     },
     {
       "Event / attraction": "Hurricane City Fall Festival",
@@ -14000,7 +14014,9 @@ window.SITE_DATA = {
       "qaFlags": "",
       "timezone": "America/Denver",
       "sourceRow": 420,
-      "flags": [],
+      "flags": [
+        "Pet-friendly"
+      ],
       "isFree": false,
       "rating": {
         "type": "Scare Rating",
@@ -14018,7 +14034,10 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "researchEvidence": {
+        "petPolicySource": "https://www.alumni.weber.edu/s/953/bp23/interior.aspx?calcid=4875&calpgid=61&cid=6213&crid=0&ecid=6213&gid=1001&pgid=2926&sid=953"
+      }
     },
     {
       "Event / attraction": "Raven Manor",
@@ -16855,7 +16874,9 @@ window.SITE_DATA = {
       "qaFlags": "",
       "timezone": "America/Denver",
       "sourceRow": 456,
-      "flags": [],
+      "flags": [
+        "Pet-friendly"
+      ],
       "isFree": false,
       "rating": {
         "type": "Scare Rating",
@@ -16873,7 +16894,10 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "researchEvidence": {
+        "petPolicySource": "https://www.swiftpumpkins.com/corn-maze-play-zone-dates-and-times"
+      }
     },
     {
       "Event / attraction": "Syracuse Night at the Museum",
@@ -18684,7 +18708,8 @@ window.SITE_DATA = {
       "timezone": "America/Denver",
       "sourceRow": 479,
       "flags": [
-        "Free admission"
+        "Free admission",
+        "Pet-friendly"
       ],
       "isFree": true,
       "rating": {
@@ -18703,7 +18728,10 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "researchEvidence": {
+        "petPolicySource": "https://www.kaysville.gov/calendar.aspx?CID=0&month=10&view=list&year=2026"
+      }
     },
     {
       "Event / attraction": "University Place / The Orchard Halloween Display",
@@ -18914,7 +18942,9 @@ window.SITE_DATA = {
       "qaFlags": "",
       "timezone": "America/Denver",
       "sourceRow": 482,
-      "flags": [],
+      "flags": [
+        "Pet-friendly"
+      ],
       "isFree": false,
       "rating": {
         "type": "Scare Rating",
@@ -18932,7 +18962,10 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "researchEvidence": {
+        "petPolicySource": "https://extension.usu.edu/botanicalcenter/events/scarecrow-walk"
+      }
     },
     {
       "Event / attraction": "Utah Metropolitan Ballet Masquerade Ball",
@@ -40244,8 +40277,8 @@ window.SITE_DATA = {
       "sourceRow": 646,
       "flags": [
         "Outdoor",
-        "Dog-friendly",
-        "Free parking"
+        "Free parking",
+        "Pet-friendly"
       ],
       "isFree": false,
       "rating": {
@@ -40280,7 +40313,8 @@ window.SITE_DATA = {
       "researchEvidence": {
         "discovery": "https://utahsbestkeptsecrets.com/2024/12/12/fun-fall-activities-in-utah/ and publicly indexed social fall roundup",
         "official": "https://www.snowbasin.com/events/snowwiesn-oktoberfest/",
-        "method": "Organizer details and current calendar confirm weekend dates, hours, admission and dog/entry policies. Linked ticket shop returned HTTP 403; all-in charges and age variants remain unverified."
+        "method": "Organizer details and current calendar confirm weekend dates, hours, admission and dog/entry policies. Linked ticket shop returned HTTP 403; all-in charges and age variants remain unverified.",
+        "petPolicySource": "https://www.snowbasin.com/events/snowwiesn-oktoberfest/"
       },
       "notable_event": false,
       "seasons": [
@@ -40802,7 +40836,8 @@ window.SITE_DATA = {
       "timezone": "America/Denver",
       "flags": [
         "Outdoor",
-        "Free admission"
+        "Free admission",
+        "Pet-friendly"
       ],
       "isFree": true,
       "rating": null,
@@ -40819,7 +40854,8 @@ window.SITE_DATA = {
       "researchEvidence": {
         "checkedOn": "2026-10-06",
         "sourceUrl": "https://ogdendowntown.com/dogden/",
-        "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates."
+        "method": "Read dated organizer event, program and admission pages; historical edition kept separate from future dates.",
+        "petPolicySource": "https://ogdendowntown.com/dogden/"
       },
       "hoursByDate": {
         "2026-09-12": "8 AM–1 PM"
@@ -47531,6 +47567,2751 @@ window.SITE_DATA = {
         "method": "Read a dated organizer, venue, government or ticket source and followed detail links when available."
       },
       "sourceRow": 612
+    },
+    {
+      "id": "romeo-juliet-in-concert-eccles-2027",
+      "Event / attraction": "Romeo + Juliet in Concert",
+      "Region": "Salt Lake City",
+      "Category": "Live Music & Performance, Community & Culture",
+      "First date": "2027-02-07",
+      "2026 schedule": "2027-02-07",
+      "Times": "Doors 6 PM; show 7 PM",
+      "Price": "Ticketed; seat prices appear in the official ArtTix checkout",
+      "Cost": "",
+      "Age": "Recommended 13+; infants not admitted",
+      "Intensity": "",
+      "Location": "Delta Hall at the Eccles Theater, Salt Lake City",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A big-screen showing of Baz Luhrmann’s Romeo + Juliet pairs the film with a live 12-piece ensemble, atmospheric lighting and stage production.",
+      "Website": "https://www.saltlakecountyarts.org/events/romeo-juliet-in-concert/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/reviewed-eccles-theater-12.webp",
+        "alt": "The auditorium and stage inside Eccles Theater.",
+        "credit": "Salt Lake County Arts & Culture",
+        "creditUrl": "https://www.saltlakecountyarts.org/venues/eccles-theater/",
+        "sourceUrl": "https://www.saltlakecountyarts.org/wp-content/uploads/2018/12/Eccles1-900x600.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-06"
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Valentine’s Day",
+        "Winter"
+      ],
+      "primaryHoliday": "Valentine’s Day",
+      "startDate": "2027-02-07",
+      "endDate": "2027-02-07",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-02-07"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "winter",
+      "placeholder": "assets/art/seasonal/winter-performance.svg",
+      "notable_event": false,
+      "seasons": [
+        "Winter"
+      ],
+      "accessibility": {
+        "summary": "Eccles Theater accessibility information is available through the venue; contact guest services for specific accommodations."
+      },
+      "ticketUrl": "https://my.arttix.org/40566/",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.saltlakecountyarts.org/events/romeo-juliet-in-concert/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 659
+    },
+    {
+      "id": "nhmu-family-seasonal-science-love-bugs-2027",
+      "Event / attraction": "NHMU Family Seasonal Science: Love Bugs",
+      "Region": "Salt Lake City",
+      "Category": "Santa & Family, Workshops & Learning",
+      "First date": "2027-02-13",
+      "2026 schedule": "2027-02-13",
+      "Times": "10:15 AM–2:15 PM; drop in during program hours",
+      "Price": "$5 per participant",
+      "Cost": "",
+      "Age": "Youth & families; participating children must be accompanied by a paying adult",
+      "Intensity": "",
+      "Location": "Natural History Museum of Utah, 301 Wakara Way, Salt Lake City",
+      "Status": "Announced 2027",
+      "Why / thoughts": "Make handmade Valentine cards and heart-shaped sun catchers, then build a take-home love bug during this hands-on science program.",
+      "Website": "https://nhmu.utah.edu/events/nhmu-family-seasonal-science-love-bugs-0",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Santa & Family",
+        "Workshops & Learning"
+      ],
+      "sourceCategories": [
+        "Santa & Family",
+        "Workshops & Learning"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/reviewed-nhmu-45.webp",
+        "alt": "The exterior of the Natural History Museum of Utah.",
+        "credit": "nhmu.utah.edu",
+        "creditUrl": "https://nhmu.utah.edu/about/our-building",
+        "sourceUrl": "http://nhmu.utah.edu/sites/default/files/embedded_images/A-Sohm%20Cropped%20Exterior.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-06"
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Santa & Family",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Valentine’s Day",
+        "Winter"
+      ],
+      "primaryHoliday": "Valentine’s Day",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Registration recommended",
+        "Indoor"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-02-13"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "winter",
+      "placeholder": "assets/art/seasonal/winter-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Winter"
+      ],
+      "accessibility": {
+        "summary": "The ticketing page links to NHMU web accessibility information; contact the museum for individual accommodation needs."
+      },
+      "ticketUrl": "https://12368a.blackbaudhosting.com/12368a/Family-Seasonal-Science--Love-Bugs--February-13",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://nhmu.utah.edu/events/nhmu-family-seasonal-science-love-bugs-0",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 660
+    },
+    {
+      "id": "utah-symphony-princess-bride-concert-2027",
+      "Event / attraction": "Utah Symphony: The Princess Bride in Concert",
+      "Region": "Salt Lake City",
+      "Category": "Live Music & Performance, Community & Culture",
+      "First date": "2027-02-12",
+      "2026 schedule": "2027-02-12, 2027-02-13",
+      "Times": "7 PM both nights",
+      "Price": "Ticketed; seat prices appear in the official ArtTix checkout",
+      "Cost": "",
+      "Age": "General audience; contact organizer for age guidance",
+      "Intensity": "",
+      "Location": "Maurice Abravanel Hall, 123 W South Temple, Salt Lake City",
+      "Status": "Announced 2027",
+      "Why / thoughts": "Watch The Princess Bride on the big screen while the Utah Symphony performs Mark Knopfler’s score live in sync. The organizer lists lobby wine and movie trivia before the show.",
+      "Website": "https://www.saltlakecountyarts.org/events/the-princess-bride-in-concert/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/reviewed-abravanel-hall-cc-173.webp",
+        "alt": "Inside Abravanel Hall, looking toward the concert stage.",
+        "credit": "Ricardo630",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Abravanel_hall_house.jpg",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Abravanel_hall_house.jpg/1280px-Abravanel_hall_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+        "usageType": "creative_commons",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-06",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Resized and converted to WebP; responsive display crop."
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Valentine’s Day",
+        "Winter"
+      ],
+      "primaryHoliday": "Valentine’s Day",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-13",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Two performances",
+        "Indoor"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-02-12",
+        "2027-02-13"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "winter",
+      "placeholder": "assets/art/seasonal/winter-performance.svg",
+      "notable_event": false,
+      "seasons": [
+        "Winter"
+      ],
+      "accessibility": {
+        "summary": "Utah Symphony and Abravanel Hall publish accessibility information; contact the venue for specific accommodations."
+      },
+      "ticketUrl": "https://my.arttix.org/overview/38999/",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.saltlakecountyarts.org/events/the-princess-bride-in-concert/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 661
+    },
+    {
+      "id": "utah-chinese-new-year-festival-2027",
+      "Event / attraction": "Utah Chinese New Year Festival",
+      "Region": "Salt Lake City",
+      "Category": "Community & Culture, Live Music & Performance, Food & Drink",
+      "First date": "2027-02-06",
+      "2026 schedule": "2027-02-06",
+      "Times": "11 AM–4 PM",
+      "Price": "Ticketed; see organizer’s ticket page for current admission",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "2001 S State Street, Salt Lake City",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A community festival welcoming Lunar New Year with traditional performances, food and cultural activities.",
+      "Website": "https://www.eventbrite.com/e/2027-utah-chinese-new-year-festival-tickets-1993309850421",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Lunar New Year",
+        "Winter"
+      ],
+      "primaryHoliday": "Lunar New Year",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Cultural performances",
+        "Food",
+        "Indoor"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-02-06"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "Event listing is dated for 2027; confirm ticket terms and organizer details before travel.",
+      "communities": [
+        "Chinese / East Asian"
+      ],
+      "theme": "winter",
+      "placeholder": "assets/art/seasonal/winter-performance.svg",
+      "notable_event": false,
+      "seasons": [
+        "Winter"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.eventbrite.com/e/2027-utah-chinese-new-year-festival-tickets-1993309850421",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 662
+    },
+    {
+      "id": "price-city-st-patricks-day-parade-2027",
+      "Event / attraction": "Price City St. Patrick’s Day Parade",
+      "Region": "Eastern Utah",
+      "Category": "Community & Culture, Live Music & Performance",
+      "First date": "2027-03-14",
+      "2026 schedule": "2027-03-14",
+      "Times": "Parade time and route to be announced",
+      "Price": "Free to watch; program details forthcoming",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Price City, Carbon County",
+      "Status": "Announced 2027",
+      "Why / thoughts": "Price City’s 2027 calendar lists its annual St. Patrick’s Day Parade for March 14. The route and event-day schedule will help shape a small-town parade outing.",
+      "Website": "https://www.priceutah.gov/events.html",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Eastern Utah",
+      "publicRegion": "Eastern Utah",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "St. Patrick’s Day",
+        "Spring"
+      ],
+      "primaryHoliday": "St. Patrick’s Day",
+      "startDate": "2027-03-14",
+      "endDate": "2027-03-14",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Outdoor parade"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-03-14"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The city has announced the date; parade time and route are not yet listed.",
+      "communities": [
+        "Irish / Irish American"
+      ],
+      "theme": "spring",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false,
+      "seasons": [
+        "Spring"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.priceutah.gov/events.html",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 663
+    },
+    {
+      "id": "utah-summer-games-2027",
+      "Event / attraction": "Larry H. Miller Utah Summer Games 2027",
+      "Region": "Cedar / Iron County",
+      "Category": "Active & Outdoors, Community & Culture",
+      "First date": "2027-03-19",
+      "2026 schedule": "2027-03-19–2027-06-26",
+      "Times": "Competition schedule varies by sport; opening ceremony June 4",
+      "Price": "Varies by sport and registration; spectators should check the event schedule",
+      "Cost": "",
+      "Age": "Youth, adult and adaptive sports; varies by event",
+      "Intensity": "",
+      "Location": "Southern Utah University and partner venues in Iron County",
+      "Status": "Announced 2027",
+      "Why / thoughts": "Utah’s statewide amateur sports program spreads competitions across spring and summer. The announced tentative calendar includes youth soccer, basketball, water polo, baseball and a June 4 opening ceremony.",
+      "Website": "https://utahsummergames.org/news/2026/9/1/general-larry-h-miller-utah-summer-games-releases-2027-tentative-calendar.aspx",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/utah-summer-games-opening-2026-reviewed.webp",
+        "alt": "The Utah Summer Games mascot leads the 2026 opening celebration at Eccles Coliseum.",
+        "credit": "Southern Utah University",
+        "creditUrl": "https://www.suu.edu/news/2026/06/suu-utah-summer-games-opening-ceremony.html",
+        "sourceUrl": "https://www.suu.edu/news/images/2026/06-utah-summer-games-thor.webp",
+        "usageType": "official_web_photo",
+        "caption": "Previous edition photo",
+        "reviewedOn": "2026-10-08"
+      },
+      "sourceRegion": "Cedar / Iron County",
+      "publicRegion": "Cedar / Iron County",
+      "publicTypes": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Spring",
+        "Summer"
+      ],
+      "primaryHoliday": "Spring",
+      "startDate": "2027-03-19",
+      "endDate": "2027-06-26",
+      "travelTier": "Utah outing",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Multi-day",
+        "Multiple venues",
+        "Tentative calendar"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-03-19",
+        "2027-03-20",
+        "2027-04-15",
+        "2027-04-16",
+        "2027-04-17",
+        "2027-05-20",
+        "2027-05-21",
+        "2027-05-22",
+        "2027-06-03",
+        "2027-06-04",
+        "2027-06-05",
+        "2027-06-10",
+        "2027-06-11",
+        "2027-06-12",
+        "2027-06-14",
+        "2027-06-15",
+        "2027-06-18",
+        "2027-06-19",
+        "2027-06-25",
+        "2027-06-26"
+      ],
+      "scheduleConfidence": "announced-tentative",
+      "scheduleNote": "Organizer calls the published calendar tentative; recheck each sport before traveling.",
+      "communities": [
+        "Sports community"
+      ],
+      "theme": "spring",
+      "placeholder": "assets/art/active.svg",
+      "notable_event": true,
+      "seasons": [
+        "Spring",
+        "Summer"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://utahsummergames.org/news/2026/9/1/general-larry-h-miller-utah-summer-games-releases-2027-tentative-calendar.aspx",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 664
+    },
+    {
+      "id": "west-jordan-egg-hunt-2027",
+      "Event / attraction": "West Jordan Annual Egg Hunt",
+      "Region": "West Jordan",
+      "Category": "Santa & Family, Community & Culture",
+      "First date": "2027-03-27",
+      "2026 schedule": "2027-03-27",
+      "Times": "9 AM sharp; arrive early to park and reach the assigned field",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "Children ages 2–15; ADA-accessible area",
+      "Intensity": "",
+      "Location": "West Jordan Soccer Complex, 8070 S 4000 W, West Jordan",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A quick, colorful egg hunt with age-group fields and an accessible pavilion area. The 9 AM start is sharp and the eggs are gathered within minutes.",
+      "Website": "https://www.westjordan.utah.gov/city-events/egg-hunt/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Santa & Family",
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Santa & Family",
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "West Jordan",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Santa & Family",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Easter",
+        "Spring"
+      ],
+      "primaryHoliday": "Easter",
+      "startDate": "2027-03-27",
+      "endDate": "2027-03-27",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Family activities",
+        "ADA-accessible area",
+        "Outdoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-03-27"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "spring",
+      "placeholder": "assets/art/seasonal/spring-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Spring"
+      ],
+      "accessibility": {
+        "summary": "An ADA field uses a flat concrete surface in the pavilion."
+      },
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.westjordan.utah.gov/city-events/egg-hunt/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 665
+    },
+    {
+      "id": "salt-lake-temple-celebration-2027",
+      "Event / attraction": "Salt Lake Temple Celebration & Public Open House",
+      "Region": "Salt Lake City",
+      "Category": "Community & Culture, Workshops & Learning",
+      "First date": "2027-04-05",
+      "2026 schedule": "2027-04-05–2027-10-01",
+      "Times": "Timed tour tickets; daily hours vary, closed Sundays",
+      "Price": "Free; timed tickets required",
+      "Cost": "",
+      "Age": "All welcome",
+      "Intensity": "",
+      "Location": "Temple Square, 50 N West Temple, Salt Lake City",
+      "Status": "Announced 2027",
+      "Why / thoughts": "For a limited time, visitors can tour the restored Salt Lake Temple and explore Temple Square experiences. Public tours run April 5 through October 1, 2027; reserve a timed ticket.",
+      "Website": "https://www.churchofjesuschrist.org/events/salt-lake-temple-celebration-event?lang=eng",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/salt-lake-temple-spring-2026-official.webp",
+        "alt": "The Salt Lake Temple rises above spring flowers at Temple Square.",
+        "credit": "Intellectual Reserve, Inc.",
+        "creditUrl": "https://newsroom.churchofjesuschrist.org/article/salt-lake-temple-celebration-volunteers",
+        "sourceUrl": "https://newsroom.churchofjesuschrist.org/media/960x540/o7txcs28zf9nejswr9dv02jk5n1g0grm4zlaoofw.jpeg",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-08"
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "primaryHoliday": "Spring",
+      "startDate": "2027-04-05",
+      "endDate": "2027-10-01",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Timed tickets",
+        "Indoor/outdoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-04-05",
+        "2027-04-06",
+        "2027-04-07",
+        "2027-04-08",
+        "2027-04-09",
+        "2027-04-10",
+        "2027-04-11",
+        "2027-04-12",
+        "2027-04-13",
+        "2027-04-14",
+        "2027-04-15",
+        "2027-04-16",
+        "2027-04-17",
+        "2027-04-18",
+        "2027-04-19",
+        "2027-04-20",
+        "2027-04-21",
+        "2027-04-22",
+        "2027-04-23",
+        "2027-04-24",
+        "2027-04-25",
+        "2027-04-26",
+        "2027-04-27",
+        "2027-04-28",
+        "2027-04-29",
+        "2027-04-30",
+        "2027-05-01",
+        "2027-05-02",
+        "2027-05-03",
+        "2027-05-04",
+        "2027-05-05",
+        "2027-05-06",
+        "2027-05-07",
+        "2027-05-08",
+        "2027-05-09",
+        "2027-05-10",
+        "2027-05-11",
+        "2027-05-12",
+        "2027-05-13",
+        "2027-05-14",
+        "2027-05-15",
+        "2027-05-16",
+        "2027-05-17",
+        "2027-05-18",
+        "2027-05-19",
+        "2027-05-20",
+        "2027-05-21",
+        "2027-05-22",
+        "2027-05-23",
+        "2027-05-24",
+        "2027-05-25",
+        "2027-05-26",
+        "2027-05-27",
+        "2027-05-28",
+        "2027-05-29",
+        "2027-05-30",
+        "2027-05-31",
+        "2027-06-01",
+        "2027-06-02",
+        "2027-06-03",
+        "2027-06-04",
+        "2027-06-05",
+        "2027-06-06",
+        "2027-06-07",
+        "2027-06-08",
+        "2027-06-09",
+        "2027-06-10",
+        "2027-06-11",
+        "2027-06-12",
+        "2027-06-13",
+        "2027-06-14",
+        "2027-06-15",
+        "2027-06-16",
+        "2027-06-17",
+        "2027-06-18",
+        "2027-06-19",
+        "2027-06-20",
+        "2027-06-21",
+        "2027-06-22",
+        "2027-06-23",
+        "2027-06-24",
+        "2027-06-25",
+        "2027-06-26",
+        "2027-06-27",
+        "2027-06-28",
+        "2027-06-29",
+        "2027-06-30",
+        "2027-07-01",
+        "2027-07-02",
+        "2027-07-03",
+        "2027-07-04",
+        "2027-07-05",
+        "2027-07-06",
+        "2027-07-07",
+        "2027-07-08",
+        "2027-07-09",
+        "2027-07-10",
+        "2027-07-11",
+        "2027-07-12",
+        "2027-07-13",
+        "2027-07-14",
+        "2027-07-15",
+        "2027-07-16",
+        "2027-07-17",
+        "2027-07-18",
+        "2027-07-19",
+        "2027-07-20",
+        "2027-07-21",
+        "2027-07-22",
+        "2027-07-23",
+        "2027-07-24",
+        "2027-07-25",
+        "2027-07-26",
+        "2027-07-27",
+        "2027-07-28",
+        "2027-07-29",
+        "2027-07-30",
+        "2027-07-31",
+        "2027-08-01",
+        "2027-08-02",
+        "2027-08-03",
+        "2027-08-04",
+        "2027-08-05",
+        "2027-08-06",
+        "2027-08-07",
+        "2027-08-08",
+        "2027-08-09",
+        "2027-08-10",
+        "2027-08-11",
+        "2027-08-12",
+        "2027-08-13",
+        "2027-08-14",
+        "2027-08-15",
+        "2027-08-16",
+        "2027-08-17",
+        "2027-08-18",
+        "2027-08-19",
+        "2027-08-20",
+        "2027-08-21",
+        "2027-08-22",
+        "2027-08-23",
+        "2027-08-24",
+        "2027-08-25",
+        "2027-08-26",
+        "2027-08-27",
+        "2027-08-28",
+        "2027-08-29",
+        "2027-08-30",
+        "2027-08-31",
+        "2027-09-01",
+        "2027-09-02",
+        "2027-09-03",
+        "2027-09-04",
+        "2027-09-05",
+        "2027-09-06",
+        "2027-09-07",
+        "2027-09-08",
+        "2027-09-09",
+        "2027-09-10",
+        "2027-09-11",
+        "2027-09-12",
+        "2027-09-13",
+        "2027-09-14",
+        "2027-09-15",
+        "2027-09-16",
+        "2027-09-17",
+        "2027-09-18",
+        "2027-09-19",
+        "2027-09-20",
+        "2027-09-21",
+        "2027-09-22",
+        "2027-09-23",
+        "2027-09-24",
+        "2027-09-25",
+        "2027-09-26",
+        "2027-09-27",
+        "2027-09-28",
+        "2027-09-29",
+        "2027-09-30",
+        "2027-10-01"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "Tour hours and ticket releases vary; check current official availability before visiting.",
+      "communities": [],
+      "theme": "spring",
+      "placeholder": "assets/art/seasonal/spring-community.svg",
+      "notable_event": true,
+      "seasons": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "accessibility": {
+        "summary": "The Temple Square celebration highlights accessibility enhancements; check the official visitor page for mobility and other access details."
+      },
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.churchofjesuschrist.org/events/salt-lake-temple-celebration-event?lang=eng",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 666
+    },
+    {
+      "id": "living-traditions-festival-2027",
+      "Event / attraction": "Living Traditions Festival",
+      "Region": "Salt Lake City",
+      "Category": "Community & Culture, Live Music & Performance, Food & Drink, Markets & Shopping, Workshops & Learning",
+      "First date": "2027-05-21",
+      "2026 schedule": "2027-05-21, 2027-05-22, 2027-05-23",
+      "Times": "Three-day festival; daily hours and program to be announced",
+      "Price": "Expected free admission; 2027 admission details not posted",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Washington Square and Library Square, downtown Salt Lake City",
+      "Status": "Announced 2027",
+      "Why / thoughts": "Traditional music, dance, crafts, food and local partnerships bring Utah’s many cultural communities to downtown Salt Lake for a three-day festival.",
+      "Website": "https://saltlakearts.org/programs/living-traditions-festival",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink",
+        "Markets & Shopping",
+        "Workshops & Learning"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink",
+        "Markets & Shopping",
+        "Workshops & Learning"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/living-traditions-festival-dance-2025.webp",
+        "alt": "Dancers perform at the 2025 Living Traditions Festival in Salt Lake City.",
+        "credit": "Salt Lake City Arts Council",
+        "creditUrl": "https://saltlakearts.org/news/living-traditions-this-weekend",
+        "sourceUrl": "https://saltlakearts.org/images/econa-article-images/326/full/1400/ltf-2025-press-1.jpeg",
+        "usageType": "official_web_photo",
+        "caption": "Previous edition photo",
+        "reviewedOn": "2026-10-08"
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink",
+        "Markets & Shopping",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Spring"
+      ],
+      "primaryHoliday": "Spring",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-23",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Cultural performances",
+        "Food",
+        "Kids activities",
+        "Accessibility information"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-05-21",
+        "2027-05-22",
+        "2027-05-23"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "2027 dates are announced; hours, lineup, admission and updated access notes are forthcoming.",
+      "communities": [
+        "Multicultural / Community"
+      ],
+      "theme": "spring",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": true,
+      "seasons": [
+        "Spring"
+      ],
+      "accessibility": {
+        "summary": "The organizer provides festival access information, including ADA seating, accessible restrooms, drop-off and route notes. Check the 2027 page for updated details."
+      },
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://saltlakearts.org/programs/living-traditions-festival",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 667
+    },
+    {
+      "id": "west-jordan-memorial-day-ceremony-car-show-2027",
+      "Event / attraction": "West Jordan Memorial Day Ceremony & Car Show",
+      "Region": "West Jordan",
+      "Category": "Community & Culture, Active & Outdoors",
+      "First date": "2027-05-31",
+      "2026 schedule": "2027-05-31",
+      "Times": "Car show 10 AM–2 PM; ceremony 11:30 AM–noon",
+      "Price": "Free; food trucks are extra",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Veterans Memorial Park, West Jordan",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A public remembrance ceremony shares Veterans Memorial Park with a classic car show and food trucks. Leashed dogs are allowed.",
+      "Website": "https://www.westjordan.utah.gov/city-events/memorial-day-ceremony-and-car-show/",
+      "Social profile": "",
+      "Extra notes": "Dogs are permitted on leash. 2027 car registration and food truck details will be posted closer to the event.",
+      "categories": [
+        "Community & Culture",
+        "Active & Outdoors"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Active & Outdoors"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "West Jordan",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Active & Outdoors"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Memorial Day",
+        "Spring"
+      ],
+      "primaryHoliday": "Memorial Day",
+      "startDate": "2027-05-31",
+      "endDate": "2027-05-31",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Outdoor ceremony",
+        "Car show",
+        "Food available",
+        "Pet-friendly"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-05-31"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-active.svg",
+      "notable_event": true,
+      "seasons": [
+        "Spring"
+      ],
+      "accessibility": {
+        "summary": "Contact West Jordan City for park access questions and accommodations."
+      },
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.westjordan.utah.gov/city-events/memorial-day-ceremony-and-car-show/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 668
+    },
+    {
+      "id": "run-of-remembrance-memorial-day-2027",
+      "Event / attraction": "Run of Remembrance — Memorial Day",
+      "Region": "Utah County",
+      "Category": "Active & Outdoors, Community & Culture",
+      "First date": "2027-05-31",
+      "2026 schedule": "2027-05-31",
+      "Times": "10K and 5K 8 AM; Memorial Mile 9 AM; Kids 1K 9:15 AM",
+      "Price": "Registration: 10K $49.95; 5K $39.95; Memorial Mile $27.95; Kids 1K $16.95, plus fees",
+      "Cost": "",
+      "Age": "All ages; Kids 1K ages 1–12",
+      "Intensity": "",
+      "Location": "Robinson Park, 100 E Main Street, American Fork",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A Memorial Day race with a 10K, 5K, one-mile option and children’s 1K, starting and finishing at Robinson Park.",
+      "Website": "https://runtasticevents.com/races/run-of-remembrance/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "publicTypes": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Memorial Day",
+        "Spring"
+      ],
+      "primaryHoliday": "Memorial Day",
+      "startDate": "2027-05-31",
+      "endDate": "2027-05-31",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Registration required",
+        "Multiple distances",
+        "Kids run"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-05-31"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-active.svg",
+      "notable_event": true,
+      "seasons": [
+        "Spring"
+      ],
+      "accessibility": null,
+      "ticketUrl": "https://runsignup.com/Race/Register/?raceId=48183",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://runtasticevents.com/races/run-of-remembrance/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 669
+    },
+    {
+      "id": "soldier-hollow-classic-sheepdog-2027",
+      "Event / attraction": "Soldier Hollow Classic Sheepdog Championship & Festival",
+      "Region": "Park City & Wasatch Back",
+      "Category": "Community & Culture, Active & Outdoors, Live Music & Performance, Food & Drink",
+      "First date": "2027-05-28",
+      "2026 schedule": "2027-05-28, 2027-05-29, 2027-05-30, 2027-05-31",
+      "Times": "Four-day festival; daily run orders and activities vary",
+      "Price": "2027 tickets on sale March 2027; children age 5 and under free; adult/youth/family prices TBD",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Soldier Hollow Nordic Center, 2002 Soldier Hollow Lane, Midway",
+      "Status": "Announced 2027",
+      "Why / thoughts": "Watch world-class border collies move sheep through a challenging course, then spend time at the festival with food, vendors and family activities.",
+      "Website": "https://soldierhollowclassic.com/2026-tickets/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Active & Outdoors",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Active & Outdoors",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/soldier-hollow-classic-2025.webp",
+        "alt": "A sheepdog handler and flock compete at Soldier Hollow Classic in 2025.",
+        "credit": "Heber Valley Tourism",
+        "creditUrl": "https://www.gohebervalley.com/newsroom-soldier-hollow-classic-sheepdog-championship-2025/",
+        "sourceUrl": "https://assets.earthdiver.com/media/media-image-3179742.jpg?h=2832&tick=1746462688423&w=4256",
+        "usageType": "official_web_photo",
+        "caption": "Previous edition photo",
+        "reviewedOn": "2026-10-08"
+      },
+      "sourceRegion": "Park City & Wasatch Back",
+      "publicRegion": "Park City & Wasatch Back",
+      "publicTypes": [
+        "Community & Culture",
+        "Active & Outdoors",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Memorial Day",
+        "Spring"
+      ],
+      "primaryHoliday": "Memorial Day",
+      "startDate": "2027-05-28",
+      "endDate": "2027-05-31",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Outdoor",
+        "Multi-day",
+        "Children 5 and under free"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-05-28",
+        "2027-05-29",
+        "2027-05-30",
+        "2027-05-31"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The dates are posted; the organizer says 2027 tickets go on sale in March and current ticket prices are TBD.",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-active.svg",
+      "notable_event": true,
+      "seasons": [
+        "Spring"
+      ],
+      "accessibility": {
+        "summary": "Contact the organizer about accessible routes and seating at Soldier Hollow Nordic Center."
+      },
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://soldierhollowclassic.com/2026-tickets/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 670
+    },
+    {
+      "id": "dinosaur-roundup-rodeo-vernal-2027",
+      "Event / attraction": "Vernal’s Dinosaur Roundup Rodeo",
+      "Region": "Eastern Utah",
+      "Category": "Community & Culture, Live Music & Performance",
+      "First date": "2027-06-17",
+      "2026 schedule": "2027-06-17, 2027-06-18, 2027-06-19",
+      "Times": "Three rodeo nights; start times on the ticket page",
+      "Price": "Assigned-seat tickets; see official PurplePass seller for current prices",
+      "Cost": "",
+      "Age": "All ages; children 2 and under may sit on an adult’s lap",
+      "Intensity": "",
+      "Location": "Western Park Arena, Vernal",
+      "Status": "Announced 2027",
+      "Why / thoughts": "Three nights of rodeo competition and arena entertainment in Vernal over Father’s Day weekend.",
+      "Website": "https://vernalrodeo.com/tickets/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/dinosaur-roundup-rodeo-2026-winner.webp",
+        "alt": "Cole Reiner competes at the 2026 Dinosaur Roundup Rodeo in Vernal.",
+        "credit": "Vernal’s Dinosaur Roundup Rodeo",
+        "creditUrl": "https://vernalrodeo.com/2026results/",
+        "sourceUrl": "https://vernalrodeo.com/wp-content/uploads/2026/06/Cole-portrait.png",
+        "usageType": "official_web_photo",
+        "caption": "Previous edition photo",
+        "reviewedOn": "2026-10-08"
+      },
+      "sourceRegion": "Eastern Utah",
+      "publicRegion": "Eastern Utah",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Father’s Day",
+        "Summer"
+      ],
+      "primaryHoliday": "Father’s Day",
+      "startDate": "2027-06-17",
+      "endDate": "2027-06-19",
+      "travelTier": "Overnight / destination",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Tickets required",
+        "Assigned seating",
+        "Outdoor arena"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-06-17",
+        "2027-06-18",
+        "2027-06-19"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The organizer has announced June 17–19, 2027. The site identifies PurplePass as the only authorized ticket seller.",
+      "communities": [
+        "Rodeo / Western"
+      ],
+      "theme": "summer",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false,
+      "seasons": [
+        "Summer"
+      ],
+      "accessibility": null,
+      "ticketUrl": "https://vernalrodeo.com/tickets/",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://vernalrodeo.com/tickets/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 671
+    },
+    {
+      "id": "utah-festival-opera-2027-season",
+      "Event / attraction": "Utah Festival Opera & Musical Theatre — 2027 Season",
+      "Region": "Cache Valley",
+      "Category": "Live Music & Performance, Community & Culture",
+      "First date": "2027-06-18",
+      "2026 schedule": "2027-06-18–2027-07-13",
+      "Times": "Showtimes vary by production",
+      "Price": "Tickets on sale through the company; prices vary by show and seat",
+      "Cost": "",
+      "Age": "General audience; check each production",
+      "Intensity": "",
+      "Location": "Utah Theatre and partner venues, Logan",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A summer repertory season in Logan pairs opera and musical theatre, with five announced productions: Pagliacci, Fiddler on the Roof, The Wizard of Oz, Tenderly and Lend Me a Tenor.",
+      "Website": "https://utahfestival.org/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/utah-festival-opera-my-fair-lady.webp",
+        "alt": "Performers in a Utah Festival Opera production of My Fair Lady.",
+        "credit": "Waldron Creative / Visit Utah",
+        "creditUrl": "https://www.visitutah.com/things-to-do/events/utah-festival-opera",
+        "sourceUrl": "https://www.visitutah.com/azure/cmsroot/visitutah/media/site-assets/three-season-photography/northern-utah/logan/logan_utah-festival_waldron-creative_my-fair-lady_1.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Previous edition photo",
+        "reviewedOn": "2026-10-08"
+      },
+      "sourceRegion": "Cache Valley",
+      "publicRegion": "Cache / Box Elder",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Summer"
+      ],
+      "primaryHoliday": "Summer",
+      "startDate": "2027-06-18",
+      "endDate": "2027-07-13",
+      "travelTier": "Utah outing",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Multiple productions",
+        "Indoor"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-06-18",
+        "2027-06-19",
+        "2027-06-20",
+        "2027-06-21",
+        "2027-06-22",
+        "2027-06-23",
+        "2027-06-24",
+        "2027-06-25",
+        "2027-06-26",
+        "2027-06-27",
+        "2027-06-28",
+        "2027-06-29",
+        "2027-06-30",
+        "2027-07-01",
+        "2027-07-02",
+        "2027-07-03",
+        "2027-07-04",
+        "2027-07-05",
+        "2027-07-06",
+        "2027-07-07",
+        "2027-07-08",
+        "2027-07-09",
+        "2027-07-10",
+        "2027-07-11",
+        "2027-07-12",
+        "2027-07-13"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "summer",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": true,
+      "seasons": [
+        "Summer"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://utahfestival.org/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 672
+    },
+    {
+      "id": "utah-ukulele-festival-2027",
+      "Event / attraction": "Utah Ukulele Festival",
+      "Region": "Cache Valley",
+      "Category": "Live Music & Performance, Community & Culture, Workshops & Learning",
+      "First date": "2027-08-07",
+      "2026 schedule": "2027-08-07",
+      "Times": "10 AM–8 PM",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Willow Park, Logan",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A full day of ukulele performances and community music at Willow Park, with programming celebrating the instrument and Pacific Island cultures.",
+      "Website": "https://utahukefest.com/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Live Music & Performance",
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "sourceCategories": [
+        "Live Music & Performance",
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Cache Valley",
+      "publicRegion": "Cache / Box Elder",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Community & Culture",
+        "Workshops & Learning"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Summer"
+      ],
+      "primaryHoliday": "Summer",
+      "startDate": "2027-08-07",
+      "endDate": "2027-08-07",
+      "travelTier": "Utah outing",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Outdoor",
+        "Live music",
+        "Workshops"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-08-07"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Pacific Islander"
+      ],
+      "theme": "summer",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false,
+      "seasons": [
+        "Summer"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://utahukefest.com/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 673
+    },
+    {
+      "id": "das-energi-festival-2027",
+      "Event / attraction": "DAS ENERGI Festival",
+      "Region": "Salt Lake / Magna",
+      "Category": "Nightlife & Parties, Live Music & Performance",
+      "First date": "2027-08-06",
+      "2026 schedule": "2027-08-06, 2027-08-07, 2027-08-08",
+      "Times": "Friday and Saturday 5 PM–2 AM; Sunday 4 PM–1 AM",
+      "Price": "Ticketed; check official ticket seller for current tiers and fees",
+      "Cost": "",
+      "Age": "18+; government-issued photo ID required",
+      "Intensity": "",
+      "Location": "The Saltair, 12408 W Saltair Drive, Magna",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A three-night electronic music festival at the Saltair, with late sets, a 21+ bar area and rideshare pickup. No re-entry.",
+      "Website": "https://dasenergifestival.com/info-faq/",
+      "Social profile": "",
+      "Extra notes": "Parking is $20 per car per day. The festival runs rain or shine. ADA accommodation form is linked by the organizer.",
+      "categories": [
+        "Nightlife & Parties",
+        "Live Music & Performance"
+      ],
+      "sourceCategories": [
+        "Nightlife & Parties",
+        "Live Music & Performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake / Magna",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Nightlife & Parties",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Summer"
+      ],
+      "primaryHoliday": "Summer",
+      "startDate": "2027-08-06",
+      "endDate": "2027-08-08",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "18+",
+        "Nightlife",
+        "Outdoor",
+        "No re-entry",
+        "Paid parking"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-08-06",
+        "2027-08-07",
+        "2027-08-08"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "summer",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": true,
+      "seasons": [
+        "Summer"
+      ],
+      "accessibility": {
+        "summary": "The organizer links an ADA accommodation form through The Saltair."
+      },
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://dasenergifestival.com/info-faq/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 674
+    },
+    {
+      "id": "utah-summer-dance-festival-2027",
+      "Event / attraction": "Utah Summer Dance Festival",
+      "Region": "Salt Lake Valley",
+      "Category": "Live Music & Performance, Community & Culture",
+      "First date": "2027-08-21",
+      "2026 schedule": "2027-08-21",
+      "Times": "Festival hours to be announced",
+      "Price": "Admission details forthcoming",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "South Salt Lake Community Center, South Salt Lake",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A summer dance showcase bringing performances and community groups together for a day of movement and live entertainment.",
+      "Website": "https://utahsummerdancefestival.org/registration/vendor/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Summer"
+      ],
+      "primaryHoliday": "Summer",
+      "startDate": "2027-08-21",
+      "endDate": "2027-08-21",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-08-21"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The organizer has posted August 21, 2027 for the festival; hours and admission details are still forthcoming.",
+      "communities": [],
+      "theme": "summer",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false,
+      "seasons": [
+        "Summer"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://utahsummerdancefestival.org/registration/vendor/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 675
+    },
+    {
+      "id": "farmington-festival-days-2027",
+      "Event / attraction": "Farmington Festival Days",
+      "Region": "Davis County",
+      "Category": "Community & Culture, Active & Outdoors, Live Music & Performance",
+      "First date": "2027-07-12",
+      "2026 schedule": "2027-07-12, 2027-07-13, 2027-07-14, 2027-07-15, 2027-07-16, 2027-07-17",
+      "Times": "Individual event hours vary",
+      "Price": "Some activities may be free; program-specific admission details forthcoming",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Farmington City parks and venues",
+      "Status": "Announced 2027",
+      "Why / thoughts": "Farmington’s summer celebration returns July 12–17, 2027, with tournaments and community activities. The full schedule will identify locations and ticket requirements.",
+      "Website": "https://www.farmington.utah.gov/wp-content/uploads/2026/08/August-Newsletter.pdf",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Active & Outdoors",
+        "Live Music & Performance"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Active & Outdoors",
+        "Live Music & Performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Davis County",
+      "publicRegion": "Davis County",
+      "publicTypes": [
+        "Community & Culture",
+        "Active & Outdoors",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Summer"
+      ],
+      "primaryHoliday": "Summer",
+      "startDate": "2027-07-12",
+      "endDate": "2027-07-17",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Community festival",
+        "Multi-day"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-07-12",
+        "2027-07-13",
+        "2027-07-14",
+        "2027-07-15",
+        "2027-07-16",
+        "2027-07-17"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The city newsletter lists these dates as a save-the-date; the full program is forthcoming.",
+      "communities": [],
+      "theme": "summer",
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false,
+      "seasons": [
+        "Summer"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.farmington.utah.gov/wp-content/uploads/2026/08/August-Newsletter.pdf",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 676
+    },
+    {
+      "id": "aloha-fest-utah-2027",
+      "Event / attraction": "Aloha Fest Utah",
+      "Region": "Utah County",
+      "Category": "Community & Culture, Live Music & Performance, Food & Drink",
+      "First date": "2027-07-24",
+      "2026 schedule": "2027-07-24",
+      "Times": "Festival hours to be announced",
+      "Price": "Admission details forthcoming",
+      "Cost": "",
+      "Age": "Family-friendly; all ages",
+      "Intensity": "",
+      "Location": "City Center Park, Orem",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A Pacific Island cultural festival with music, dance, food, traditions and activities for families, organized by Aloha In Utah Foundation.",
+      "Website": "https://alohafestutah.com/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/aloha-fest-utah-2026.webp",
+        "alt": "Families gather at the 2026 Aloha Fest Utah in Orem.",
+        "credit": "Aloha In Utah Foundation",
+        "creditUrl": "https://alohafestutah.com/",
+        "sourceUrl": "https://img1.wsimg.com/isteam/ip/de0507c8-74f5-46da-9ccd-b211a221d2fd/IMG_8794.jpeg",
+        "usageType": "official_web_photo",
+        "caption": "Previous edition photo",
+        "reviewedOn": "2026-10-08"
+      },
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Summer"
+      ],
+      "primaryHoliday": "Summer",
+      "startDate": "2027-07-24",
+      "endDate": "2027-07-24",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Family-friendly",
+        "Cultural performances",
+        "Food"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-07-24"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The organizer has announced July 24, 2027; festival hours and admission information are forthcoming.",
+      "communities": [
+        "Pacific Islander"
+      ],
+      "theme": "summer",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": true,
+      "seasons": [
+        "Summer"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://alohafestutah.com/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 677
+    },
+    {
+      "id": "carbon-county-fair-2027",
+      "Event / attraction": "Carbon County Fair",
+      "Region": "Eastern Utah",
+      "Category": "Community & Culture, Farms & Harvest, Active & Outdoors",
+      "First date": "2027-06-03",
+      "2026 schedule": "2027-06-03, 2027-06-04, 2027-06-05",
+      "Times": "Daily hours and program to be announced",
+      "Price": "Admission varies by fair event",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Carbon County Fairgrounds, Price",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A three-day county fair in Price with agricultural exhibits, local competitions, food and community entertainment.",
+      "Website": "https://www.carbonutahfair.com/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Farms & Harvest",
+        "Active & Outdoors"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Farms & Harvest",
+        "Active & Outdoors"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Eastern Utah",
+      "publicRegion": "Eastern Utah",
+      "publicTypes": [
+        "Community & Culture",
+        "Farms & Harvest",
+        "Active & Outdoors"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Summer"
+      ],
+      "primaryHoliday": "Summer",
+      "startDate": "2027-06-03",
+      "endDate": "2027-06-05",
+      "travelTier": "Utah outing",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Outdoor",
+        "Multi-day"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-06-03",
+        "2027-06-04",
+        "2027-06-05"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "summer",
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false,
+      "seasons": [
+        "Summer"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.carbonutahfair.com/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 678
+    },
+    {
+      "id": "utah-valley-marathon-2027",
+      "Event / attraction": "Utah Valley Marathon & Half Marathon",
+      "Region": "Utah County",
+      "Category": "Active & Outdoors, Community & Culture",
+      "First date": "2027-06-04",
+      "2026 schedule": "2027-06-04, 2027-06-05",
+      "Times": "Marathon starts June 5 at 6 AM; packet pickup June 4, 10 AM–8 PM",
+      "Price": "Marathon registration $134 through Nov. 4, then rises; other distances have separate fees",
+      "Cost": "",
+      "Age": "Runners and spectators; age rules vary by distance",
+      "Intensity": "",
+      "Location": "Provo Canyon; expo and finish festival at Utah Valley Convention Center and Provo Historic Courthouse Grounds",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A two-day race weekend with marathon, half marathon and shorter distances, course support and a finish-line festival.",
+      "Website": "https://www.utahvalleymarathon.com/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/utah-valley-marathon-course.webp",
+        "alt": "A Utah Valley Marathon runner races along the Provo Canyon course.",
+        "credit": "Utah Valley Marathon",
+        "creditUrl": "https://www.utahvalleymarathon.com/utah-valley-marathon-info",
+        "sourceUrl": "https://www.utahvalleymarathon.com/wp-content/uploads/2015/03/canyon.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Previous edition photo",
+        "reviewedOn": "2026-10-08"
+      },
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "publicTypes": [
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Summer"
+      ],
+      "primaryHoliday": "Summer",
+      "startDate": "2027-06-04",
+      "endDate": "2027-06-05",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Registration required",
+        "Multiple distances",
+        "Multi-day"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-06-04",
+        "2027-06-05"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "summer",
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false,
+      "seasons": [
+        "Summer"
+      ],
+      "accessibility": {
+        "summary": "The organizer lists mobility-impaired race divisions, including athletes with physical disabilities, athletes who are blind and duo participants; check each distance’s current rules."
+      },
+      "ticketUrl": "https://www.utahvalleymarathon.com/utah-valley-marathon-info",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.utahvalleymarathon.com/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 679
+    },
+    {
+      "id": "utah-own-spring-market-2027",
+      "Event / attraction": "Utah’s Own Spring Market",
+      "Region": "Utah County",
+      "Category": "Markets & Shopping, Food & Drink, Community & Culture",
+      "First date": "2027-05-09",
+      "2026 schedule": "2027-05-09",
+      "Times": "9 AM–2 PM (market listing)",
+      "Price": "Free to browse; purchases extra",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Oliver’s Place, 125 S 2000 W, Pleasant Grove",
+      "Status": "Announced 2027",
+      "Why / thoughts": "Utah food and maker vendors offer bread, meats, treats, spices and body care products in a market timed for Mother’s Day gifts.",
+      "Website": "https://www.usefestkit.com/events/utah-department-of-agriculture-and-food/utah-s-own-spring-market",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Markets & Shopping",
+        "Food & Drink",
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Markets & Shopping",
+        "Food & Drink",
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "publicTypes": [
+        "Markets & Shopping",
+        "Food & Drink",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Mother’s Day",
+        "Spring"
+      ],
+      "primaryHoliday": "Mother’s Day",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "Food and vendors",
+        "Indoor/Outdoor"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-05-09"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The market’s 2027 listing shows May 9; confirm organizer hours as the date approaches.",
+      "communities": [],
+      "theme": "spring",
+      "placeholder": "assets/art/market.svg",
+      "notable_event": false,
+      "seasons": [
+        "Spring"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.usefestkit.com/events/utah-department-of-agriculture-and-food/utah-s-own-spring-market",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 680
+    },
+    {
+      "id": "utah-pride-festival-2027-watch",
+      "Event / attraction": "Utah Pride Festival — 2027 planning watch",
+      "Region": "Salt Lake City",
+      "Category": "Community & Culture, Live Music & Performance",
+      "First date": "",
+      "2026 schedule": "2027 date and schedule not posted",
+      "Times": "2027 schedule not posted",
+      "Price": "2027 admission details not posted",
+      "Cost": "",
+      "Age": "Check organizer guidance",
+      "Intensity": "",
+      "Location": "Salt Lake City; 2027 venue to be announced",
+      "Status": "2027 watch",
+      "Why / thoughts": "Utah Pride Festival brings LGBTQ+ community groups, performances and celebration to downtown Salt Lake City. The organizer has not posted the 2027 date or venue.",
+      "Website": "https://www.utahpridecenter.org/calendar/utah-pride-festival",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": true,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Pride",
+        "Summer"
+      ],
+      "primaryHoliday": "Pride",
+      "startDate": null,
+      "endDate": null,
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "WATCH / 2027 SCHEDULE VERIFY",
+      "timezone": "America/Denver",
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [],
+      "scheduleConfidence": "unresolved",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "pride",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false,
+      "seasons": [],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.utahpridecenter.org/calendar/utah-pride-festival",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 681
+    },
+    {
+      "id": "hibernian-society-st-patricks-parade-2027-watch",
+      "Event / attraction": "Salt Lake St. Patrick’s Day Parade & Siamsa — 2027 planning watch",
+      "Region": "Salt Lake City",
+      "Category": "Community & Culture, Live Music & Performance, Food & Drink",
+      "First date": "",
+      "2026 schedule": "2027 date and schedule not posted",
+      "Times": "2027 schedule not posted",
+      "Price": "2027 admission details not posted",
+      "Cost": "",
+      "Age": "All ages; festival policies to be confirmed",
+      "Intensity": "",
+      "Location": "Downtown Salt Lake City; route and site to be confirmed",
+      "Status": "2027 watch",
+      "Why / thoughts": "The Hibernian Society of Utah’s annual parade and Siamsa brings Irish music, dance and community celebration downtown. Its 2027 date and program are not posted yet.",
+      "Website": "https://www.irishinutah.com/parade",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": true,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance",
+        "Food & Drink"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "St. Patrick’s Day",
+        "Spring"
+      ],
+      "primaryHoliday": "St. Patrick’s Day",
+      "startDate": null,
+      "endDate": null,
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "WATCH / 2027 SCHEDULE VERIFY",
+      "timezone": "America/Denver",
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [],
+      "scheduleConfidence": "unresolved",
+      "scheduleNote": "",
+      "communities": [
+        "Irish / Irish American"
+      ],
+      "theme": "spring",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false,
+      "seasons": [],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.irishinutah.com/parade",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 682
+    },
+    {
+      "id": "thanksgiving-point-valentine-dinner-dance-2027-watch",
+      "Event / attraction": "Valentine Dinner Dance at Thanksgiving Point — 2027 planning watch",
+      "Region": "Utah County",
+      "Category": "Food & Drink, Live Music & Performance",
+      "First date": "",
+      "2026 schedule": "2027 date and schedule not posted",
+      "Times": "2027 dinner and dance schedule not posted",
+      "Price": "2027 ticket price not posted",
+      "Cost": "",
+      "Age": "Adults / general audience",
+      "Intensity": "",
+      "Location": "Thanksgiving Point, Lehi; venue to be confirmed",
+      "Status": "2027 watch",
+      "Why / thoughts": "Thanksgiving Point’s annual Valentine dinner dance pairs a seated dinner with live music from The Salamanders and dancing. The organizer has not posted its 2027 date or ticket details.",
+      "Website": "https://thanksgivingpoint.org/events/valentine-dinner-dance/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Food & Drink",
+        "Live Music & Performance"
+      ],
+      "sourceCategories": [
+        "Food & Drink",
+        "Live Music & Performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": true,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "publicTypes": [
+        "Food & Drink",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Valentine’s Day",
+        "Winter"
+      ],
+      "primaryHoliday": "Valentine’s Day",
+      "startDate": null,
+      "endDate": null,
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "WATCH / 2027 SCHEDULE VERIFY",
+      "timezone": "America/Denver",
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [],
+      "scheduleConfidence": "unresolved",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "winter",
+      "placeholder": "assets/art/seasonal/winter-performance.svg",
+      "notable_event": false,
+      "seasons": [],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://thanksgivingpoint.org/events/valentine-dinner-dance/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 683
+    },
+    {
+      "id": "thanksgiving-point-tulip-festival-2027-watch",
+      "Event / attraction": "Thanksgiving Point Tulip Festival — 2027 dates pending",
+      "Region": "Utah County",
+      "Category": "Farms & Harvest, Active & Outdoors, Community & Culture",
+      "First date": "",
+      "2026 schedule": "2027 date and schedule not posted",
+      "Times": "2027 dates not posted",
+      "Price": "2027 admission price not posted",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Ashton Gardens at Thanksgiving Point, Lehi",
+      "Status": "2027 watch",
+      "Why / thoughts": "Ashton Gardens turns into a seasonal walk through tulips and spring displays. Thanksgiving Point says the festival will return in 2027; the new dates are not posted.",
+      "Website": "https://thanksgivingpoint.org/events/tulip-festival/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Farms & Harvest",
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Farms & Harvest",
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": true,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/reviewed-ashton-103.webp",
+        "alt": "Sculptures and landscaping in Ashton Gardens.",
+        "credit": "thanksgivingpoint.org",
+        "creditUrl": "https://thanksgivingpoint.org/experience/ashton-gardens/",
+        "sourceUrl": "https://thanksgivingpoint.org/app/uploads/2024/11/TTOL_AJCredit_825x332-1-scaled.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-06"
+      },
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "publicTypes": [
+        "Farms & Harvest",
+        "Active & Outdoors",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Spring"
+      ],
+      "primaryHoliday": "Spring",
+      "startDate": null,
+      "endDate": null,
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "WATCH / 2027 SCHEDULE VERIFY",
+      "timezone": "America/Denver",
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [],
+      "scheduleConfidence": "unresolved",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "spring",
+      "placeholder": "assets/art/active.svg",
+      "notable_event": false,
+      "seasons": [],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://thanksgivingpoint.org/events/tulip-festival/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 684
+    },
+    {
+      "id": "draper-memorial-day-ceremony-2027-watch",
+      "Event / attraction": "Draper Memorial Day Ceremony — 2027 planning watch",
+      "Region": "Salt Lake Valley",
+      "Category": "Community & Culture",
+      "First date": "",
+      "2026 schedule": "2027 date and schedule not posted",
+      "Times": "2027 ceremony time not posted",
+      "Price": "Free",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Gold Star Families Memorial Monument at Draper Park, Draper",
+      "Status": "2027 watch",
+      "Why / thoughts": "Draper’s public ceremony honors those who died in military service at the Gold Star Families Memorial Monument. The city has not posted its 2027 program.",
+      "Website": "https://www.draperutah.gov/Calendar.aspx?EID=5821",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture"
+      ],
+      "sourceCategories": [
+        "Community & Culture"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": true,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Memorial Day",
+        "Spring"
+      ],
+      "primaryHoliday": "Memorial Day",
+      "startDate": null,
+      "endDate": null,
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "WATCH / 2027 SCHEDULE VERIFY",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [],
+      "scheduleConfidence": "unresolved",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "veterans",
+      "placeholder": "assets/art/seasonal/veterans-community.svg",
+      "notable_event": false,
+      "seasons": [],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.draperutah.gov/Calendar.aspx?EID=5821",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 685
+    },
+    {
+      "id": "fanx-salt-lake-2027",
+      "Event / attraction": "FanX Salt Lake Comic Convention 2027",
+      "Region": "Salt Lake City",
+      "Category": "Community & Culture, Live Music & Performance",
+      "First date": "2027-03-11",
+      "2026 schedule": "2027-03-11, 2027-03-12, 2027-03-13",
+      "Times": "Three-day convention; guest schedules and daily hours to be announced",
+      "Price": "3-Day MultiPass $79; Ruby $132; VIP $359, plus taxes and fees",
+      "Cost": "",
+      "Age": "All ages; check ticket and guest policies",
+      "Intensity": "",
+      "Location": "Salt Palace Convention Center, Salt Lake City",
+      "Status": "Announced 2027",
+      "Why / thoughts": "A three-day pop-culture convention with celebrity guests, cosplay, fan panels, artists and exhibitor halls at the Salt Palace.",
+      "Website": "https://fanxsaltlake.com/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/reviewed-salt-palace-convention-center-17.webp",
+        "alt": "The Salt Palace Convention Center in downtown Salt Lake City.",
+        "credit": "Beneathtimp",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Salt_Palace_Convention_Center_%27Salt_Shaker%27_-_Salt_Lake_City,_Utah_-_21_April_2024.jpg",
+        "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Salt_Palace_Convention_Center_%27Salt_Shaker%27_-_Salt_Lake_City%2C_Utah_-_21_April_2024.jpg/1280px-Salt_Palace_Convention_Center_%27Salt_Shaker%27_-_Salt_Lake_City%2C_Utah_-_21_April_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "usageType": "creative_commons",
+        "caption": "Venue photo",
+        "reviewedOn": "2026-10-06",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "changes": "Resized and converted to WebP; responsive display crop."
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Spring"
+      ],
+      "primaryHoliday": "Spring",
+      "startDate": "2027-03-11",
+      "endDate": "2027-03-13",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Multi-day",
+        "Convention",
+        "Tickets required"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-03-11",
+        "2027-03-12",
+        "2027-03-13"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "2027 dates and ticket tiers are posted; guest schedule and daily hours are forthcoming.",
+      "communities": [],
+      "theme": "spring",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": true,
+      "seasons": [
+        "Spring"
+      ],
+      "accessibility": null,
+      "ticketUrl": "https://fanxsaltlake.com/tickets/",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://fanxsaltlake.com/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 686
+    },
+    {
+      "id": "utah-state-fair-2027",
+      "Event / attraction": "Utah State Fair 2027",
+      "Region": "Salt Lake City",
+      "Category": "Community & Culture, Farms & Harvest, Food & Drink, Active & Outdoors",
+      "First date": "2027-09-09",
+      "2026 schedule": "2027-09-09–2027-09-19",
+      "Times": "Fair dates announced; daily hours and program to be announced",
+      "Price": "2027 admission and ride prices not posted",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "Utah State Fairpark, 155 N 1000 W, Salt Lake City",
+      "Status": "Announced 2027",
+      "Why / thoughts": "Utah’s state fair fills the Fairpark with livestock and agricultural exhibits, competitions, fair food, carnival rides, concerts and arena shows.",
+      "Website": "https://www.utahstatefair.com/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Farms & Harvest",
+        "Food & Drink",
+        "Active & Outdoors"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Farms & Harvest",
+        "Food & Drink",
+        "Active & Outdoors"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/utah-state-fair-carnival-visit-utah.webp",
+        "alt": "A Ferris wheel and carnival midway at the Utah State Fair.",
+        "credit": "Linda Iverson / Visit Utah",
+        "creditUrl": "https://www.visitutah.com/articles/utah-state-fair",
+        "sourceUrl": "https://www.visitutah.com/azure/cmsroot/visitutah/media/site-assets/three-season-photography/wasatch-metro/salt-lake-city-5/utah-state-fair_carnival_iverson-linda_457.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Previous edition photo",
+        "reviewedOn": "2026-10-08"
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Community & Culture",
+        "Farms & Harvest",
+        "Food & Drink",
+        "Active & Outdoors"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Fall"
+      ],
+      "primaryHoliday": "Fall",
+      "startDate": "2027-09-09",
+      "endDate": "2027-09-19",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Outdoor",
+        "Multi-day",
+        "Rides and attractions",
+        "Food vendors"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2027-09-09",
+        "2027-09-10",
+        "2027-09-11",
+        "2027-09-12",
+        "2027-09-13",
+        "2027-09-14",
+        "2027-09-15",
+        "2027-09-16",
+        "2027-09-17",
+        "2027-09-18",
+        "2027-09-19"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The official 2027 calendar lists September 9–19; daily hours, performances and prices will be published closer to the fair.",
+      "communities": [],
+      "theme": "winter",
+      "placeholder": "assets/art/seasonal/winter-active.svg",
+      "notable_event": true,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.utahstatefair.com/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 687
+    },
+    {
+      "id": "holi-festival-of-colors-2027-watch",
+      "Event / attraction": "Holi Festival of Colors at Radha Krishna Temple — 2027 planning watch",
+      "Region": "Utah County",
+      "Category": "Community & Culture, Live Music & Performance",
+      "First date": "",
+      "2026 schedule": "2027 date and schedule not posted",
+      "Times": "2027 date and hours not posted",
+      "Price": "2027 admission details not posted",
+      "Cost": "",
+      "Age": "All ages; event policies to be confirmed",
+      "Intensity": "",
+      "Location": "Radha Krishna Temple, Spanish Fork",
+      "Status": "2027 watch",
+      "Why / thoughts": "The annual Festival of Colors celebrates Holi with music, dance and colored powder at the Radha Krishna Temple. The organizer has not posted its 2027 date or admission details.",
+      "Website": "https://www.festivalofcolorsusa.com/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sourceCategories": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 0,
+      "isWatch": true,
+      "artKey": "community",
+      "socials": [],
+      "photo": null,
+      "sourceRegion": "Utah County",
+      "publicRegion": "Utah County",
+      "publicTypes": [
+        "Community & Culture",
+        "Live Music & Performance"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Holi",
+        "Spring"
+      ],
+      "primaryHoliday": "Holi",
+      "startDate": null,
+      "endDate": null,
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-08",
+      "qaFlags": "WATCH / 2027 SCHEDULE VERIFY",
+      "timezone": "America/Denver",
+      "flags": [],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [],
+      "scheduleConfidence": "unresolved",
+      "scheduleNote": "Watch for the organizer’s 2027 announcement; do not treat a calculated lunar date as a confirmed event date.",
+      "communities": [
+        "Hindu",
+        "South Asian"
+      ],
+      "theme": "spring",
+      "placeholder": "assets/art/performance.svg",
+      "notable_event": false,
+      "seasons": [],
+      "accessibility": null,
+      "ticketUrl": "",
+      "researchEvidence": {
+        "checkedOn": "2026-10-08",
+        "sourceUrl": "https://www.festivalofcolorsusa.com/",
+        "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
+      },
+      "sourceRow": 688
     }
   ],
   "planner": [
@@ -49584,6 +52365,6 @@ window.SITE_DATA = {
   "planningHorizon": {
     "from": "2026-10-08",
     "through": "2027-10-31",
-    "note": "Holiday dates are distinct from organizer-announced event dates. Religious observance dates can vary by tradition, sunset and local moon sighting."
+    "note": "Holiday dates are distinct from organizer-announced event dates. Religious observance dates can vary by tradition, sunset and local moon sighting. Watchlist records are not add-to-calendar dates."
   }
 };
