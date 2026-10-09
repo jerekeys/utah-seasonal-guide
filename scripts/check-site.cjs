@@ -26,6 +26,7 @@ assert(t.isPast({id:'overnight',Times:'9 PM–2 AM',occurrenceDates:['2026-10-05
 console.log('Final-night rollover remains visible until closing');
 
 vm.runInContext(fs.readFileSync('assets/vibes.js','utf8'),ctx);const vs=ctx.window.VIBE_GUIDES;assert.equal(vs.length,27);assert.equal(new Set(vs.map(v=>v.id)).size,27);for(const v of vs){assert(v.description.length>40);assert(d.events.some(e=>ctx.window.matchesVibe(e,v)),v.id+' empty collection');}const dogs=vs.find(v=>v.id==='dogs');assert(ctx.window.matchesVibe(d.events.find(e=>e.id==='hounds-haunts'),dogs));assert(!ctx.window.matchesVibe(d.events.find(e=>e.id==='frightmares-at-lagoon'),dogs));console.log('Explained vibe collections and dog membership passed');
+const petListings=d.events.filter(e=>(e.flags||[]).includes('Pet-friendly'));assert(petListings.length>0);for(const e of petListings){assert.equal(e.petFriendlyVerified,true,e.id+' verified pet flag');assert((e.allowedPets||[]).includes('dogs'),e.id+' allowed pets');assert(/^https:\/\//.test(e.petPolicySource||''),e.id+' pet policy source')}assert(fs.readFileSync('assets/site.js','utf8').includes('Verified pet policy'));console.log('Source-linked dog policy flags and public labels passed');
 
 assert(t.isUpcomingSoon(single,'2026-10-06'));assert(!t.isUpcomingSoon(notable,'2026-10-06'));console.log('Notable priority respects the next 45 days');
 

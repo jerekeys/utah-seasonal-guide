@@ -176,6 +176,8 @@ main{max-width:1320px}
   letter-spacing:.015em;
 }
 .tag{padding:3px 6px}
+.practical-flag{display:inline-flex;align-items:center;padding:5px 8px;background:var(--paper,#fffdf8)}
+a.practical-flag{min-height:44px;color:var(--ink);text-decoration:underline;text-underline-offset:.15em}
 .meta{border-top:1px solid rgba(23,34,29,.18);padding-top:9px}
 .meta-row{grid-template-columns:68px 1fr}
 .meta-row b{

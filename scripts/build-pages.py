@@ -40,7 +40,11 @@ out=pathlib.Path('events');shutil.rmtree(out,ignore_errors=True);out.mkdir()
 urls=[base+'/']+[base+'/'+n+'/' for n in paths if n not in ['thanks','offline']]
 for e in d['events']:
  slug=e['id'];o=out/slug;o.mkdir();title=e['Event / attraction'];desc=e['Why / thoughts'][:155];canonical=base+'/events/'+slug+'/'
- fallback=f'<h1>{E(title)}</h1><p>{E(e["2026 schedule"])}</p><p>{E(e["Location"])}</p><p>{E(e["Price"])}</p><p>{E(e["Why / thoughts"])}</p><a href="{E(e["Website"],quote=True)}">Organizer’s event page</a>'
+ pet_policy=''
+ if e.get('petFriendlyVerified') and e.get('allowedPets') and e.get('petPolicySource'):
+  animals=', '.join('Dogs' if pet=='dogs' else pet for pet in e['allowedPets'])
+  pet_policy=f'<p><a href="{E(e["petPolicySource"],quote=True)}">🐾 {E(animals)} welcome — verified organizer pet policy</a></p>'
+ fallback=f'<h1>{E(title)}</h1><p>{E(e["2026 schedule"])}</p><p>{E(e["Location"])}</p><p>{E(e["Price"])}</p><p>{E(e["Why / thoughts"])}</p>{pet_policy}<a href="{E(e["Website"],quote=True)}">Organizer’s event page</a>'
  extra=f'<link rel="canonical" href="{canonical}"><meta property="og:title" content="{E(title,quote=True)}"><meta property="og:description" content="{E(desc,quote=True)}"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{base}/assets/share/{e.get("theme","winter")}.png">'
  if not e['isWatch'] and e.get('occurrenceDates'):
   ld={'@context':'https://schema.org','@type':'Event','name':title,'description':e['Why / thoughts'],'url':canonical,'startDate':e['occurrenceDates'][0],'location':{'@type':'Place','name':e['Location']}};extra+='<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False).replace('</','<\/')+'</script>'

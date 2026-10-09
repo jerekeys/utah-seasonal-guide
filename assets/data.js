@@ -4203,7 +4203,12 @@ window.SITE_DATA = {
       ],
       "researchEvidence": {
         "petPolicySource": "https://www.saltlakecounty.gov/wheeler-farm/events--program/"
-      }
+      },
+      "petFriendlyVerified": true,
+      "allowedPets": [
+        "dogs"
+      ],
+      "petPolicySource": "https://www.saltlakecounty.gov/wheeler-farm/events--program/"
     },
     {
       "Event / attraction": "Doomsday Disco — UMOCA Annual Halloween Bash",
@@ -10188,7 +10193,12 @@ window.SITE_DATA = {
       ],
       "researchEvidence": {
         "petPolicySource": "https://www.eventbrite.com/e/hounds-haunts-tickets-1999945899021"
-      }
+      },
+      "petFriendlyVerified": true,
+      "allowedPets": [
+        "dogs"
+      ],
+      "petPolicySource": "https://www.eventbrite.com/e/hounds-haunts-tickets-1999945899021"
     },
     {
       "Event / attraction": "Howl-O-Ween on Historic Main Street",
@@ -10276,7 +10286,12 @@ window.SITE_DATA = {
       ],
       "researchEvidence": {
         "petPolicySource": "https://www.visitparkcity.com/blog/stories/post/tips-for-attending-howl-o-ween/"
-      }
+      },
+      "petFriendlyVerified": true,
+      "allowedPets": [
+        "dogs"
+      ],
+      "petPolicySource": "https://www.visitparkcity.com/blog/stories/post/tips-for-attending-howl-o-ween/"
     },
     {
       "Event / attraction": "Hurricane City Fall Festival",
@@ -14037,7 +14052,12 @@ window.SITE_DATA = {
       ],
       "researchEvidence": {
         "petPolicySource": "https://www.alumni.weber.edu/s/953/bp23/interior.aspx?calcid=4875&calpgid=61&cid=6213&crid=0&ecid=6213&gid=1001&pgid=2926&sid=953"
-      }
+      },
+      "petFriendlyVerified": true,
+      "allowedPets": [
+        "dogs"
+      ],
+      "petPolicySource": "https://www.alumni.weber.edu/s/953/bp23/interior.aspx?calcid=4875&calpgid=61&cid=6213&crid=0&ecid=6213&gid=1001&pgid=2926&sid=953"
     },
     {
       "Event / attraction": "Raven Manor",
@@ -16897,7 +16917,12 @@ window.SITE_DATA = {
       ],
       "researchEvidence": {
         "petPolicySource": "https://www.swiftpumpkins.com/corn-maze-play-zone-dates-and-times"
-      }
+      },
+      "petFriendlyVerified": true,
+      "allowedPets": [
+        "dogs"
+      ],
+      "petPolicySource": "https://www.swiftpumpkins.com/corn-maze-play-zone-dates-and-times"
     },
     {
       "Event / attraction": "Syracuse Night at the Museum",
@@ -18731,7 +18756,12 @@ window.SITE_DATA = {
       ],
       "researchEvidence": {
         "petPolicySource": "https://www.kaysville.gov/calendar.aspx?CID=0&month=10&view=list&year=2026"
-      }
+      },
+      "petFriendlyVerified": true,
+      "allowedPets": [
+        "dogs"
+      ],
+      "petPolicySource": "https://www.kaysville.gov/calendar.aspx?CID=0&month=10&view=list&year=2026"
     },
     {
       "Event / attraction": "University Place / The Orchard Halloween Display",
@@ -18965,7 +18995,12 @@ window.SITE_DATA = {
       ],
       "researchEvidence": {
         "petPolicySource": "https://extension.usu.edu/botanicalcenter/events/scarecrow-walk"
-      }
+      },
+      "petFriendlyVerified": true,
+      "allowedPets": [
+        "dogs"
+      ],
+      "petPolicySource": "https://extension.usu.edu/botanicalcenter/events/scarecrow-walk"
     },
     {
       "Event / attraction": "Utah Metropolitan Ballet Masquerade Ball",
@@ -40320,7 +40355,12 @@ window.SITE_DATA = {
       "seasons": [
         "Fall",
         "Summer"
-      ]
+      ],
+      "petFriendlyVerified": true,
+      "allowedPets": [
+        "dogs"
+      ],
+      "petPolicySource": "https://www.snowbasin.com/events/snowwiesn-oktoberfest/"
     },
     {
       "Event / attraction": "Pride in Progress 2027",
@@ -40863,7 +40903,12 @@ window.SITE_DATA = {
       "sourceRow": 603,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "petFriendlyVerified": true,
+      "allowedPets": [
+        "dogs"
+      ],
+      "petPolicySource": "https://ogdendowntown.com/dogden/"
     },
     {
       "id": "brigham-city-peach-days-2026",
@@ -48637,7 +48682,12 @@ window.SITE_DATA = {
         "sourceUrl": "https://www.westjordan.utah.gov/city-events/memorial-day-ceremony-and-car-show/",
         "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
       },
-      "sourceRow": 668
+      "sourceRow": 668,
+      "petFriendlyVerified": true,
+      "allowedPets": [
+        "dogs"
+      ],
+      "petPolicySource": "https://www.westjordan.utah.gov/city-events/memorial-day-ceremony-and-car-show/"
     },
     {
       "id": "run-of-remembrance-memorial-day-2027",

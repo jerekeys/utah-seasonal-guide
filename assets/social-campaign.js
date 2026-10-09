@@ -90,7 +90,7 @@
     const intensity=Number(event.ghostCount)||0;
     return{ageSuitable,childSpecific,teenOrAdult,intensity,focused:ageSuitable&&childSpecific&&!teenOrAdult&&!adultProfile(event).age18&&!adultProfile(event).age21};
   }
-  function petFriendly(event){return (event.flags||[]).some(flag=>/^pet-friendly$|^dog-friendly$/i.test(clean(flag)))}
+  function petFriendly(event){return event.petFriendlyVerified===true&&Array.isArray(event.allowedPets)&&event.allowedPets.length>0||((event.flags||[]).some(flag=>/^pet-friendly$|^dog-friendly$/i.test(clean(flag))))}
   function editorialRule(event,series,anchor,editorial){
     const rules=editorial?.events?.[event.id]||[];
     return rules.filter(rule=>(rule.series||[]).includes(series)&&(!rule.from||anchor>=rule.from)&&(!rule.through||anchor<=rule.through)).sort((a,b)=>(a.rank||99)-(b.rank||99))[0]||null;

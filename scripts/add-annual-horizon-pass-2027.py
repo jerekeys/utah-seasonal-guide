@@ -127,6 +127,18 @@ def main():
     # Price fields/annual taxonomy are already present; preserve exact existing structure.
     data['meta']['updated']='October 8, 2026'
     data['meta']['eventCount']=len(data['events'])
+    # Keep an explicit, source-linked pet-policy flag alongside the visible
+    # practical-detail label. This lets the guide and social toolkit distinguish
+    # verified dog access from service-animal access or animal attractions.
+    for event in data['events']:
+      if 'Pet-friendly' not in (event.get('flags') or []): continue
+      evidence=event.get('researchEvidence') or {}
+      policy_source=event.get('petPolicySource') or evidence.get('petPolicySource') or event.get('Website')
+      if not policy_source: raise ValueError(f"Pet-friendly listing has no policy source: {event['id']}")
+      event['petFriendlyVerified']=True
+      event['allowedPets']=['dogs']
+      event['petPolicySource']=policy_source
+
     data['meta']['confirmedCount']=sum(not e.get('isWatch') for e in data['events'])
     data['meta']['watchCount']=sum(bool(e.get('isWatch')) for e in data['events'])
     data['meta']['realImageCount']=sum(bool(e.get('photo')) for e in data['events'])

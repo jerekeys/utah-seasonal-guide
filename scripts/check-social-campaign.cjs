@@ -64,6 +64,7 @@ assert.strictEqual(kids.events[0].id,'little-haunts-this-is-the-place','Kids edi
 const pets=CAMPAIGN.generate(events,{series:'pets',anchor:'2026-10-08',count:6,editorial:EDITORIAL});
 assert(pets.events.length>=4,'Pet-friendly campaign should produce a usable short list');
 assert(pets.events.every(event=>CAMPAIGN.petFriendly(event)),'Pet-friendly campaign included an event without explicit pet permission or a dedicated pet activity');
+assert(pets.events.every(event=>event.petFriendlyVerified===true&&event.allowedPets?.includes('dogs')&&event.petPolicySource),'Pet-friendly campaign requires a source-linked verified dog policy');
 assert(pets.caption.includes('Pet policy: Pets are welcome'),'Pet-friendly campaign caption should explain that policy details are event-specific');
 assert(pets.title.includes('pet-friendly'),'Pet-friendly campaign title should identify the series');
 assert(pets.events.every((event,index)=>index===0||CAMPAIGN.nextDate(pets.events[index-1],pets.anchor)<=CAMPAIGN.nextDate(event,pets.anchor)),'Pet-friendly campaign should be chronological');
