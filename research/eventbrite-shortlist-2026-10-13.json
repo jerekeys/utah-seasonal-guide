@@ -1,0 +1,2742 @@
+{
+  "checkedOn": "2026-10-13",
+  "source": "Eventbrite public event API; organizer, venue, ticket availability and official image expansions",
+  "count": 47,
+  "publicationRule": "This file is a verification queue, not a publication list. Read the organizer description and any deeper ticket/accessibility material before adding an event.",
+  "events": [
+    {
+      "id": "2001023141081",
+      "name": "AVANZA LIVE: Music. DJs. Comunidad",
+      "summary": "Join Avanza 88.3 for one unforgettable night! Únete a AVANZA LIVE para vibrar con música, DJs increíbles y comunidad!",
+      "description": "Join Avanza 88.3 for one unforgettable night! Únete a AVANZA LIVE para vibrar con música, DJs increíbles y comunidad!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "7.50 USD",
+        "maximum": "15.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-15T19:00:00",
+        "utc": "2026-10-16T01:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-15T23:59:00",
+        "utc": "2026-10-16T05:59:00Z"
+      },
+      "venue": {
+        "name": "Drift Lounge at Woodbine",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "545 West 700 South",
+          "address_2": "#Suite 100",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7539148",
+          "longitude": "-111.9068621",
+          "localized_address_display": "545 West 700 South #Suite 100, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "545 West 700 South",
+            "#Suite 100",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Avanza 88.3",
+        "url": "https://www.eventbrite.com/o/avanza-883-115466409341"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194846962%2F2881887101861%2F1%2Foriginal.20261001-191539?auto=format%2Ccompress&q=75&sharp=10&s=d4c466d79ef522c70c6b5275fb8588e6",
+        "width": 1785,
+        "height": 935
+      },
+      "url": "https://www.eventbrite.com/e/avanza-live-music-djs-comunidad-tickets-2001023141081",
+      "changed": "2026-10-14T01:15:53Z",
+      "categoryId": "103",
+      "subcategoryId": "3023",
+      "formatId": "6"
+    },
+    {
+      "id": "1986090600450",
+      "name": "World Climbing Series Salt Lake City 2026",
+      "summary": "The world's best climbers are coming to Salt Lake City for the World Climbing Series at Smith's Ballpark!",
+      "description": "The world's best climbers are coming to Salt Lake City for the World Climbing Series at Smith's Ballpark!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "17.06 USD",
+        "maximum": "106.30 USD"
+      },
+      "start": {
+        "local": "2026-10-16T08:00:00",
+        "utc": "2026-10-16T14:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-10-18T22:00:00",
+        "utc": "2026-10-19T04:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "Smith's Ballpark",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "77 West 1300 South Street",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84115",
+          "country": "US",
+          "latitude": "40.7409581",
+          "longitude": "-111.8931358",
+          "localized_address_display": "77 West 1300 South Street, Salt Lake City, UT 84115",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "77 West 1300 South Street",
+            "Salt Lake City, UT 84115"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "USA Climbing",
+        "url": "https://www.eventbrite.com/o/usa-climbing-29224303085"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180859696%2F1918531424413%2F1%2Foriginal.20260327-182217?auto=format%2Ccompress&q=75&sharp=10&s=378dfa6cd2063da872f6e990ddfd587a",
+        "width": 1857,
+        "height": 796
+      },
+      "url": "https://www.eventbrite.com/e/world-climbing-series-salt-lake-city-2026-tickets-1986090600450",
+      "changed": "2026-10-14T01:13:41Z",
+      "categoryId": "108",
+      "subcategoryId": "8999",
+      "formatId": "14"
+    },
+    {
+      "id": "1992263906976",
+      "name": "America the Beautiful: A 250th Anniversary Celebration",
+      "summary": "Celebrate America’s 250th anniversary with a stirring concert of patriotic songs, American folk music, and beloved  favorites.",
+      "description": "Celebrate America’s 250th anniversary with a stirring concert of patriotic songs, American folk music, and beloved  favorites.",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "25.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-10-17T20:00:00Z",
+        "local": "2026-10-17T14:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-10-17T22:00:00Z",
+        "local": "2026-10-17T16:00:00"
+      },
+      "venue": {
+        "name": "Libby Gardner Concert Hall",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "1375 Presidents Circle",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84112",
+          "country": "US",
+          "latitude": "40.766161",
+          "longitude": "-111.85167000000001",
+          "localized_address_display": "1375 Presidents Circle, Salt Lake City, UT 84112",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "1375 Presidents Circle",
+            "Salt Lake City, UT 84112"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Salt Lake Choral Artists",
+        "url": "https://www.eventbrite.com/o/salt-lake-choral-artists-4782763619"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191286734%2F74094201029%2F1%2Foriginal.20260817-220636?auto=format%2Ccompress&q=75&sharp=10&s=d4c4a90e745ff859bbad78a7db93f812",
+        "width": 1800,
+        "height": 1800
+      },
+      "url": "https://www.eventbrite.com/e/america-the-beautiful-a-250th-anniversary-celebration-tickets-1992263906976",
+      "changed": "2026-10-13T13:07:06Z",
+      "categoryId": "105",
+      "subcategoryId": "5999",
+      "formatId": "6"
+    },
+    {
+      "id": "1996471546138",
+      "name": "Smutty Girls Go Spooky: Bookish Market",
+      "summary": "Smutty Girls Go Spooky: Bookish Market",
+      "description": "Smutty Girls Go Spooky: Bookish Market",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "25.14 USD"
+      },
+      "start": {
+        "local": "2026-10-18T12:00:00",
+        "utc": "2026-10-18T18:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-10-18T17:00:00",
+        "utc": "2026-10-18T23:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "The Hearth",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "1186 South Main Street",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7430551",
+          "longitude": "-111.8913905",
+          "localized_address_display": "1186 South Main Street, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "1186 South Main Street",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "A Mossy Nook",
+        "url": "https://www.eventbrite.com/o/a-mossy-nook-121469573379"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190210222%2F2160867817223%2F1%2Foriginal.20260803-170516?auto=format%2Ccompress&q=75&sharp=10&s=a6b41d6304f739a9306afa76a2eb1328",
+        "width": 1429,
+        "height": 2001
+      },
+      "url": "https://www.eventbrite.com/e/smutty-girls-go-spooky-bookish-market-tickets-1996471546138",
+      "changed": "2026-10-13T02:28:03Z",
+      "categoryId": "113",
+      "subcategoryId": "13999",
+      "formatId": "5"
+    },
+    {
+      "id": "1990301658839",
+      "name": "Spooky  Sunday Service Drag Brunch",
+      "summary": "Join the 69th Ward Sunday Service as we take you on a journey of hole-y-ness & deliciousness at Park City's exclusive and ONLY drag brunch!",
+      "description": "Join the 69th Ward Sunday Service as we take you on a journey of hole-y-ness & deliciousness at Park City's exclusive and ONLY drag brunch!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "16.63 USD",
+        "maximum": "31.24 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-10-18T18:00:00Z",
+        "local": "2026-10-18T12:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-10-18T20:00:00Z",
+        "local": "2026-10-18T14:00:00"
+      },
+      "venue": {
+        "name": "The Cabin",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "427 Main Street",
+          "address_2": "",
+          "city": "Park City",
+          "region": "UT",
+          "postal_code": "84060",
+          "country": "US",
+          "latitude": "40.6435957",
+          "longitude": "-111.4960362",
+          "localized_address_display": "427 Main Street, Park City, UT 84060",
+          "localized_area_display": "Park City, UT",
+          "localized_multi_line_address_display": [
+            "427 Main Street",
+            "Park City, UT 84060"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Lilia Maughn",
+        "url": "https://www.eventbrite.com/o/lilia-maughn-83037742633"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F863301139%2F355004395473%2F1%2Foriginal.20241001-042310?auto=format%2Ccompress&q=75&sharp=10&s=dd5ac40d9f8b1b4ad4e5ce5f62cd9fd2",
+        "width": 2160,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/spooky-sunday-service-drag-brunch-tickets-1990301658839",
+      "changed": "2026-10-13T04:17:41Z",
+      "categoryId": "113",
+      "subcategoryId": "13004",
+      "formatId": "11"
+    },
+    {
+      "id": "1993481734531",
+      "name": "Katee Robert | The Tarot Trials",
+      "summary": "Katee Robert is coming to Salt Lake City!",
+      "description": "Katee Robert is coming to Salt Lake City!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "40.93 USD",
+        "maximum": "40.93 USD"
+      },
+      "start": {
+        "local": "2026-10-21T18:30:00",
+        "utc": "2026-10-22T00:30:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-10-21T21:30:00",
+        "utc": "2026-10-22T03:30:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "The First Baptist Church of Salt Lake City",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "777 South 1300 East",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84102",
+          "country": "US",
+          "latitude": "40.7525618",
+          "longitude": "-111.8531054",
+          "localized_address_display": "777 South 1300 East, Salt Lake City, UT 84102",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "777 South 1300 East",
+            "Salt Lake City, UT 84102"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "The King's English Bookshop",
+        "url": "https://www.eventbrite.com/o/the-kings-english-bookshop-18677131100"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189415278%2F290915339616%2F1%2Foriginal.20260722-184640?auto=format%2Ccompress&q=75&sharp=10&s=d9f68c9ab4303aa6e6f1489a30d9b71d",
+        "width": 2160,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/katee-robert-the-tarot-trials-tickets-1993481734531",
+      "changed": "2026-10-13T19:50:11Z",
+      "categoryId": "105",
+      "subcategoryId": "5009",
+      "formatId": "19"
+    },
+    {
+      "id": "2002757950944",
+      "name": "Free Autism 4th Annual Trick or Treat Event",
+      "summary": "Join our families and staff for a fun evening of games, activities, trick-or-treating, and a book fair!",
+      "description": "Join our families and staff for a fun evening of games, activities, trick-or-treating, and a book fair!",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "local": "2026-10-23T16:30:00",
+        "utc": "2026-10-23T22:30:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-10-23T18:00:00",
+        "utc": "2026-10-24T00:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "SOS American Fork",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "36 N 1100 E",
+          "address_2": "B",
+          "city": "American Fork",
+          "region": "UT",
+          "postal_code": "84003",
+          "country": "US",
+          "latitude": "40.3770246",
+          "longitude": "-111.7685046",
+          "localized_address_display": "36 N 1100 E B, American Fork, UT 84003",
+          "localized_area_display": "American Fork, UT",
+          "localized_multi_line_address_display": [
+            "36 N 1100 E",
+            "B",
+            "American Fork, UT 84003"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Success On The Spectrum",
+        "url": "https://www.eventbrite.com/o/success-on-the-spectrum-34444383643"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194853560%2F575471934431%2F1%2Foriginal.20261001-202116?auto=format%2Ccompress&q=75&sharp=10&s=a80689396e11a67cd4502204aab5570a",
+        "width": 2160,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/free-autism-4th-annual-trick-or-treat-event-tickets-2002757950944",
+      "changed": "2026-10-01T21:11:55Z",
+      "categoryId": "115",
+      "subcategoryId": "15005",
+      "formatId": "5"
+    },
+    {
+      "id": "2001097487453",
+      "name": "A Halloween for Every Brain",
+      "summary": "Halloween should be fun for everyone  so we’re creating a celebration designed with every brain in mind!",
+      "description": "Halloween should be fun for everyone  so we’re creating a celebration designed with every brain in mind!",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-24T11:00:00",
+        "utc": "2026-10-24T17:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-24T19:00:00",
+        "utc": "2026-10-25T01:00:00Z"
+      },
+      "venue": {
+        "name": "The Gateway",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "400 West 200 South",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7686366",
+          "longitude": "-111.903931",
+          "localized_address_display": "400 West 200 South, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "400 West 200 South",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Skill Builders ABA",
+        "url": "https://www.eventbrite.com/o/skill-builders-aba-121723781466"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193772790%2F3013421889976%2F1%2Foriginal.20260917-181723?auto=format%2Ccompress&q=75&sharp=10&s=ddc8c03a01b3c589d468fd1815a328cd",
+        "width": 1920,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/a-halloween-for-every-brain-tickets-2001097487453",
+      "changed": "2026-09-17T18:21:00Z",
+      "categoryId": "116",
+      "subcategoryId": "16004",
+      "formatId": "5"
+    },
+    {
+      "id": "2001095034115",
+      "name": "Trolley Square Fall Festival",
+      "summary": "Dress up and bring the whole family to join us for Trolley Square's Annual Fall Festival! Event includes trick or treat and pumpkin drop.",
+      "description": "Dress up and bring the whole family to join us for Trolley Square's Annual Fall Festival! Event includes trick or treat and pumpkin drop.",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "3.97 USD",
+        "maximum": "7.18 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-24T12:00:00",
+        "utc": "2026-10-24T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-24T15:00:00",
+        "utc": "2026-10-24T21:00:00Z"
+      },
+      "venue": {
+        "name": "Trolley Square",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "Trolley Square",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84102",
+          "country": "US",
+          "latitude": "40.7573309",
+          "longitude": "-111.8716515",
+          "localized_address_display": "Trolley Square, Salt Lake City, UT 84102",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "Trolley Square",
+            "Salt Lake City, UT 84102"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Trolley Square",
+        "url": "https://www.eventbrite.com/o/trolley-square-13204278437"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193606677%2F204611875843%2F1%2Foriginal.20260915-225338?auto=format%2Ccompress&q=75&sharp=10&s=f31eacfdf1a3a781106dcae06cdae883",
+        "width": 3556,
+        "height": 2000
+      },
+      "url": "https://www.eventbrite.com/e/trolley-square-fall-festival-tickets-2001095034115",
+      "changed": "2026-10-11T21:17:43Z",
+      "categoryId": "116",
+      "subcategoryId": "16008",
+      "formatId": "5"
+    },
+    {
+      "id": "1990446269373",
+      "name": "Utah County Halloween Book Fair",
+      "summary": "Shop 30+ bookish vendors, authors & gifts, costumes encouraged, all ages welcome.",
+      "description": "Shop 30+ bookish vendors, authors & gifts, costumes encouraged, all ages welcome.",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "local": "2026-10-24T12:00:00",
+        "utc": "2026-10-24T18:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-10-24T18:00:00",
+        "utc": "2026-10-25T00:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "The Vale Venue",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "1078 South 250 East",
+          "address_2": "",
+          "city": "Provo",
+          "region": "UT",
+          "postal_code": "84606",
+          "country": "US",
+          "latitude": "40.2196572",
+          "longitude": "-111.6546854",
+          "localized_address_display": "1078 South 250 East, Provo, UT 84606",
+          "localized_area_display": "Provo, UT",
+          "localized_multi_line_address_display": [
+            "1078 South 250 East",
+            "Provo, UT 84606"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "The Vibrant Book Club",
+        "url": "https://www.eventbrite.com/o/the-vibrant-book-club-84980034163"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185472050%2F2059380705743%2F1%2Foriginal.20260526-204417?auto=format%2Ccompress&q=75&sharp=10&s=2b22e7e7c91d3ef758106ad9e7189d0e",
+        "width": 5875,
+        "height": 2938
+      },
+      "url": "https://www.eventbrite.com/e/utah-county-halloween-book-fair-tickets-1990446269373",
+      "changed": "2026-09-25T17:40:45Z",
+      "categoryId": "119",
+      "subcategoryId": "19006",
+      "formatId": "5"
+    },
+    {
+      "id": "2000891492316",
+      "name": "Film Screening - Turn Towards Life: A Queer Birth Story and Gathering",
+      "summary": "Gather for scenes from Turn Towards Life, A Madden's in-progress documentary.",
+      "description": "Gather for scenes from Turn Towards Life, A Madden's in-progress documentary.",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-24T12:30:00",
+        "utc": "2026-10-24T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-24T14:00:00",
+        "utc": "2026-10-24T20:00:00Z"
+      },
+      "venue": {
+        "name": "Sorenson Unity Center",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "1383 South 900 West",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84104",
+          "country": "US",
+          "latitude": "40.7400692",
+          "longitude": "-111.9162754",
+          "localized_address_display": "1383 South 900 West, Salt Lake City, UT 84104",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "1383 South 900 West",
+            "Salt Lake City, UT 84104"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "A Madden",
+        "url": "https://www.eventbrite.com/o/a-madden-121740380854"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194297090%2F237928034812%2F1%2Foriginal.20260924-165819?auto=format%2Ccompress&q=75&sharp=10&s=dc37faf53d02aba2a3aa30b8c7180f74",
+        "width": 2160,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/film-screening-turn-towards-life-a-queer-birth-story-and-gathering-tickets-2000891492316",
+      "changed": "2026-09-24T16:58:46Z",
+      "categoryId": "104",
+      "subcategoryId": "4002",
+      "formatId": "7"
+    },
+    {
+      "id": "2000464681714",
+      "name": "Books & Boos - Trunk or Treat at Layton Hills Mall",
+      "summary": "Join us for a magical evening of trick-or-treating with a storybook twist!  There will be allergy friendly treats and a doula fundraiser.",
+      "description": "Join us for a magical evening of trick-or-treating with a storybook twist!  There will be allergy friendly treats and a doula fundraiser.",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-24T16:30:00",
+        "utc": "2026-10-24T22:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-24T18:00:00",
+        "utc": "2026-10-25T00:00:00Z"
+      },
+      "venue": {
+        "name": "Layton Hills Mall",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "1201 North Hill Field Road",
+          "address_2": "",
+          "city": "Layton",
+          "region": "UT",
+          "postal_code": "84041",
+          "country": "US",
+          "latitude": "41.07839999999999",
+          "longitude": "-111.9775",
+          "localized_address_display": "1201 North Hill Field Road, Layton, UT 84041",
+          "localized_area_display": "Layton, UT",
+          "localized_multi_line_address_display": [
+            "1201 North Hill Field Road",
+            "Layton, UT 84041"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Northern Utah Doula Collective",
+        "url": "https://www.eventbrite.com/o/northern-utah-doula-collective-121241786958"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193170881%2F2998289917481%2F1%2Foriginal.20260910-152310?auto=format%2Ccompress&q=75&sharp=10&s=069fa5c6b8d6e432d4bee44e771402ee",
+        "width": 6912,
+        "height": 3456
+      },
+      "url": "https://www.eventbrite.com/e/books-boos-trunk-or-treat-at-layton-hills-mall-tickets-2000464681714",
+      "changed": "2026-09-10T15:36:20Z",
+      "categoryId": "116",
+      "subcategoryId": "16004",
+      "formatId": "5"
+    },
+    {
+      "id": "1998990307822",
+      "name": "Nightmare On Main",
+      "summary": "Get ready to face your fears and dive into a spooky night full of thrills and chills at Nightmare On Main.",
+      "description": "Get ready to face your fears and dive into a spooky night full of thrills and chills at Nightmare On Main.",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "28.52 USD",
+        "maximum": "300.62 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-10-25T02:00:00Z",
+        "local": "2026-10-24T20:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-10-25T05:00:00Z",
+        "local": "2026-10-24T23:00:00"
+      },
+      "venue": {
+        "name": "Encanto Events",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "1164 South Main Street",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7435678",
+          "longitude": "-111.8914739",
+          "localized_address_display": "1164 South Main Street, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "1164 South Main Street",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Pay Fone Promotion$",
+        "url": "https://www.eventbrite.com/o/pay-fone-promotion-121514653748"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192165986%2F3007025662621%2F1%2Foriginal.20260829-041154?auto=format%2Ccompress&q=75&sharp=10&s=f4cb7d323f59814d234ee52ecad91e44",
+        "width": 1200,
+        "height": 1800
+      },
+      "url": "https://www.eventbrite.com/e/nightmare-on-main-tickets-1998990307822",
+      "changed": "2026-09-20T23:57:21Z",
+      "categoryId": "116",
+      "subcategoryId": "16004",
+      "formatId": "5"
+    },
+    {
+      "id": "2003043658503",
+      "name": "Witching Hour",
+      "summary": "Encore Afters presents: Witching Hour            The Official After Party to Red lotus’s Halloween Erotic Ball",
+      "description": "Encore Afters presents: Witching Hour            The Official After Party to Red lotus’s Halloween Erotic Ball",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "30.57 USD",
+        "maximum": "30.57 USD"
+      },
+      "start": {
+        "local": "2026-10-25T01:00:00",
+        "utc": "2026-10-25T07:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-10-25T05:00:00",
+        "utc": "2026-10-25T11:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "Red Lotus Entertainment",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "2601 S 2700 W Ste 600",
+          "address_2": "",
+          "city": "West Valley City",
+          "region": "UT",
+          "postal_code": "84119",
+          "country": "US",
+          "latitude": "40.7135431",
+          "longitude": "-111.9572007",
+          "localized_address_display": "2601 S 2700 W Ste 600, West Valley City, UT 84119",
+          "localized_area_display": "West Valley City, UT",
+          "localized_multi_line_address_display": [
+            "2601 S 2700 W Ste 600",
+            "West Valley City, UT 84119"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Red Lotus Entertainment",
+        "url": "https://www.eventbrite.com/o/red-lotus-entertainment-9080132091"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195246333%2F138389587158%2F1%2Foriginal.20261007-032242?auto=format%2Ccompress&q=75&sharp=10&s=946cbfbeea9b9d3b50a1a34928a74d92",
+        "width": 1080,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/witching-hour-tickets-2003043658503",
+      "changed": "2026-10-07T03:29:28Z",
+      "categoryId": "116",
+      "subcategoryId": "16004",
+      "formatId": "5"
+    },
+    {
+      "id": "1978199111795",
+      "name": "Queer Poetry Night Open Mic",
+      "summary": "Join us for an all-ages open mic poetry event to share and spread queer joy!",
+      "description": "Join us for an all-ages open mic poetry event to share and spread queer joy!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-25T16:00:00",
+        "utc": "2026-10-25T22:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-25T18:00:00",
+        "utc": "2026-10-26T00:00:00Z"
+      },
+      "venue": {
+        "name": "Under the Umbrella Bookstore and Cafe",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "511 West 200 South",
+          "address_2": "#Suite 120",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7647384",
+          "longitude": "-111.9058598",
+          "localized_address_display": "511 West 200 South #Suite 120, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "511 West 200 South",
+            "#Suite 120",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Under the Umbrella Bookstore",
+        "url": "https://www.eventbrite.com/o/under-the-umbrella-bookstore-41260686083"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F904180293%2F800656585643%2F1%2Foriginal.20241121-212422?auto=format%2Ccompress&q=75&sharp=10&s=40ff30a11e7932cb5de69072cfbd8fd8",
+        "width": 1200,
+        "height": 600
+      },
+      "url": "https://www.eventbrite.com/e/queer-poetry-night-open-mic-tickets-1978199111795",
+      "changed": "2025-12-17T19:03:12Z",
+      "categoryId": "113",
+      "subcategoryId": "13004",
+      "formatId": "6"
+    },
+    {
+      "id": "1999788122106",
+      "name": "A Murderous Cocktail Affair",
+      "summary": "A sophisticated evening in The Vault featuring champagne, cocktails, live music, and chef-curated bites - Dress to impress!",
+      "description": "A sophisticated evening in The Vault featuring champagne, cocktails, live music, and chef-curated bites - Dress to impress!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "55.00 USD",
+        "maximum": "55.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-10-30T01:00:00Z",
+        "local": "2026-10-29T19:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-10-30T05:00:00Z",
+        "local": "2026-10-29T23:00:00"
+      },
+      "venue": {
+        "name": "The Vault",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "15 W 200 S",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7647161",
+          "longitude": "-111.8918385",
+          "localized_address_display": "15 W 200 S, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "15 W 200 S",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "The Vault",
+        "url": "https://www.eventbrite.com/o/the-vault-111728546181"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193077884%2F186703529830%2F1%2Foriginal.20260909-172352?auto=format%2Ccompress&q=75&sharp=10&s=def8a63c761e9e1cd0cc35951430ae0d",
+        "width": 1000,
+        "height": 600
+      },
+      "url": "https://www.eventbrite.com/e/a-murderous-cocktail-affair-tickets-1999788122106",
+      "changed": "2026-10-05T22:21:32Z",
+      "categoryId": "110",
+      "subcategoryId": "10004",
+      "formatId": "11"
+    },
+    {
+      "id": "2000729400495",
+      "name": "S'mores, Stars & Scares",
+      "summary": "Spend Halloween weekend in Hanksville with Mars tours, trick-or-treating, s’mores, spooky fun, and unforgettable stargazing!",
+      "description": "Spend Halloween weekend in Hanksville with Mars tours, trick-or-treating, s’mores, spooky fun, and unforgettable stargazing!",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-30T12:00:00",
+        "utc": "2026-10-30T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-31T22:00:00",
+        "utc": "2026-11-01T04:00:00Z"
+      },
+      "venue": {
+        "name": "90 UT-95",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "90 Utah 95",
+          "address_2": "",
+          "city": "Hanksville",
+          "region": "UT",
+          "postal_code": "84734",
+          "country": "US",
+          "latitude": "38.3716064",
+          "longitude": "-110.7049597",
+          "localized_address_display": "90 Utah 95, Hanksville, UT 84734",
+          "localized_area_display": "Hanksville, UT",
+          "localized_multi_line_address_display": [
+            "90 Utah 95",
+            "Hanksville, UT 84734"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Hanksville Business Coalition",
+        "url": "https://www.eventbrite.com/o/hanksville-business-coalition-121737781787"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193338261%2F1990279600423%2F1%2Foriginal.20260912-164745?auto=format%2Ccompress&q=75&sharp=10&s=ff567c3f99088867648fdb81f48c0cb9",
+        "width": 1200,
+        "height": 628
+      },
+      "url": "https://www.eventbrite.com/e/smores-stars-scares-tickets-2000729400495",
+      "changed": "2026-09-20T13:26:14Z",
+      "categoryId": "116",
+      "subcategoryId": "16004",
+      "formatId": "11"
+    },
+    {
+      "id": "1969841529040",
+      "name": "Witches Paddle – Bring Your Broom (and Board)! at Causey Reservoir",
+      "summary": "Come spend the day on the water.",
+      "description": "Come spend the day on the water.",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-30T18:00:00",
+        "utc": "2026-10-31T00:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-30T19:00:00",
+        "utc": "2026-10-31T01:00:00Z"
+      },
+      "venue": {
+        "name": "Causey Reservoir",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "6620 e 100 s",
+          "address_2": "",
+          "city": "Huntsville",
+          "region": "UT",
+          "postal_code": "84317",
+          "country": "US",
+          "latitude": "41.2628814",
+          "longitude": "-111.7878759",
+          "localized_address_display": "6620 e 100 s, Huntsville, UT 84317",
+          "localized_area_display": "Huntsville, UT",
+          "localized_multi_line_address_display": [
+            "6620 e 100 s",
+            "Huntsville, UT 84317"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Food Forest Utah",
+        "url": "https://www.eventbrite.com/o/food-forest-utah-104685547901"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170896449%2F2550254218731%2F1%2Foriginal.20251113-172729?auto=format%2Ccompress&q=75&sharp=10&s=f6a7e3ccb86c0ab1bb9a9b0069f16d4a",
+        "width": 3025,
+        "height": 4033
+      },
+      "url": "https://www.eventbrite.com/e/witches-paddle-bring-your-broom-and-board-at-causey-reservoir-tickets-1969841529040",
+      "changed": "2026-09-15T17:48:23Z",
+      "categoryId": "113",
+      "subcategoryId": "13001",
+      "formatId": "11"
+    },
+    {
+      "id": "1994592067567",
+      "name": "Monster Dash 5K",
+      "summary": "Bring your family and friends for a morning of connection, movement, and community in support of youth in our state.",
+      "description": "Bring your family and friends for a morning of connection, movement, and community in support of youth in our state.",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "75.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-31T08:00:00",
+        "utc": "2026-10-31T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-31T12:00:00",
+        "utc": "2026-10-31T18:00:00Z"
+      },
+      "venue": {
+        "name": "Wheeler Historic Farm",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "6351 South 900 East",
+          "address_2": "",
+          "city": "Murray",
+          "region": "UT",
+          "postal_code": "84121",
+          "country": "US",
+          "latitude": "40.6351541",
+          "longitude": "-111.8640183",
+          "localized_address_display": "6351 South 900 East, Murray, UT 84121",
+          "localized_area_display": "Murray, UT",
+          "localized_multi_line_address_display": [
+            "6351 South 900 East",
+            "Murray, UT 84121"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Common Thread",
+        "url": "https://www.eventbrite.com/o/common-thread-121567911964"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189245841%2F2982281493473%2F1%2Foriginal.20260720-192642?auto=format%2Ccompress&q=75&sharp=10&s=d92d5803078703d98cafc05206b35eae",
+        "width": 2659,
+        "height": 984
+      },
+      "url": "https://www.eventbrite.com/e/monster-dash-5k-tickets-1994592067567",
+      "changed": "2026-10-11T18:19:43Z",
+      "categoryId": "116",
+      "subcategoryId": "16004",
+      "formatId": "15"
+    },
+    {
+      "id": "2003046396693",
+      "name": "Halloween Burlesque",
+      "summary": "Celebrate Halloween with a bold burlesque show, festive vibes, and an unforgettable night at Copper Nickel Events in Ogden!",
+      "description": "Celebrate Halloween with a bold burlesque show, festive vibes, and an unforgettable night at Copper Nickel Events in Ogden!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "59.31 USD",
+        "maximum": "288.62 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-31T20:00:00",
+        "utc": "2026-11-01T02:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-31T23:59:00",
+        "utc": "2026-11-01T05:59:00Z"
+      },
+      "venue": {
+        "name": "2450 Grant Ave",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "2450 Grant Avenue",
+          "address_2": "",
+          "city": "Ogden",
+          "region": "UT",
+          "postal_code": "84401",
+          "country": "US",
+          "latitude": "41.2216263",
+          "longitude": "-111.9728939",
+          "localized_address_display": "2450 Grant Avenue, Ogden, UT 84401",
+          "localized_area_display": "Ogden, UT",
+          "localized_multi_line_address_display": [
+            "2450 Grant Avenue",
+            "Ogden, UT 84401"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Copper Nickel Events",
+        "url": "https://www.eventbrite.com/o/copper-nickel-events-56598242663"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195250308%2F1261250410203%2F1%2Foriginal.20261007-052328?auto=format%2Ccompress&q=75&sharp=10&s=0499f341acdc60fd5b68895668b8b5e9",
+        "width": 1774,
+        "height": 887
+      },
+      "url": "https://www.eventbrite.com/e/halloween-burlesque-tickets-2003046396693",
+      "changed": "2026-10-07T18:34:33Z",
+      "categoryId": "116",
+      "subcategoryId": "16004",
+      "formatId": "6"
+    },
+    {
+      "id": "1999975561743",
+      "name": "Whispers Through the Veil:  A Samhain Gathering",
+      "summary": "An evening of ancestral remembrance & spirit-guide connection as the veil thins — gather with our community this Samhain. ️",
+      "description": "An evening of ancestral remembrance & spirit-guide connection as the veil thins — gather with our community this Samhain. ️",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-10-31T22:30:00",
+        "utc": "2026-11-01T04:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-10-31T23:59:00",
+        "utc": "2026-11-01T05:59:00Z"
+      },
+      "venue": {
+        "name": "Jade Bloom Essential Oils and Natural Products",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "357 Life Science Way",
+          "address_2": "#600",
+          "city": "Draper",
+          "region": "UT",
+          "postal_code": "84020",
+          "country": "US",
+          "latitude": "40.5288787",
+          "longitude": "-111.9021973",
+          "localized_address_display": "357 Life Science Way #600, Draper, UT 84020",
+          "localized_area_display": "Draper, UT",
+          "localized_multi_line_address_display": [
+            "357 Life Science Way",
+            "#600",
+            "Draper, UT 84020"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Soul Sync Music and Meditation",
+        "url": "https://www.eventbrite.com/o/soul-sync-music-and-meditation-121281597696"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192852423%2F2999347157718%2F1%2Foriginal.20260907-030513?auto=format%2Ccompress&q=75&sharp=10&s=e92c2eaa807ed523e9eab02c9a5a54e0",
+        "width": 2160,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/whispers-through-the-veil-a-samhain-gathering-tickets-1999975561743",
+      "changed": "2026-09-07T15:52:41Z",
+      "categoryId": "116",
+      "subcategoryId": "16004",
+      "formatId": "9"
+    },
+    {
+      "id": "2003031576365",
+      "name": "Dia de los Muertos Celebration",
+      "summary": "Centro Civico Mexicano invites you to a celebration of Día de los Muertos, or Day of the Dead, on November 1st, an Indigenous ritual",
+      "description": "Centro Civico Mexicano invites you to a celebration of Día de los Muertos, or Day of the Dead, on November 1st, an Indigenous ritual",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-01T20:00:00Z",
+        "local": "2026-11-01T13:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-02T01:00:00Z",
+        "local": "2026-11-01T18:00:00"
+      },
+      "venue": {
+        "name": "Centro Civico Mexicano",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "155 600 West",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7658998",
+          "longitude": "-111.9078063",
+          "localized_address_display": "155 600 West, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "155 600 West",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Brandy Farmer",
+        "url": "https://www.eventbrite.com/o/brandy-farmer-110397594281"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195224499%2F102928624931%2F1%2Foriginal.20261006-211344?auto=format%2Ccompress&q=75&sharp=10&s=9d052b01cc124be3a705676a5f97a8ea",
+        "width": 1275,
+        "height": 1650
+      },
+      "url": "https://www.eventbrite.com/e/dia-de-los-muertos-celebration-tickets-2003031576365",
+      "changed": "2026-10-06T21:25:20Z",
+      "categoryId": "113",
+      "subcategoryId": "13007",
+      "formatId": "5"
+    },
+    {
+      "id": "2002486517078",
+      "name": "Salt Lake City - The Golden Ghouls™️ Drag Brunch - MILK+",
+      "summary": "Join Dorothy, Blanche and Rose for the Shady Pines Halloween Brunch!! Where is Sophia?",
+      "description": "Join Dorothy, Blanche and Rose for the Shady Pines Halloween Brunch!! Where is Sophia?",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "25.14 USD",
+        "maximum": "42.50 USD"
+      },
+      "start": {
+        "local": "2026-11-01T13:00:00",
+        "utc": "2026-11-01T20:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-11-01T15:00:00",
+        "utc": "2026-11-01T22:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "M I L K +",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "49 East 900 South",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84111",
+          "country": "US",
+          "latitude": "40.750179",
+          "longitude": "-111.8894183",
+          "localized_address_display": "49 East 900 South, Salt Lake City, UT 84111",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "49 East 900 South",
+            "Salt Lake City, UT 84111"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Milk+",
+        "url": "https://www.eventbrite.com/o/milk-47139209703"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194588538%2F965728939803%2F1%2Foriginal.20260929-013621?auto=format%2Ccompress&q=75&sharp=10&s=e1206dc30a2486528ea6a0d023d89545",
+        "width": 1880,
+        "height": 940
+      },
+      "url": "https://www.eventbrite.com/e/salt-lake-city-the-golden-ghoulstm-drag-brunch-milk-tickets-2002486517078",
+      "changed": "2026-09-29T18:17:41Z",
+      "categoryId": "110",
+      "subcategoryId": "10003",
+      "formatId": "11"
+    },
+    {
+      "id": "2002098618864",
+      "name": "Michelada Fest",
+      "summary": "¡Disfruta las mejores micheladas, música y buena onda en Michelada Fest en vivo!",
+      "description": "¡Disfruta las mejores micheladas, música y buena onda en Michelada Fest en vivo!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "30.93 USD",
+        "maximum": "117.72 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-11-01T16:00:00",
+        "utc": "2026-11-01T23:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-11-02T00:00:00",
+        "utc": "2026-11-02T07:00:00Z"
+      },
+      "venue": {
+        "name": "801 Event Center",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "1055 West North Temple Street",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84116",
+          "country": "US",
+          "latitude": "40.7711257",
+          "longitude": "-111.921936",
+          "localized_address_display": "1055 West North Temple Street, Salt Lake City, UT 84116",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "1055 West North Temple Street",
+            "Salt Lake City, UT 84116"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "NLYT Holdings",
+        "url": "https://www.eventbrite.com/o/nlyt-holdings-120843794376"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194151415%2F222765603588%2F1%2Foriginal.20260922-232806?auto=format%2Ccompress&q=75&sharp=10&s=ed219ee7078621392239c094c36353ce",
+        "width": 1122,
+        "height": 1402
+      },
+      "url": "https://www.eventbrite.com/e/michelada-fest-tickets-2002098618864",
+      "changed": "2026-09-22T23:33:06Z",
+      "categoryId": "110",
+      "subcategoryId": "10001",
+      "formatId": "5"
+    },
+    {
+      "id": "1991018082682",
+      "name": "Browning Presents! Manual Cinema's : The 4th Witch",
+      "summary": "A stunning visual retelling of Macbeth through shadow puppetry, live music, and cinematic storytelling.",
+      "description": "A stunning visual retelling of Macbeth through shadow puppetry, live music, and cinematic storytelling.",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-04T02:30:00Z",
+        "local": "2026-11-03T19:30:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-04T04:30:00Z",
+        "local": "2026-11-03T21:30:00"
+      },
+      "venue": {
+        "name": "Weber State University Department of Performing Arts",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "1901 University Circle",
+          "address_2": "",
+          "city": "Ogden",
+          "region": "UT",
+          "postal_code": "84408",
+          "country": "US",
+          "latitude": "41.1912649",
+          "longitude": "-111.9446172",
+          "localized_address_display": "1901 University Circle, Ogden, UT 84408",
+          "localized_area_display": "Ogden, UT",
+          "localized_multi_line_address_display": [
+            "1901 University Circle",
+            "Ogden, UT 84408"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Lindquist College of Arts & Humanities",
+        "url": "https://www.eventbrite.com/o/lindquist-college-of-arts-humanities-115922227891"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186109554%2F2807938479801%2F1%2Foriginal.20260603-225915?auto=format%2Ccompress&q=75&sharp=10&s=cfe05084120bd13ba59e66b5c9b4ed36",
+        "width": 1080,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/browning-presents-manual-cinemas-the-4th-witch-tickets-1991018082682",
+      "changed": "2026-10-13T18:53:29Z",
+      "categoryId": "105",
+      "subcategoryId": "5001",
+      "formatId": "6"
+    },
+    {
+      "id": "1998504931047",
+      "name": "12th Annual Pumpkin Smash & Food Drive",
+      "summary": "Join us for our 12th Annual Pumpkin Smash & Food Drive—smash pumpkins and help fight hunger!",
+      "description": "Join us for our 12th Annual Pumpkin Smash & Food Drive—smash pumpkins and help fight hunger!",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-07T17:00:00Z",
+        "local": "2026-11-07T10:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-07T21:00:00Z",
+        "local": "2026-11-07T14:00:00"
+      },
+      "venue": {
+        "name": "Glover Nursery",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "9275 South 1300 West",
+          "address_2": "",
+          "city": "West Jordan",
+          "region": "UT",
+          "postal_code": "84088",
+          "country": "US",
+          "latitude": "40.5822543",
+          "longitude": "-111.928604",
+          "localized_address_display": "9275 South 1300 West, West Jordan, UT 84088",
+          "localized_area_display": "West Jordan, UT",
+          "localized_multi_line_address_display": [
+            "9275 South 1300 West",
+            "West Jordan, UT 84088"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Glover Nursery",
+        "url": "https://www.eventbrite.com/o/glover-nursery-107832473251"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191540953%2F2616848125661%2F1%2Foriginal.20260820-193452?auto=format%2Ccompress&q=75&sharp=10&s=08cea52f469e16b5205d3dcb85a9a4d2",
+        "width": 2160,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/12th-annual-pumpkin-smash-food-drive-tickets-1998504931047",
+      "changed": "2026-09-30T20:31:49Z",
+      "categoryId": "116",
+      "subcategoryId": "16004",
+      "formatId": "5"
+    },
+    {
+      "id": "1999738192766",
+      "name": "The Goetia Cabaret - A Demon Variety Show",
+      "summary": "Join us for a dark and enticing cabaret inspired by the Demons of the Ars Goetia, including aerial arts, burlesque, and more.",
+      "description": "Join us for a dark and enticing cabaret inspired by the Demons of the Ars Goetia, including aerial arts, burlesque, and more.",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "42.50 USD",
+        "maximum": "88.80 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-08T01:00:00Z",
+        "local": "2026-11-07T18:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-08T04:30:00Z",
+        "local": "2026-11-07T21:30:00"
+      },
+      "venue": {
+        "name": "Salt Lake Masonic Temple",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "650 South Temple",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84102",
+          "country": "US",
+          "latitude": "40.7688729",
+          "longitude": "-111.8723146",
+          "localized_address_display": "650 South Temple, Salt Lake City, UT 84102",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "650 South Temple",
+            "Salt Lake City, UT 84102"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Chaos Circus Co",
+        "url": "https://www.eventbrite.com/o/chaos-circus-co-53036584363"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192729337%2F232235429574%2F1%2Foriginal.20260904-230013?auto=format%2Ccompress&q=75&sharp=10&s=eed9604f98b9ffca009c91b4a575aff8",
+        "width": 1920,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/the-goetia-cabaret-a-demon-variety-show-tickets-1999738192766",
+      "changed": "2026-10-11T15:17:13Z",
+      "categoryId": "105",
+      "subcategoryId": "5004",
+      "formatId": "6"
+    },
+    {
+      "id": "1999719560035",
+      "name": "Drake's Hollow (an immersive fantasy tavern) The First Manifestation.",
+      "summary": "Join us in Drake's Hollow for a fully immersive fantasy tavern experience-- magic, mystery, and mayhem await!",
+      "description": "Join us in Drake's Hollow for a fully immersive fantasy tavern experience-- magic, mystery, and mayhem await!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "35.00 USD",
+        "maximum": "35.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-11-11T19:00:00",
+        "utc": "2026-11-12T02:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-11-11T23:00:00",
+        "utc": "2026-11-12T06:00:00Z"
+      },
+      "venue": {
+        "name": "Thieves Guild Cidery",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "117 West 900 South",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7494571",
+          "longitude": "-111.8945389",
+          "localized_address_display": "117 West 900 South, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "117 West 900 South",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": null,
+        "url": "https://www.eventbrite.com/o/121708907069"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192611880%2F3012826901005%2F1%2Foriginal.20260903-192736?auto=format%2Ccompress&q=75&sharp=10&s=8c2ff1a9ed25e3df17581d4b9f9192ae",
+        "width": 1360,
+        "height": 1020
+      },
+      "url": "https://www.eventbrite.com/e/drakes-hollow-an-immersive-fantasy-tavern-the-first-manifestation-tickets-1999719560035",
+      "changed": "2026-10-07T23:14:54Z",
+      "categoryId": "105",
+      "subcategoryId": "5001",
+      "formatId": "6"
+    },
+    {
+      "id": "2003209999032",
+      "name": "The Girls' Table: Witchy Friendsgiving",
+      "summary": "A cozy, witchy Friendsgiving with a potluck dinner, DIY oracle cards, fall magic, and new bookish friends!",
+      "description": "A cozy, witchy Friendsgiving with a potluck dinner, DIY oracle cards, fall magic, and new bookish friends!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "24.86 USD",
+        "maximum": "24.86 USD"
+      },
+      "start": {
+        "local": "2026-11-12T18:00:00",
+        "utc": "2026-11-13T01:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-11-12T20:30:00",
+        "utc": "2026-11-13T03:30:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "640 N Main St",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "640 North Main Street",
+          "address_2": "Unit 119",
+          "city": "North Salt Lake",
+          "region": "UT",
+          "postal_code": "84054",
+          "country": "US",
+          "latitude": "40.8535511",
+          "longitude": "-111.9104844",
+          "localized_address_display": "640 North Main Street Unit 119, North Salt Lake, UT 84054",
+          "localized_area_display": "North Salt Lake, UT",
+          "localized_multi_line_address_display": [
+            "640 North Main Street",
+            "Unit 119",
+            "North Salt Lake, UT 84054"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "The Vibrant Book Club",
+        "url": "https://www.eventbrite.com/o/the-vibrant-book-club-84980034163"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195457887%2F2059380705743%2F1%2Foriginal.20261009-154332?auto=format%2Ccompress&q=75&sharp=10&s=750830384f4d3add82ce883e90f3ab36",
+        "width": 3290,
+        "height": 1645
+      },
+      "url": "https://www.eventbrite.com/e/the-girls-table-witchy-friendsgiving-tickets-2003209999032",
+      "changed": "2026-10-13T22:30:37Z",
+      "categoryId": "116",
+      "subcategoryId": "16005",
+      "formatId": "11"
+    },
+    {
+      "id": "2002773146394",
+      "name": "Creator's Collective x The Loft Studio Mistletoe Market",
+      "summary": "Shop our market w/ The Loft featuring local small businesses, artists, makers, & curators! Meet Santa from 12-3pm! Food trucks, beauty, more",
+      "description": "Shop our market w/ The Loft featuring local small businesses, artists, makers, & curators! Meet Santa from 12-3pm! Food trucks, beauty, more",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-14T18:00:00Z",
+        "local": "2026-11-14T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-14T23:00:00Z",
+        "local": "2026-11-14T16:00:00"
+      },
+      "venue": {
+        "name": "The Loft Studio",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "834 North 100 East",
+          "address_2": "",
+          "city": "Lehi",
+          "region": "UT",
+          "postal_code": "84043",
+          "country": "US",
+          "latitude": "40.3977277",
+          "longitude": "-111.8477049",
+          "localized_address_display": "834 North 100 East, Lehi, UT 84043",
+          "localized_area_display": "Lehi, UT",
+          "localized_multi_line_address_display": [
+            "834 North 100 East",
+            "Lehi, UT 84043"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Creator’s Collective Market",
+        "url": "https://www.eventbrite.com/o/creators-collective-market-56013800003"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194881878%2F1245160070773%2F1%2Foriginal.20261002-044107?auto=format%2Ccompress&q=75&sharp=10&s=5ae2a8ad52420cd68196e087f7efab12",
+        "width": 7001,
+        "height": 3938
+      },
+      "url": "https://www.eventbrite.com/e/creators-collective-x-the-loft-studio-mistletoe-market-tickets-2002773146394",
+      "changed": "2026-10-02T04:45:12Z",
+      "categoryId": "199",
+      "subcategoryId": null,
+      "formatId": "3"
+    },
+    {
+      "id": "2002765395210",
+      "name": "Lights On! At The Gateway",
+      "summary": "Join us for a festive night lighting up The Gateway! Enjoy food and live entertainment with the whole family.",
+      "description": "Join us for a festive night lighting up The Gateway! Enjoy food and live entertainment with the whole family.",
+      "status": "live",
+      "isFree": true,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-11-14T18:30:00",
+        "utc": "2026-11-15T01:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-11-14T20:30:00",
+        "utc": "2026-11-15T03:30:00Z"
+      },
+      "venue": {
+        "name": "Olympic Legacy Plaza",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "10 North Rio Grande Street",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7692115",
+          "longitude": "-111.9039414",
+          "localized_address_display": "10 North Rio Grande Street, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "10 North Rio Grande Street",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "The Gateway",
+        "url": "https://www.eventbrite.com/o/the-gateway-121156182895"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194868050%2F2995822585214%2F1%2Foriginal.20261001-233029?auto=format%2Ccompress&q=75&sharp=10&s=955e7a93acd8a5df26b670d8f7ecd708",
+        "width": 6000,
+        "height": 4000
+      },
+      "url": "https://www.eventbrite.com/e/lights-on-at-the-gateway-tickets-2002765395210",
+      "changed": "2026-10-01T23:34:45Z",
+      "categoryId": "113",
+      "subcategoryId": "13003",
+      "formatId": "5"
+    },
+    {
+      "id": "2002954774649",
+      "name": "4th Annual Foster Care Indigenous Fashion Show",
+      "summary": "Foster Care Indigenous Fashion Show in partnership with fashion designer/artist Jessica Wiarda.",
+      "description": "Foster Care Indigenous Fashion Show in partnership with fashion designer/artist Jessica Wiarda.",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "23.18 USD",
+        "maximum": "33.85 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-15T02:00:00Z",
+        "local": "2026-11-14T19:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-15T04:00:00Z",
+        "local": "2026-11-14T21:00:00"
+      },
+      "venue": {
+        "name": "Urban Indian Center of Salt Lake",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "120 West 1300 South Street",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84115",
+          "country": "US",
+          "latitude": "40.74193159999999",
+          "longitude": "-111.8948194",
+          "localized_address_display": "120 West 1300 South Street, Salt Lake City, UT 84115",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "120 West 1300 South Street",
+            "Salt Lake City, UT 84115"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Utah Foster Care",
+        "url": "https://www.eventbrite.com/o/utah-foster-care-936700323"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195096313%2F2489464377841%2F1%2Foriginal.20261005-171025?auto=format%2Ccompress&q=75&sharp=10&s=7aa03837e9f43bd7be51cd975f485b76",
+        "width": 2160,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/4th-annual-foster-care-indigenous-fashion-show-tickets-2002954774649",
+      "changed": "2026-10-06T03:07:39Z",
+      "categoryId": "106",
+      "subcategoryId": "6001",
+      "formatId": "6"
+    },
+    {
+      "id": "1999054288189",
+      "name": "Dolly & Denim at the Utah Capitol",
+      "summary": "Honor Dolly's memory with a fun gathering around her greatest legacy: helping children learn to read",
+      "description": "Honor Dolly's memory with a fun gathering around her greatest legacy: helping children learn to read",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": null,
+        "maximum": null
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-11-16T19:00:00",
+        "utc": "2026-11-17T02:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-11-16T21:00:00",
+        "utc": "2026-11-17T04:00:00Z"
+      },
+      "venue": {
+        "name": "Utah State Capitol",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "350 North State Street",
+          "address_2": "Rotunda",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84114",
+          "country": "US",
+          "latitude": "40.7773717",
+          "longitude": "-111.8878654",
+          "localized_address_display": "350 North State Street Rotunda, Salt Lake City, UT 84114",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "350 North State Street",
+            "Rotunda",
+            "Salt Lake City, UT 84114"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Kristin Andrus",
+        "url": "https://www.eventbrite.com/o/kristin-andrus-39465950263"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195082957%2F171497862054%2F1%2Foriginal.20261005-150659?auto=format%2Ccompress&q=75&sharp=10&s=934d3a5cfe6ac3727a350fd6440999a1",
+        "width": 2160,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/dolly-denim-at-the-utah-capitol-tickets-1999054288189",
+      "changed": "2026-10-13T23:37:51Z",
+      "categoryId": "111",
+      "subcategoryId": "11008",
+      "formatId": "11"
+    },
+    {
+      "id": "1978941183351",
+      "name": "Always Queer Market",
+      "summary": "Check out this limited pop-up of all local and queer made crafts!",
+      "description": "Check out this limited pop-up of all local and queer made crafts!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "0.00 USD",
+        "maximum": "0.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-21T19:00:00Z",
+        "local": "2026-11-21T12:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-11-22T00:00:00Z",
+        "local": "2026-11-21T17:00:00"
+      },
+      "venue": {
+        "name": "Under the Umbrella Bookstore and Cafe",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "511 West 200 South",
+          "address_2": "#Suite 120",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7647384",
+          "longitude": "-111.9058598",
+          "localized_address_display": "511 West 200 South #Suite 120, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "511 West 200 South",
+            "#Suite 120",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Under the Umbrella Bookstore",
+        "url": "https://www.eventbrite.com/o/under-the-umbrella-bookstore-41260686083"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1093222533%2F800656585643%2F1%2Foriginal.20250811-202733?auto=format%2Ccompress&q=75&sharp=10&s=30056b9726fe6bc1e330d0f127452f45",
+        "width": 1200,
+        "height": 600
+      },
+      "url": "https://www.eventbrite.com/e/always-queer-market-tickets-1978941183351",
+      "changed": "2025-12-26T20:51:40Z",
+      "categoryId": "113",
+      "subcategoryId": "13004",
+      "formatId": "3"
+    },
+    {
+      "id": "2001095386168",
+      "name": "9th Annual Gingerbread Competition Registration",
+      "summary": "Register for University Place's 9th Annual Gingerbread Competition",
+      "description": "Register for University Place's 9th Annual Gingerbread Competition",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "10.00 USD",
+        "maximum": "10.00 USD"
+      },
+      "start": {
+        "local": "2026-11-23T10:00:00",
+        "utc": "2026-11-23T17:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-11-30T21:00:00",
+        "utc": "2026-12-01T04:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "University Place",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "575 East University Parkway",
+          "address_2": "",
+          "city": "Orem",
+          "region": "UT",
+          "postal_code": "84097",
+          "country": "US",
+          "latitude": "40.2751589",
+          "longitude": "-111.6804349",
+          "localized_address_display": "575 East University Parkway, Orem, UT 84097",
+          "localized_area_display": "Orem, UT",
+          "localized_multi_line_address_display": [
+            "575 East University Parkway",
+            "Orem, UT 84097"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "University Place",
+        "url": "https://www.eventbrite.com/o/university-place-12069370304"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F610979899%2F191944097803%2F1%2Foriginal.20220927-191343?auto=format%2Ccompress&q=75&sharp=10&s=a6fdb990d920e75ceddab345a14f627b",
+        "width": 512,
+        "height": 512
+      },
+      "url": "https://www.eventbrite.com/e/9th-annual-gingerbread-competition-registration-tickets-2001095386168",
+      "changed": "2026-10-13T00:27:25Z",
+      "categoryId": "116",
+      "subcategoryId": "16006",
+      "formatId": "13"
+    },
+    {
+      "id": "2001006426086",
+      "name": "The Ultimate LitRPG Side Quest",
+      "summary": "Join us for a pre-game to Dragonsteel!",
+      "description": "Join us for a pre-game to Dragonsteel!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "6.77 USD",
+        "maximum": "6.77 USD"
+      },
+      "start": {
+        "local": "2026-12-02T18:00:00",
+        "utc": "2026-12-03T01:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-12-02T20:00:00",
+        "utc": "2026-12-03T03:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "Church & State",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "370 South 300 East",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84111",
+          "country": "US",
+          "latitude": "40.7610581",
+          "longitude": "-111.8827731",
+          "localized_address_display": "370 South 300 East, Salt Lake City, UT 84111",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "370 South 300 East",
+            "Salt Lake City, UT 84111"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "The King's English Bookshop",
+        "url": "https://www.eventbrite.com/o/the-kings-english-bookshop-18677131100"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193472688%2F290915339616%2F1%2Foriginal.20260914-180631?auto=format%2Ccompress&q=75&sharp=10&s=32d50f81bbe0264cc13b0d12d418501d",
+        "width": 2160,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/the-ultimate-litrpg-side-quest-tickets-2001006426086",
+      "changed": "2026-10-13T20:51:12Z",
+      "categoryId": "105",
+      "subcategoryId": "5009",
+      "formatId": "19"
+    },
+    {
+      "id": "2003204533685",
+      "name": "Jingle Bell Jog 5K",
+      "summary": "Spread holiday cheer by bringing a toy to race to donate to Toys For Tots. Dress festive, have fun, make friends, and enjoy the 5k",
+      "description": "Spread holiday cheer by bringing a toy to race to donate to Toys For Tots. Dress festive, have fun, make friends, and enjoy the 5k",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": null,
+        "maximum": null
+      },
+      "start": {
+        "local": "2026-12-05T09:00:00",
+        "utc": "2026-12-05T16:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-12-05T12:00:00",
+        "utc": "2026-12-05T19:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "Foxboro North Regional Park",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "Foxboro North Regional Park",
+          "address_2": "",
+          "city": "North Salt Lake",
+          "region": "UT",
+          "postal_code": "84010",
+          "country": "US",
+          "latitude": "40.8623495",
+          "longitude": "-111.9416391",
+          "localized_address_display": "Foxboro North Regional Park, North Salt Lake, UT 84010",
+          "localized_area_display": "North Salt Lake, UT",
+          "localized_multi_line_address_display": [
+            "Foxboro North Regional Park",
+            "North Salt Lake, UT 84010"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Jesse Adams",
+        "url": "https://www.eventbrite.com/o/jesse-adams-89898776013"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195446770%2F471357650581%2F1%2Foriginal.20261009-132211?auto=format%2Ccompress&q=75&sharp=10&s=058ba07c036896915cd3fc579ec2a8a0",
+        "width": 3024,
+        "height": 4032
+      },
+      "url": "https://www.eventbrite.com/e/jingle-bell-jog-5k-tickets-2003204533685",
+      "changed": "2026-10-09T13:30:52Z",
+      "categoryId": "108",
+      "subcategoryId": "8001",
+      "formatId": "15"
+    },
+    {
+      "id": "2003376725716",
+      "name": "Little Artist, Big Christmas",
+      "summary": "Join us at My Craft Dealer for 90 minutes of colorful, creative fun as kids paint their very own handmade Christmas gifts for family!",
+      "description": "Join us at My Craft Dealer for 90 minutes of colorful, creative fun as kids paint their very own handmade Christmas gifts for family!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "28.52 USD",
+        "maximum": "28.52 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-12-05T18:00:00Z",
+        "local": "2026-12-05T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-12-05T20:00:00Z",
+        "local": "2026-12-05T13:00:00"
+      },
+      "venue": {
+        "name": "422 W 900 S",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "422 West 900 South",
+          "address_2": "#108",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7500568",
+          "longitude": "-111.9035993",
+          "localized_address_display": "422 West 900 South #108, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "422 West 900 South",
+            "#108",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "My Craft Dealer",
+        "url": "https://www.eventbrite.com/o/my-craft-dealer-121371073674"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195728902%2F3000849716516%2F1%2Foriginal.20261013-210339?auto=format%2Ccompress&q=75&sharp=10&s=72b98fe1a6c18bbf51652d13f6e4a67a",
+        "width": 1880,
+        "height": 940
+      },
+      "url": "https://www.eventbrite.com/e/little-artist-big-christmas-tickets-2003376725716",
+      "changed": "2026-10-13T21:09:09Z",
+      "categoryId": "116",
+      "subcategoryId": "16006",
+      "formatId": "5"
+    },
+    {
+      "id": "1991945879748",
+      "name": "Vivaldi by Candlelight Concert: Titans of the Baroque",
+      "summary": "Experience the grandeur of the Baroque by candlelight, featuring masterpieces by Vivaldi, Bach, Handel, and more.",
+      "description": "Experience the grandeur of the Baroque by candlelight, featuring masterpieces by Vivaldi, Bach, Handel, and more.",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "23.18 USD",
+        "maximum": "215.26 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-12-06T02:00:00Z",
+        "local": "2026-12-05T19:00:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-12-06T04:00:00Z",
+        "local": "2026-12-05T21:00:00"
+      },
+      "venue": {
+        "name": "First United Methodist Church",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "203 South 200 East",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84111",
+          "country": "US",
+          "latitude": "40.7646171",
+          "longitude": "-111.8849679",
+          "localized_address_display": "203 South 200 East, Salt Lake City, UT 84111",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "203 South 200 East",
+            "Salt Lake City, UT 84111"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Utah Global Diplomacy",
+        "url": "https://www.eventbrite.com/o/utah-global-diplomacy-33560495435"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189014848%2F1675378948733%2F1%2Foriginal.20260716-170144?auto=format%2Ccompress&q=75&sharp=10&s=269f46c886f867e28568eab728384504",
+        "width": 1920,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/vivaldi-by-candlelight-concert-titans-of-the-baroque-tickets-1991945879748",
+      "changed": "2026-10-13T16:28:15Z",
+      "categoryId": "103",
+      "subcategoryId": "3003",
+      "formatId": "6"
+    },
+    {
+      "id": "1998895378887",
+      "name": "Salt Lake City Princess Day",
+      "summary": "The ultimate PRINCESS meet and greet is coming to SLC! Join your favorite princesses for stories, songs, dances, crafts, and more!",
+      "description": "The ultimate PRINCESS meet and greet is coming to SLC! Join your favorite princesses for stories, songs, dances, crafts, and more!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "35.37 USD",
+        "maximum": "42.23 USD"
+      },
+      "start": {
+        "local": "2026-12-06T10:00:00",
+        "utc": "2026-12-06T17:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-12-06T18:00:00",
+        "utc": "2026-12-07T01:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "Salt Lake City Marriott University Park",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "480 Wakara Way",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84108",
+          "country": "US",
+          "latitude": "40.7591674",
+          "longitude": "-111.8303087",
+          "localized_address_display": "480 Wakara Way, Salt Lake City, UT 84108",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "480 Wakara Way",
+            "Salt Lake City, UT 84108"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Pretty Princess Parties",
+        "url": "https://www.eventbrite.com/o/pretty-princess-parties-7661293259"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1086983423%2F126513507483%2F1%2Foriginal.20250803-000824?auto=format%2Ccompress&q=75&sharp=10&s=03c7e06461e1d9f04c81b40a911c40b2",
+        "width": 1640,
+        "height": 856
+      },
+      "url": "https://www.eventbrite.com/e/salt-lake-city-princess-day-tickets-1998895378887",
+      "changed": "2026-10-13T02:33:28Z",
+      "categoryId": "113",
+      "subcategoryId": "13003",
+      "formatId": "5"
+    },
+    {
+      "id": "1997785724882",
+      "name": "Holiday Concert with Carpenters Platinum Tribute",
+      "summary": "Tooele's annual Holiday concert! Carpenters Platinum will perform a festive variety of Christmas music and popular Carpenters songs!",
+      "description": "Tooele's annual Holiday concert! Carpenters Platinum will perform a festive variety of Christmas music and popular Carpenters songs!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "5.00 USD",
+        "maximum": "5.00 USD"
+      },
+      "start": {
+        "local": "2026-12-07T19:00:00",
+        "utc": "2026-12-08T02:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-12-07T21:00:00",
+        "utc": "2026-12-08T04:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "Tooele High School",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "301 West Vine Street",
+          "address_2": "",
+          "city": "Tooele",
+          "region": "UT",
+          "postal_code": "84074",
+          "country": "US",
+          "latitude": "40.5299228",
+          "longitude": "-112.3071773",
+          "localized_address_display": "301 West Vine Street, Tooele, UT 84074",
+          "localized_area_display": "Tooele, UT",
+          "localized_multi_line_address_display": [
+            "301 West Vine Street",
+            "Tooele, UT 84074"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Tooele City Arts Council",
+        "url": "https://www.eventbrite.com/o/tooele-city-arts-council-121348396034"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190928549%2F3001743926474%2F1%2Foriginal.20260812-210444?auto=format%2Ccompress&q=75&sharp=10&s=c60cd80e064ef3acb0f7d6285fcf6cde",
+        "width": 1920,
+        "height": 1005
+      },
+      "url": "https://www.eventbrite.com/e/holiday-concert-with-carpenters-platinum-tribute-tickets-1997785724882",
+      "changed": "2026-10-12T11:56:26Z",
+      "categoryId": "103",
+      "subcategoryId": "3013",
+      "formatId": "6"
+    },
+    {
+      "id": "1998250858108",
+      "name": "A Christmas With Nathan Pacheco",
+      "summary": "Nathan Pacheco returns to Vernal Utah for an unforgettable Christmas experience.",
+      "description": "Nathan Pacheco returns to Vernal Utah for an unforgettable Christmas experience.",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "33.75 USD",
+        "maximum": "60.42 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-12-09T02:30:00Z",
+        "local": "2026-12-08T19:30:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-12-09T04:00:00Z",
+        "local": "2026-12-08T21:00:00"
+      },
+      "venue": {
+        "name": "Vernal Middle School",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "721 West 100 South",
+          "address_2": "",
+          "city": "Vernal",
+          "region": "UT",
+          "postal_code": "84078",
+          "country": "US",
+          "latitude": "40.45318059999999",
+          "longitude": "-109.5423817",
+          "localized_address_display": "721 West 100 South, Vernal, UT 84078",
+          "localized_area_display": "Vernal, UT",
+          "localized_multi_line_address_display": [
+            "721 West 100 South",
+            "Vernal, UT 84078"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Pakt House Ent. Grp.",
+        "url": "https://www.eventbrite.com/o/pakt-house-ent-grp-34045343781"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191263961%2F188811284551%2F1%2Foriginal.20260817-180008?auto=format%2Ccompress&q=75&sharp=10&s=8d8e7aa4eab1628eeb508f93b013946f",
+        "width": 1408,
+        "height": 704
+      },
+      "url": "https://www.eventbrite.com/e/a-christmas-with-nathan-pacheco-tickets-1998250858108",
+      "changed": "2026-10-13T19:43:55Z",
+      "categoryId": "116",
+      "subcategoryId": "16006",
+      "formatId": "6"
+    },
+    {
+      "id": "1998339687800",
+      "name": "O Come, All Ye Faithful:  Music for the Christmas Season",
+      "summary": "Celebrate the full spirit of the Christmas season with a rich program of holiday favorites",
+      "description": "Celebrate the full spirit of the Christmas season with a rich program of holiday favorites",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "15.00 USD",
+        "maximum": "20.00 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2026-12-11T19:30:00",
+        "utc": "2026-12-12T02:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2026-12-11T21:30:00",
+        "utc": "2026-12-12T04:30:00Z"
+      },
+      "venue": {
+        "name": "St Ambrose Catholic Church",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "2315 Redondo Avenue South",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84108",
+          "country": "US",
+          "latitude": "40.7275431",
+          "longitude": "-111.82453150000003",
+          "localized_address_display": "2315 Redondo Avenue South, Salt Lake City, UT 84108",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "2315 Redondo Avenue South",
+            "Salt Lake City, UT 84108"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Salt Lake Choral Artists",
+        "url": "https://www.eventbrite.com/o/salt-lake-choral-artists-4782763619"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191309202%2F74094201029%2F1%2Foriginal.20260818-053546?auto=format%2Ccompress&q=75&sharp=10&s=23aa7a45d5843773303c405ab0c838b0",
+        "width": 1800,
+        "height": 1800
+      },
+      "url": "https://www.eventbrite.com/e/o-come-all-ye-faithful-music-for-the-christmas-season-tickets-1998339687800",
+      "changed": "2026-10-09T00:27:42Z",
+      "categoryId": "116",
+      "subcategoryId": "16006",
+      "formatId": "6"
+    },
+    {
+      "id": "2003248383842",
+      "name": "Dickensian Festival Saturday Dec 12, 2026",
+      "summary": "Step back in time and soak up the festive vibes with costumes, carols, and all things Dickensian fun!",
+      "description": "Step back in time and soak up the festive vibes with costumes, carols, and all things Dickensian fun!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "87.98 USD",
+        "maximum": "87.98 USD"
+      },
+      "start": {
+        "timezone": "America/Denver",
+        "utc": "2026-12-13T01:30:00Z",
+        "local": "2026-12-12T18:30:00"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "utc": "2026-12-13T04:30:00Z",
+        "local": "2026-12-12T21:30:00"
+      },
+      "venue": {
+        "name": "Northridge Valley Wedding & Event Center",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "877 East Northridge Drive",
+          "address_2": "",
+          "city": "Mapleton",
+          "region": "UT",
+          "postal_code": "84664",
+          "country": "US",
+          "latitude": "40.1458586",
+          "longitude": "-111.5670853",
+          "localized_address_display": "877 East Northridge Drive, Mapleton, UT 84664",
+          "localized_area_display": "Mapleton, UT",
+          "localized_multi_line_address_display": [
+            "877 East Northridge Drive",
+            "Mapleton, UT 84664"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Northridge Valley Event Center",
+        "url": "https://www.eventbrite.com/o/northridge-valley-event-center-39151625283"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195529366%2F44613536891%2F1%2Foriginal.20261010-231941?auto=format%2Ccompress&q=75&sharp=10&s=e7aaef37654e2c7cc932bf0c934ba87e",
+        "width": 1024,
+        "height": 1536
+      },
+      "url": "https://www.eventbrite.com/e/dickensian-festival-saturday-dec-12-2026-tickets-2003248383842",
+      "changed": "2026-10-12T03:27:31Z",
+      "categoryId": "113",
+      "subcategoryId": "13010",
+      "formatId": "5"
+    },
+    {
+      "id": "1998255397686",
+      "name": "A Christmas With Nathan Pacheco",
+      "summary": "Nathan Pacheco returns to St. George Utah on his 2026 Christmas tour for an unforgettable holiday experience.",
+      "description": "Nathan Pacheco returns to St. George Utah on his 2026 Christmas tour for an unforgettable holiday experience.",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "36.95 USD",
+        "maximum": "76.43 USD"
+      },
+      "start": {
+        "local": "2026-12-16T19:30:00",
+        "utc": "2026-12-17T02:30:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-12-16T21:00:00",
+        "utc": "2026-12-17T04:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "Dixie High School",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "350 East 700 South",
+          "address_2": "",
+          "city": "St. George",
+          "region": "UT",
+          "postal_code": "84770",
+          "country": "US",
+          "latitude": "37.0953756",
+          "longitude": "-113.5769586",
+          "localized_address_display": "350 East 700 South, St. George, UT 84770",
+          "localized_area_display": "St. George, UT",
+          "localized_multi_line_address_display": [
+            "350 East 700 South",
+            "St. George, UT 84770"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "Pakt House Ent. Grp.",
+        "url": "https://www.eventbrite.com/o/pakt-house-ent-grp-34045343781"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191267328%2F188811284551%2F1%2Foriginal.20260817-183003?auto=format%2Ccompress&q=75&sharp=10&s=6a2c7e499247e402771d75eadc47eafe",
+        "width": 1408,
+        "height": 704
+      },
+      "url": "https://www.eventbrite.com/e/a-christmas-with-nathan-pacheco-tickets-1998255397686",
+      "changed": "2026-10-14T00:44:09Z",
+      "categoryId": "116",
+      "subcategoryId": "16006",
+      "formatId": "6"
+    },
+    {
+      "id": "2002228814282",
+      "name": "The Forgotten Carols Musical, Saturday, Dec. 19, 2:30pm MATINEE in SLC",
+      "summary": "Experience a Christmas tradition! A heartwarming night of music & humor wrapped up in the staged musical adaptation of The Forgotten Carols!",
+      "description": "Experience a Christmas tradition! A heartwarming night of music & humor wrapped up in the staged musical adaptation of The Forgotten Carols!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "22.50 USD",
+        "maximum": "52.96 USD"
+      },
+      "start": {
+        "local": "2026-12-19T14:30:00",
+        "utc": "2026-12-19T21:30:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2026-12-19T17:00:00",
+        "utc": "2026-12-20T00:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "Cottonwood High School Auditorium",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "5715 South 1300 East",
+          "address_2": "",
+          "city": "Murray",
+          "region": "UT",
+          "postal_code": "84121",
+          "country": "US",
+          "latitude": "40.6469081",
+          "longitude": "-111.85323779999999",
+          "localized_address_display": "5715 South 1300 East, Murray, UT 84121",
+          "localized_area_display": "Murray, UT",
+          "localized_multi_line_address_display": [
+            "5715 South 1300 East",
+            "Murray, UT 84121"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "FourSquare Productions",
+        "url": "https://www.eventbrite.com/o/foursquare-productions-11121971613"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194279709%2F183588095384%2F1%2Foriginal.20260924-134514?auto=format%2Ccompress&q=75&sharp=10&s=ecc236e890a4defaaa001228d6b534fe",
+        "width": 2160,
+        "height": 1080
+      },
+      "url": "https://www.eventbrite.com/e/the-forgotten-carols-musical-saturday-dec-19-230pm-matinee-in-slc-tickets-2002228814282",
+      "changed": "2026-10-13T03:21:23Z",
+      "categoryId": "105",
+      "subcategoryId": "5002",
+      "formatId": "6"
+    },
+    {
+      "id": "1988736456276",
+      "name": "SLC 17th Annual New Year's Eve Masquerade Ball",
+      "summary": "A CELEBRATION TO RING IN THE 2027 NEW YEAR!",
+      "description": "A CELEBRATION TO RING IN THE 2027 NEW YEAR!",
+      "status": "live",
+      "isFree": false,
+      "ticketAvailability": {
+        "available": true,
+        "soldOut": false,
+        "minimum": "71.21 USD",
+        "maximum": "135.23 USD"
+      },
+      "start": {
+        "local": "2026-12-31T21:00:00",
+        "utc": "2027-01-01T04:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "end": {
+        "local": "2027-01-01T01:00:00",
+        "utc": "2027-01-01T08:00:00Z",
+        "timezone": "America/Denver"
+      },
+      "venue": {
+        "name": "The Depot",
+        "ageRestriction": null,
+        "address": {
+          "address_1": "13 North 400 West",
+          "address_2": "",
+          "city": "Salt Lake City",
+          "region": "UT",
+          "postal_code": "84101",
+          "country": "US",
+          "latitude": "40.7696612",
+          "longitude": "-111.9030338",
+          "localized_address_display": "13 North 400 West, Salt Lake City, UT 84101",
+          "localized_area_display": "Salt Lake City, UT",
+          "localized_multi_line_address_display": [
+            "13 North 400 West",
+            "Salt Lake City, UT 84101"
+          ]
+        }
+      },
+      "organizer": {
+        "name": "BIG EASY ENTERTAINMENT & PRODUCTIONS",
+        "url": "https://www.eventbrite.com/o/big-easy-entertainment-productions-4271018303"
+      },
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187995680%2F65929150985%2F1%2Foriginal.20260701-121806?auto=format%2Ccompress&q=75&sharp=10&s=98b80ed79400c76074967718240358a0",
+        "width": 1402,
+        "height": 1122
+      },
+      "url": "https://www.eventbrite.com/e/slc-17th-annual-new-years-eve-masquerade-ball-tickets-1988736456276",
+      "changed": "2026-10-12T02:34:53Z",
+      "categoryId": "110",
+      "subcategoryId": "10999",
+      "formatId": "11"
+    }
+  ]
+}

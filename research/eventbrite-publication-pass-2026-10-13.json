@@ -1,0 +1,61 @@
+{
+  "checkedOn": "2026-10-13",
+  "crawl": "research/eventbrite-crawl-2026-10-13.json",
+  "deepReview": "research/eventbrite-shortlist-2026-10-13.json",
+  "publishedNewIds": [
+    "avanza-live-2026",
+    "world-climbing-series-salt-lake-city-2026",
+    "america-the-beautiful-250th-anniversary-concert-2026",
+    "smutty-girls-go-spooky-bookish-market-2026",
+    "spooky-sunday-service-drag-brunch-2026",
+    "katee-robert-tarot-trials-2026",
+    "free-autism-trick-or-treat-american-fork-2026",
+    "halloween-for-every-brain-gateway-2026",
+    "trolley-square-fall-festival-2026",
+    "utah-county-halloween-book-fair-2026",
+    "turn-towards-life-queer-birth-story-screening-2026",
+    "books-and-boos-layton-hills-2026",
+    "queer-poetry-night-open-mic-october-2026",
+    "murderous-cocktail-affair-vault-2026",
+    "smores-stars-and-scares-hanksville-2026",
+    "witches-paddle-causey-reservoir-2026",
+    "monster-dash-wheeler-farm-2026",
+    "halloween-burlesque-ogden-2026",
+    "whispers-through-the-veil-samhain-2026",
+    "dia-de-los-muertos-centro-civico-2026",
+    "golden-ghouls-drag-brunch-milk-2026",
+    "michelada-fest-salt-lake-2026",
+    "manual-cinema-fourth-witch-weber-state-2026",
+    "pumpkin-smash-food-drive-glover-nursery-2026",
+    "goetia-cabaret-demon-variety-show-2026",
+    "drakes-hollow-immersive-fantasy-tavern-2026",
+    "witchy-friendsgiving-girls-table-2026",
+    "creators-collective-mistletoe-market-2026",
+    "lights-on-at-the-gateway-2026",
+    "foster-care-indigenous-fashion-show-2026",
+    "university-place-gingerbread-competition-2026",
+    "ultimate-litrpg-side-quest-dragonsteel-2026",
+    "little-artist-big-christmas-2026",
+    "vivaldi-by-candlelight-titans-baroque-2026",
+    "salt-lake-city-princess-day-2026",
+    "mapleton-dickensian-festival-2026",
+    "forgotten-carols-musical-slc-2026",
+    "slc-nye-masquerade-ball-2026"
+  ],
+  "correctedExistingIds": [
+    "always-queer-market-winter-market"
+  ],
+  "heldForFurtherReview": [
+    "Nightmare On Main",
+    "Witching Hour",
+    "Dolly & Denim at the Utah Capitol",
+    "Jingle Bell Jog 5K"
+  ],
+  "reasonHeld": "The current discovery record did not provide enough practical detail to publish confidently without another organizer/ticket-depth check.",
+  "result": {
+    "newEvents": 38,
+    "correctedEvents": 1,
+    "totalEvents": 687,
+    "localPhotoListings": 367
+  }
+}

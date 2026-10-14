@@ -8,7 +8,7 @@ function shortVerified(d){if(!/^\d{4}-\d{2}-\d{2}$/.test(d||''))return '';return
 function fieldStrip(e){const bits=[e.publicRegion||e.Region||'Utah',e.lastVerified?'VERIFIED '+shortVerified(e.lastVerified):''].filter(Boolean).join(' · ');return `<div class="field-strip"><span>FIELD NOTE ${fieldCode(e)}</span><span>${esc(bits)}</span></div>`}
 function applyBrandShell(){
   $$('.brand').forEach(a=>{if(a.querySelector('.brand-mark'))return;a.innerHTML='<img class="brand-mark" src="/assets/brand/field-mark.svg" alt=""><span class="brand-name"><strong>Utah Every Season</strong><small>Obsessive field guide</small></span>';a.setAttribute('aria-label','Utah Every Season home')});
-  $$('.site-footer .footer-inner>div:first-child').forEach(div=>{div.innerHTML='<b>Utah Every Season</b><br>Utah’s obsessive guide to what to do next.<div class="brand-proof">Field guide · verified details · independent editorial</div>'});
+  $$('.site-footer .footer-inner>div:first-child').forEach(div=>{div.innerHTML='<b>Utah Every Season</b><br>Utah’s obsessive guide to what to do next.<div class="brand-proof">Field guide · verified details · independent editorial</div><small>© 2026 Utah Every Season.</small>'});
   document.title=document.title.replace(/Utah Seasonal Guide/g,'Utah Every Season');
 }
 let favorites;try{favorites=new Set(JSON.parse(localStorage.getItem('utahFallFavorites')||'[]'))}catch{favorites=new Set()}

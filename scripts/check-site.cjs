@@ -57,3 +57,11 @@ for(const pagePath of ['weekend.html','weekend/index.html','vibes.html','vibes/i
  assert(!pageSource.includes('class="quick-picks"'),pagePath+' still has distracting shortcut buttons');
 }
 console.log('Contextual pages are free of redundant shortcut rows');
+
+const aboutSource=fs.readFileSync('about.html','utf8'),termsSource=fs.readFileSync('terms.html','utf8');
+assert(aboutSource.includes('We actively look for access details published by event organizers'));
+assert(aboutSource.includes('not private parties, invitation-only gatherings or personal social plans'));
+assert(aboutSource.includes('© 2026 Utah Every Season'));
+assert(termsSource.includes('selection and arrangement of listings'));
+assert(termsSource.includes('A source credit does not transfer ownership'));
+console.log('About-page research, accessibility and copyright statements passed');
