@@ -1,0 +1,40 @@
+{
+  "checkedOn": "2026-10-12",
+  "input": "Nine reader-submitted flyer and ad images",
+  "confirmedNewIds": [
+    "mia-asano-urban-lounge-2026",
+    "jim-hensons-labyrinth-in-concert-kingsbury-2026",
+    "deep-love-ghostly-rock-opera-2026",
+    "bongripper-aces-high-halloween-2026",
+    "craft-club-hocus-pocus-book-2026",
+    "kens-pumpkin-patch-farmington-2026"
+  ],
+  "correctedExistingIds": [
+    "witchy-woman-halloween-special",
+    "weeb-streets-3rd-annual-halloween-cosplay-party"
+  ],
+  "notAdded": [
+    {
+      "image": "IMG_0210.jpeg",
+      "name": "The Missionary Position",
+      "reason": "Book advertisement with no dated public event."
+    }
+  ],
+  "result": {
+    "newEvents": 6,
+    "correctedEvents": 2,
+    "totalEvents": 648,
+    "confirmedEvents": 634,
+    "realImageListings": 327
+  },
+  "sources": [
+    "https://aceshighsaloon.com/event/bongripper-past-the-light-tba/",
+    "https://live-at-the-eccles.com/events/labyrinth-in-concert",
+    "https://weebstreets.com/",
+    "https://www.24tix.com/events/71022114245",
+    "https://www.24tix.com/events/emrohz624zcqzlbltejw7qpaay",
+    "https://www.craftclubslc.com/events/hocus-pocus-book",
+    "https://www.facebook.com/kenspumpkinpatch/videos/1755934818946416/",
+    "https://www.saltlakecountyarts.org/events/deep-love-a-ghostly-rock-opera/"
+  ]
+}

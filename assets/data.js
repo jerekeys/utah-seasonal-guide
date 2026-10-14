@@ -1,9 +1,9 @@
 window.SITE_DATA = {
   "meta": {
     "title": "Utah Every Season · 2026–27",
-    "updated": "October 8, 2026",
-    "eventCount": 642,
-    "confirmedCount": 628,
+    "updated": "October 13, 2026",
+    "eventCount": 649,
+    "confirmedCount": 635,
     "watchCount": 14,
     "publicRegionCount": 12,
     "publicTypeCount": 12,
@@ -20,9 +20,9 @@ window.SITE_DATA = {
     "socialPolicy": "Verified organizer/event accounts only; Instagram, Facebook, TikTok, Bluesky, and LinkedIn supported. X/Twitter intentionally excluded.",
     "imagePolicyUpdated": "October 6, 2026",
     "imagePolicy": "Use locally hosted imagery only when it clearly depicts the listed event, attraction, venue experience, or exact subject. Official-site provenance alone is not sufficient; generic stock, logos, unrelated page images and low-quality thumbnails are rejected. Category art remains the fallback.",
-    "realImageCount": 321,
-    "accessibilityListings": 45,
-    "localPhotoListings": 321,
+    "realImageCount": 328,
+    "accessibilityListings": 49,
+    "localPhotoListings": 328,
     "zeroHotlinks": true,
     "ccCandidates": 7,
     "siteVersion": "v9-year-round",
@@ -19788,7 +19788,7 @@ window.SITE_DATA = {
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "travelTier": "Core / easy day trip",
-      "lastVerified": "2026-10-06",
+      "lastVerified": "2026-10-12",
       "qaFlags": "",
       "timezone": "America/Denver",
       "sourceRow": 492,
@@ -19812,7 +19812,12 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "researchEvidence": {
+        "checkedOn": "2026-10-12",
+        "sourceUrl": "https://weebstreets.com/",
+        "method": "Matched the submitted organizer flyer against the official event page, including date, hours, 18+ limit, venue and advance/door prices."
+      }
     },
     {
       "Event / attraction": "Whale Fest Costume Contest + Parade",
@@ -20608,20 +20613,20 @@ window.SITE_DATA = {
       ]
     },
     {
-      "Event / attraction": "Witchy Woman — Halloween Special",
+      "Event / attraction": "Witchy Woman — A Halloween Drag Concert",
       "Region": "Salt Lake City",
       "Category": "Nightlife / Music / Social, Burlesque / Cabaret",
       "First date": "2026-10-09",
       "2026 schedule": "Oct 9 & 22",
-      "Times": "8 PM",
-      "Price": "Ticketed; current price shown on the official ticket page.",
+      "Times": "Doors 7 PM; show 8 PM",
+      "Price": "$24.48 all-in general admission; six-person booth $113.01 and does not include admission",
       "Cost": "",
       "Age": "21+",
       "Intensity": "👻👻👻",
       "Location": "Metro Music Hall, 615 W 100 S, Salt Lake City, Salt Lake City",
       "Status": "Confirmed 2026",
-      "Why / thoughts": "Halloween live-band/drag production built around witches, sorcery and dark glamour. Two October dates; verify the venue calendar when choosing a night.",
-      "Website": "https://www.metromusichall.com/",
+      "Why / thoughts": "Marrlo Suzzanne and The Galaxxy Band turn songs by Heart, Pat Benatar, Journey, the Eagles and more into a live-band drag concert of witches, dark glamour and rock vocals.",
+      "Website": "https://www.24tix.com/events/emrohz624zcqzlbltejw7qpaay",
       "Social profile": "",
       "Extra notes": "",
       "id": "witchy-woman-halloween-special",
@@ -20643,14 +20648,17 @@ window.SITE_DATA = {
         }
       ],
       "photo": {
-        "src": "assets/photos/reviewed-witchy-woman-halloween-special-388.webp",
-        "alt": "The stage and auditorium at Metro Music Hall.",
-        "credit": "metromusichall.com",
-        "creditUrl": "https://www.metromusichall.com/",
-        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d766d269a8f4a561ad27262/633b5596-428e-4b28-84c9-1522aa9fd6ad/03.31.2023%2BVenue%2BPhotos%2BS%26S%2B002.webp",
+        "src": "assets/photos/witchy-woman-2026.webp",
+        "alt": "Marrlo Suzzanne and The Galaxxy Band perform in dramatic red stage lighting.",
+        "credit": "24tix / JRC Events",
+        "creditUrl": "https://www.24tix.com/events/emrohz624zcqzlbltejw7qpaay",
+        "sourceUrl": "https://www.24tix.com/events/emrohz624zcqzlbltejw7qpaay/image",
         "usageType": "official_web_photo",
-        "caption": "Venue photo",
-        "reviewedOn": "2026-10-06"
+        "caption": "Official ticket image",
+        "reviewedOn": "2026-10-12",
+        "width": 720,
+        "height": 481,
+        "rightsNote": "Selected from an official organizer, venue or ticket page for editorial event-listing use."
       },
       "sourceRegion": "Salt Lake City",
       "publicRegion": "Salt Lake Metro",
@@ -20670,12 +20678,16 @@ window.SITE_DATA = {
       "startDate": "2026-10-09",
       "endDate": "2026-10-22",
       "travelTier": "Core / easy day trip",
-      "lastVerified": "2026-10-06",
+      "lastVerified": "2026-10-12",
       "qaFlags": "",
       "timezone": "America/Denver",
       "sourceRow": 503,
       "flags": [
-        "21+"
+        "21+",
+        "Indoor",
+        "Live band",
+        "Drag performance",
+        "ADA ticket selection"
       ],
       "isFree": false,
       "rating": {
@@ -20697,7 +20709,15 @@ window.SITE_DATA = {
       "notable_event": false,
       "seasons": [
         "Fall"
-      ]
+      ],
+      "accessibility": {
+        "summary": "The official ticket page offers ADA ticket selection; contact 24tix or Metro Music Hall for seating details."
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-12",
+        "sourceUrl": "https://www.24tix.com/events/emrohz624zcqzlbltejw7qpaay",
+        "method": "Verified both performance dates, then opened the Oct. 22 ticket page for door time, show time, age limit and current all-in prices."
+      }
     },
     {
       "Event / attraction": "ZooBrew — October",
@@ -50362,6 +50382,704 @@ window.SITE_DATA = {
         "method": "Reviewed organizer, government, venue or official ticket details; past-year program information was not copied into the 2027 listing."
       },
       "sourceRow": 688
+    },
+    {
+      "id": "mia-asano-urban-lounge-2026",
+      "Event / attraction": "Mia Asano — 2026 West Coast Tour",
+      "Region": "Salt Lake City",
+      "Category": "Live music, Rock / Alternative, Nightlife",
+      "First date": "2026-10-13",
+      "2026 schedule": "Oct 13",
+      "Times": "Doors 7 PM; show 8 PM",
+      "Price": "$28.64 all-in general admission; VIP sales closed",
+      "Cost": "",
+      "Age": "21+",
+      "Intensity": "",
+      "Location": "The Urban Lounge, 241 S 500 E, Salt Lake City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Electric violinist Mia Asano brings an arena-sized blend of classical technique, metal and cinematic rock to an intimate club stage.",
+      "Website": "https://www.24tix.com/events/71022114245",
+      "Social profile": "https://www.instagram.com/miaasanomusic/",
+      "Extra notes": "",
+      "categories": [
+        "Live music",
+        "Rock / Alternative",
+        "Nightlife"
+      ],
+      "sourceCategories": [
+        "Live music",
+        "Rock / Alternative",
+        "Nightlife"
+      ],
+      "ghostCount": 0,
+      "costCount": 2,
+      "isWatch": false,
+      "artKey": "nightlife",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/miaasanomusic/"
+        }
+      ],
+      "photo": {
+        "src": "assets/photos/mia-asano-urban-lounge-2026.webp",
+        "alt": "Electric violinist Mia Asano performs under blue and violet stage lights.",
+        "credit": "24tix / JRC Events",
+        "creditUrl": "https://www.24tix.com/events/71022114245",
+        "sourceUrl": "https://www.24tix.com/events/f6uqqncjbnaibokrwy5xuq5a4i/image",
+        "usageType": "official_web_photo",
+        "caption": "Official ticket image",
+        "reviewedOn": "2026-10-12",
+        "width": 720,
+        "height": 481,
+        "rightsNote": "Selected from an official organizer, venue or ticket page for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Nightlife & Parties"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Fall"
+      ],
+      "primaryHoliday": "Fall",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-13",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-12",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "21+",
+        "Indoor",
+        "General admission",
+        "ADA ticket selection"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-13"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "fall",
+      "placeholder": "assets/art/nightlife.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": {
+        "summary": "The official ticket page offers ADA ticket selection; contact 24tix or the venue for seating details."
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-12",
+        "sourceUrl": "https://www.24tix.com/events/71022114245",
+        "method": "Read the submitted flyer, then verified the organizer, venue and ticket details at least one level deeper."
+      },
+      "sourceRow": 689
+    },
+    {
+      "id": "jim-hensons-labyrinth-in-concert-kingsbury-2026",
+      "Event / attraction": "Jim Henson's Labyrinth: In Concert",
+      "Region": "Salt Lake City",
+      "Category": "Film with live music, Concert, Fantasy / Fandom",
+      "First date": "2026-10-14",
+      "2026 schedule": "Oct 14",
+      "Times": "7:30 PM",
+      "Price": "$48.75–$80.85 all-in; every patron needs a ticket",
+      "Cost": "",
+      "Age": "All ages; every patron needs a ticket",
+      "Intensity": "",
+      "Location": "Kingsbury Hall, 1395 E Presidents Circle, Salt Lake City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Watch the full 1986 fantasy film in HD while a live band performs David Bowie and Trevor Jones' soundtrack in sync with the movie. Costumes, singing along and cheering are welcome.",
+      "Website": "https://live-at-the-eccles.com/events/labyrinth-in-concert",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Film with live music",
+        "Concert",
+        "Fantasy / Fandom"
+      ],
+      "sourceCategories": [
+        "Film with live music",
+        "Concert",
+        "Fantasy / Fandom"
+      ],
+      "ghostCount": 0,
+      "costCount": 3,
+      "isWatch": false,
+      "artKey": "performance",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/labyrinth-in-concert-2026.webp",
+        "alt": "Sarah faces Jareth the Goblin King amid characters from Jim Henson's Labyrinth.",
+        "credit": "Live at the Eccles",
+        "creditUrl": "https://live-at-the-eccles.com/events/labyrinth-in-concert",
+        "sourceUrl": "https://live-at-the-eccles.com/storage/app/uploads/public/696/558/343/thumb_3183_1200_630_0_0_crop.jpg",
+        "usageType": "official_web_photo",
+        "caption": "Official event image",
+        "reviewedOn": "2026-10-12",
+        "width": 1200,
+        "height": 630,
+        "rightsNote": "Selected from an official organizer, venue or ticket page for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ],
+      "primaryHoliday": "Halloween",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-12",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "All ages",
+        "Indoor",
+        "Costumes welcome",
+        "Live score",
+        "Accessible seating"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-14"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "halloween",
+      "placeholder": "assets/art/seasonal/halloween-performance.svg",
+      "notable_event": true,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": {
+        "summary": "Mobility-device access uses the southeast entrance. Accessible seating is arranged through the box office; free assistive-listening devices are available, and ASL interpretation can be requested at least five business days ahead. Captioning and audio description may be available with advance notice."
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-12",
+        "sourceUrl": "https://live-at-the-eccles.com/events/labyrinth-in-concert",
+        "method": "Read the submitted flyer, then verified the organizer, venue and ticket details at least one level deeper."
+      },
+      "sourceRow": 690
+    },
+    {
+      "id": "deep-love-ghostly-rock-opera-2026",
+      "Event / attraction": "Deep Love: A Ghostly Rock Opera",
+      "Region": "Salt Lake Valley",
+      "Category": "Rock opera, Theater, Halloween performance",
+      "First date": "2026-10-29",
+      "2026 schedule": "Oct 29–30",
+      "Times": "7 PM both nights; about 2 hours including intermission",
+      "Price": "$40 listed by the production; ticketing fees may apply",
+      "Cost": "",
+      "Age": "All ages; infants held by an adult do not need a ticket",
+      "Intensity": "",
+      "Location": "Mid-Valley Performing Arts Center, 2525 Taylorsville Blvd, Taylorsville",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Four singers and a live band tell a gothic ghost story entirely through rock music, without spoken dialogue. The fully staged production invites audience energy, and funeral attire is recommended.",
+      "Website": "https://www.saltlakecountyarts.org/events/deep-love-a-ghostly-rock-opera/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Rock opera",
+        "Theater",
+        "Halloween performance"
+      ],
+      "sourceCategories": [
+        "Rock opera",
+        "Theater",
+        "Halloween performance"
+      ],
+      "ghostCount": 0,
+      "costCount": 2,
+      "isWatch": false,
+      "artKey": "performance",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/deep-love-ghostly-rock-opera-2026.webp",
+        "alt": "Two Deep Love performers sing beneath theatrical red and white lights.",
+        "credit": "Deep Love: A Ghostly Rock Opera",
+        "creditUrl": "https://www.deeploveopera.com/",
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/53755ed2e4b021fbdcea05ea/7521547f-e4a3-48e8-9664-3e37a3d7c642/Untitled%2Bdesign%2B%281%29.png",
+        "usageType": "official_web_photo",
+        "caption": "Official production photo",
+        "reviewedOn": "2026-10-12",
+        "width": 1080,
+        "height": 1080,
+        "rightsNote": "Selected from an official organizer, venue or ticket page for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake Valley",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Haunts & Scares"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ],
+      "primaryHoliday": "Halloween",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-30",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-12",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "All ages",
+        "Indoor",
+        "Funeral attire encouraged",
+        "Two performances",
+        "Accessible seating"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The official production and venue calendars both confirm Oct. 29–30, 2026; one paragraph on the venue page still carries an uncorrected 2027 year.",
+      "communities": [],
+      "theme": "halloween",
+      "placeholder": "assets/art/seasonal/halloween-performance.svg",
+      "notable_event": true,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": {
+        "summary": "The venue offers wheelchair and companion seating, curb-to-seat assistance, free assistive-listening devices, sensory supports and accessible restrooms. ASL interpretation and captioning can be requested through ArtTix at least two weeks ahead."
+      },
+      "researchEvidence": {
+        "checkedOn": "2026-10-12",
+        "sourceUrl": "https://www.saltlakecountyarts.org/events/deep-love-a-ghostly-rock-opera/",
+        "method": "Read the submitted flyer, then verified the organizer, venue and ticket details at least one level deeper."
+      },
+      "sourceRow": 691
+    },
+    {
+      "id": "bongripper-aces-high-halloween-2026",
+      "Event / attraction": "Bongripper Halloween at Aces High",
+      "Region": "Salt Lake City",
+      "Category": "Live music, Heavy metal, Halloween nightlife",
+      "First date": "2026-10-31",
+      "2026 schedule": "Oct 31",
+      "Times": "Venue calendar begins at 6 PM; the event flyer advertises 7 PM",
+      "Price": "$35 advance; $40 day of show",
+      "Cost": "",
+      "Age": "21+",
+      "Intensity": "",
+      "Location": "Aces High Saloon, 1588 S State Street, Salt Lake City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Instrumental doom band Bongripper headlines a Halloween-night bill with Past the Light, Gout and Redskin at Salt Lake's heavy-music bar.",
+      "Website": "https://aceshighsaloon.com/event/bongripper-past-the-light-tba/",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Live music",
+        "Heavy metal",
+        "Halloween nightlife"
+      ],
+      "sourceCategories": [
+        "Live music",
+        "Heavy metal",
+        "Halloween nightlife"
+      ],
+      "ghostCount": 0,
+      "costCount": 2,
+      "isWatch": false,
+      "artKey": "nightlife",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/bongripper-aces-high-halloween-2026.webp",
+        "alt": "Colorful illustrated Halloween concert poster for Bongripper, Past the Light, Gout and Redskin.",
+        "credit": "Aces High Saloon",
+        "creditUrl": "https://aceshighsaloon.com/event/bongripper-past-the-light-tba/",
+        "sourceUrl": "https://aceshighsaloon.com/event/bongripper-past-the-light-tba/",
+        "usageType": "organizer_promo_flyer",
+        "caption": "Organizer flyer photographed by a site contributor",
+        "reviewedOn": "2026-10-12",
+        "width": 864,
+        "height": 1536,
+        "rightsNote": "Photographed from the organizer's printed promotional flyer and provided for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Nightlife & Parties"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ],
+      "primaryHoliday": "Halloween",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-12",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "21+",
+        "Indoor",
+        "Halloween night",
+        "Standing-room concert"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-31"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The venue calendar currently opens the listing at 6 PM; the printed event flyer says 7 PM. Use the ticket page as the final day-of check.",
+      "communities": [],
+      "theme": "halloween",
+      "placeholder": "assets/art/seasonal/halloween-nightlife.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-12",
+        "sourceUrl": "https://aceshighsaloon.com/event/bongripper-past-the-light-tba/",
+        "method": "Read the submitted flyer, then verified the organizer, venue and ticket details at least one level deeper."
+      },
+      "sourceRow": 692
+    },
+    {
+      "id": "craft-club-hocus-pocus-book-2026",
+      "Event / attraction": "Hocus Pocus Book — Craft Club SLC",
+      "Region": "Salt Lake City",
+      "Category": "Craft workshop, Social meetup, Halloween",
+      "First date": "2026-10-13",
+      "2026 schedule": "Oct 13",
+      "Times": "6:30–8:30 PM",
+      "Price": "$40; supplies included; sold out",
+      "Cost": "",
+      "Age": "Adults; the organizer does not post a minimum age",
+      "Intensity": "",
+      "Location": "The Tasting Room, Salt Lake City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Build a display-ready, eye-and-stitch spellbook inspired by Hocus Pocus during a guided two-hour craft night designed for making alongside new people.",
+      "Website": "https://www.craftclubslc.com/events/hocus-pocus-book",
+      "Social profile": "https://www.instagram.com/craftclubslc/",
+      "Extra notes": "",
+      "categories": [
+        "Craft workshop",
+        "Social meetup",
+        "Halloween"
+      ],
+      "sourceCategories": [
+        "Craft workshop",
+        "Social meetup",
+        "Halloween"
+      ],
+      "ghostCount": 0,
+      "costCount": 2,
+      "isWatch": false,
+      "artKey": "workshop",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/craftclubslc/"
+        }
+      ],
+      "photo": {
+        "src": "assets/photos/craft-club-hocus-pocus-book-2026.webp",
+        "alt": "Two handmade brown spellbooks with sculpted eyes and gold stitching beside workshop details.",
+        "credit": "Craft Club SLC",
+        "creditUrl": "https://www.craftclubslc.com/events/hocus-pocus-book",
+        "sourceUrl": "https://cdn.prod.website-files.com/677aecfbee49d7a7b6576833/6ac170354b73a87c9596524b_Orange%20and%20Black%20Halloween%20Party%20Flyer.png",
+        "usageType": "official_web_photo",
+        "caption": "Official workshop image",
+        "reviewedOn": "2026-10-12",
+        "width": 1080,
+        "height": 1080,
+        "rightsNote": "Selected from an official organizer, venue or ticket page for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Workshops & Learning",
+        "Community & Culture"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ],
+      "primaryHoliday": "Halloween",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-13",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-12",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Sold out",
+        "Reservation required",
+        "Indoor",
+        "Supplies included"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-13"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [
+        "Women-centered"
+      ],
+      "theme": "halloween",
+      "placeholder": "assets/art/workshop.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-12",
+        "sourceUrl": "https://www.craftclubslc.com/events/hocus-pocus-book",
+        "method": "Read the submitted flyer, then verified the organizer, venue and ticket details at least one level deeper."
+      },
+      "sourceRow": 693
+    },
+    {
+      "id": "kens-pumpkin-patch-farmington-2026",
+      "Event / attraction": "Ken's Pumpkin Patch",
+      "Region": "Davis County",
+      "Category": "Neighborhood display, Pumpkin display, Food-drive collection",
+      "First date": "2026-10-12",
+      "2026 schedule": "Nightly through Oct 31; verified active Oct 12",
+      "Times": "Dusk–10 PM",
+      "Price": "Free; nonperishable food donations for the Bountiful Food Pantry are appreciated",
+      "Cost": "",
+      "Age": "All ages",
+      "Intensity": "",
+      "Location": "1288 S Cannon Drive, Farmington",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Nearly 500 hand-carved foam pumpkins glow across a front-yard display, with familiar characters, intricate portraits and optical illusions to spot after dark.",
+      "Website": "https://www.facebook.com/kenspumpkinpatch/videos/1755934818946416/",
+      "Social profile": "https://www.instagram.com/kenspumpkinpatch/",
+      "Extra notes": "",
+      "categories": [
+        "Neighborhood display",
+        "Pumpkin display",
+        "Food-drive collection"
+      ],
+      "sourceCategories": [
+        "Neighborhood display",
+        "Pumpkin display",
+        "Food-drive collection"
+      ],
+      "ghostCount": 0,
+      "costCount": 1,
+      "isWatch": false,
+      "artKey": "community",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/kenspumpkinpatch/"
+        }
+      ],
+      "photo": {
+        "src": "assets/photos/kens-pumpkin-patch-2026.webp",
+        "alt": "Rows of glowing, hand-carved foam pumpkins fill Ken's front-yard display after dark.",
+        "credit": "Ken's Pumpkin Patch",
+        "creditUrl": "https://www.facebook.com/kenspumpkinpatch/videos/1755934818946416/",
+        "sourceUrl": "https://www.facebook.com/kenspumpkinpatch/videos/1755934818946416/",
+        "usageType": "official_web_photo",
+        "caption": "Official organizer video still",
+        "reviewedOn": "2026-10-12",
+        "width": 900,
+        "height": 1600,
+        "rightsNote": "Selected from an official organizer, venue or ticket page for editorial event-listing use."
+      },
+      "sourceRegion": "Davis County",
+      "publicRegion": "Davis County",
+      "publicTypes": [
+        "Lights & Displays",
+        "Community & Culture",
+        "Giving & Volunteering"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ],
+      "primaryHoliday": "Halloween",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-31",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-12",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "Free admission",
+        "All ages",
+        "Outdoor",
+        "Nightly",
+        "Food donations encouraged",
+        "Residential display"
+      ],
+      "isFree": true,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "",
+      "communities": [],
+      "theme": "halloween",
+      "placeholder": "assets/art/seasonal/halloween-community.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-12",
+        "sourceUrl": "https://www.facebook.com/kenspumpkinpatch/videos/1755934818946416/",
+        "method": "Read the submitted flyer, then verified the organizer, venue and ticket details at least one level deeper."
+      },
+      "sourceRow": 694
+    },
+    {
+      "id": "drag-me-to-hell-milk-2026",
+      "Event / attraction": "Drag Me to Hell",
+      "Region": "Salt Lake City",
+      "Category": "Drag performance, Nightlife, Fundraiser, Costume contest",
+      "First date": "2026-10-16",
+      "2026 schedule": "Oct 16",
+      "Times": "Doors 7 PM; show 8 PM; event ends 11 PM",
+      "Price": "$13.57–$17.04 all-in",
+      "Cost": "",
+      "Age": "21+",
+      "Intensity": "",
+      "Location": "MILK+, 49 E Harvey Milk Boulevard, Salt Lake City",
+      "Status": "Confirmed 2026",
+      "Why / thoughts": "Local drag performers take on a villainous Halloween theme for a mutual-aid fundraiser, with dancers, specialty drinks and a costume contest. Proceeds support a local trans community member's top surgery.",
+      "Website": "https://www.eventbrite.com/e/drag-me-to-hell-tickets-2001782502351",
+      "Social profile": "",
+      "Extra notes": "",
+      "categories": [
+        "Drag performance",
+        "Nightlife",
+        "Fundraiser",
+        "Costume contest"
+      ],
+      "sourceCategories": [
+        "Drag performance",
+        "Nightlife",
+        "Fundraiser",
+        "Costume contest"
+      ],
+      "ghostCount": 0,
+      "costCount": 2,
+      "isWatch": false,
+      "artKey": "nightlife",
+      "socials": [],
+      "photo": {
+        "src": "assets/photos/drag-me-to-hell-2026.webp",
+        "alt": "Illustrated moonlit graveyard promoting the Drag Me to Hell Halloween fundraiser.",
+        "credit": "Utah March / Eventbrite",
+        "creditUrl": "https://www.eventbrite.com/e/drag-me-to-hell-tickets-2001782502351",
+        "sourceUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193968074%2F2654191844571%2F1%2Foriginal.20260920-212826",
+        "usageType": "official_organizer_promo",
+        "caption": "Official event artwork",
+        "reviewedOn": "2026-10-13",
+        "width": 1200,
+        "height": 740,
+        "rightsNote": "Selected from the organizer's official ticket listing for editorial event-listing use."
+      },
+      "sourceRegion": "Salt Lake City",
+      "publicRegion": "Salt Lake Metro",
+      "publicTypes": [
+        "Live Music & Performance",
+        "Nightlife & Parties",
+        "Giving & Volunteering"
+      ],
+      "sponsored": false,
+      "holidays": [
+        "Halloween",
+        "Fall"
+      ],
+      "primaryHoliday": "Halloween",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "travelTier": "Core / easy day trip",
+      "lastVerified": "2026-10-13",
+      "qaFlags": "",
+      "timezone": "America/Denver",
+      "flags": [
+        "21+",
+        "Indoor",
+        "Drag performance",
+        "Costume contest",
+        "Fundraiser",
+        "Free parking"
+      ],
+      "isFree": false,
+      "rating": null,
+      "occurrenceDates": [
+        "2026-10-16"
+      ],
+      "scheduleConfidence": "verified-dates",
+      "scheduleNote": "The official ticket page lists the full 7–11 PM event window; the organizer artwork specifies a 7 PM door time and 8 PM show time.",
+      "communities": [
+        "LGBTQ+"
+      ],
+      "theme": "halloween",
+      "placeholder": "assets/art/seasonal/halloween-nightlife.svg",
+      "notable_event": false,
+      "seasons": [
+        "Fall"
+      ],
+      "accessibility": null,
+      "researchEvidence": {
+        "checkedOn": "2026-10-13",
+        "sourceUrl": "https://www.eventbrite.com/e/drag-me-to-hell-tickets-2001782502351",
+        "method": "Verified the live organizer listing, structured ticket offer, embedded organizer flyer and official venue site. No organizer-stated disability accommodation was found, so none is claimed."
+      },
+      "sourceRow": 695
     }
   ],
   "planner": [
@@ -52413,7 +53131,7 @@ window.SITE_DATA = {
     ]
   },
   "planningHorizon": {
-    "from": "2026-10-08",
+    "from": "2026-10-13",
     "through": "2027-10-31",
     "note": "Holiday dates are distinct from organizer-announced event dates. Religious observance dates can vary by tradition, sunset and local moon sighting. Watchlist records are not add-to-calendar dates."
   }

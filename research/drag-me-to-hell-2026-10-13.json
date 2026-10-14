@@ -1,0 +1,16 @@
+{
+  "checkedOn": "2026-10-13",
+  "eventId": "drag-me-to-hell-milk-2026",
+  "status": "confirmed",
+  "decision": "Added to the public dataset; the live organizer listing provides a specific 2026 date, full time window, venue, age limit and active price range.",
+  "ticketDepth": {
+    "status": "on sale",
+    "allInPriceRange": "$13.57–$17.04",
+    "refundPolicy": "Eventbrite displays a custom policy and directs refund questions through the organizer."
+  },
+  "accessibility": "No organizer-stated accommodation was found; the listing makes no accessibility claim.",
+  "sources": [
+    "https://www.eventbrite.com/e/drag-me-to-hell-tickets-2001782502351",
+    "https://milkslc.com/"
+  ]
+}

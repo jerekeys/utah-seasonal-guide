@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Fall seasonal artwork</title>
+  <desc id="desc">A warm autumn leaf and small scattered leaves on a dark brown background.</desc>
+  <rect width="1600" height="900" fill="#352818"/>
+  <circle cx="800" cy="450" r="320" fill="#a92d34" opacity=".22"/>
+  <g fill="#eec778" opacity=".4">
+    <circle cx="300" cy="250" r="12"/>
+    <circle cx="1250" cy="230" r="10"/>
+    <circle cx="350" cy="650" r="8"/>
+    <circle cx="1220" cy="670" r="12"/>
+  </g>
+  <path d="M800 215c-65 110-165 130-260 70 24 130 105 210 210 235-68 45-124 104-160 180 94-22 162-14 210 21 48-35 116-43 210-21-36-76-92-135-160-180 105-25 186-105 210-235-95 60-195 40-260-70Z" fill="#eec778"/>
+  <path d="M800 350v380M800 480l-125-92M800 555l135-100" fill="none" stroke="#352818" stroke-width="25" stroke-linecap="round"/>
+</svg>
